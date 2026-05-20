@@ -595,4 +595,4 @@ What unites them is that none of them are arbitrary. They are derived, argued, a
 
 ---
 
-*Section 6 complete. Next recommended: Section 9 (Sacramental Questions for the Faithful) — Sonnet sufficient, Opus if you want maximum precision. Last updated: May 2026.*
+*Last updated: May 2026.*

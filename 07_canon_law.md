@@ -411,39 +411,37 @@ This section addresses the question most directly relevant to the upcoming conse
 
 ---
 
-### What canonical principles apply to new SSPX consecrations?
+### What canonical principles apply to the announced 2026 consecrations?
 
-**The 1988 framework still applies in principle:** Canon 1382 (now 1387) attaches *latae sententiae* excommunication to the unauthorized consecration of a bishop. The penalty has not been repealed. In principle, each new SSPX episcopal consecration without papal mandate triggers the same canonical penalty as 1988.
+**The 1988 framework still applies in principle:** Canon 1382 (renumbered as Canon 1387 by Pope Francis's 2021 motu proprio *Pascite gregem Dei*) attaches *latae sententiae* excommunication to the unauthorized consecration of a bishop. The penalty has not been repealed. In principle, each new episcopal consecration without papal mandate triggers the same canonical penalty as 1988.
 
-**But:**
+**The 1988–2025 period: no new SSPX consecrations.** It is important to note that, between the original 1988 consecrations and the 2026 announcement, the SSPX consecrated no further bishops. The 2009 lifting of excommunications addressed the four 1988 bishops specifically; in the years that followed, the question of new SSPX consecrations remained dormant. (Bishop Richard Williamson, after his 2012 expulsion from the SSPX, performed consecrations of his own in the so-called "Resistance" — but these were not SSPX acts and are not relevant to the Society's canonical situation.)
 
-**Rome has not imposed new penalties since 2009.** This is a crucial empirical fact. The SSPX has consecrated multiple new bishops since the 2009 lifting of excommunications — in 2018 (Pagliarani), 2019 (de Jorna and Aquino), and subsequently. Rome has issued no new excommunications, no new *Ecclesia Dei*-style condemnations, no formal censure.
+**February–May 2026: the question revives.** On February 2, 2026, Superior General Fr. Davide Pagliarani publicly announced that the SSPX would consecrate **four new bishops on July 1, 2026**, without papal mandate. His stated rationale was the state of necessity: with only two living SSPX bishops (Fellay and de Galarreta), both near seventy, the Society's ability to provide confirmations, priestly ordinations, and episcopal succession was at risk.
 
-**What does this mean?** Three possible interpretations:
+On May 13, 2026, the Dicastery for the Doctrine of the Faith (DDF), under Cardinal Víctor Manuel Fernández, issued a public statement reiterating that the planned consecrations would constitute "a schismatic act" carrying *latae sententiae* excommunication. This is the most severe public canonical characterization of a planned SSPX action since *Ecclesia Dei* in 1988.
 
-**1. Rome implicitly considers the penalty already incurred.** On this reading, the SSPX is in a continuing canonical irregularity dating to 1988, and additional consecrations are extensions of that same irregularity rather than fresh offenses requiring new responses. The 2009 lifting of excommunications addressed the four 1988 bishops specifically; subsequent consecrations may be technically incurring penalties that Rome has chosen not to declare.
+**What this means.** Two competing canonical readings are now in tension:
 
-**2. Rome is treating the situation as a pastoral matter rather than a strict canonical one.** Rather than escalating with new penalties — which would push the SSPX further from reconciliation — Rome may be choosing to manage the situation through dialogue, hoping for eventual regularization.
+**1. The Roman reading (DDF, May 2026).** Canon 1382/1387 is in force; the announced consecrations, performed without papal mandate, would incur automatic excommunication; the act would constitute schism — that is, "the refusal of submission to the Supreme Pontiff" (Canon 751). On this reading, Rome's two decades of patience are not a tacit endorsement of further consecrations; they reflect that no such consecrations were attempted.
 
-**3. Rome has effectively conceded that ongoing SSPX consecrations are necessary to preserve the Society until regularization can occur.** This would be a quiet acknowledgment of the state-of-necessity argument, though Rome has never said this explicitly.
+**2. The SSPX reading.** Canon 1323 §4 exempts from penalty those who act under "grave necessity." The Society judges the present moment — two aging bishops carrying a worldwide apostolate, a doctrinal dispute still unresolved — to constitute exactly such necessity. The act, on this reading, is canonically protected by the same principle that protected the 1988 consecrations.
 
-**For your stance-formation:** The canonical question is no longer "Will these consecrations result in excommunication?" — Rome has answered that question by its consistent practice since 2009. The question is rather "What does the SSPX's continued building-out of its episcopal college mean for the prospect of regularization?"
+These are the two readings now in direct collision. Unlike 1988, where the dispute played out over months following the act, in 2026 the canonical confrontation is occurring before the act itself.
 
-If the SSPX is consolidating for the long term — preparing to function indefinitely as an irregular but stable parallel structure — that is a different kind of decision than if they are maintaining episcopal succession only until a regularization agreement can be reached.
+**For your stance-formation:** The canonical question that lay dormant from 2009 to 2025 — "What happens if the SSPX consecrates new bishops without papal mandate?" — is now live. The answer Rome has signaled (schismatic act, automatic excommunication) is not new in substance; it is the same answer given in 1988. The novel question is whether, after the act, Rome will follow through with formal declarations or whether (as in much of the post-2009 period) a *de facto* tolerance will eventually reassert itself.
 
 ---
 
-### Could Rome change its approach under Leo XIV?
+### Could the situation still be resolved before July 1?
 
-**Possible scenarios:**
+As of the date of this document (May 20, 2026), three scenarios remain possible:
 
-1. **Continuation of the current approach.** Leo XIV could continue treating SSPX consecrations as ongoing irregularities not requiring new penalties.
+1. **The consecrations proceed and Rome formally responds.** A new *Ecclesia Dei*-style declaration, naming the bishops involved as excommunicated *latae sententiae*, would be the natural canonical sequel. This would constitute the most severe Roman action against the SSPX since 1988.
 
-2. **A new regularization initiative.** A new pope could revive serious negotiations, potentially building on the 2012 framework.
+2. **The consecrations proceed and Rome's response is muted.** Despite the DDF's May 13 statement, Rome could in practice avoid formal declarations — leaving the canonical question ambiguous, as it has been since 2009.
 
-3. **A new formal censure.** If Rome judges that ongoing SSPX consecrations indicate the Society is consolidating as a permanent parallel structure, a new *Ecclesia Dei*-style document could in principle be issued.
-
-4. **Modification of *Traditionis Custodes*.** Easing the restrictions on the Traditional Mass within the regular Church could reduce the SSPX's pastoral leverage and create conditions for renewed regularization talks.
+3. **A last-minute resolution.** Pagliarani postpones the consecrations in exchange for substantive theological dialogue with Rome on the post-conciliar dispute. As of mid-May 2026, the SSPX has declined this offer, but the possibility cannot be excluded.
 
 As of the date of this document, none of these scenarios can be confidently predicted.
 
@@ -499,4 +497,4 @@ What the canonical evidence does not establish — and cannot establish — is w
 
 ---
 
-*Section 7 complete. Next recommended: Section 8 (Papal and Vatican Documents on the SSPX) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

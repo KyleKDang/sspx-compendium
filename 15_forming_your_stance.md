@@ -312,7 +312,7 @@ The worst mistake is to hold contested positions with the confidence appropriate
 
 ### Be willing to revise.
 
-The questions surrounding the SSPX have evolved over forty years. Rome's position has shifted from "schismatic act" (1988) through "no formal schism" (Benedict XVI, 2009) to permanent confession faculties (2016) and the *Traditionis Custodes* paradox (2021). The SSPX has consecrated additional bishops, expelled Bishop Williamson, elected Pagliarani. The situation in 2026 is different from the situation in 1988, and it will be different in 2030.
+The questions surrounding the SSPX have evolved over more than forty years. Rome's position has shifted from "schismatic act" (1988) through "no formal schism" (Benedict XVI, 2009) to permanent confession faculties (2016) and the *Traditionis Custodes* paradox (2021) — and, in May 2026, to a renewed DDF warning that the planned July 2026 episcopal consecrations would themselves constitute a schismatic act. The SSPX has expelled Bishop Williamson (2012), lost Bishop Tissier de Mallerais to death (2024), elected Fr. Pagliarani as Superior General (2018), and announced the first new SSPX episcopal consecrations since 1988. The situation in 2026 is different from the situation in 1988, and it will be different again in 2030.
 
 A stance held rigidly is a stance that fails as the situation changes. Hold your position as a working judgment, ready to revise as new evidence and developments emerge. The compendium itself is meant to be a living document — you can and should update it as the situation evolves.
 
@@ -411,4 +411,4 @@ May the work you have done in commissioning this document bear fruit in the stan
 
 ---
 
-*Section 15 complete. The compendium is complete. Last updated: May 2026.*
+*Last updated: May 2026.*

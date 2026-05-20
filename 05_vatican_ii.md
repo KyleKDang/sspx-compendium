@@ -596,4 +596,4 @@ This is the substance of what §10–§12 will explore at greater length.
 
 ---
 
-*Section 5 complete. Next recommended: Section 6 (SSPX Doctrinal Positions in Full) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

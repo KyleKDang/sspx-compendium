@@ -180,7 +180,7 @@ The 2009–2012 Williamson controversy is not an aberration; it is symptomatic o
 
 When a community defines itself in opposition to the broader Church and develops a strong sense of being the faithful remnant against the corrupted mainstream, it becomes vulnerable to the cultivation of broader counter-cultural and conspiratorial habits of thought. The Williamson phenomenon is the most prominent example, but lesser versions — anti-Vatican-II conspiracism, sympathy for political movements incompatible with Catholic social teaching, hostility toward Jewish-Catholic reconciliation that goes beyond legitimate critique of post-conciliar formulations — appear with some regularity in SSPX-adjacent media and discourse.
 
-The SSPX leadership has, in recent years, taken steps to address this. Bishop Pagliarani has been notably more disciplined in his public theology than some predecessors. Williamson's expulsion was a step in the right direction. But the structural condition that produced the Williamson phenomenon — a community defined by opposition, formed in suspicion, operating outside normal canonical accountability — has not been fully addressed.
+The SSPX leadership has, in recent years, taken steps to address this. Fr. Pagliarani has been notably more disciplined in his public theology than some predecessors. Williamson's expulsion was a step in the right direction. But the structural condition that produced the Williamson phenomenon — a community defined by opposition, formed in suspicion, operating outside normal canonical accountability — has not been fully addressed.
 
 ### The Counter-Argument and the Response
 
@@ -312,4 +312,4 @@ This is the case against the SSPX. It is serious. It deserves engagement. The SS
 
 ---
 
-*Section 11 complete. Next: Section 12 (Point-by-Point Debate) — use Opus. This will bring §10 and §11 into direct dialectical encounter. Last updated: May 2026.*
+*Last updated: May 2026.*

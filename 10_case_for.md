@@ -367,4 +367,4 @@ The case against the SSPX is also serious. That is for §11.
 
 ---
 
-*Section 10 complete. Next: Section 11 (The Case Against the SSPX) — use Opus. After that, Section 12 (Point-by-Point Debate). Last updated: May 2026.*
+*Last updated: May 2026.*

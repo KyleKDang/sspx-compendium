@@ -552,4 +552,4 @@ The trajectory of Roman documents over four decades suggests several conclusions
 
 ---
 
-*Section 8 complete. Next recommended: Section 4 (TLM vs Novus Ordo) — use Opus for theological depth. Last updated: May 2026.*
+*Last updated: May 2026.*

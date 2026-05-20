@@ -442,7 +442,7 @@ Pope Francis's 2021 revision of Book VI of the Code of Canon Law, which governs 
 ---
 
 ### Resistance (The)
-The loose network of traditionalist communities and priests that formed around Bishop Richard Williamson after his 2012 expulsion from the SSPX; considers the SSPX under Bishop Pagliarani insufficiently resistant to Rome. Not an organized institution; considerably smaller than the SSPX; not representative of mainstream SSPX positions. [→ §3 Key Figures; §1 Overview]
+The loose network of traditionalist communities and priests that formed around Bishop Richard Williamson after his 2012 expulsion from the SSPX; considers the SSPX under Fr. Pagliarani insufficiently resistant to Rome. Not an organized institution; considerably smaller than the SSPX; not representative of mainstream SSPX positions. [→ §3 Key Figures; §1 Overview]
 
 ---
 
@@ -475,4 +475,4 @@ The loose network of traditionalist communities and priests that formed around B
 
 ---
 
-*Section 14 complete. Final section remaining: Section 15 (Forming Your Stance) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

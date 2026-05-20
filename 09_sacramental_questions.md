@@ -388,7 +388,7 @@ SSPX ordinations — both to the diaconate and to the priesthood — are valid. 
 
 **Practical consequence:** Men ordained to the priesthood by SSPX bishops are real priests with full sacramental powers. They can validly celebrate Mass, hear confessions (now with the papal faculty), and administer the other sacraments. Their canonical mission remains irregular, but their priesthood is real.
 
-**Why this matters for the faithful:** When SSPX seminarians are ordained each year at Écône, Winona, Flavigny, and other SSPX seminaries, real priests are produced for the Church. The faithful who will be served by these priests will receive real sacraments from real priests.
+**Why this matters for the faithful:** When SSPX seminarians are ordained each year at Écône, Dillwyn (Virginia), Flavigny, Zaitzkofen, La Reja, and Goulburn, real priests are produced for the Church. The faithful who will be served by these priests will receive real sacraments from real priests.
 
 ---
 
@@ -517,4 +517,4 @@ What remains is the institutional irregularity — the lack of canonical mission
 
 ---
 
-*Section 9 complete. Next recommended: Section 1 (What is the SSPX — Overview) — Sonnet sufficient. After that, Section 10 (The Case for the SSPX) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

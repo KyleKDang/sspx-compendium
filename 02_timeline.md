@@ -315,7 +315,7 @@ His final written statement reaffirms his conviction that he acted rightly. The 
 
 **1991–2000.** Despite — or arguably because of — the excommunications, the SSPX grows substantially during this period:
 
-- Seminaries expand: Écône (Switzerland), Winona, Minnesota (US), Flavigny (France), Zaitzkofen (Germany), La Reja (Argentina), Pretoria (South Africa).
+- Seminaries expand: Écône (Switzerland), Winona, Minnesota (US — the US seminary later moves to Dillwyn, Virginia in 2018), Flavigny (France), Zaitzkofen (Germany), La Reja (Argentina), and Holy Cross Seminary at Goulburn (Australia, founded 1988).
 - The SSPX establishes schools, a publishing house (*Angelus Press* in the US), and multiple priories in major cities.
 - Vocations to the SSPX remain strong while diocesan seminaries continue to shrink.
 - A parallel traditionalist movement — the **Institute of Christ the King Sovereign Priest**, the **Priestly Fraternity of St. Peter (FSSP)**, the **Institute of the Good Shepherd** — forms for priests who share the SSPX's liturgical concerns but desire full canonical regularity. These groups receive the traditional Mass under *indult* from Rome.
@@ -477,16 +477,6 @@ Pagliarani's approach: maintain dialogue with Rome, hold firm on doctrinal posit
 
 ---
 
-### 2019 — SSPX Consecrates Additional Bishops
-
-**March 19, 2019.** Bishop de Galarreta, one of the original four 1988 bishops, consecrates two new bishops for the SSPX: **Don Tomás Aquino** (Brazilian) and **Don Benoît de Jorna** (French). This is done without papal mandate, repeating the canonical act of 1988.
-
-**Rome's response:** Notably muted. No new excommunications are issued. No formal statement is made comparable to *Ecclesia Dei* in 1988. Rome's silence is widely interpreted as a practical acknowledgment that the situation has changed since 2009 — the existing irregular status continues rather than a new rupture being declared.
-
-**Why this matters:** Rome's non-response to the 2019 consecrations establishes a de facto precedent: subsequent SSPX episcopal consecrations will be treated as extensions of the existing irregularity, not as new schismatic acts. This is significant for evaluating upcoming consecrations. [→ §2 2026 Consecrations section below]
-
----
-
 ## Part VI: The Francis Era — Restriction and Paradox (2021–Present)
 
 ---
@@ -518,17 +508,19 @@ Francis's stated rationale: that the generous permission of *Summorum Pontificum
 
 ---
 
-### 2022–2024 — Ongoing Dialogue; Further Consecrations
+### 2022–2025 — Ongoing Dialogue; Death of Tissier de Mallerais
 
-**2022.** The SSPX and Rome continue periodic meetings. The Dicastery for the Doctrine of the Faith (successor to the CDF, which itself had absorbed the Ecclesia Dei Commission in 2019) remains the primary Vatican contact point.
+**2022.** The SSPX and Rome continue periodic meetings. The Dicastery for the Doctrine of the Faith (DDF — successor to the Congregation for the Doctrine of the Faith, which itself had absorbed the Pontifical Commission *Ecclesia Dei* in 2019) remains the primary Vatican contact point.
 
-**2023.** The SSPX consecrates additional bishops without papal mandate. Again, Rome issues no new penalties. The pattern established in 2019 continues.
+**2023.** Dialogue continues without formal agreement. Superior General Fr. Davide Pagliarani holds informal meetings with Vatican officials.
 
-**2024.** Superior General Pagliarani meets with Vatican officials. No announcement of agreement emerges, but dialogue continues. Both sides indicate the conversation is substantive rather than merely formal.
+**October 8, 2024.** Bishop **Bernard Tissier de Mallerais**, one of the four bishops consecrated in 1988, dies at age 79. His death leaves the Society with only two living bishops from the original four — Bernard Fellay and Alfonso de Galarreta — both nearing seventy and bearing the entire burden of the Society's confirmations, ordinations, and other episcopal acts.
+
+**January 29, 2025.** Bishop **Richard Williamson** — expelled from the SSPX in 2012 — dies at age 84 following a cerebral hemorrhage. His death closes the chapter of the so-called "Resistance" as a structurally significant movement, though some affiliated clergy continue independently.
 
 The SSPX at this point operates approximately:
-- **700+ priests** worldwide
-- **200+ priories and chapels** globally (including the US, France, Germany, UK, Switzerland, Argentina, Australia, Asia, Africa)
+- **733 priests** worldwide (as of November 1, 2025)
+- **170 priories** and **750+ Mass centers** globally (the US, France, Germany, UK, Switzerland, Argentina, Australia, Asia, Africa)
 - **6 international seminaries**
 - **Dozens of schools** (primary and secondary)
 - **Several publications** (*The Angelus*, *Fideliter*, *Cor Unum*, etc.)
@@ -545,20 +537,23 @@ The SSPX at this point operates approximately:
 
 ---
 
-### 2026 — Upcoming Episcopal Consecrations
+### 2026 — Announced Episcopal Consecrations and the Renewed Dispute with Rome
 
-**Expected 2026.** The SSPX is expected to consecrate additional bishops, continuing to build out its episcopal college. Based on the precedent of 2019 and subsequent consecrations, these are expected to:
+**February 2, 2026.** At the ceremony of the taking of the cassock at the International Seminary of Saint-Curé d'Ars in Flavigny, France, Superior General Fr. Davide Pagliarani publicly announces that the SSPX will consecrate **four new bishops on July 1, 2026**, without papal mandate. These would be the first SSPX-consecrated bishops since 1988. His stated justification: a state of necessity. With only two living SSPX bishops (Fellay and de Galarreta), both near seventy, the Society's ability to confer confirmations, ordain priests, and provide an episcopal hierarchy for the long term is at risk. Pagliarani's announcement appeals to the same canonical principle (*status necessitatis*, Canon 1323 §4) that Lefebvre invoked in 1988.
 
-1. Be performed without papal mandate, in the pattern established in 1988.
-2. Not result in new excommunications, based on Rome's response to consecrations since 2009.
-3. Continue to represent a canonical irregularity but not a new schismatic rupture.
+**February 12, 2026.** Pagliarani meets with **Cardinal Víctor Manuel Fernández**, Prefect of the Dicastery for the Doctrine of the Faith, in Rome. Fernández offers "specifically theological dialogue" — conditional on the SSPX postponing the consecrations. The SSPX declines to postpone.
+
+**May 13, 2026.** The DDF releases a public statement reiterating that the planned consecrations would constitute "a schismatic act" carrying automatic (*latae sententiae*) excommunication. This is the most severe public characterization of an SSPX action by Rome since the 1988 *Ecclesia Dei* declaration.
+
+**Status as of May 20, 2026:** The consecrations remain scheduled for July 1; the SSPX has not retracted; no excommunications have yet been issued because the consecrations have not yet occurred. The relationship with Rome is in its most acute crisis since 1988.
 
 **Key questions for evaluating these consecrations:**
-- Does Rome respond differently under Leo XIV than under Francis?
-- Does the SSPX use the consecrations as an occasion to reopen regularization talks?
-- Do the consecrations signal the SSPX is consolidating for the long term as an irregular entity, or preparing for an eventual agreement?
+- Will the SSPX proceed with the July 1 consecrations as announced, or will a last-minute resolution emerge?
+- If the consecrations occur, will Rome issue formal excommunications and a renewed "schismatic act" declaration as in 1988, or treat the act as an extension of the existing irregularity?
+- How will Leo XIV personally respond, given that the DDF statement was issued in his pontificate but does not bear his signature?
+- Do the consecrations close the door on regularization, or do they paradoxically force the underlying doctrinal questions back onto the table?
 
-[→ §7 Canon Law; → §12 Point-by-Point Debate]
+[→ §7 Canon Law; → §8 Papal Documents; → §12 Point-by-Point Debate]
 
 ---
 
@@ -591,4 +586,4 @@ The following are the primary documents referenced throughout this timeline. All
 
 ---
 
-*Section 2 complete. Next: Section 3 (Key Figures) or Section 7 (Canon Law). Last updated: May 2026.*
+*Last updated: May 2026.*

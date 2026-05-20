@@ -242,7 +242,7 @@ Alfonso de Galarreta is the most administratively prominent of the surviving ori
 
 He is currently the First Assistant General of the SSPX — the second-highest office in the Society after the Superior General. In this role he is deeply involved in governance, formation, and the ongoing dialogue with Rome.
 
-**The 2019 consecrations.** De Galarreta served as the principal consecrator when the SSPX consecrated two new bishops on March 19, 2019 — Don Tomás Aquino (Brazil) and Don Benoît de Jorna (France) — continuing the SSPX's episcopal succession without papal mandate. His willingness to perform the consecrations without the controversy that surrounded 1988 reflects the extent to which this act has become normalized within the SSPX's self-understanding.
+**The 2026 announced consecrations.** Following the October 2024 death of Bishop Tissier de Mallerais, de Galarreta and Fellay are the only two SSPX bishops remaining from the original four. With both nearing seventy, the Society announced on February 2, 2026, its decision to consecrate four new bishops on July 1, 2026, without papal mandate. De Galarreta is expected to be one of the consecrators.
 
 **Theological posture:** De Galarreta is considered a steady, reliable voice within the SSPX — neither as conciliatory as Fellay in the 2012 negotiations nor as combative as Williamson. He opposes agreement with Rome under current conditions but maintains a tone of dialogue rather than confrontation.
 
@@ -257,25 +257,24 @@ He is currently the First Assistant General of the SSPX — the second-highest o
 
 ---
 
-### Superior General: Father (now Bishop) Davide Pagliarani (b. 1970)
+### Superior General: Father Davide Pagliarani (b. 1970)
 
-**Role:** Superior General of the Society of Saint Pius X (elected 2018).
+**Role:** Superior General of the Society of Saint Pius X (elected July 11, 2018; twelve-year term).
 
-**Born:** April 13, 1970, Rimini, Italy.
-**Ordained:** 1996.
-**Consecrated bishop:** 2018 (upon election as Superior General).
+**Born:** October 25, 1970, Rimini, Italy.
+**Ordained priest:** June 27, 1996, by Bishop Bernard Fellay.
+
+> **Important note:** Fr. Pagliarani is a priest, not a bishop. The Superior Generalship of the SSPX is held by a priest and does not entail episcopal consecration. Earlier drafts of this document erroneously listed him as a bishop; that has been corrected.
 
 ---
 
 #### Biography
 
-Davide Pagliarani represents a new generation of SSPX leadership — priests formed entirely within the post-conciliar SSPX rather than the pre-conciliar Church. He entered the SSPX seminary at Écône and was ordained in 1996. He served in Italy and subsequently as rector of the SSPX seminary in La Reja, Argentina — the same post Williamson had occupied — before his unexpected election as Superior General at the 2018 General Chapter.
+Davide Pagliarani represents a new generation of SSPX leadership — priests formed entirely within the post-conciliar SSPX rather than the pre-conciliar Church. He studied at the SSPX seminary at Flavigny beginning in 1989 and was ordained in 1996. He subsequently served in pastoral work in Rimini, in the missions in Singapore, as District Superior of Italy (2006–2012), and as rector of the SSPX seminary in La Reja, Argentina, before his election as Superior General at the 2018 General Chapter.
 
-His election was something of a surprise: he was relatively young (47) and less internationally known than other candidates. His Italian nationality and formation at La Reja gave him credibility across both European and Latin American segments of the SSPX.
+His election was something of a surprise: he was relatively young (47) and less internationally known than other candidates. His Italian nationality and formation at Flavigny and La Reja gave him credibility across both European and Latin American segments of the SSPX.
 
-Upon election, he was consecrated a bishop by de Galarreta — again without papal mandate, in the established pattern.
-
-**Leadership style:** Pagliarani is known for a more intellectually measured approach than his predecessor — more likely to engage theological questions carefully than to negotiate institutionally. Under his leadership, the SSPX has maintained dialogue with Rome without rushing toward any agreement, and has focused intensely on formation and internal consolidation.
+**Leadership style:** Pagliarani is known for a more intellectually measured approach than his predecessor — more likely to engage theological questions carefully than to negotiate institutionally. Under his leadership through 2025, the SSPX maintained dialogue with Rome without rushing toward any agreement, focusing intensely on formation and internal consolidation. In February 2026, he announced the Society's decision to proceed with episcopal consecrations on July 1, 2026, citing a state of necessity in the wake of Bishop Tissier de Mallerais's death and the advancing age of the two remaining SSPX bishops.
 
 **Theological posture:**
 > "The Society has never wished to be a permanent state. Our irregular situation is a wound. But a wound is not healed by ignoring it or by pretending it does not exist. It is healed by treating the cause, not merely the symptoms."
@@ -311,26 +310,20 @@ The SSPX is organized into Districts corresponding roughly to geographic regions
 
 ---
 
-### The Additional SSPX Bishops (Post-1988)
+### The SSPX Episcopal College
 
-Beyond the four 1988 bishops, the SSPX has consecrated additional bishops to ensure continuity of episcopal succession. These consecrations follow the same pattern as 1988 — without papal mandate — and Rome has not issued new excommunications for any of them since 2009.
+The SSPX's entire episcopal college, from 1988 through May 2026, consists of the four bishops consecrated by Archbishop Lefebvre at Écône on June 30, 1988 (with Bishop António de Castro Mayer as co-consecrator). **No further bishops have been consecrated for the SSPX in the intervening years.** The Society announced on February 2, 2026, that it would consecrate **four new bishops on July 1, 2026**, without papal mandate — the first new SSPX consecrations since 1988.
 
-| Bishop | Nationality | Year consecrated | Consecrator |
-|---|---|---|---|
-| Bernard Fellay | Swiss | 1988 | Lefebvre |
-| Bernard Tissier de Mallerais | French | 1988 | Lefebvre |
-| Richard Williamson *(expelled)* | British | 1988 | Lefebvre |
-| Alfonso de Galarreta | Spanish | 1988 | Lefebvre |
-| Thomas Aquino (Batista de Aquino) | Brazilian | 2006 | De Galarreta |
-| Benoît de Jorna | French | 2006 | De Galarreta |
-| Jean-Michel Faure *(left SSPX)* | French | 2015 | Williamson* |
-| Tomás Aquino (second) | Brazilian | 2019 | De Galarreta |
-| Benoît de Jorna (second consecration listed in some sources — verify) | French | 2019 | De Galarreta |
-| Davide Pagliarani | Italian | 2018 | De Galarreta |
+| Bishop | Nationality | Year consecrated | Consecrator | Status (as of May 2026) |
+|---|---|---|---|---|
+| Bernard Fellay | Swiss | 1988 | Lefebvre | Living; former Superior General (1994–2018) |
+| Bernard Tissier de Mallerais | French | 1988 | Lefebvre | Died October 8, 2024 |
+| Richard Williamson | British | 1988 | Lefebvre | Expelled from SSPX in 2012; died January 29, 2025 |
+| Alfonso de Galarreta | Spanish | 1988 | Lefebvre | Living; First Assistant General |
 
-*\*Williamson's 2015 consecration of Faure was unauthorized even by the SSPX and led to Faure's departure from the Society.*
+**Outside the SSPX.** After his 2012 expulsion, Bishop Williamson — operating in the so-called "Resistance," not the SSPX — performed several episcopal consecrations of his own, notably that of Fr. Jean-Michel Faure in 2015. Faure had already left the SSPX before his consecration. These men are not SSPX bishops, and the Resistance is a separate phenomenon from the Society.
 
-*Note: Verify current episcopal college at [SSPX.org](https://sspx.org); this list may be incomplete as of publication.*
+*See [→ §2 Timeline, 2026 section] for the announced July 2026 consecrations.*
 
 ---
 
@@ -480,10 +473,10 @@ His specific approach to the SSPX question has not been fully articulated as of 
 | Marcel Lefebvre | SSPX Founder | 1970–1991 | *Is* the SSPX | Founded Society; 1988 consecrations; theological vision |
 | António de Castro Mayer | Co-consecrator | 1988 | Ally | Validated Lefebvre's act; Campos model for reconciliation |
 | Bernard Fellay | Superior General | 1994–2018 | Conciliatory | 2000 pilgrimage; 2009 normalization; 2012 near-agreement |
-| Bernard Tissier de Mallerais | Theologian-bishop | 1988–present | Hardline | Lefebvre biography; rigorous theological opposition to V2 |
-| Richard Williamson | Bishop (expelled) | 1988–2012 | Extreme resistance | Holocaust controversy; "Resistance" movement |
-| Alfonso de Galarreta | First Assistant | 1988–present | Firm, measured | 2019 consecrations; current governance |
-| Davide Pagliarani | Superior General | 2018–present | Firm dialogue | New generation leadership; consolidation |
+| Bernard Tissier de Mallerais | Theologian-bishop | 1988–2024 | Hardline | Lefebvre biography; rigorous theological opposition to V2 |
+| Richard Williamson | Bishop (expelled; deceased) | 1988–2012 | Extreme resistance | Holocaust controversy; "Resistance" movement |
+| Alfonso de Galarreta | First Assistant General | 1988–present | Firm, measured | Current governance; expected consecrator for July 2026 |
+| Davide Pagliarani | Superior General | 2018–present | Firm dialogue | New generation leadership; announced July 2026 consecrations |
 | Joseph Ratzinger / Benedict XVI | CDF Prefect → Pope | 1981–2013 | Most sympathetic Roman figure | *Summorum Pontificum*; lifted excommunications; "no formal schism" |
 | Castrillón Hoyos | Ecclesia Dei | 2000–2009 | Pastoral outreach | "Not in formal schism" statement; personal rapport with Fellay |
 | Gerhard Müller | CDF Prefect | 2012–2017 | Theologically demanding | 2012 negotiations; marriage faculties letter |
@@ -493,4 +486,4 @@ His specific approach to the SSPX question has not been fully articulated as of 
 
 ---
 
-*Section 3 complete. Next recommended: Section 7 (Canon Law) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

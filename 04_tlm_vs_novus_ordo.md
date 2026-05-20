@@ -486,4 +486,4 @@ What can also be said: the dispute is not closed. Catholics in good faith disagr
 
 ---
 
-*Section 4 complete. Next recommended: Section 5 (Vatican II — Acceptance and Resistance) — use Opus. Last updated: May 2026.*
+*Last updated: May 2026.*

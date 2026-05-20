@@ -403,4 +403,4 @@ These are the materials. They support a range of stances. The next section, §15
 
 ---
 
-*Section 12 complete. Next: Section 15 (Forming Your Stance) — Opus recommended for the synthesis work. Then §13 (Source Library) and §14 (Glossary) — Sonnet sufficient. Last updated: May 2026.*
+*Last updated: May 2026.*

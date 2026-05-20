@@ -506,10 +506,10 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
-### Bishop Pagliarani — Conferences (2018–present)
-- **What they are:** Recorded conferences by current Superior General Davide Pagliarani.
+### Fr. Davide Pagliarani — Conferences (2018–present)
+- **What they are:** Recorded conferences by the current Superior General, Fr. Davide Pagliarani (a priest, not a bishop).
 - **Why they matter:** The current face of the SSPX's leadership; reflects the Society's current direction.
-- **Where to find them:** YouTube (search "Bishop Pagliarani SSPX"); SSPX.org.
+- **Where to find them:** YouTube (search "Father Pagliarani SSPX" or "FSSPX Pagliarani"); SSPX.org and FSSPX.news.
 
 ---
 
@@ -560,4 +560,4 @@ For anyone approaching this topic for the first time and seeking the minimum ess
 
 ---
 
-*Section 13 complete. Next: Section 14 (Glossary) — Sonnet sufficient. Then Section 15 (Forming Your Stance) — Opus recommended. Last updated: May 2026.*
+*Last updated: May 2026.*
