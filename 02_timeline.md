@@ -24,7 +24,7 @@ John XXIII frames the Council's purpose with the Italian word *aggiornamento* �
 
 ### 1962–1965 — The Second Vatican Council
 
-**October 11, 1962 – December 8, 1965.** The Council convenes in four sessions at St. Peter's Basilica. 2,860 bishops attend. It produces sixteen documents: four Constitutions, nine Decrees, and three Declarations.
+**October 11, 1962 – December 8, 1965.** The Council convenes in four sessions at St. Peter's Basilica. Approximately 2,540 bishops attend the opening session; some 2,900 are entitled to participate over the course of the four sessions. It produces sixteen documents: four Constitutions, nine Decrees, and three Declarations.
 
 **Archbishop Marcel Lefebvre** is present throughout as a Council Father. He serves on the Central Preparatory Commission and signs many of the final documents — a fact that critics of the SSPX frequently cite. Lefebvre himself would later clarify that he signed under significant pressure and social expectation, and that he came to regret several signatures.
 
@@ -70,9 +70,9 @@ Key developments that alarm Lefebvre and other traditionalists:
 
 **April 3, 1969.** Pope Paul VI issues the Apostolic Constitution *Missale Romanum*, promulgating a new Order of Mass (the *Novus Ordo Missae*) to replace the Tridentine Rite that had been substantially unchanged since the Council of Trent (1570). The new Mass takes effect on the First Sunday of Advent, November 30, 1969.
 
-**The Ottaviani Intervention** — formally titled *A Brief Critical Study of the New Order of Mass* — is submitted to Paul VI by Cardinals Alfredo Ottaviani (former head of the Holy Office) and Antonio Bacci on September 25, 1969. Key passage:
+**The Ottaviani Intervention** — formally titled *A Brief Critical Study of the New Order of Mass* — is submitted to Paul VI by Cardinals Alfredo Ottaviani (former head of the Holy Office) and Antonio Bacci on September 25, 1969. The covering letter states:
 
-> "The Novus Ordo Missae, considering the elements of both a traditional and social nature, its new position relative to its past, represents as a whole and in its details a striking departure from the Catholic theology of the Mass as it was formulated in Session XXII of the Council of Trent."
+> "The accompanying critical study of the *Novus Ordo Missae*, the work of a group of theologians, liturgists and pastors of souls, shows quite clearly in spite of its brevity, that if we consider the innovations implied or taken for granted which may of course be evaluated in different ways, the *Novus Ordo* represents, both as a whole and in its details, a striking departure from the Catholic theology of the Mass as it was formulated in Session XXII of the Council of Trent."
 
 Paul VI makes several revisions to the Missal in response but proceeds with promulgation.
 
@@ -87,7 +87,7 @@ Paul VI makes several revisions to the Missal in response but proceeds with prom
 
 **Primary sources:**
 - *Missale Romanum* (1969 Apostolic Constitution): [Vatican.va](https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html)
-- The Ottaviani Intervention (full text): [SSPX.org](https://sspx.org/en/ottaviani-intervention) | [Una Voce (English)](https://unavoce.org/resources/the-ottaviani-intervention/)
+- The Ottaviani Intervention (full text): [SSPX.org](https://sspx.org/en/ottaviani-intervention-30257) | [Una Voce Canada (PDF)](https://unavocecanada.org/wp-content/uploads/2017/04/ottaviani-intervention.pdf)
 
 ---
 
@@ -109,22 +109,26 @@ The seminary at Écône begins with a handful of students. Within five years it 
 **Why this matters:** The founding is canonical — Lefebvre is not acting outside Church structures at this point. He has a bishop's approval. This is significant for the SSPX's later argument that they began as a legitimate institution suppressed unjustly, not as a rebel organization from the start.
 
 **Primary source:**
-- Lefebvre's 1974 Declaration (the foundational statement of SSPX theology): [SSPX.org](https://sspx.org/en/declaration-archbishop-lefebvre-1974)
+- Lefebvre's 1974 Declaration (the foundational statement of SSPX theology): [SSPX.org](https://sspx.org/en/1974-declaration-archbishop-lefebvre-31164)
 
 ---
 
 ### 1974 — Lefebvre's Declaration
 
-**November 21, 1974.** Following a visitation of the Écône seminary by two Vatican-appointed delegates (Frs. Descamps and Onclin), which Lefebvre considers hostile, he issues his foundational theological declaration. It becomes one of the most important documents in understanding the SSPX's self-understanding.
+**November 21, 1974.** Following a visitation of the Écône seminary by two Vatican-appointed delegates (Msgrs. Descamps and Onclin), which Lefebvre considers hostile, he issues his foundational theological declaration. It becomes one of the most important documents in understanding the SSPX's self-understanding.
 
 Key passage:
 
-> "We refuse, on the other hand, and have always refused to follow the Rome of neo-Modernist and neo-Protestant tendencies which became clearly manifest during the Second Vatican Council and, after the Council, in all the reforms which issued from it... No authority, not even the highest in the hierarchy, can compel us to abandon or diminish our Catholic Faith, so clearly expressed and professed by the Church's Magisterium for nineteen centuries."
+> "We refuse, on the other hand, and have always refused to follow the Rome of neo-Modernist and neo-Protestant tendencies which were clearly evident in the Second Vatican Council and, after the Council, in all the reforms which derived from it."
+
+Later in the same Declaration, Lefebvre adds:
+
+> "No authority, not even the highest in the hierarchy, can compel us to abandon or diminish our Catholic Faith, so clearly expressed and professed by the Church's Magisterium for nineteen centuries."
 
 **Why this matters:** This declaration crystallizes the SSPX's fundamental posture — not disobedience to the Catholic Church, but resistance to what they identify as a deviation within the Church's current governance. The distinction between "the Rome of neo-Modernist tendencies" and "Catholic Rome" — eternal, traditional Rome — is the theological foundation of everything that follows.
 
 **Primary source:**
-- Full text: [SSPX.org](https://sspx.org/en/declaration-archbishop-lefebvre-1974)
+- Full text: [SSPX.org](https://sspx.org/en/1974-declaration-archbishop-lefebvre-31164)
 
 ---
 
@@ -145,7 +149,7 @@ He continues operating the seminary, ordaining priests, and expanding the Societ
 
 ### 1976 — Lefebvre Suspended *a divinis*
 
-**July 1976.** After ordaining thirteen priests at Écône on June 29, 1976 — in defiance of a direct Vatican prohibition — Lefebvre is suspended *a divinis* by the Sacred Congregation for Bishops. A suspension *a divinis* bars a priest or bishop from exercising any priestly functions (celebrating Mass, administering sacraments, preaching with authority).
+**July 22, 1976.** After ordaining thirteen priests at Écône on June 29, 1976 — in defiance of a direct Vatican prohibition — Lefebvre is suspended *a divinis* by the Sacred Congregation for Bishops. (An earlier penalty, *a collatione ordinum*, was imposed on July 6, forbidding further ordinations.) A suspension *a divinis* bars a priest or bishop from exercising any priestly functions (celebrating Mass, administering sacraments, preaching with authority).
 
 Lefebvre publicly defies the suspension, arguing it is invalid because:
 1. It is based on unjust laws (the post-conciliar reforms).
@@ -154,6 +158,7 @@ Lefebvre publicly defies the suspension, arguing it is invalid because:
 
 **The Lille Mass — August 29, 1976.** Lefebvre celebrates a public Pontifical Mass at the Palais des Sports in Lille, France, before an estimated 7,000–10,000 faithful. It is a direct and very public act of defiance against the suspension. He is not prevented by any ecclesiastical authority. The mass media coverage introduces the SSPX to a worldwide audience.
 
+<!-- TODO: verify verbatim against the published Lille sermon transcript (Itinéraires, Jan/Feb 1977). The "Mass of all time / Mass of our Fathers / Mass of our Saints" formulation is most strongly attested to the June 29, 1976 Écône ordination sermon; confirm Lille attribution or reattribute. -->
 In his Lille sermon, Lefebvre declares:
 > "This Mass which we say is the Mass of all time. It is not a Mass we have invented. It is the Mass of our Fathers. It is the Mass of our Saints... We are attached to it because we are attached to our Faith."
 
@@ -195,14 +200,15 @@ In his Lille sermon, Lefebvre declares:
 
 **1985.** Cardinal Ratzinger publishes *The Ratzinger Report* (an extended interview with journalist Vittorio Messori), in which he offers a surprisingly sympathetic assessment of the traditionalist critique of the post-conciliar period. He acknowledges that the Council had been misapplied, that the liturgical reform had gone too far in some respects, and that the Church faced a genuine crisis.
 
-Key passage from the *Ratzinger Report*:
+Thirteen years later, in his memoir *Milestones: Memoirs 1927–1977* (1998), Ratzinger expresses his most pointed verdict on the liturgical reform:
 
 > "I am convinced that the crisis in the Church that we are experiencing today is to a large extent due to the disintegration of the liturgy, which at times has even come to be conceived of *etsi Deus non daretur*: in that it is a matter of indifference whether or not God exists and whether or not He speaks to us and hears us."
 
-**Why this matters:** Ratzinger's candor created a significant opening. Lefebvre and SSPX supporters read the *Ratzinger Report* as a partial vindication. It also gave Ratzinger personal credibility as a negotiating partner — he was not simply defending the status quo but acknowledging real problems.
+**Why this matters:** Ratzinger's candor — both in 1985 and in his later memoir — created a significant opening. Lefebvre and SSPX supporters read these statements as a partial vindication. They also gave Ratzinger personal credibility as a negotiating partner — he was not simply defending the status quo but acknowledging real problems.
 
-**Primary source:**
-- *The Ratzinger Report* (Ignatius Press, 1985) — available in book form; key passages widely cited online.
+**Primary sources:**
+- *The Ratzinger Report* (Ignatius Press, 1985).
+- *Milestones: Memoirs 1927–1977* (Ignatius Press, 1998), Epilogue.
 
 ---
 
@@ -218,7 +224,7 @@ For Lefebvre and the SSPX, Assisi is not merely a diplomatic gesture but a theol
 
 ### 1987 — Lefebvre Announces His Intention to Consecrate Bishops
 
-**June 1987.** Lefebvre publicly announces his intention to consecrate bishops without papal mandate, citing the urgency of the crisis in the Church and his advanced age (he is 81). He states he will proceed by the end of June 1988 if Rome does not reach an agreement.
+**June 29, 1987.** Lefebvre publicly announces his intention to consecrate bishops without papal mandate, citing the urgency of the crisis in the Church and his advanced age (he is 81). He states he will proceed by the end of June 1988 if Rome does not reach an agreement.
 
 This announcement sets the clock ticking. Rome, alarmed, significantly accelerates its negotiations.
 
@@ -237,6 +243,7 @@ This is the closest the SSPX and Rome have come to formal reconciliation. It rem
 
 **May 6, 1988 — Lefebvre retracts his signature.** Within twenty-four hours, Lefebvre writes to Cardinal Ratzinger withdrawing his agreement. His stated reasons:
 
+<!-- TODO: verify verbatim against the Tissier de Mallerais biography (Angelus Press) or the published French/English text of Lefebvre's May 6, 1988 letter to Ratzinger. -->
 > "I had the feeling, after signing, that this agreement, which seemed good on paper, could not in fact be implemented in a satisfactory manner by Rome... Rome would give us one bishop, chosen by herself, who would not necessarily share our concerns. And Rome would choose which of our priests would be ordained bishop... The experience of the past shows us what such agreements lead to in practice."
 
 He announces he will proceed with episcopal consecrations on June 30, 1988.
@@ -244,7 +251,7 @@ He announces he will proceed with episcopal consecrations on June 30, 1988.
 **Why this matters:** The retraction of the Protocol is the hinge on which everything turns. Defenders of Lefebvre argue he was right to be suspicious — Rome's subsequent behavior in the 2012 negotiations would appear to vindicate his caution. Critics argue he broke his word and chose schism when reconciliation was within reach. [→ §10, §11 Debate]
 
 **Primary sources:**
-- Protocol of May 5, 1988 (full text): [SSPX.org](https://sspx.org/en/protocol-may-5-1988) | [Rorate Caeli](https://rorate-caeli.blogspot.com/2012/07/protocol-signed-by-lefebvre-ratzinger.html)
+- Protocol of May 5, 1988 (full text): [FSSPX.org](https://fsspx.org/en/protocol-agreement-may-5-1988-31095) | [Rorate Caeli (2008 retrospective)](https://rorate-caeli.blogspot.com/2008/05/20-years-on-reliving-events-of-1988.html)
 - Lefebvre's letter of retraction (May 6, 1988): Available at SSPX.org and traditional Catholic archives
 
 ---
@@ -253,13 +260,14 @@ He announces he will proceed with episcopal consecrations on June 30, 1988.
 
 **June 30, 1988.** At the Seminary of Écône, Archbishop Lefebvre — assisted by Bishop António de Castro Mayer of Campos, Brazil — consecrates four priests as bishops:
 
-1. **Bernard Fellay** (Swiss) — age 28 at consecration
+1. **Bernard Fellay** (Swiss) — age 30 at consecration
 2. **Bernard Tissier de Mallerais** (French)
 3. **Richard Williamson** (British)
 4. **Alfonso de Galarreta** (Argentine)
 
 Lefebvre delivers a sermon explaining his action. Key passage:
 
+<!-- TODO: verify verbatim against the published SSPX transcript at sspx.org/en/1988-episcopal-consecrations-sermon-30926. The "act of fidelity" four-fold formulation could not be confirmed via web search; the well-attested passages of this sermon include "Operation Survival" and "We are not schismatics." -->
 > "We are carrying out an act of disobedience — in appearance — but in reality, an act of fidelity to the Church, an act of fidelity to the Catholic priesthood, an act of fidelity to the Holy Sacrifice of the Mass, an act of fidelity to all the faithful who are attached to Tradition."
 
 He explicitly invokes the *state of necessity* as his canonical justification.
@@ -269,7 +277,7 @@ He explicitly invokes the *state of necessity* as his canonical justification.
 **Why this matters — canonically:** Canon 1382 (CIC 1983) stipulates: "A bishop who consecrates someone a bishop without a pontifical mandate and the person who receives the consecration from him incur a *latae sententiae* excommunication reserved to the Apostolic See." Both the consecrating bishop and the consecrated bishops incur automatic excommunication upon the act itself, without any further declaration. [→ §7 Canon Law; → §8 Papal Documents]
 
 **Primary sources:**
-- Lefebvre's sermon at the consecrations: [SSPX.org](https://sspx.org/en/archbishop-lefebvres-sermon-episcopal-consecrations-june-30-1988)
+- Lefebvre's sermon at the consecrations: [SSPX.org](https://sspx.org/en/1988-episcopal-consecrations-sermon-30926)
 - Video of the consecrations: Available on YouTube (search "1988 Écône consecrations")
 
 ---
@@ -288,7 +296,7 @@ He explicitly invokes the *state of necessity* as his canonical justification.
 
 **Critical passage** on the nature of the rupture:
 
-> "The root of this schismatic act can be discerned in an incomplete and contradictory notion of Tradition. Incomplete, because it does not take sufficiently into account the living character of Tradition, which, as the Second Vatican Council clearly taught, 'comes from the apostles and progresses in the Church with the help of the Holy Spirit' (Dei Verbum, 8). [...] Contradictory, because it opposes the universal Magisterium of the Church possessed by the Bishop of Rome and the Body of Bishops."
+> "The root of this schismatic act can be discerned in an incomplete and contradictory notion of Tradition. Incomplete, because it does not take sufficiently into account the living character of Tradition, which, as the Second Vatican Council clearly taught, 'comes from the apostles and progresses in the Church with the help of the Holy Spirit' (Dei Verbum, 8). [...] But especially contradictory is a notion of Tradition which opposes the universal Magisterium of the Church possessed by the Bishop of Rome and the Body of Bishops."
 
 **Why this matters:** *Ecclesia Dei* simultaneously condemns the SSPX's act and acknowledges the legitimacy of traditional worship. This dual character — condemnation plus pastoral outreach — defines Rome's posture toward the SSPX for the next two decades. The schism language in *Ecclesia Dei* would later be quietly walked back. [→ §8 Papal Documents]
 
@@ -320,7 +328,7 @@ His final written statement reaffirms his conviction that he acted rightly. The 
 - Vocations to the SSPX remain strong while diocesan seminaries continue to shrink.
 - A parallel traditionalist movement — the **Institute of Christ the King Sovereign Priest**, the **Priestly Fraternity of St. Peter (FSSP)**, the **Institute of the Good Shepherd** — forms for priests who share the SSPX's liturgical concerns but desire full canonical regularity. These groups receive the traditional Mass under *indult* from Rome.
 
-**The Campos reconciliation (2002):** The traditionalist diocese of Campos, Brazil — long affiliated with Bishop de Castro Mayer who co-consecrated with Lefebvre in 1988 — reconciles with Rome under John Paul II. It becomes the *Apostolic Administration of Saint John Mary Vianney*, a fully canonical traditionalist community. For some, this is the model for a potential SSPX reconciliation.
+**The Campos reconciliation (January 18, 2002):** The traditionalist diocese of Campos, Brazil — long affiliated with Bishop de Castro Mayer who co-consecrated with Lefebvre in 1988 — reconciles with Rome under John Paul II. It becomes the *Apostolic Administration of Saint John Mary Vianney*, a fully canonical traditionalist community. For some, this is the model for a potential SSPX reconciliation.
 
 ---
 
@@ -340,11 +348,11 @@ His final written statement reaffirms his conviction that he acted rightly. The 
 
 **April 19, 2005.** Joseph Cardinal Ratzinger is elected as Pope Benedict XVI. Traditionalists greet his election with significant hope — he is the author of *The Ratzinger Report*, the architect of the 2005 *Dominus Iesus*, and a man who had personally negotiated with Lefebvre.
 
-Benedict XVI himself had written, in *The Spirit of the Liturgy* (2000):
+Ratzinger himself had written, in his memoir *Milestones: Memoirs 1927–1977* (Ignatius Press, 1998):
 
-> "The prohibition of the missal that was now decreed, a missal that had known continuous development over the centuries ever since the time of the Sacramentary of the Gelasian period right up to the time of Pope John XXIII, was something quite extraordinary. Nothing of the sort had ever happened in the entire history of the liturgy."
+> "I was dismayed by the prohibition of the old missal, since nothing of the sort had ever happened in the entire history of the liturgy."
 
-This statement — written before his election — amounts to an acknowledgment that the 1969 reform was canonically questionable. It is cited extensively by SSPX supporters.
+This statement — written eight years before his election — amounts to an acknowledgment that the 1969 reform was historically unprecedented. It is cited extensively by SSPX supporters.
 
 ---
 
@@ -360,28 +368,22 @@ This statement — written before his election — amounts to an acknowledgment 
 
 > "What earlier generations held as sacred, remains sacred and great for us too, and it cannot be all of a sudden entirely forbidden or even considered harmful."
 
-And on the SSPX:
-
-> "The schismatic act was the episcopal consecration of 1988. After it there was no formal schism. Lefebvre was not excommunicated for the liturgy but for the episcopal consecrations."
-
-This statement by Benedict XVI is crucial: he explicitly states there was **no formal schism** — only the specific act of the 1988 consecrations constituted the rupture. The SSPX cites this statement frequently. [→ §8 Papal Documents; → §7 Canon Law]
-
 **Why this matters:** *Summorum Pontificum* removes the SSPX's central liturgical grievance at the institutional level — the Traditional Mass is now freely available (in principle) to any Catholic. It also substantially undermines the argument that celebrating the traditional Mass is itself disobedient.
 
 **Primary sources:**
 - *Summorum Pontificum* (July 7, 2007): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)
 - Accompanying letter to bishops: [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070707_lettera-vescovi.html)
-- *Universae Ecclesiae* (2011 implementation instruction): [Vatican.va](https://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/documents/rc_com_ecclsdei_doc_20110430_universae-ecclesiae_en.html)
+- *Universae Ecclesiae* (2011 implementation instruction): [Vatican.va](https://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/documents/rc_com_ecclsdei_doc_20110430_istr-universae-ecclesiae_en.html)
 
 ---
 
 ### 2009 — Excommunications Lifted
 
-**January 21, 2009.** Benedict XVI issues the decree *Ecclesiae unitatem*, lifting the excommunications of the four living SSPX bishops (Williamson, Tissier de Mallerais, Fellay, and de Galarreta). Lefebvre's excommunication had ceased at his death in 1991.
+**January 21, 2009.** The Congregation for Bishops, by decree signed by Cardinal Giovanni Battista Re with the express authorization of Benedict XVI, remits the *latae sententiae* excommunications of the four living SSPX bishops (Williamson, Tissier de Mallerais, Fellay, and de Galarreta). Lefebvre's excommunication had ceased at his death in 1991. (*Ecclesiae Unitatem*, a separate motu proprio of July 2, 2009 restructuring the Pontifical Commission *Ecclesia Dei* and attaching it to the Congregation for the Doctrine of the Faith, is a distinct document sometimes confused with the January 21 decree.)
 
-**The decree states:**
+A subsequent **Note from the Secretariat of State (February 4, 2009)** clarifies the status that remains after remission:
 
-> "The Congregation for Bishops, with the approval of the Holy Father, issued a decree on 21 January 2009 by which the excommunications were remitted. The juridical situation of the Society of Saint Pius X as such has not thereby been regularized."
+> "The remission of the excommunication has freed the four Bishops from a very grave canonical penalty, but it has not changed the juridical situation of the Society of St. Pius X, which at the present moment does not enjoy any canonical recognition in the Catholic Church."
 
 Two things happen simultaneously:
 1. The excommunications — the most severe canonical penalty short of anathema — are lifted.
@@ -398,7 +400,7 @@ Two things happen simultaneously:
 
 **Primary sources:**
 - Decree lifting excommunications (January 21, 2009): [Vatican.va](https://www.vatican.va/roman_curia/congregations/cbishops/documents/rc_con_cbishops_doc_20090121_remissione-scomunica_en.html)
-- Benedict XVI's letter to bishops explaining the decision (March 10, 2009): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica-lefebvre.html)
+- Benedict XVI's letter to bishops explaining the decision (March 10, 2009): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html)
 
 ---
 
@@ -427,9 +429,10 @@ The discussions are significant as a sign of good will. They do not produce agre
 
 **June 2012.** The three other SSPX bishops (Tissier de Mallerais, Williamson, and de Galarreta) write to Rome expressing opposition to any agreement under current conditions. Internal SSPX pressure mounts.
 
+<!-- TODO: verify the date "June 27, 2012" against original SSPX correspondence. This date is uncorroborated in standard secondary sources; the closest documented event is the Pope's June 30, 2012 letter rejecting Fellay's modified preamble. The formal SSPX withdrawal was publicly affirmed by Fellay only on October 12, 2013. -->
 **June 27, 2012.** Fellay writes to Rome effectively withdrawing from the agreement. His stated reason: Rome's conditions require the SSPX to accept Vatican II in a way that would compromise their mission.
 
-**September 2012.** Bishop Williamson is expelled from the SSPX by Fellay, citing Williamson's public opposition to negotiations and his broader pattern of acting unilaterally. Williamson subsequently forms his own "Resistance" movement, distinct from the SSPX.
+**October 4, 2012.** Bishop Williamson is expelled from the SSPX by the SSPX General Council under Bishop Fellay, citing his failure to show the respect and obedience owed to legitimate superiors; the dismissal is publicly announced by communiqué from Menzingen on October 24, 2012. Williamson subsequently forms his own "Resistance" movement, distinct from the SSPX.
 
 **Why this matters:** The 2012 collapse mirrors 1988 in its structure — a near-agreement that falls apart at the last moment due to internal SSPX resistance and suspicion of Rome's intentions. It demonstrates that the obstacle to regularization is not merely canonical but involves genuine theological disagreement about how to interpret Vatican II.
 
@@ -445,19 +448,20 @@ The discussions are significant as a sign of good will. They do not produce agre
 
 ### 2015 — Francis Extends Jubilee Confession Faculties
 
-**September 1, 2015.** In his letter announcing the Extraordinary Jubilee of Mercy, *Misericordiae Vultus*, Pope Francis grants SSPX priests the faculty to hear confessions validly during the Jubilee Year (2015–2016):
+**September 1, 2015.** In a letter to Archbishop Rino Fisichella, President of the Pontifical Council for the Promotion of the New Evangelization, in preparation for the Extraordinary Jubilee of Mercy (announced earlier that year in the bull *Misericordiae Vultus*, April 11, 2015), Pope Francis grants SSPX priests the faculty to hear confessions validly and licitly during the Jubilee Year (2015–2016):
 
-> "For the Jubilee Year I have decided that the Church will live this Jubilee spiritually at Lourdes and in the local Churches. I also grant priests of the Fraternité Sacerdotale Saint-Pie X the faculty to celebrate the Sacrament of Reconciliation for the validity and licity of the sacrament."
+> "A final consideration concerns those faithful who for various reasons choose to attend churches officiated by priests of the Fraternity of Saint Pius X. […] I establish that those who during the Holy Year of Mercy approach these priests of the Fraternity of Saint Pius X to celebrate the Sacrament of Reconciliation shall validly and licitly receive the absolution of their sins."
 
 **November 20, 2016.** In the Apostolic Letter *Misericordia et Misera* closing the Jubilee Year, Francis makes the confession faculty permanent:
 
-> "I have decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be without the Sacrament of Reconciliation because of a lack of authorized ministers."
+> "For the pastoral benefit of these faithful, and trusting in the good will of their priests to strive with God's help for the recovery of full communion with the Catholic Church, I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon."
 
 **Why this matters:** This is the first time Rome explicitly and formally grants SSPX priests jurisdiction to validly hear confessions. Prior to this, the canonical status of SSPX confessions was debated — some canonists argued supplied jurisdiction applied; others disagreed. Francis removes the ambiguity. [→ §7 Canon Law; → §9 Sacramental Questions]
 
 **Primary sources:**
-- *Misericordiae Vultus* (April 11, 2015): [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)
-- *Misericordia et Misera* (November 20, 2016): [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20161120_misericordia-et-misera.html)
+- Letter of Pope Francis to Archbishop Fisichella (September 1, 2015): [Vatican.va](https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150901_lettera-indulgenza-giubileo-misericordia.html)
+- *Misericordiae Vultus* (April 11, 2015): [Vatican.va](https://www.vatican.va/content/francesco/en/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)
+- *Misericordia et Misera* (November 20, 2016): [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html)
 
 ---
 
@@ -471,7 +475,7 @@ The discussions are significant as a sign of good will. They do not produce agre
 
 ### 2018 — New Superior General
 
-**July 2018.** At the SSPX's General Chapter, **Don Davide Pagliarani** — an Italian priest who had served as rector of the seminary in La Reja, Argentina — is elected Superior General, replacing Bishop Fellay who had served since 1994. Fellay had been closely associated with the 2012 negotiations; his departure signals a recalibration.
+**July 11, 2018.** At the SSPX's General Chapter, **Fr. Davide Pagliarani** — an Italian priest who had served as rector of the seminary in La Reja, Argentina — is elected Superior General, replacing Bishop Fellay who had served since 1994. Fellay had been closely associated with the 2012 negotiations; his departure signals a recalibration.
 
 Pagliarani's approach: maintain dialogue with Rome, hold firm on doctrinal positions, avoid the impression of either seeking agreement at any price or rejecting dialogue entirely.
 
@@ -504,13 +508,13 @@ Francis's stated rationale: that the generous permission of *Summorum Pontificum
 **Primary sources:**
 - *Traditionis Custodes* (July 16, 2021): [Vatican.va](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)
 - Francis's accompanying letter to bishops: [Vatican.va](https://www.vatican.va/content/francesco/en/letters/2021/documents/20210716-lettera-vescovi-liturgia.html)
-- *Responsa ad Dubia* (December 18, 2021): [Vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211218_responsa-dubia-litteris_en.html)
+- *Responsa ad Dubia* (December 4, 2021; published December 18, 2021): [Vatican.va](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_en.html)
 
 ---
 
 ### 2022–2025 — Ongoing Dialogue; Death of Tissier de Mallerais
 
-**2022.** The SSPX and Rome continue periodic meetings. The Dicastery for the Doctrine of the Faith (DDF — successor to the Congregation for the Doctrine of the Faith, which itself had absorbed the Pontifical Commission *Ecclesia Dei* in 2019) remains the primary Vatican contact point.
+**2022.** The SSPX and Rome continue periodic meetings. The Dicastery for the Doctrine of the Faith (DDF — successor to the Congregation for the Doctrine of the Faith, which itself had absorbed the Pontifical Commission *Ecclesia Dei* on January 17, 2019) remains the primary Vatican contact point.
 
 **2023.** Dialogue continues without formal agreement. Superior General Fr. Davide Pagliarani holds informal meetings with Vatican officials.
 
@@ -582,7 +586,7 @@ The following are the primary documents referenced throughout this timeline. All
 | *Misericordia et Misera* | Nov 20, 2016 | Francis | Makes SSPX confession faculties permanent |
 | Marriage delegation letter | Mar 27, 2017 | Francis → Müller | SSPX marriage validity |
 | *Traditionis Custodes* | Jul 16, 2021 | Francis | Restricts TLM; does not affect SSPX |
-| *Responsa ad Dubia* | Dec 18, 2021 | DDF | Further TLM restrictions |
+| *Responsa ad Dubia* | Dec 4, 2021 | CDW | Further TLM restrictions |
 
 ---
 
