@@ -42,7 +42,7 @@ John XXIII frames the Council's purpose with the Italian word *aggiornamento* �
 **Why this matters for the SSPX:** The SSPX does not claim Vatican II was invalid or heretical in the manner of a formal doctrinal definition. Their position is more nuanced: that certain passages contain grave ambiguities or novel formulations that cannot be reconciled with prior Magisterium, and that these documents provided a pretext for a subsequent revolution in Catholic life that went far beyond what the Council Fathers intended. [→ §5 Vatican II Analysis]
 
 **Primary sources:**
-- All sixteen Council documents: [Vatican.va — Vatican II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/)
+- All sixteen Council documents: [Vatican.va — Vatican II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)
 - *Dignitatis Humanae* (Declaration on Religious Liberty): [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html)
 - *Lumen Gentium* (Dogmatic Constitution on the Church): [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 - *Unitatis Redintegratio* (Decree on Ecumenism): [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)
