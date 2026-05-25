@@ -239,7 +239,7 @@ Issued in response to a formal request from Bishop Fellay, dated December 15, 20
 
 This document, issued in response to the firestorm following the Williamson controversy and the lifting of the excommunications, is perhaps the most candid and revealing statement Benedict ever made about the SSPX.
 
-**Vatican.va:** [English version](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica-lefebvre.html)
+**Vatican.va:** [English version](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html)
 
 ---
 
@@ -323,7 +323,7 @@ Francis's pontificate produced a paradoxical pattern: significant practical norm
 **Author:** Pope Francis
 **Date:** November 20, 2016
 **Genre:** Apostolic Letter
-**Vatican.va:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20161120_misericordia-et-misera.html)
+**Vatican.va:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html)
 
 ---
 

@@ -284,7 +284,7 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### Pope Benedict XVI — Letter to Bishops on the Lifting of the Excommunications (2009)
 - **Why it matters:** The most important single papal statement about the SSPX's actual canonical status; states that the barrier to regularization is "doctrinal, not disciplinary," and has been read as implying "no formal schism" after the 1988 act.
-- **Link:** [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica-lefebvre.html)
+- **Link:** [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html)
 
 ---
 
@@ -305,7 +305,7 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Pope Francis — *Misericordia et Misera* (2016)
 **Apostolic Letter Closing the Jubilee of Mercy**
 - **Why it matters:** Makes permanent the SSPX confession faculty; the key text is §12.
-- **Link:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20161120_misericordia-et-misera.html)
+- **Link:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html)
 
 ---
 

@@ -1,4 +1,5 @@
 # Section 3: Key Figures
+
 ## The SSPX Compendium
 
 > **How to use this section.** This section profiles every major figure in the SSPX story — founders, the four 1988 bishops, current SSPX leadership, and the Roman counterparts who shaped the dialogue. Each profile covers biography, theological positions, key writings or statements, and legacy. Cross-references to other sections are noted in brackets. Read §2 (Timeline) first for the chronological context that makes these profiles intelligible.
@@ -29,6 +30,7 @@ Marcel entered the French Seminary in Rome in 1923, studying under the influence
 
 **Superior General of the Spiritans (1962–1968).** Lefebvre was elected Superior General of his religious congregation in 1962 — the same year Vatican II opened. He attended all four sessions of the Council as a Council Father and as head of a major religious congregation. He was a member of the Central Preparatory Commission and signed several Council documents. His assessment of the Council in retrospect:
 
+<!-- TODO: verify *Open Letter to Confused Catholics* (1986) as the source — this sentiment recurs across Lefebvre's writings (it also appears in *I Accuse the Council* and conferences); the exact wording above has not been matched to a specific page. -->
 > "I signed the documents of the Council. I signed, not indeed without reservations, but I signed. Why? Because 95% of the texts were satisfactory... and I thought that by signing I would show my goodwill. Unfortunately, the 5% that was bad has ended up by corrupting everything else."
 >
 > — *Open Letter to Confused Catholics* (1986)
@@ -48,40 +50,50 @@ Marcel entered the French Seminary in Rome in 1923, studying under the influence
 Lefebvre's theology is not innovative — he would have considered innovation a fault. His positions are those of the pre-conciliar Roman school, formed by Thomistic philosophy, the Magisterium of Pius IX through Pius XII, and the missionary experience of the African church.
 
 **On the Mass:**
+
+<!-- TODO: source attribution — could not pin to a specific 1979 Écône conference; verify against print sources. -->
 > "The day I understood that the new Mass was a means of rupture with the past, that it was a means of introducing a new religion... that day I decided that come what may I would continue to offer the ancient Mass."
 >
 > — Conference at Écône, 1979
 
 **On Vatican II:**
+
 > "We are not sedevacantists. We do not deny that there is a pope... But we refuse to follow a Rome that has embraced the spirit of the modern world."
 >
 > — Various conferences, 1970s–1980s
 
 **On religious liberty** (his central doctrinal objection to *Dignitatis Humanae*):
+
+<!-- TODO: verify exact wording against *They Have Uncrowned Him* (1987) — the doctrine "error has no rights" is foundational to the book but the precise sentence above has not been matched to a page. -->
 > "Error has no rights. Only persons have rights. And persons have the right to know the truth, which obliges them to follow the truth — not error."
 >
 > — *They Have Uncrowned Him* (1987)
 
 **On the state of necessity** (his canonical justification for 1988):
+
+<!-- TODO: verify verbatim wording against the official text of the consecration sermon (June 30, 1988). The "absolute necessity" / "state of necessity" language is well-attested across Lefebvre's writings and justification of the consecrations, but the exact wording here has not been confirmed against the sermon transcript. -->
 > "We are in a case of absolute necessity. We have no choice. Either we allow the priesthood to die out, or we provide the Church with bishops who will ordain priests formed in the tradition."
 >
-> — Sermon at Écône, June 29, 1988
+> — Consecration sermon, Écône, June 30, 1988
 
 ---
 
 #### Key Writings
 
-| Title | Year | Summary |
-|---|---|---|
-| *A Bishop Speaks* | 1974 | Collected writings and sermons; establishes his theological positions |
-| Declaration of November 21, 1974 | 1974 | Foundational SSPX theological statement; see §2 |
-| *I Accuse the Council* | 1976 | Sharp critique of Vatican II's implementation |
-| *Open Letter to Confused Catholics* | 1986 | Most accessible summary of his positions; widely read |
-| *They Have Uncrowned Him* | 1987 | Most systematic theological work; on the Social Kingship of Christ and religious liberty |
-| Sermon at the 1988 Consecrations | 1988 | His definitive justification of the episcopal consecrations |
-| *Spiritual Journey* | 1990 | Final synthesis; reflections on the Church crisis |
+
+| Title                                                  | Year      | Summary                                                                                  |
+| ------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------- |
+| *A Bishop Speaks: Writings and Addresses*              | 1963–1976 | Collected writings and sermons; establishes his theological positions                    |
+| Declaration of November 21, 1974                       | 1974      | Foundational SSPX theological statement; see §2                                          |
+| *I Accuse the Council*                                 | 1976      | Sharp critique of Vatican II's implementation (French original *J'accuse le concile!*)   |
+| *Open Letter to Confused Catholics*                    | 1985/1986 | French original 1985 (Albin Michel); English translation 1986. Most accessible summary   |
+| *They Have Uncrowned Him*                              | 1987      | Most systematic theological work; on the Social Kingship of Christ and religious liberty |
+| Sermon at the 1988 Consecrations                       | 1988      | His definitive justification of the episcopal consecrations (June 30, 1988)              |
+| *Spiritual Journey*                                    | 1991      | Posthumous synthesis (manuscript drafted Jan 1990; published after his death March 1991) |
+
 
 **Primary sources:**
+
 - *Open Letter to Confused Catholics* (Angelus Press): available at [Angelus Press](https://angeluspress.org)
 - *They Have Uncrowned Him* (Angelus Press): available at [Angelus Press](https://angeluspress.org)
 - 1974 Declaration: [SSPX.org](https://sspx.org/en/declaration-archbishop-lefebvre-1974)
@@ -107,14 +119,14 @@ Lefebvre is the most consequential figure in 20th-century Catholic traditionalis
 
 **Role:** Bishop of Campos, Brazil (1948–1981); Co-consecrator at the 1988 Écône consecrations.
 
-**Born:** June 20, 1904, São Paulo, Brazil.
+**Born:** June 20, 1904, Campinas, São Paulo, Brazil.
 **Died:** April 25, 1991, Campos, Brazil. One month after Lefebvre.
 
 ---
 
 #### Biography
 
-António de Castro Mayer was one of Brazil's most prominent traditional Catholic bishops. As Bishop of Campos from 1948 to 1981, he built one of the most flourishing Catholic dioceses in South America — with strong seminary enrollment, active religious life, and a deeply catechized laity — by maintaining strict pre-conciliar standards throughout the post-conciliar period.
+António de Castro Mayer was one of Brazil's most prominent traditional Catholic bishops. Appointed Coadjutor Bishop of Campos in 1948 and Diocesan Bishop in 1949, he served the diocese until his resignation in 1981 — building one of the most flourishing Catholic dioceses in South America, with strong seminary enrollment, active religious life, and a deeply catechized laity, by maintaining strict pre-conciliar standards throughout the post-conciliar period.
 
 After his retirement in 1981, he remained in Campos and became increasingly associated with the SSPX's resistance, eventually co-consecrating the four bishops at Écône in 1988. He was excommunicated alongside Lefebvre for the act.
 
@@ -132,16 +144,16 @@ He died on April 25, 1991 — exactly one month after Lefebvre — without recon
 
 ### Bishop Bernard Fellay (b. 1958)
 
-**Role:** One of the four bishops consecrated at Écône on June 30, 1988; Superior General of the SSPX (1994–2018); currently one of the two Assistants General.
+**Role:** One of the four bishops consecrated at Écône on June 30, 1988; Superior General of the SSPX (1994–2018); currently Superior General Emeritus.
 
 **Born:** April 12, 1958, Sierre, Switzerland.
-**Consecrated:** June 30, 1988, Écône (age 29 — the youngest of the four).
+**Consecrated:** June 30, 1988, Écône (age 30 — the youngest of the four, and at the time the youngest Catholic bishop in the world).
 
 ---
 
 #### Biography
 
-Bernard Fellay entered the SSPX seminary at Écône as a young man and was among Lefebvre's most trusted students. His Swiss nationality, calm temperament, and organizational ability made him a natural leader. He was the youngest of the four bishops consecrated in 1988, at just 29 years old.
+Bernard Fellay entered the SSPX seminary at Écône as a young man and was among Lefebvre's most trusted students. His Swiss nationality, calm temperament, and organizational ability made him a natural leader. He was the youngest of the four bishops consecrated in 1988, at just 30 years old — and, at the time, the youngest Catholic bishop in the world.
 
 Elected Superior General at the 1994 General Chapter, he served in that role for 24 years — by far the longest tenure of any SSPX superior. His leadership was defined by a consistent effort to maintain dialogue with Rome while holding firm on doctrinal positions.
 
@@ -155,13 +167,15 @@ Elected Superior General at the 1994 General Chapter, he served in that role for
 **Fellay's theological posture** was the most conciliatory of the four 1988 bishops. He consistently argued that the SSPX sought reconciliation with Rome and did not wish to be a permanent parallel structure. He accepted that Rome had legitimate authority and that the SSPX's irregular status was an abnormal situation requiring resolution.
 
 **Key quote:**
+
+<!-- TODO: pin to a specific 2009 interview — the sentiment is standard Fellay rhetoric but the exact source has not been verified. -->
 > "We are not schismatics. We have never broken with Rome. We are in a difficult situation, an irregular situation, but we are Catholics who love the Church and the Pope."
 >
 > — Interview, 2009
 
 **Fellay and the 2012 negotiations:** The near-agreement of 2012 remains the most revealing window into Fellay's approach. He was willing to sign a doctrinal preamble that acknowledged Vatican II's authority "in the light of Tradition" — a formulation that satisfied Rome but alarmed hardliners within the SSPX who saw it as a capitulation. The collapse of the 2012 talks due to internal resistance was a significant personal and political defeat.
 
-**Current role:** Fellay remains an active bishop within the SSPX, serving as one of the two Assistants General. He continues to celebrate Mass, give conferences, and write. His position within the Society is respected, though his association with the failed 2012 negotiations remains a source of tension with more hardline members.
+**Current role:** Fellay remains an active bishop within the SSPX as Superior General Emeritus. He continues to celebrate Mass, give conferences, and write. His position within the Society is respected, though his association with the failed 2012 negotiations remains a source of tension with more hardline members.
 
 ---
 
@@ -169,31 +183,40 @@ Elected Superior General at the 1994 General Chapter, he served in that role for
 
 **Role:** One of the four bishops consecrated at Écône on June 30, 1988; principal theologian of the SSPX; author of the authoritative biography of Lefebvre.
 
-**Born:** January 29, 1945, Soisy-sur-Seine, France.
+**Born:** September 14, 1945, Sallanches, France.
+**Died:** October 8, 2024, Martigny, Switzerland.
 **Consecrated:** June 30, 1988, Écône.
 
 ---
 
 #### Biography
 
-Bernard Tissier de Mallerais is the most intellectually prominent of the four 1988 bishops. A French priest of refined theological formation, he served as secretary to Lefebvre for many years and became the principal custodian of Lefebvre's legacy.
+Bernard Tissier de Mallerais is the most intellectually prominent of the four 1988 bishops. A French priest of refined theological formation, he served as Rector of the SSPX seminary at Écône (1979–1983) and later as Secretary General of the SSPX (1984–1996), and he became the principal custodian of Lefebvre's legacy.
 
 His biography of Lefebvre — *Marcel Lefebvre: The Biography* (published in French in 2002, English translation 2004) — is the definitive account of the Archbishop's life and the most important single source for understanding the SSPX's origins. It is thoroughly researched, admiring in its assessment but honest about difficulties, and essential reading for anyone seeking to understand the SSPX from the inside.
 
 **Theological positions:** Tissier de Mallerais is among the most rigorous theological minds in the SSPX and one of its most hardline voices regarding reconciliation with Rome. He has consistently argued that no agreement can be reached with Rome until Rome explicitly corrects the problematic documents of Vatican II — a condition Rome has never accepted.
 
 **On Vatican II:**
+
+<!-- TODO: source attribution — the sentiment is consistent with Tissier de Mallerais's published positions but the verbatim wording has not been confirmed against a specific conference or article. -->
 > "Vatican II does not ask us to accept errors. It asks us to accept ambiguities. And we say: we cannot accept ambiguities because ambiguities lead to errors."
 >
 > — Conference, various occasions
 
 **On the 2012 negotiations:** Tissier de Mallerais was among the three bishops who wrote to Rome opposing the proposed agreement in June 2012. He has consistently maintained that Fellay's approach was too accommodating.
 
-**The Faith of the Church (2002):** His most systematic theological work, offering a comprehensive presentation of Catholic doctrine according to traditional standards. It is used as a reference text in SSPX seminaries.
+
+
+**Faith Imperiled by Reason (2010).** A theological critique of Benedict XVI's "hermeneutic of continuity" — first published in French in the SSPX theological review *Le Sel de la Terre*, then translated into English. It is among the SSPX's most pointed responses to Benedict's framework for interpreting Vatican II.
 
 **Key writings:**
-- *Marcel Lefebvre: The Biography* (Angelus Press, 2004) — [Angelus Press](https://angeluspress.org)
-- *The Faith of the Church* (Angelus Press, 2002)
+
+- *Marcel Lefebvre: The Biography* (French original: Clovis, 2002; English translation: Angelus Press, 2004) — [Angelus Press](https://angeluspress.org)
+
+- *Faith Imperiled by Reason: Benedict XVI's Hermeneutics* (English ed. 2010, distributed by True Restoration Press)   
+
+
 - Numerous articles in *Fideliter* and SSPX publications
 
 ---
@@ -205,17 +228,17 @@ His biography of Lefebvre — *Marcel Lefebvre: The Biography* (published in Fre
 **Born:** March 8, 1940, London, England.
 **Consecrated:** June 30, 1988, Écône.
 
-> **Important note:** Bishop Williamson was expelled from the SSPX in 2012 and no longer represents the Society in any capacity. His views — particularly his Holocaust denial — are repudiated by the SSPX leadership. He is included here because he is one of the four original 1988 bishops and because his expulsion is itself a significant event in SSPX history. His positions should not be attributed to the SSPX.
+> **Note:** Bishop Williamson was expelled from the SSPX in 2012 and thereafter no longer represented the Society in any capacity. His views — particularly his Holocaust denial — are repudiated by the SSPX leadership, and his post-expulsion positions should not be attributed to the Society.
 
 ---
 
 #### Biography
 
-Richard Williamson was born into a Protestant English family and converted to Catholicism while studying English literature at Cambridge. He entered Écône in 1971 and was among Lefebvre's early students. His sharp intelligence, combative temperament, and ability to articulate traditionalist positions in vivid prose made him a prominent figure in the SSPX's English-speaking world.
+Richard Williamson was born into a nominally Anglican English family. He read English literature at Clare College, Cambridge (graduated 1961), converted to Catholicism in 1971, entered the SSPX seminary at Écône that same year, and was ordained a priest in 1976. His sharp intelligence, combative temperament, and ability to articulate traditionalist positions in vivid prose made him a prominent figure in the SSPX's English-speaking world.
 
-He served as rector of the SSPX seminary in Winona, Minnesota (USA) and later in La Reja, Argentina. He was known for electrifying conferences and for an increasingly eccentric range of opinions expressed through his "Eleison Comments" — a weekly email newsletter that he continues to publish.
+He was appointed rector of St. Thomas Aquinas Seminary in 1983, serving first at Ridgefield, Connecticut and then continuing in that role after the seminary's 1988 move to Winona, Minnesota (the seminary has since moved again to Dillwyn, Virginia in 2018). He was reassigned as rector of the SSPX seminary at La Reja, Argentina in 2003 and was removed from that post in February 2009 in the wake of the Holocaust interview. He was known for electrifying conferences and for an increasingly eccentric range of opinions expressed through his "Eleison Comments" — a weekly email newsletter he continued to publish until his death.
 
-**The Holocaust controversy (2009).** On November 1, 2008 — just months before the lifting of the excommunications — Williamson gave an interview to Swedish television (broadcast January 21, 2009, the same day the excommunications were lifted) in which he stated that he did not believe the historical evidence supported the existence of gas chambers and doubted that six million Jews were killed in the Holocaust.
+**The Holocaust controversy (2009).** In November 2008 — just months before the lifting of the excommunications — Williamson gave an interview to Swedish television (recorded in Germany, broadcast January 21, 2009, the same day the excommunications were lifted) in which he stated that he did not believe the historical evidence supported the existence of gas chambers and doubted that six million Jews were killed in the Holocaust.
 
 The timing was catastrophic. Benedict XVI's gesture of reconciliation toward the SSPX was immediately overshadowed by international outrage. Jewish organizations, governments, and Catholic bishops worldwide demanded that the lifting of excommunications be reversed or that Williamson be further penalized. Benedict XVI, clearly blindsided, wrote an extraordinary letter to the world's bishops (March 10, 2009) explaining the situation and stating that Williamson's views were "absolutely unacceptable."
 
@@ -231,7 +254,7 @@ The timing was catastrophic. Benedict XVI's gesture of reconciliation toward the
 
 **Role:** One of the four bishops consecrated at Écône on June 30, 1988; currently First Assistant General of the SSPX; principal consecrator of the 2019 bishops.
 
-**Born:** November 5, 1957, Vitoria-Gasteiz, Spain.
+**Born:** January 14, 1957, Torrelavega, Spain.
 **Consecrated:** June 30, 1988, Écône.
 
 ---
@@ -247,6 +270,8 @@ He is currently the First Assistant General of the SSPX — the second-highest o
 **Theological posture:** De Galarreta is considered a steady, reliable voice within the SSPX — neither as conciliatory as Fellay in the 2012 negotiations nor as combative as Williamson. He opposes agreement with Rome under current conditions but maintains a tone of dialogue rather than confrontation.
 
 **On the SSPX's canonical situation:**
+
+<!-- TODO: source attribution — could not pin to a specific conference or published source. -->
 > "We are not a church within the Church. We are simply Catholics trying to preserve and transmit the Faith in its integrity. We do not want to be irregular. But we cannot become regular at the price of the Faith."
 >
 > — Conference, various occasions
@@ -264,7 +289,7 @@ He is currently the First Assistant General of the SSPX — the second-highest o
 **Born:** October 25, 1970, Rimini, Italy.
 **Ordained priest:** June 27, 1996, by Bishop Bernard Fellay.
 
-> **Important note:** Fr. Pagliarani is a priest, not a bishop. The Superior Generalship of the SSPX is held by a priest and does not entail episcopal consecration. Earlier drafts of this document erroneously listed him as a bishop; that has been corrected.
+> **Note:** The Superior Generalship of the SSPX is an office held by a priest; it does not entail episcopal consecration. Fr. Pagliarani is accordingly a priest, not a bishop.
 
 ---
 
@@ -277,16 +302,21 @@ His election was something of a surprise: he was relatively young (47) and less 
 **Leadership style:** Pagliarani is known for a more intellectually measured approach than his predecessor — more likely to engage theological questions carefully than to negotiate institutionally. Under his leadership through 2025, the SSPX maintained dialogue with Rome without rushing toward any agreement, focusing intensely on formation and internal consolidation. In February 2026, he announced the Society's decision to proceed with episcopal consecrations on July 1, 2026, citing a state of necessity in the wake of Bishop Tissier de Mallerais's death and the advancing age of the two remaining SSPX bishops.
 
 **Theological posture:**
+
+<!-- TODO: source attribution — could not locate a 2019 letter to faithful containing this exact wording. -->
 > "The Society has never wished to be a permanent state. Our irregular situation is a wound. But a wound is not healed by ignoring it or by pretending it does not exist. It is healed by treating the cause, not merely the symptoms."
 >
 > — Letter to SSPX faithful, 2019
 
 **On Vatican II:**
+
+<!-- TODO: source attribution — could not locate a 2020 conference containing this exact wording. -->
 > "The problem is not that we refuse to accept the Council. The problem is that the Council, in certain passages, refuses to accept the Church's own prior teaching. Until that contradiction is addressed honestly, no merely canonical agreement can resolve the underlying crisis."
 >
 > — Conference, 2020
 
 **Key writings and statements:**
+
 - Annual letters to SSPX faithful (available at SSPX.org)
 - Various theological conferences, available at SSPX.org and on YouTube
 
@@ -296,17 +326,19 @@ His election was something of a surprise: he was relatively young (47) and less 
 
 The SSPX is organized into Districts corresponding roughly to geographic regions. Each District is led by a District Superior who governs the Society's apostolate in that region. Key Districts include:
 
-| District | Superior (as of 2024) | Notes |
-|---|---|---|
-| USA | Fr. Augustin Reyes | Headquartered in Kansas City, MO; largest English-speaking district |
-| France | Fr. Pascal Schreiber | Includes the seminary at Flavigny |
-| Germany/Austria | Fr. Stefan Pfluger | Zaitzkofen seminary |
-| Switzerland | Fr. Yves le Roux | Écône seminary |
-| Latin America | Multiple superiors | La Reja seminary (Argentina) |
-| Great Britain | Fr. Peter Scott | Active priories throughout UK |
-| Asia | Fr. Tuan Hoang | Growing presence in Vietnam, Philippines |
 
-*Note: District superiors change; verify current names at [SSPX.org/district-superiors](https://sspx.org).*
+| District      | Superior (as of May 2026)                       | Notes                                                                                                                                                |
+| ------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| USA           | Fr. John Fullerton                              | Headquartered at the Regina Coeli House, Platte City, MO; largest English-speaking district. Term began August 15, 2020.                             |
+| France        | Fr. Gonzague Peignot                            | Appointed August 15, 2024, succeeding Fr. Benoît de Jorna. Includes the spirituality year at Flavigny.                                               |
+| Germany       | Fr. Stefan Pfluger                              | Zaitzkofen seminary.                                                                                                                                 |
+| Switzerland   | Fr. Fabian Reiser (incoming Aug. 15, 2026)      | Écône seminary. Reiser — Canton St. Gallen, ordained 2014, previously Prior and Rector of the school at Wangs — is the eighth Swiss district superior. |
+| Latin America | Multiple districts (Argentina, Mexico, Brazil…) | La Reja seminary (Argentina).                                                                                                                        |
+| Great Britain | Fr. David Sherry                                | District of Great Britain & Ireland; active priories throughout the UK and Ireland.                                                                  |
+| Asia          | Fr. Patrick Summers                             | Appointed August 2018. Growing presence in the Philippines, Vietnam, and the wider region.                                                           |
+
+
+District superiors serve renewable six-year terms; current names can be confirmed at the respective district websites (sspx.org, fsspx.de, fsspx.ch, fsspx.uk, fsspx.asia, etc.).
 
 ---
 
@@ -314,12 +346,14 @@ The SSPX is organized into Districts corresponding roughly to geographic regions
 
 The SSPX's entire episcopal college, from 1988 through May 2026, consists of the four bishops consecrated by Archbishop Lefebvre at Écône on June 30, 1988 (with Bishop António de Castro Mayer as co-consecrator). **No further bishops have been consecrated for the SSPX in the intervening years.** The Society announced on February 2, 2026, that it would consecrate **four new bishops on July 1, 2026**, without papal mandate — the first new SSPX consecrations since 1988.
 
-| Bishop | Nationality | Year consecrated | Consecrator | Status (as of May 2026) |
-|---|---|---|---|---|
-| Bernard Fellay | Swiss | 1988 | Lefebvre | Living; former Superior General (1994–2018) |
-| Bernard Tissier de Mallerais | French | 1988 | Lefebvre | Died October 8, 2024 |
-| Richard Williamson | British | 1988 | Lefebvre | Expelled from SSPX in 2012; died January 29, 2025 |
-| Alfonso de Galarreta | Spanish | 1988 | Lefebvre | Living; First Assistant General |
+
+| Bishop                       | Nationality | Year consecrated | Consecrator | Status (as of May 2026)                           |
+| ---------------------------- | ----------- | ---------------- | ----------- | ------------------------------------------------- |
+| Bernard Fellay               | Swiss       | 1988             | Lefebvre    | Living; former Superior General (1994–2018)       |
+| Bernard Tissier de Mallerais | French      | 1988             | Lefebvre    | Died October 8, 2024                              |
+| Richard Williamson           | British     | 1988             | Lefebvre    | Expelled from SSPX in 2012; died January 29, 2025 |
+| Alfonso de Galarreta         | Spanish     | 1988             | Lefebvre    | Living; First Assistant General                   |
+
 
 **Outside the SSPX.** After his 2012 expulsion, Bishop Williamson — operating in the so-called "Resistance," not the SSPX — performed several episcopal consecrations of his own, notably that of Fr. Jean-Michel Faure in 2015. Faure had already left the SSPX before his consecration. These men are not SSPX bishops, and the Resistance is a separate phenomenon from the Society.
 
@@ -345,11 +379,13 @@ The SSPX's entire episcopal college, from 1988 through May 2026, consists of the
 Joseph Ratzinger is the Roman figure who most shaped the SSPX's trajectory — first as the Vatican's chief negotiator, then as the pope who did the most to normalize their situation.
 
 As CDF Prefect under John Paul II, Ratzinger:
+
 - Led the negotiations that produced the Protocol of May 5, 1988 (signed and then retracted by Lefebvre).
 - Oversaw the drafting of *Ecclesia Dei* (1988).
 - Conducted the Doctrinal Discussions of 2009–2011.
 
 As Pope Benedict XVI, he:
+
 - Issued *Summorum Pontificum* (2007), freeing the Traditional Latin Mass.
 - Lifted the excommunications of the four bishops (2009).
 - Stated explicitly in his accompanying letter to bishops that there had been "no formal schism" after 1988.
@@ -358,16 +394,19 @@ As Pope Benedict XVI, he:
 **Ratzinger's own liturgical views** were closer to the SSPX's concerns than any other senior Vatican official. His *The Spirit of the Liturgy* (2000) critiqued the post-conciliar reform from within the mainstream Church. His *The Ratzinger Report* (1985) acknowledged the post-conciliar crisis frankly. He was not a traditionalist in the SSPX sense — he accepted Vatican II's authority without qualification — but he understood and to some extent shared the liturgical and pastoral concerns that animated the SSPX.
 
 **Key quote on the SSPX** (from his letter to bishops, March 10, 2009):
+
 > "I was saddened by the fact that even Catholics who, after all, might have had a better knowledge of the situation, thought they had to attack me with open hostility. Precisely for this reason I thank all the more our Jewish friends, who helped to clear up the misunderstanding quickly and to restore the atmosphere of friendship and trust which — as in the days of Pope John Paul II — also during my entire pontificate has been and continues to be a priority for me."
 
 **On the Traditional Mass** (*Summorum Pontificum* letter to bishops, 2007):
+
 > "What earlier generations held as sacred, remains sacred and great for us too, and it cannot be all of a sudden entirely forbidden or even considered harmful."
 
 **Key writings relevant to the SSPX:**
+
 - *The Ratzinger Report* (Ignatius Press, 1985)
 - *The Spirit of the Liturgy* (Ignatius Press, 2000)
 - *Summorum Pontificum* and accompanying letter (2007): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)
-- Letter to bishops on lifting of excommunications (March 10, 2009): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica-lefebvre.html)
+- Letter to bishops on lifting of excommunications (March 10, 2009): [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html)
 
 ---
 
@@ -387,13 +426,16 @@ Cardinal Castrillón Hoyos was the Colombian cardinal who served as president of
 He was known for a warm, pastoral approach to the SSPX — understanding their concerns, using direct language, and avoiding legalistic formulations that would antagonize them unnecessarily. He established a genuine personal rapport with Bishop Fellay.
 
 **The most important single statement in the canonical debate** about the SSPX's status came from Castrillón Hoyos:
-> "The Society of Saint Pius X is not a schismatic movement. They are not in formal schism. What they have is a problem of governance — they do not have the structures to be fully integrated into the Church — but they are not schismatics."
+
+> "Unfortunately Archbishop Lefebvre went ahead with the consecration and hence the situation of separation came about, even if it was not a formal schism."
 >
-> — Various interviews, 2001–2009
+> "It cannot be said in correct, exact, and precise terms that there is a schism. There is a schismatic attitude in the fact of consecrating bishops without pontifical mandate."
+>
+> — Interview with Gianni Cardinale, *30 Giorni / 30 Days*, November 2005
 
-This statement, from Rome's own representative, is cited by the SSPX and by sympathetic canonists as the most authoritative clarification of their status after the lifting of the excommunications.
+This judgment, from Rome's own representative on the SSPX dossier, is cited by the Society and by sympathetic canonists as the most authoritative clarification of its status: a schismatic *act* in 1988 did not produce a formal schismatic *state*, and the canonical relationship was therefore one of irregular separation rather than rupture.
 
-He also famously celebrated a Pontifical Mass in the Traditional Rite at the Basilica of St. Mary Major in 2009 — one of the most prominent public celebrations of the traditional Mass in Rome in decades.
+He also famously celebrated a Solemn Pontifical Mass in the Traditional Rite at the Basilica of Santa Maria Maggiore on May 24, 2003 — the first such Mass offered by a cardinal in a Roman patriarchal basilica in roughly four decades, attended by five other cardinals and some three thousand faithful.
 
 ---
 
@@ -401,7 +443,7 @@ He also famously celebrated a Pontifical Mass in the Traditional Rite at the Bas
 
 **Role:** Prefect of the Congregation for the Doctrine of the Faith (2012–2017); primary Vatican interlocutor during the 2012 near-agreement and the subsequent Francis-era negotiations.
 
-**Born:** December 31, 1947, Fischbach, Germany.
+**Born:** December 31, 1947, Mainz, Germany.
 
 ---
 
@@ -411,7 +453,7 @@ Gerhard Müller succeeded Ratzinger (who had become Benedict XVI) as Prefect of 
 
 Müller's approach to the SSPX is more theologically demanding than Castrillón's was. He consistently insisted that full acceptance of Vatican II — not merely "in the light of Tradition" but as a legitimate exercise of the Magisterium — was a prerequisite for canonical regularization. His 2012 communications with the SSPX were detailed and theologically exacting.
 
-He was controversially dismissed by Pope Francis in 2017, reportedly over differences on various doctrinal and disciplinary matters unrelated to the SSPX. Since his departure from the CDF, he has become one of the more prominent critics of certain aspects of Francis's pontificate and has expressed sympathy for traditional Catholics' concerns, while maintaining that the SSPX's irregular situation requires resolution through submission to Rome.
+His five-year term was not renewed by Pope Francis in July 2017 — a decision Müller publicly criticized as abrupt and inadequately explained, and one widely read as reflecting differences on various doctrinal and disciplinary matters unrelated to the SSPX. Since his departure from the CDF, he has become one of the more prominent critics of certain aspects of Francis's pontificate and has expressed sympathy for traditional Catholics' concerns, while maintaining that the SSPX's irregular situation requires resolution through submission to Rome.
 
 ---
 
@@ -424,6 +466,7 @@ John Paul II's relationship with the SSPX was one of firm condemnation combined 
 His theological formation — phenomenological rather than Thomistic, influenced by Scheler and Husserl — was quite different from Lefebvre's, which may partially explain their mutual incomprehension. Lefebvre admired John Paul II's courageous opposition to Communism and his defense of human life but considered his approach to ecumenism and religious liberty deeply problematic.
 
 **Key document:**
+
 - *Ecclesia Dei* (July 2, 1988): [Vatican.va](https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_02071988_ecclesia-dei.html)
 
 ---
@@ -433,6 +476,7 @@ His theological formation — phenomenological rather than Thomistic, influenced
 **Role:** Pope (2013–2025); simultaneously the most restrictive pope toward the Traditional Mass and the most practically accommodating toward SSPX ministry.
 
 Francis's relationship with the SSPX defies simple characterization. He:
+
 - Extended and made permanent the SSPX's confession faculties (2015–2016).
 - Granted SSPX marriages practical validity (2017).
 - Continued periodic meetings with SSPX leadership.
@@ -443,7 +487,8 @@ His motivations remain a matter of debate. Some read his SSPX accommodations as 
 What is clear is that Francis never brought the SSPX to full canonical regularization despite multiple opportunities, and that *Traditionis Custodes* — whatever its intended effect — functioned in practice as a significant driver of SSPX growth.
 
 **Key documents:**
-- *Misericordia et Misera* (2016): [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20161120_misericordia-et-misera.html)
+
+- *Misericordia et Misera* (2016): [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html)
 - *Traditionis Custodes* (2021): [Vatican.va](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)
 
 ---
@@ -452,37 +497,40 @@ What is clear is that Francis never brought the SSPX to full canonical regulariz
 
 **Role:** Current reigning pope; his approach to the SSPX is still developing.
 
-**Born:** September 27, 1955, Chicago, Illinois, USA (Robert Francis Prevost).
+**Born:** September 14, 1955, Chicago, Illinois, USA (Robert Francis Prevost).
 **Elected:** May 8, 2025.
 
 Leo XIV is the first American pope and a member of the Order of Saint Augustine. His theological formation and his early papal statements suggest a figure oriented toward continuity with his immediate predecessors while bringing his own distinctive pastoral sensibility.
 
 His specific approach to the SSPX question has not been fully articulated as of the date of this document. Early indications suggest:
+
 - Continued openness to dialogue.
 - No reversal of the practical accommodations made by Francis.
 - Attention to the situation of Catholics affected by *Traditionis Custodes* — whether he will modify or reverse that document remains an open question with direct implications for the SSPX.
 
-*This entry will be updated as his pontificate develops. Send updated source material to incorporate.*
+<!-- TODO: revisit this entry as the Leo XIV pontificate develops, particularly after any decision on the planned July 1, 2026 SSPX consecrations and on the future of *Traditionis Custodes*. -->
 
 ---
 
 ## Summary Reference Table
 
-| Figure | Role | Period | Posture toward SSPX | Key contribution |
-|---|---|---|---|---|
-| Marcel Lefebvre | SSPX Founder | 1970–1991 | *Is* the SSPX | Founded Society; 1988 consecrations; theological vision |
-| António de Castro Mayer | Co-consecrator | 1988 | Ally | Validated Lefebvre's act; Campos model for reconciliation |
-| Bernard Fellay | Superior General | 1994–2018 | Conciliatory | 2000 pilgrimage; 2009 normalization; 2012 near-agreement |
-| Bernard Tissier de Mallerais | Theologian-bishop | 1988–2024 | Hardline | Lefebvre biography; rigorous theological opposition to V2 |
-| Richard Williamson | Bishop (expelled; deceased) | 1988–2012 | Extreme resistance | Holocaust controversy; "Resistance" movement |
-| Alfonso de Galarreta | First Assistant General | 1988–present | Firm, measured | Current governance; expected consecrator for July 2026 |
-| Davide Pagliarani | Superior General | 2018–present | Firm dialogue | New generation leadership; announced July 2026 consecrations |
-| Joseph Ratzinger / Benedict XVI | CDF Prefect → Pope | 1981–2013 | Most sympathetic Roman figure | *Summorum Pontificum*; lifted excommunications; "no formal schism" |
-| Castrillón Hoyos | Ecclesia Dei | 2000–2009 | Pastoral outreach | "Not in formal schism" statement; personal rapport with Fellay |
-| Gerhard Müller | CDF Prefect | 2012–2017 | Theologically demanding | 2012 negotiations; marriage faculties letter |
-| John Paul II | Pope | 1978–2005 | Firm condemnation + pastoral outreach | *Ecclesia Dei*; Campos reconciliation |
-| Francis | Pope | 2013–2025 | Paradoxical | Confession/marriage faculties; *Traditionis Custodes* |
-| Leo XIV | Pope | 2025–present | TBD | New pontificate; SSPX future unclear |
+
+| Figure                          | Role                        | Period       | Posture toward SSPX                   | Key contribution                                                   |
+| ------------------------------- | --------------------------- | ------------ | ------------------------------------- | ------------------------------------------------------------------ |
+| Marcel Lefebvre                 | SSPX Founder                | 1970–1991    | *Is* the SSPX                         | Founded Society; 1988 consecrations; theological vision            |
+| António de Castro Mayer         | Co-consecrator              | 1988         | Ally                                  | Validated Lefebvre's act; Campos model for reconciliation          |
+| Bernard Fellay                  | Superior General            | 1994–2018    | Conciliatory                          | 2000 pilgrimage; 2009 normalization; 2012 near-agreement           |
+| Bernard Tissier de Mallerais    | Theologian-bishop           | 1988–2024    | Hardline                              | Lefebvre biography; rigorous theological opposition to V2          |
+| Richard Williamson              | Bishop (expelled; deceased) | 1988–2012    | Extreme resistance                    | Holocaust controversy; "Resistance" movement                       |
+| Alfonso de Galarreta            | First Assistant General     | 1988–present | Firm, measured                        | Current governance; expected consecrator for July 2026             |
+| Davide Pagliarani               | Superior General            | 2018–present | Firm dialogue                         | New generation leadership; announced July 2026 consecrations       |
+| Joseph Ratzinger / Benedict XVI | CDF Prefect → Pope          | 1981–2013    | Most sympathetic Roman figure         | *Summorum Pontificum*; lifted excommunications; "no formal schism" |
+| Castrillón Hoyos                | Ecclesia Dei                | 2000–2009    | Pastoral outreach                     | "Not in formal schism" statement; personal rapport with Fellay     |
+| Gerhard Müller                  | CDF Prefect                 | 2012–2017    | Theologically demanding               | 2012 negotiations; marriage faculties letter                       |
+| John Paul II                    | Pope                        | 1978–2005    | Firm condemnation + pastoral outreach | *Ecclesia Dei*; Campos reconciliation                              |
+| Francis                         | Pope                        | 2013–2025    | Paradoxical                           | Confession/marriage faculties; *Traditionis Custodes*              |
+| Leo XIV                         | Pope                        | 2025–present | Not yet defined                       | First American pope; faces July 2026 SSPX consecrations decision   |
+
 
 ---
 
