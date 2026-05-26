@@ -1,4 +1,5 @@
 # Section 4: The Traditional Latin Mass vs the Novus Ordo
+
 ## The SSPX Compendium
 
 > **How to use this section.** This section examines the central liturgical dispute that gave rise to the SSPX. It covers the historical development of both rites, the specific theological differences the SSPX identifies between them, the *Ottaviani Intervention* in full, the official Catholic defense of the new Mass, and an honest assessment of which criticisms have been vindicated and which have not. The goal is to understand the substantive theological disagreement — not merely the aesthetic preference for Latin or chant, but the doctrinal claims about what the Mass *is* and what each rite *teaches*. Read §2 (Timeline) for context. After this section, §5 (Vatican II) examines the broader doctrinal disputes of which the liturgical question is one part.
@@ -30,6 +31,7 @@ The Traditional Latin Mass — often called the Tridentine Mass, the Usus Antiqu
 The 1570 Missal of Pius V was not itself an innovation. It codified what had been organically developing in the city of Rome for centuries. The structure of the Mass — Introit, Kyrie, Gloria, Collect, Epistle, Gradual, Gospel, Credo, Offertory, Canon, Pater Noster, Communion, Postcommunion — substantially preceded Pius V. The Roman Canon (Eucharistic Prayer I) was substantively present in the Gregorian Sacramentary of the 7th century and in some form goes back significantly earlier. The Mass said by Pius V was the Mass said by Gregory the Great (590–604), and substantially the Mass said by Ambrose, Augustine, and the Roman Christians of the patristic age.
 
 **The 1570 Missal was revised periodically over the centuries:**
+
 - Clement VIII (1604) — minor textual corrections.
 - Urban VIII (1634) — revision of the hymns of the Divine Office (not the Missal proper).
 - Leo XIII (1884) — small revisions.
@@ -47,23 +49,25 @@ The new Mass was produced by a body called the *Consilium ad exsequendam Constit
 
 **Key changes from the 1962 Missal:**
 
-| Element | 1962 Missal | 1969 Missal |
-|---|---|---|
-| Language | Latin (almost universally) | Vernacular permitted; Latin retained as official |
-| Direction of celebration | *Ad orientem* (priest and people facing same direction, toward the altar) | *Versus populum* (priest facing people) widely adopted, though not strictly required |
-| Lectionary | One-year cycle; relatively limited selections | Three-year cycle (Sunday); two-year cycle (weekday); substantially expanded |
-| Eucharistic Prayer | Roman Canon only (Eucharistic Prayer I) | Four Eucharistic Prayers; three additional later approved |
-| Offertory prayers | Sacrificial offering prayers (Suscipe, sancte Pater; Offerimus tibi, Domine) | Replaced with "blessing" prayers based on Jewish meal blessings |
-| Prayers at the foot of the altar | Psalm 42, Confiteor, etc. | Eliminated |
-| Last Gospel (John 1:1–14) | Recited at end of every Mass | Eliminated |
-| Confiteor | One for priest, one for people; mentions saints by name | Simplified; reduced mentions of saints |
-| Communion | Kneeling, on the tongue, host placed on tongue by priest | Standing also permitted; communion in the hand widely allowed |
-| Distribution | By priest or deacon only | Lay extraordinary ministers permitted |
-| Servers | Male only | Female altar servers permitted (1994) |
-| Sign of peace | Among clergy only | Extended to all faithful |
-| Words of consecration | "*Mysterium fidei*" within the consecration; "*pro multis*" ("for many") | "*Mysterium fidei*" moved out; vernacular translations often rendered "*pro multis*" as "for all" (later corrected) |
-| Prefaces | About 20 | Over 80 |
-| Saints' feasts | Calendar emphasizing martyrs and ancient saints | Calendar revised; many feasts removed, demoted, or relocated |
+
+| Element                          | 1962 Missal                                                                  | 1969 Missal                                                                                                         |
+| -------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Language                         | Latin (almost universally)                                                   | Vernacular permitted; Latin retained as official                                                                    |
+| Direction of celebration         | *Ad orientem* (priest and people facing same direction, toward the altar)    | *Versus populum* (priest facing people) widely adopted, though not strictly required                                |
+| Lectionary                       | One-year cycle; relatively limited selections                                | Three-year cycle (Sunday); two-year cycle (weekday); substantially expanded                                         |
+| Eucharistic Prayer               | Roman Canon only (Eucharistic Prayer I)                                      | Four Eucharistic Prayers; three additional later approved                                                           |
+| Offertory prayers                | Sacrificial offering prayers (Suscipe, sancte Pater; Offerimus tibi, Domine) | Replaced with "blessing" prayers based on Jewish meal blessings                                                     |
+| Prayers at the foot of the altar | Psalm 42, Confiteor, etc.                                                    | Eliminated                                                                                                          |
+| Last Gospel (John 1:1–14)        | Recited at end of every Mass                                                 | Eliminated                                                                                                          |
+| Confiteor                        | One for priest, one for people; mentions saints by name                      | Simplified; reduced mentions of saints                                                                              |
+| Communion                        | Kneeling, on the tongue, host placed on tongue by priest                     | Standing also permitted; communion in the hand widely allowed                                                       |
+| Distribution                     | By priest or deacon only                                                     | Lay extraordinary ministers permitted                                                                               |
+| Servers                          | Male only                                                                    | Female altar servers permitted (1994)                                                                               |
+| Sign of peace                    | Among clergy only                                                            | Extended to all faithful                                                                                            |
+| Words of consecration            | "*Mysterium fidei*" within the consecration; "*pro multis*" ("for many")     | "*Mysterium fidei*" moved out; vernacular translations often rendered "*pro multis*" as "for all" (later corrected) |
+| Prefaces                         | About 20                                                                     | Over 80                                                                                                             |
+| Saints' feasts                   | Calendar emphasizing martyrs and ancient saints                              | Calendar revised; many feasts removed, demoted, or relocated                                                        |
+
 
 This list is partial. The total transformation was extensive.
 
@@ -73,6 +77,9 @@ The composition of the Consilium that produced the Novus Ordo is important for u
 
 - The Consilium operated from 1964 to 1969.
 - Its proceedings were largely private. Vernacular liturgy emerged before the official promulgation; many reforms were introduced experimentally.
+
+
+
 - **Six Protestant observers** participated in the Consilium's work as invited consultors: A. Raymond George (Methodist), Ronald Jasper (Anglican), Massey Shepherd (Episcopalian), Friedrich Künneth (Lutheran), Eugene Brand (Lutheran), and Max Thurian (Reformed/Taizé).
 
 Their precise role is contested. Defenders of the new Mass argue they were observers only, with no formal voice in decisions. Critics — including the *Ottaviani Intervention* — argue that the very inclusion of Protestant consultors in the design of a Catholic liturgy signaled an ecumenical intent that shaped the outcome. Bugnini himself, in his memoir *The Reform of the Liturgy 1948–1975* (1990), confirmed the participation but described it as consultative.
@@ -87,7 +94,7 @@ The most important single document in the liturgical debate is the *Brief Critic
 
 ### Authorship and Significance
 
-The document was authored primarily by a group of Roman theologians (including Fr. Antonio Cipriotti and Fr. M. L. Guérard des Lauriers, O.P., among others) and signed by:
+The document was authored primarily by a group of Roman theologians — the principal intellectual force was the Dominican Fr. M. L. Guérard des Lauriers, O.P., then a lecturer at the Pontifical Lateran University in Rome — and signed by:
 
 - **Cardinal Alfredo Ottaviani** — former Pro-Prefect of the Sacred Congregation for the Doctrine of the Faith (the Holy Office); one of the most prominent traditionalist figures at Vatican II.
 - **Cardinal Antonio Bacci** — Latinist; participant in the Council.
@@ -100,9 +107,12 @@ This is not an SSPX document. It predates the SSPX. It was written by men who se
 
 The Ottaviani Intervention's most-cited passage:
 
+
+
 > "The *Novus Ordo Missae* — considering the new elements widely susceptible to widely different interpretations which are implied or taken for granted — represents, both as a whole and in its details, a striking departure from the Catholic theology of the Holy Mass as it was formulated in Session XXII of the Council of Trent. The 'canons' of the rite definitively fixed at that time provided an insurmountable barrier to any heresy directed against the integrity of the Mystery."
 
 **Analysis:**
+
 - The claim is precise: not that the new Mass is invalid, not that it is heretical, but that it constitutes a "striking departure" from the theology defined at Trent.
 - The reference to Trent Session XXII is to the canons defined September 17, 1562, which condemned specific Protestant errors about the Mass. The Council of Trent had explicitly fixed certain liturgical elements to safeguard those definitions.
 - The argument is structural: by removing or modifying the elements that Trent had fixed to safeguard against Protestant errors, the new Mass removes the safeguards even if it does not formally teach the errors.
@@ -133,15 +143,15 @@ The Intervention argues that the new rite, while containing the essential elemen
 
 Specific concerns:
 
-- **The Offertory prayers.** The traditional offertory included prayers explicitly identifying the bread and wine as offerings of sacrifice: *Suscipe, sancte Pater* ("Receive, holy Father, this spotless host which I, Your unworthy servant, offer to You..."); *Offerimus tibi, Domine* ("We offer You, O Lord, the chalice of salvation..."). These were replaced with prayers modeled on Jewish meal blessings: "Blessed are You, Lord God of all creation. Through Your goodness we have this bread to offer, which earth has given and human hands have made." The new prayers can be understood sacrificially — but they no longer *explicitly state* the sacrificial offering.
-
+- **The Offertory prayers.** The traditional offertory included prayers explicitly identifying the bread and wine as offerings of sacrifice: *Suscipe, sancte Pater* ("Receive, holy Father, this spotless host which I, Your unworthy servant, offer to You..."); *Offerimus tibi, Domine* ("We offer You, O Lord, the chalice of salvation..."). These were replaced with prayers modeled on Jewish meal blessings: "Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you, fruit of the earth and work of human hands; it will become for us the bread of life." The new prayers can be understood sacrificially — but they no longer *explicitly state* the sacrificial offering.
 - **The Roman Canon's reduced prominence.** Eucharistic Prayer I (the Roman Canon) was retained but is rarely used in practice. Eucharistic Prayer II — modeled in part on the early *Anaphora of Hippolytus* — is shorter and is the most commonly chosen. The Intervention argues this represents a marginalization of the Roman tradition's specific theology of sacrifice.
-
 - **Removal of explicit references to sin, judgment, and the propitiatory nature of the sacrifice** in various places throughout the rite.
 
 **3. The position and role of the priest.**
 
 The Intervention notes the change in language regarding the priest. The 1962 Missal calls the priest *sacerdos* (sacrificing priest) throughout. The 1969 Missal increasingly uses *presbyter* (elder), and the GIRM describes the priest as *presiding* over the assembly.
+
+
 
 > "[The priest's] function is reduced to that of a *Protestant minister*. In the new rite, he is no longer fundamentally a 'sacerdotal' figure but a 'presider' over the assembly."
 
@@ -150,6 +160,7 @@ This critique was, in the Intervention's judgment, especially concerning given t
 **4. The vernacular and the loss of Latin.**
 
 The Intervention notes that while *Sacrosanctum Concilium* §36 had stated that "the use of the Latin language is to be preserved in the Latin rites," the practical reform had reduced Latin to a vestigial role in most parishes. The Intervention argues this loss is not merely sentimental but doctrinal:
+
 - Latin's universality expressed the universality of the Catholic faith.
 - Latin's stability across centuries expressed the stability of Catholic doctrine.
 - Latin's separateness from everyday speech expressed the sacred character of the liturgy.
@@ -157,14 +168,17 @@ The Intervention notes that while *Sacrosanctum Concilium* §36 had stated that 
 **5. The orientation toward the people.**
 
 While *versus populum* is not strictly required by the new Missal, it has been almost universally implemented. The Intervention argues this change embodies a fundamentally different theology of the Mass:
+
 - *Ad orientem* expresses that the priest and people together face God — the priest leads the people in offering sacrifice to God.
 - *Versus populum* expresses that the priest faces the assembly — a "meal" rather than a "sacrifice," a "communal celebration" rather than a "presentation of the offering."
 
-The traditional position has been articulated by, among others, Cardinal Ratzinger in *The Spirit of the Liturgy* (2000): "A common turning to the east during the Eucharistic Prayer remains essential. This is not a case of accidentals, but of essentials. Looking at the priest has no importance. What matters is looking together at the Lord."
+The traditional position has been articulated by, among others, Cardinal Ratzinger in *The Spirit of the Liturgy* (2000): "A common turning to the east during the Eucharistic Prayer remains essential. This is not a case of something accidental, but of what is essential. Looking at the priest has no importance. What matters is looking together at the Lord."
 
 ### The Cover Letter to Paul VI
 
 In the cover letter accompanying the Intervention, Cardinals Ottaviani and Bacci wrote:
+
+
 
 > "Most Holy Father, having carefully examined, and presented for the scrutiny of others, the *Novus Ordo Missae*, prepared by experts of the *Consilium ad exsequendam Constitutionem de sacra Liturgia*, and after lengthy prayer and reflection, we feel it to be our bounden duty in the sight of God and towards Your Holiness, to put before you the following considerations: 1. The accompanying critical study of the *Novus Ordo Missae*, the work of a group of theologians, liturgists and pastors of souls, shows quite clearly in spite of its brevity that if we consider the innovations implied or taken for granted which may of course be evaluated in different ways, the *Novus Ordo* represents, both as a whole and in its details, a striking departure from the Catholic theology of the Mass as it was formulated in Session XXII of the Council of Trent."
 
@@ -175,6 +189,8 @@ The letter is a remarkable document — two cardinals, one of them the immediate
 Paul VI received the Intervention and made some revisions in response. The most significant was the rewriting of GIRM §7 (discussed above). The new Mass otherwise proceeded to promulgation.
 
 In a general audience on November 26, 1969 — four days before the new Mass took effect — Paul VI defended the reform:
+
+
 
 > "It is a great new step forward in tradition. A new rite of the Mass: a change in a venerable tradition that has gone on for centuries... It is more important to perceive than to see; more important to grasp than to make tangible... We will lose a great part of that stupendous and incomparable artistic and spiritual thing, the Gregorian chant. We have reason indeed for regret, reason almost for bewilderment. What can we put in the place of that language of the angels? We are giving up something of priceless worth."
 
@@ -198,9 +214,11 @@ Both forms of the Roman Rite affirm — and the SSPX and Rome equally hold — t
 
 These doctrines were defined or solemnly reaffirmed at the **Council of Trent, Session XXII** (September 17, 1562):
 
-> "Canon 1: If anyone says that in the Mass a true and proper sacrifice is not offered to God; or that to be offered is nothing else than that Christ is given to us to eat: let him be anathema."
+> "Canon 1: If any one saith, that in the mass a true and proper sacrifice is not offered to God; or, that to be offered is nothing else but that Christ is given us to eat; let him be anathema."
 >
-> "Canon 3: If anyone says that the sacrifice of the Mass is one only of praise and thanksgiving; or that it is a mere commemoration of the sacrifice consummated on the cross, but not a propitiatory one; or that it benefits only him who receives, and ought not to be offered for the living and the dead, for sins, punishments, satisfactions, and other necessities: let him be anathema."
+> "Canon 3: If any one saith, that the sacrifice of the mass is only a sacrifice of praise and of thanksgiving; or, that it is a bare commemoration of the sacrifice consummated on the cross, but not a propitiatory sacrifice; or, that it profits him only who receives; and that it ought not to be offered for the living and the dead for sins, pains, satisfactions, and other necessities; let him be anathema."
+>
+> — Council of Trent, Session XXII (September 17, 1562), Canons on the Sacrifice of the Mass
 
 The dispute is not about whether these doctrines are true. Both sides affirm them. The dispute is about whether the new Mass *adequately expresses and transmits* them.
 
@@ -228,7 +246,7 @@ Defenders of the new Mass — including most of the Catholic hierarchy and many 
 
 **Paul VI in *Mysterium Fidei* (1965)** had reaffirmed the doctrine of the Real Presence and transubstantiation in the strongest terms:
 
-> "The Catholic Church has always devoutly guarded as a most precious treasure the mystery of faith — that is, the ineffable gift of the Eucharist which she received from Christ her Spouse..."
+> "The Mystery of Faith, that is, the ineffable gift of the Eucharist that the Catholic Church received from Christ, her Spouse, as a pledge of His immense love, is something that she has always devoutly guarded as her most precious treasure..."
 
 This is the official position: the Catholic Church teaches the same doctrine on the Eucharist. The new Mass is not intended to deny anything Trent defined. Whether the new Mass adequately *expresses* what Trent defined is a separate question on which there is genuine disagreement.
 
@@ -240,7 +258,7 @@ In *The Spirit of the Liturgy* (2000), Ratzinger acknowledged real losses in the
 
 > "I am convinced that the crisis in the Church that we are experiencing today is to a large extent due to the disintegration of the liturgy, which at times has even come to be conceived of *etsi Deus non daretur*: in that it is a matter of indifference whether or not God exists and whether or not He speaks to us and hears us."
 
-And:
+And, more bluntly, in his memoir *Milestones: Memoirs 1927–1977* (English edition 1998):
 
 > "The prohibition of the missal that was now decreed, a missal that had known continuous development over the centuries ever since the time of the Sacramentary of the Gelasian period right up to the time of Pope John XXIII, was something quite extraordinary. Nothing of the sort had ever happened in the entire history of the liturgy."
 
@@ -276,19 +294,23 @@ This is the change the Ottaviani Intervention treats most extensively, and the c
 >
 > "We offer You, O Lord, the chalice of salvation, beseeching Your mercy that it may rise up with a pleasing fragrance in the sight of Your divine majesty, for our salvation and for that of the whole world. Amen."
 
-**New Offertory** (1969 Missal):
+**New Offertory** (1969 Missal; current English translation, 2011 Roman Missal Third Edition):
 
-> "Blessed are You, Lord, God of all creation. Through Your goodness we have this bread to offer, which earth has given and human hands have made. It will become for us the bread of life."
+> "Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you, fruit of the earth and work of human hands; it will become for us the bread of life."
 
-> "Blessed are You, Lord, God of all creation. Through Your goodness we have this wine to offer, fruit of the vine and work of human hands. It will become our spiritual drink."
+> "Blessed are you, Lord God of all creation, for through your goodness we have received the wine we offer you, fruit of the vine and work of human hands; it will become our spiritual drink."
+
+The Latin original of both prayers — *fructum terrae et operis manuum hominum* (for the bread) and *fructum vitis et operis manuum hominum* (for the wine) — has been unchanged since 1969. The 1973 ICEL English translation rendered the bread prayer asymmetrically ("which earth has given and human hands have made"); the 2011 retranslation restored the literal symmetry with the wine prayer.
 
 **Analysis:**
+
 - The traditional prayers explicitly identify the bread and wine as a sacrificial offering (*hostia* — "host," literally "victim") offered for sins.
 - The new prayers describe the bread and wine as offerings made for the assembly's spiritual benefit; the sacrificial language is significantly reduced.
 - The traditional prayers explicitly reference the propitiatory character (offered for sins) — central to Tridentine doctrine.
 - The new prayers are modeled on Jewish *berakhah* (blessing) prayers — appropriate for a meal blessing but theologically weaker as expressions of sacrificial offering.
 
 **Defense:** Catholic theologians who defend the new prayers note that:
+
 - The Roman Canon (Eucharistic Prayer I), if used, retains explicit sacrificial language throughout.
 - The other Eucharistic Prayers also contain sacrificial language, even if less abundantly than EP I.
 - The Offertory is technically preparatory to the Eucharistic Prayer; the sacrifice is offered in the consecration, not the Offertory.
@@ -317,11 +339,13 @@ In the Latin, the substance is essentially unchanged. *Mysterium fidei* has been
 For decades after the 1969 reform, the standard English translation rendered *pro multis* as "for all" rather than "for many." This was a translation choice, not a change in the Latin. The same was done in many other vernaculars (German *für alle*, etc.).
 
 **The traditionalist objection:**
+
 - "For many" reflects Christ's own words in the Gospels (Matthew 26:28, Mark 14:24: *peri pollōn*) — "for many."
 - "For many" preserves the Tridentine teaching that while Christ died for all in His sufficient sacrifice, the actual fruits of redemption are applied to those who accept them (in scholastic terms, the sacrifice is *sufficient* for all but *efficacious* for many).
 - "For all" risks suggesting universal salvation — that all are necessarily saved regardless of faith and works.
 
 **The defense:**
+
 - "For all" reflects God's universal salvific will (1 Timothy 2:4).
 - "Many" in Semitic usage often functioned as the opposite of "few," signifying a great multitude — i.e., not numerically less than "all" but expressing abundance.
 - Both translations are theologically defensible.
@@ -341,6 +365,7 @@ The Roman Canon — the only Eucharistic Prayer in the Tridentine Missal, retain
 - The choice of which Eucharistic Prayer to use is left to the priest. Different choices produce different theological emphases.
 
 **Defense:**
+
 - All four (and now seven) Eucharistic Prayers contain the essential elements of a valid Eucharist.
 - Variety in Eucharistic Prayers reflects the diverse traditions of the early Church.
 - The Roman Canon remains available and is used at major celebrations.
@@ -371,22 +396,27 @@ We can now state the theological dispute precisely.
 ### What They Disagree On
 
 **On the adequacy of the new rite:**
+
 - *Traditionalist position:* The new rite, while valid, expresses Catholic doctrine less clearly and less fully than the traditional rite. Its ambiguities have led to weakened Catholic belief in practice.
 - *Mainstream defender position:* The new rite expresses Catholic doctrine adequately when properly celebrated. Problems in implementation should not be confused with problems in the rite itself.
 
 **On the principle *lex orandi, lex credendi*:**
+
 - *Traditionalist position:* Liturgical formulations shape belief. Weakened liturgical expression produces weakened belief.
 - *Mainstream defender position:* The principle is real but not absolute. Doctrine is taught principally by the Magisterium; liturgy expresses but does not solely determine faith.
 
 **On the historical event of the reform:**
+
 - *Traditionalist position:* The 1969 reform was unprecedented in scope and was carried out in violation of the principle of organic development. It was effectively a fabrication rather than a reform.
 - *Mainstream defender position:* The reform was a legitimate exercise of papal authority over liturgy, mandated by an ecumenical council, carried out by competent authority.
 
 **On the role of Vatican II:**
+
 - *Traditionalist position:* The reform went far beyond what *Sacrosanctum Concilium* mandated. The Council called for preserving Latin and chant; the reform implementers ignored these directives.
 - *Mainstream defender position:* The reform appropriately developed what the Council had called for. *Sacrosanctum Concilium* anticipated and authorized substantial change.
 
 **On the practical consequences:**
+
 - *Traditionalist position:* The collapse of Catholic belief, vocations, and practice since 1969 is partially attributable to the liturgical reform.
 - *Mainstream defender position:* The collapse has many causes; blaming the liturgy is reductive.
 
@@ -448,41 +478,46 @@ What can also be said: the dispute is not closed. Catholics in good faith disagr
 
 ## Summary Reference Table
 
-| Question | SSPX/Traditionalist Position | Mainstream Catholic Position | Roman Position |
-|---|---|---|---|
-| Validity of Novus Ordo | Valid but problematic | Valid and licit | Valid; the ordinary form |
-| Validity of TLM | Valid; the proper Catholic Mass | Valid; the extraordinary form (until 2021); restricted form (after 2021) | Never abrogated (Benedict); now significantly restricted (Francis) |
-| Was the 1969 reform unprecedented in scope? | Yes, contrary to organic development | Yes, but legitimate | Acknowledged by Ratzinger; not formally addressed |
-| Is the new Offertory a doctrinal weakening? | Yes, by removing explicit sacrificial language | No, when read in context of EP I | Not formally addressed |
-| Is the role of Protestant observers significant? | Yes, evidence of ecumenical orientation | No, consultative only | Not formally addressed |
-| Did the reform contribute to decline in Catholic faith? | Yes, substantially | Partially, but not primarily | Implicitly acknowledged (Benedict) |
-| Should priests celebrate the Novus Ordo? | SSPX: No. Mainstream traditionalists: yes, if properly celebrated | Yes, normally | Required for diocesan clergy |
+
+| Question                                                | SSPX/Traditionalist Position                                      | Mainstream Catholic Position                                             | Roman Position                                                     |
+| ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Validity of Novus Ordo                                  | Valid but problematic                                             | Valid and licit                                                          | Valid; the ordinary form                                           |
+| Validity of TLM                                         | Valid; the proper Catholic Mass                                   | Valid; the extraordinary form (until 2021); restricted form (after 2021) | Never abrogated (Benedict); now significantly restricted (Francis) |
+| Was the 1969 reform unprecedented in scope?             | Yes, contrary to organic development                              | Yes, but legitimate                                                      | Acknowledged by Ratzinger; not formally addressed                  |
+| Is the new Offertory a doctrinal weakening?             | Yes, by removing explicit sacrificial language                    | No, when read in context of EP I                                         | Not formally addressed                                             |
+| Is the role of Protestant observers significant?        | Yes, evidence of ecumenical orientation                           | No, consultative only                                                    | Not formally addressed                                             |
+| Did the reform contribute to decline in Catholic faith? | Yes, substantially                                                | Partially, but not primarily                                             | Implicitly acknowledged (Benedict)                                 |
+| Should priests celebrate the Novus Ordo?                | SSPX: No. Mainstream traditionalists: yes, if properly celebrated | Yes, normally                                                            | Required for diocesan clergy                                       |
+
 
 ---
 
 ## Key Documents Referenced in This Section
 
-| Document | Date | Author | Relevance |
-|---|---|---|---|
-| Council of Trent, Session XXII | September 17, 1562 | Council of Trent | Definitive doctrine on the Mass; canons on sacrifice |
-| *Quo Primum* | July 14, 1570 | Pius V | Promulgated the Tridentine Missal |
-| *Mediator Dei* | November 20, 1947 | Pius XII | Encyclical on the sacred liturgy |
-| *Sacrosanctum Concilium* | December 4, 1963 | Vatican II | Constitution on the Sacred Liturgy |
-| *Mysterium Fidei* | September 3, 1965 | Paul VI | Encyclical on the Eucharist |
-| *Missale Romanum* | April 3, 1969 | Paul VI | Promulgated the Novus Ordo |
-| Ottaviani Intervention | September 25, 1969 | Cdls. Ottaviani & Bacci | Critical study of new Mass |
-| 1969 GIRM and 1970 revision | 1969/1970 | Consilium | General Instruction of the Roman Missal |
-| *The Spirit of the Liturgy* | 2000 | Cardinal Ratzinger | Sympathetic engagement with traditional liturgy |
-| *Summorum Pontificum* | July 7, 2007 | Benedict XVI | TLM as Extraordinary Form |
-| *Traditionis Custodes* | July 16, 2021 | Francis | Restrictions on TLM |
+
+| Document                       | Date               | Author                  | Relevance                                            |
+| ------------------------------ | ------------------ | ----------------------- | ---------------------------------------------------- |
+| Council of Trent, Session XXII | September 17, 1562 | Council of Trent        | Definitive doctrine on the Mass; canons on sacrifice |
+| *Quo Primum*                   | July 14, 1570      | Pius V                  | Promulgated the Tridentine Missal                    |
+| *Mediator Dei*                 | November 20, 1947  | Pius XII                | Encyclical on the sacred liturgy                     |
+| *Sacrosanctum Concilium*       | December 4, 1963   | Vatican II              | Constitution on the Sacred Liturgy                   |
+| *Mysterium Fidei*              | September 3, 1965  | Paul VI                 | Encyclical on the Eucharist                          |
+| *Missale Romanum*              | April 3, 1969      | Paul VI                 | Promulgated the Novus Ordo                           |
+| Ottaviani Intervention         | September 25, 1969 | Cdls. Ottaviani & Bacci | Critical study of new Mass                           |
+| 1969 GIRM and 1970 revision    | 1969/1970          | Consilium               | General Instruction of the Roman Missal              |
+| *The Spirit of the Liturgy*    | 2000               | Cardinal Ratzinger      | Sympathetic engagement with traditional liturgy      |
+| *Summorum Pontificum*          | July 7, 2007       | Benedict XVI            | TLM as Extraordinary Form                            |
+| *Traditionis Custodes*         | July 16, 2021      | Francis                 | Restrictions on TLM                                  |
+
 
 **Primary source links:**
+
 - Trent Session XXII: [Papal Encyclicals Online](https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm)
 - *Sacrosanctum Concilium*: [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)
 - *Mediator Dei*: [Vatican.va](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)
 - *Mysterium Fidei*: [Vatican.va](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)
 - *Missale Romanum*: [Vatican.va](https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html)
-- Ottaviani Intervention: [SSPX.org](https://sspx.org/en/ottaviani-intervention)
+- Ottaviani Intervention: print edition published by [Angelus Press](https://angeluspress.org/products/the-ottaviani-intervention); summary and citations at [Wikipedia](https://en.wikipedia.org/wiki/Ottaviani_Intervention)
 
 ---
 
