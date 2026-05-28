@@ -1,4 +1,5 @@
 # Section 5: Vatican II — What the SSPX Accepts, What They Resist, and Why
+
 ## The SSPX Compendium
 
 > **How to use this section.** This is the most theologically demanding section of the document. It addresses the substantive doctrinal dispute that underlies every other question — the question Benedict XVI identified in 2009 as the real barrier to regularization. The section proceeds document by document through the four most contested texts of Vatican II — *Dignitatis Humanae*, *Unitatis Redintegratio*, *Nostra Aetate*, and *Lumen Gentium* — examining what each text actually says, what the SSPX objects to, what prior Magisterium said on the same questions, and where the genuine tensions lie. Read §2 (Timeline), §4 (TLM vs Novus Ordo), and ideally §6 (Doctrinal Positions) before or alongside this. The goal is not to adjudicate the dispute but to give you the materials to do so yourself, with both sides represented honestly and with primary sources quoted directly.
@@ -39,7 +40,7 @@ Benedict argued that the rupture-hermeneutic was a misreading of the Council tha
 
 The SSPX accepts the principle that Council documents *should* be read in continuity with Tradition. Their argument is not that the Council intended rupture but that certain passages, even when read with maximum charity for continuity, cannot be reconciled with the prior Magisterium.
 
-Bishop Bernard Tissier de Mallerais, in *The Faith Imperiled by Reason* (2017), articulates the SSPX framework:
+Bishop Bernard Tissier de Mallerais, in *Faith Imperiled by Reason: Benedict XVI's Hermeneutics* (English ed. 2010), articulates the SSPX framework:
 
 > "We accept the hermeneutic of continuity in principle. But continuity is a fact, not merely a method of interpretation. If a text genuinely contradicts prior teaching, no hermeneutical method can make it continuous. Where genuine contradiction exists, the obligation of the Catholic is to hold to the prior, definitive teaching."
 
@@ -117,7 +118,7 @@ The SSPX's argument depends on what previous popes said on this specific questio
 >
 > From this poisoned source of indifferentism flows that absurd and erroneous opinion, or rather insanity, that *liberty of conscience* must be claimed and defended for everyone."
 
-[Vatican.va — *Mirari Vos*](https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-mirari-vos-15-augusti-1832.html) (Italian)
+[Papal Encyclicals Online — *Mirari Vos](https://www.papalencyclicals.net/greg16/g16mirar.htm)* (English); [Vatican.va — *Mirari Vos](https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-mirari-vos-15-augusti-1832.html)* (Italian)
 
 **Pope Pius IX, *Quanta Cura* (1864):**
 
@@ -133,18 +134,18 @@ The accompanying **Syllabus of Errors** (1864) listed condemned propositions inc
 >
 > "**Proposition 77:** In the present day it is no longer expedient that the Catholic religion should be held as the only religion of the State, to the exclusion of all other forms of worship. *— Condemned.*"
 >
-> "**Proposition 78:** Whence it has been wisely decided by law, in some Catholic countries, that persons coming to reside therein shall enjoy the public exercise of their own peculiar worship. *— Condemned.*"
+> "**Proposition 78:** Hence it has been wisely decided by law, in some Catholic countries, that persons coming to reside therein shall enjoy the public exercise of their own peculiar worship. *— Condemned.*"
 >
 > "**Proposition 80:** The Roman Pontiff can, and ought to, reconcile himself, and come to terms with progress, liberalism and modern civilization. *— Condemned.*"
 
-[Vatican.va — *Quanta Cura*](https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html)
+[Vatican.va — *Quanta Cura](https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html)*
 [Papal Encyclicals Online — Syllabus of Errors](https://www.papalencyclicals.net/pius09/p9syll.htm)
 
 **Pope Leo XIII, *Libertas Praestantissimum* (1888):**
 
 > "Justice therefore forbids, and reason itself forbids, the State to be godless; or to adopt a line of action which would end in godlessness — namely, to treat the various religions (as they call them) alike, and to bestow upon them promiscuously equal rights and privileges. Since, then, the profession of one religion is necessary in the State, that religion must be professed which alone is true, and which can be recognized without difficulty, especially in Catholic States, because the marks of truth are, as it were, engraved upon it."
 
-[Vatican.va — *Libertas*](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)
+[Vatican.va — *Libertas](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)*
 
 **Pope Pius IX, *Quanta Cura* (1864), explicit condemnation:**
 
@@ -274,7 +275,7 @@ The relevant prior teaching is most clearly articulated in Pope Pius XI's encycl
 >
 > So, Venerable Brethren, it is clear why this Apostolic See has never allowed its subjects to take part in the assemblies of non-Catholics: for the union of Christians can only be promoted by promoting the return to the one true Church of Christ of those who are separated from it... The unity of Christians cannot be otherwise obtained than by securing the return of the separated to the one true Church of Christ from which they once unhappily withdrew."
 
-[Vatican.va — *Mortalium Animos*](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_06011928_mortalium-animos.html)
+[Vatican.va — *Mortalium Animos](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)*
 
 The contrast between *Mortalium Animos* and *Unitatis Redintegratio* is striking:
 
@@ -288,6 +289,7 @@ Defenders argue:
 **1. The "subsists in" framework (from *Lumen Gentium*).**
 
 *Lumen Gentium* §8 states that the Church of Christ "subsists in" the Catholic Church — implying that genuine elements of the Church may exist outside its visible boundaries while the fullness of the Church is found only in Catholicism. This framework allows the affirmation that:
+
 - The Catholic Church is the one true Church.
 - Genuine ecclesial elements exist outside it.
 - Non-Catholic Christians may be in real, if imperfect, communion with the true Church through these elements.
@@ -370,10 +372,8 @@ The SSPX accepts that collective guilt for the death of Christ should not be att
 
 The relevant background includes:
 
-- **The doctrine *Extra Ecclesiam nulla salus*** — "Outside the Church there is no salvation." Defined at the Fourth Lateran Council (1215) and reaffirmed at the Council of Florence (1442): "[The holy Roman Church] firmly believes, professes, and proclaims that those not living within the Catholic Church... cannot become participants in eternal life, but will depart 'into everlasting fire'."
-
+- **The doctrine *Extra Ecclesiam nulla salus*** — "Outside the Church there is no salvation." Defined at the Fourth Lateran Council (1215) — "*Una vero est fidelium universalis Ecclesia, extra quam nullus omnino salvatur*" ("There is one universal Church of the faithful, outside which no one at all is saved") — and reaffirmed in the strongest terms at the Council of Florence, Bull *Cantate Domino* (February 4, 1442): "The Holy Roman Church firmly believes, professes and preaches that none of those existing outside the Catholic Church, not only pagans but also Jews and heretics and schismatics, can have eternal life, but will go into the eternal fire which was prepared for the devil and his angels, unless before death they are joined with Her."
 - **Pope Pius IX in *Quanto Conficiamur Moerore* (1863)** modified this for the modern context: those invincibly ignorant of the true religion, who follow the natural law and the will of God as best they know it, may be saved by extraordinary grace. But the salvation, in such cases, comes from Christ and through the Church, not from the false religion they nominally professed.
-
 - **Pope Pius XII in *Mystici Corporis* (1943)** elaborated: those outside the visible Catholic Church may be "ordered to" the Church by an unconscious desire (*votum implicitum*), and so saved through her. The Church remains the one ark of salvation; non-Catholics are saved through her, not despite her.
 
 The Catholic teaching has consistently been: salvation comes from God through Christ through the Catholic Church; those outside the visible Church may be saved only insofar as they are ordered toward her by invincible ignorance and good will.
@@ -405,7 +405,7 @@ The substantive theological question — what is the relationship between non-Ch
 
 ### Why This Phrase Matters
 
-Prior Catholic teaching — articulated for instance in Pius XII's *Mystici Corporis* (1943) — had used the formula "is" (*est*): "The Mystical Body of Christ... *is* the Catholic Roman Church."
+Prior Catholic teaching — articulated for instance in Pius XII's *Mystici Corporis Christi* (1943) — had used the formula "is" (*est*). The encyclical identifies "this true Church of Jesus Christ — which is the One, Holy, Catholic, Apostolic and Roman Church" with "the Mystical Body of Christ" (§13). The Catholic Church *is* the Mystical Body; not merely something in which the Mystical Body subsists.
 
 *Lumen Gentium*'s "subsists in" was a deliberate choice. The drafting committee chose it specifically to leave room for the recognition that "many elements of sanctification and of truth" exist outside the visible Catholic Church.
 
@@ -458,7 +458,7 @@ Key passages of concern:
 
 **On the human person (§22):**
 
-> "By his Incarnation, the Son of God has united Himself in some fashion with every human being."
+> "For by His incarnation the Son of God has united Himself in some fashion with every man."
 
 The SSPX argues this formulation, taken in isolation, suggests a universal ontological union of Christ with all persons that obscures the distinction between the baptized (who are members of Christ's Mystical Body) and the unbaptized (who are not, until they are baptized).
 
@@ -562,37 +562,41 @@ This is the substance of what §10–§12 will explore at greater length.
 
 ## Summary Reference Table
 
-| Document | SSPX accepts | SSPX objects to | Mainstream defense | Where dispute stands |
-|---|---|---|---|---|
-| *Dignitatis Humanae* | Faith must be free | Religious liberty as natural right; civil law parity for true/false religions | Distinguishes coercion from indifferentism; "due limits" | Most serious dispute; not resolved at level of texts |
+
+| Document                 | SSPX accepts                           | SSPX objects to                                                                | Mainstream defense                                             | Where dispute stands                                              |
+| ------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| *Dignitatis Humanae*     | Faith must be free                     | Religious liberty as natural right; civil law parity for true/false religions  | Distinguishes coercion from indifferentism; "due limits"       | Most serious dispute; not resolved at level of texts              |
 | *Unitatis Redintegratio* | Subjective good faith of non-Catholics | Non-Catholic communities as means of salvation; "ecumenism" replacing "return" | "Subsists in" framework allows recognition of genuine elements | Real shift; substantively defensible but pastorally consequential |
-| *Nostra Aetate* | Respect for persons of other religions | "Rays of truth" framework; treatment of Islam and Judaism | Pastoral tone, not dogmatic statement | Brief document; broader issues from subsequent practice |
-| *Lumen Gentium* §8 | Most of LG | "Subsists in" as opening branch-theory | 2007 CDF clarification | Substantially resolved at the textual level |
-| *Gaudium et Spes* | Most of GS | Excessive optimism toward modernity | Pastoral engagement appropriate to time | Critique partially confirmed by subsequent events |
+| *Nostra Aetate*          | Respect for persons of other religions | "Rays of truth" framework; treatment of Islam and Judaism                      | Pastoral tone, not dogmatic statement                          | Brief document; broader issues from subsequent practice           |
+| *Lumen Gentium* §8       | Most of LG                             | "Subsists in" as opening branch-theory                                         | 2007 CDF clarification                                         | Substantially resolved at the textual level                       |
+| *Gaudium et Spes*        | Most of GS                             | Excessive optimism toward modernity                                            | Pastoral engagement appropriate to time                        | Critique partially confirmed by subsequent events                 |
+
 
 ---
 
 ## Primary Source Quick Reference
 
-| Document | Year | Status | Vatican.va Link |
-|---|---|---|---|
-| *Mirari Vos* | 1832 | Encyclical, Gregory XVI | [Vatican](https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-mirari-vos-15-augusti-1832.html) |
-| *Quanta Cura* | 1864 | Encyclical, Pius IX | [Vatican](https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html) |
-| Syllabus of Errors | 1864 | Annex to *Quanta Cura* | [Papal Encyclicals Online](https://www.papalencyclicals.net/pius09/p9syll.htm) |
-| *Quanto Conficiamur Moerore* | 1863 | Encyclical, Pius IX | [Papal Encyclicals Online](https://www.papalencyclicals.net/pius09/p9quanto.htm) |
-| *Libertas Praestantissimum* | 1888 | Encyclical, Leo XIII | [Vatican](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html) |
-| *Pascendi Dominici Gregis* | 1907 | Encyclical, Pius X | [Vatican](https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html) |
-| *Quas Primas* | 1925 | Encyclical, Pius XI | [Vatican](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html) |
-| *Mortalium Animos* | 1928 | Encyclical, Pius XI | [Vatican](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_06011928_mortalium-animos.html) |
-| *Mystici Corporis* | 1943 | Encyclical, Pius XII | [Vatican](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html) |
-| *Lumen Gentium* | 1964 | Vatican II Constitution | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) |
-| *Unitatis Redintegratio* | 1964 | Vatican II Decree | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html) |
-| *Nostra Aetate* | 1965 | Vatican II Declaration | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html) |
-| *Dignitatis Humanae* | 1965 | Vatican II Declaration | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html) |
-| *Gaudium et Spes* | 1965 | Vatican II Constitution | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html) |
-| *Dominus Iesus* | 2000 | CDF Declaration | [Vatican](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_en.html) |
-| 2005 Christmas Address | 2005 | Benedict XVI to Roman Curia | [Vatican](https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december/documents/hf_ben-xvi_spe_20051222_roman-curia.html) |
-| 2007 CDF *Responses* on the Church | 2007 | CDF | [Vatican](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070629_responsa-quaestiones_en.html) |
+
+| Document                           | Year | Status                      | Vatican.va Link                                                                                                                                                                                                         |
+| ---------------------------------- | ---- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Mirari Vos*                       | 1832 | Encyclical, Gregory XVI     | [Papal Encyclicals Online](https://www.papalencyclicals.net/greg16/g16mirar.htm) (English); [Vatican.va](https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-mirari-vos-15-augusti-1832.html) (Italian) |
+| *Quanta Cura*                      | 1864 | Encyclical, Pius IX         | [Vatican](https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html)                                                                                                              |
+| Syllabus of Errors                 | 1864 | Annex to *Quanta Cura*      | [Papal Encyclicals Online](https://www.papalencyclicals.net/pius09/p9syll.htm)                                                                                                                                          |
+| *Quanto Conficiamur Moerore*       | 1863 | Encyclical, Pius IX         | [Papal Encyclicals Online](https://www.papalencyclicals.net/pius09/p9quanto.htm)                                                                                                                                        |
+| *Libertas Praestantissimum*        | 1888 | Encyclical, Leo XIII        | [Vatican](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)                                                                                                        |
+| *Pascendi Dominici Gregis*         | 1907 | Encyclical, Pius X          | [Vatican](https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)                                                                                             |
+| *Quas Primas*                      | 1925 | Encyclical, Pius XI         | [Vatican](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)                                                                                                        |
+| *Mortalium Animos*                 | 1928 | Encyclical, Pius XI         | [Vatican](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)                                                                                                   |
+| *Mystici Corporis*                 | 1943 | Encyclical, Pius XII        | [Vatican](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)                                                                                         |
+| *Lumen Gentium*                    | 1964 | Vatican II Constitution     | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)                                                                                        |
+| *Unitatis Redintegratio*           | 1964 | Vatican II Decree           | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)                                                                              |
+| *Nostra Aetate*                    | 1965 | Vatican II Declaration      | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)                                                                                         |
+| *Dignitatis Humanae*               | 1965 | Vatican II Declaration      | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html)                                                                                    |
+| *Gaudium et Spes*                  | 1965 | Vatican II Constitution     | [Vatican](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)                                                                                      |
+| *Dominus Iesus*                    | 2000 | CDF Declaration             | [Vatican](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_en.html)                                                                                           |
+| 2005 Christmas Address             | 2005 | Benedict XVI to Roman Curia | [Vatican](https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html)                                                                                     |
+| 2007 CDF *Responses* on the Church | 2007 | CDF                         | [Vatican](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070629_responsa-quaestiones_en.html)                                                                                    |
+
 
 ---
 
