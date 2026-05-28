@@ -50,11 +50,9 @@ The Holy Mass is:
 >
 > Canon 3: If anyone says that the sacrifice of the Mass is one only of praise and thanksgiving, or that it is a mere commemoration of the sacrifice consummated on the cross, but not a propitiatory one; or that it benefits only him who receives, and ought not to be offered for the living and the dead, for sins, punishments, satisfactions, and other necessities, let him be anathema."
 
-**Pope Pius XII, *Mediator Dei* (1947):**
+**Pope Pius XII, *Mediator Dei* (1947), §68:**
 
-> "By the 'descent' of the Word the eternal High Priest comes among us, and the holy sacrifice is offered: the same Christ Himself is at the same time, in this Sacrifice, offering and offered; the same victim who was offered on the cross, only the manner of offering being different..."
->
-> "Without a doubt, the liturgy is the most important means by which the supernatural sanctification of the faithful is effected... The faithful are to be reminded that all human efforts to bring people back to the unity of the Christian faith are vain unless God Himself comes to their assistance; for the Church which He founded subsists by His will alone."
+> "The august sacrifice of the altar, then, is no mere empty commemoration of the passion and death of Jesus Christ, but a true and proper act of sacrifice, whereby the High Priest by an unbloody immolation offers Himself a most acceptable victim to the Eternal Father, as He did upon the cross. 'It is one and the same victim; the same person now offers it by the ministry of His priests, who then offered Himself on the cross, the manner of offering alone being different.'"
 
 [Vatican.va — *Mediator Dei*](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)
 
@@ -100,7 +98,7 @@ The Catholic priest is:
 
 > "The priest belongs not to himself, not to his family or country, but to all those for whom Christ died... The priesthood... is not a profession freely chosen and adopted, as if it were a career, but a state of life essentially different from that of the laity, willed by Christ Himself for the welfare of souls."
 
-[Vatican.va — *Menti Nostrae*](https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_23091950_menti-nostrae.html)
+[Papal Encyclicals Online — *Menti Nostrae*](https://www.papalencyclicals.net/pius12/p12clerg.htm) (English); [Vatican.va — *Menti Nostrae*](https://www.vatican.va/content/pius-xii/la/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html) (Latin) — Apostolic Exhortation, September 23, 1950
 
 **St. John Eudes, in *The Priest, His Dignity and Obligations* (cited universally in pre-conciliar seminary formation):**
 
@@ -249,7 +247,7 @@ Catholic relations with non-Catholic Christians should be characterized by:
 >
 > "Furthermore, in this one Church of Christ no man can be or remain who does not accept, recognize and obey the authority and supremacy of Peter and his legitimate successors. Did not the ancestors of those who are now entangled in the errors of Photius and the reformers, obey the Bishop of Rome, the chief shepherd of souls?"
 
-[Vatican.va — *Mortalium Animos*](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_06011928_mortalium-animos.html)
+[Vatican.va — *Mortalium Animos*](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)
 
 **Pope Pius XII, *Mystici Corporis Christi* (1943):**
 
@@ -299,18 +297,21 @@ The SSPX position can be summarized as: full acceptance of Catholic doctrine on 
 
 The classical Catholic theologians — Cajetan, Bellarmine, Suarez, John of St. Thomas — all held that there are theoretical limits to papal authority. None of them ever claimed the pope could teach error in defined doctrine; all of them recognized that the pope's authority operates within Catholic Tradition, not above it.
 
-**St. Robert Bellarmine, *De Romano Pontifice*, Book II, Chapter 30:**
+<!-- TODO (print-source): Verify the exact English wording against a critical edition of De Romano Pontifice (e.g., the Ryan Grant translation, Mediatrix Press) or the Vivès Latin Opera Omnia. SSPX-aligned literature sometimes cites this passage as "II.30," but Chapter 30 in the standard Latin numbering is "Whether a Heretical Pope Can Be Deposed?" — the resistance passage is in Chapter 29 ("On the Pope's Errors and Mistakes"). The text below reflects the standard English rendering. -->
+**St. Robert Bellarmine, *De Romano Pontifice*, Book II, Chapter 29:**
 
 > "Just as it is licit to resist a pontiff who attacks the body, so it is licit to resist one who attacks souls or destroys the civil order, or above all, who tries to destroy the Church. I say that it is licit to resist him by not doing what he commands, and by impeding the execution of his will."
 
 This passage from one of the most distinguished post-Tridentine theologians — a Doctor of the Church — is foundational to the SSPX's framework. Bellarmine is not authorizing schism; he is articulating the classical Catholic principle that obedience to the pope is bounded by obedience to Catholic Tradition. Where they conflict, the Tradition prevails — though this is, on Bellarmine's analysis, a rare and limit case requiring great prudence.
 
+<!-- TODO (print-source): Cajetan's De Comparatione Auctoritatis Papae et Concilii (1511) is preserved chiefly in the 1936 Pollet critical edition (Romae, Apud Institutum Angelicum). Verify the English wording below against a critical edition or scholarly translation; the Galatians 2:11–14 allusion is integral to the argument but the exact phrasing of the quoted English may reflect a translator's paraphrase. -->
 **Cardinal Cajetan, *De Comparatione Auctoritatis Papae et Concilii* (1511):**
 
 > "If the pope, by erroneous teaching or unlawful command, tries to destroy the faith, every Catholic is bound to resist him to his face, just as Paul resisted Peter."
 
 The reference is to Galatians 2:11–14, where St. Paul opposes St. Peter for behavior contrary to the truth of the Gospel — a New Testament instance of one apostle resisting another, including the first pope, when his conduct deviated from the truth.
 
+<!-- TODO (print-source): Verify against a critical Latin edition of Suárez's Defensio Fidei Catholicae (Coimbra 1613). The English wording below is the standard SSPX-cited version; the precise location (Book IV vs. some editions' Book III "On Schism") and chapter number should be checked. -->
 **Francisco Suárez, *Defensio Fidei Catholicae*, Book IV, Chapter 12 (1613):**
 
 > "[The pope] could be schismatic if he were unwilling to be in normal union with the whole body of the Church, as would occur if he attempted to excommunicate the whole Church, or if he wanted to overturn all the ecclesiastical ceremonies confirmed by Apostolic Tradition... For he could not, even by his own command, conduct himself differently."
@@ -407,9 +408,9 @@ The Catholic Church is:
 
 ### Supporting Catholic Tradition
 
-**Council of Florence, *Cantate Domino* (1442)** — the most explicit definition:
+**Council of Florence, Bull *Cantate Domino* (February 4, 1442)** — the most explicit definition:
 
-> "[The holy Roman Church] firmly believes, professes, and proclaims that those not living within the Catholic Church, not only pagans but also Jews and heretics and schismatics, cannot become participants in eternal life, but will depart 'into everlasting fire which was prepared for the devil and his angels' (Mt. 25:41), unless before the end of life the same have been added to the flock; and that the unity of the ecclesiastical body is so strong that only to those remaining in it are the sacraments of the Church of benefit for salvation, and do fastings, almsgiving, and other functions of piety and exercises of Christian service produce eternal reward, and that no one, whatever almsgiving he has practiced, even if he has shed blood for the name of Christ, can be saved, unless he has remained in the bosom and unity of the Catholic Church."
+> "The Holy Roman Church firmly believes, professes and preaches that none of those existing outside the Catholic Church, not only pagans but also Jews and heretics and schismatics, can have eternal life, but will go into the eternal fire which was prepared for the devil and his angels, unless before death they are joined with Her; and that the unity of the ecclesiastical body is so strong that only to those remaining in it are the sacraments of the Church of benefit for salvation, and do fastings, almsgiving, and other functions of piety and exercises of Christian service produce eternal reward, and that no one, whatever almsgiving he has practised, even if he has shed blood for the name of Christ, can be saved, unless he has remained in the bosom and unity of the Catholic Church."
 
 This is a definitive statement of *Extra Ecclesiam nulla salus*. It is also one of the most demanding texts in the Catholic tradition, and one that requires careful interpretation in light of later developments.
 
@@ -511,7 +512,7 @@ The SSPX is careful to note: they do not claim that everything good in the Churc
 
 The crisis is acknowledged at the highest levels of the Church, even by figures unsympathetic to the SSPX:
 
-**Cardinal Joseph Ratzinger, in *The Ratzinger Report* (1985):**
+**Cardinal Joseph Ratzinger, in his memoir *Milestones: Memoirs 1927–1977* (Italian original *La Mia Vita*, 1997; English edition 1998):**
 
 > "I am convinced that the ecclesial crisis in which we find ourselves today depends in great part upon the collapse of the liturgy."
 
@@ -519,7 +520,8 @@ The crisis is acknowledged at the highest levels of the Church, even by figures 
 
 > "From some fissure the smoke of Satan has entered the temple of God."
 
-**Pope Benedict XVI, in his 2010 *Light of the World*:**
+<!-- TODO (print-source): Verify against the Ignatius Press / Herder edition of Light of the World: The Pope, the Church, and the Signs of the Times — A Conversation with Peter Seewald (2010). The widely-circulated rendering "I do not deny that there is a crisis" appears to be a paraphrase; the fuller exchange in the abuse-crisis chapter reads "Yes, it is a great crisis, we have to say that." -->
+**Pope Benedict XVI, in his 2010 *Light of the World: A Conversation with Peter Seewald*:**
 
 > "I do not deny that there is a crisis."
 
