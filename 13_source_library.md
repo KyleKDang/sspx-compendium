@@ -513,6 +513,13 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
+### SSPX — *The Episcopal Consecrations* podcast series (2026)
+- **What it is:** A nine-episode interview series produced by the SSPX in the weeks before the planned July 1, 2026 consecrations at Écône. Episode 1 features Fr. Robert Brucciani — the Society's current Bursar General — on the life of Archbishop Lefebvre from birth through the founding of the SSPX. Subsequent episodes treat the Council, the 1976 Mass at Lille, the suspension *a divinis*, the 1988 consecrations, and the 2026 decision to consecrate four new bishops.
+- **Why it matters:** The most authoritative recent SSPX presentation of the rationale for the 2026 consecrations, delivered by current Society leadership in extended unscripted form. Several episodes contain material — particularly Lefebvre's biographical formation, the institutional logic of the Society (the "complete Catholic ecosystem" articulation, the six statutory works), and the architectural reasons the SSPX bishops are auxiliary rather than territorial — that does not appear in the Society's written sources.
+- **Where to find it:** SSPX podcast platforms; YouTube (search "SSPX Episcopal Consecrations" or "FSSPX podcast").
+
+---
+
 ### Bishop Tissier de Mallerais — Theological Conferences (Various dates)
 - **What they are:** Recorded theological conferences, primarily on the doctrinal questions surrounding Vatican II and the SSPX's positions.
 - **Why they matter:** Tissier is the most theologically sophisticated of the four 1988 bishops; his conferences on *Dignitatis Humanae* and ecumenism are the most rigorous presentation of the SSPX's theological case.

@@ -49,6 +49,8 @@ The SSPX does not understand itself as a movement, a sect, a splinter group, or 
 
 **It is a sign of contradiction.** The SSPX is aware that its existence is itself a theological statement — that a Catholic community can survive, grow, and thrive by holding the pre-conciliar faith in its integrity. The steady growth of the SSPX (vocations, schools, families, converts) is presented by its defenders as evidence that the traditional faith retains its power to attract and form genuine Catholics. The existence of the SSPX is, in this sense, not merely a canonical problem but a pastoral argument.
 
+**It is a complete Catholic ecosystem, not merely a chapel network.** Lefebvre's founding logic was that the Society could not be only a network of Mass centers. The chain is unbroken: the SSPX exists for the Mass; the Mass requires holy priests; holy priests require a seminary that forms them in Catholic doctrine and spirituality; the seminary requires Catholic families who raise virtuous sons; Catholic families require schools, religious houses, and a sacramental life that does not exist in fragments. The Society has therefore deliberately built — alongside its priories and Mass centers — schools, sister congregations (Carmels, the teaching Dominicans of Brignoles and Fanjeaux, the Consoling Sisters of the Sacred Heart in India, contemplative Dominicans, a contemplative congregation in Spain praying specifically for priests, and several others), Benedictine and Franciscan men's monasteries, and a network of roughly seventeen friendly traditional communities that share its formation and orientation. In its own self-understanding, the SSPX is not a chapel network with a seminary attached; it is a complete Catholic ecosystem of which the seminary and the chapels are the visible parts. [→ §10 Case For]
+
 ---
 
 ## Part III: What Rome Says the SSPX Is
@@ -73,7 +75,22 @@ Rome's official position on the SSPX has evolved significantly over the nearly f
 
 ## Part IV: What the SSPX Actually Is — Size, Structure, and Global Presence
 
-The SSPX is not a small fringe community. It is a substantial global institution with a complete institutional life. As of late 2025:
+The SSPX is not a small fringe community. It is a substantial global institution with a complete institutional life.
+
+### Statutory Purpose: The Six Works
+
+The SSPX's governing statutes — internal documents which the Society does not publish — list six works that constitute its purpose, in this order:
+
+1. The formation of holy priests in the Society's seminaries.
+2. The continued education and sanctification of priests, including non-SSPX clergy.
+3. The formation and sanctification of religious brothers, oblate sisters, catechists, and other auxiliaries who serve the work of the Society.
+4. The education and sanctification of children in the Society's schools.
+5. The education and sanctification of children and adults — and the administration of the sacraments — in the Society's Mass centers.
+6. The care of elderly priests in their final years (any priest, not only SSPX members).
+
+Two features of this list are worth marking. First, *the chapel and Mass-center apostolate is fifth, not first* — the priesthood-formation works precede it in the statutory order. The SSPX is not a Sunday-attendance organization that happens to operate a seminary; it is a priesthood-formation society that operates Mass centers as one of its works. Second, the sixth work is the care of priests beyond the Society's own membership: the SSPX statutorily refuses to confine its priestly charity to its own ranks.
+
+The remainder of this section describes the resources by which these six works are carried out — as of late 2025:
 
 ### Clergy
 - **733 priests** worldwide (as of November 1, 2025) — making the Society one of the larger priestly bodies in the Catholic world and by far the largest among traditionalist societies.

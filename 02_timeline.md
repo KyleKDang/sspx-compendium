@@ -26,7 +26,7 @@ John XXIII frames the Council's purpose with the Italian word *aggiornamento* �
 
 **October 11, 1962 – December 8, 1965.** The Council convenes in four sessions at St. Peter's Basilica. Approximately 2,540 bishops attend the opening session; some 2,900 are entitled to participate over the course of the four sessions. It produces sixteen documents: four Constitutions, nine Decrees, and three Declarations.
 
-**Archbishop Marcel Lefebvre** is present throughout as a Council Father. He serves on the Central Preparatory Commission and signs many of the final documents — a fact that critics of the SSPX frequently cite. Lefebvre himself would later clarify that he signed under significant pressure and social expectation, and that he came to regret several signatures.
+**Archbishop Marcel Lefebvre** is present throughout as a Council Father. He serves on the Central Preparatory Commission and helps organize the ***Coetus Internationalis Patrum*** — an international working group of conservative-minded Council Fathers (co-led with Archbishop Geraldo de Proença Sigaud of Diamantina, Brazil, and Bishop Antônio de Castro Mayer of Campos, Brazil) that attempts to defend the original prepared schemas after the Franco-German-Dutch bloc succeeds in setting them aside in the opening session. The *Coetus* secures modifications to several conciliar texts and is credited with substantially shaping the final form of others, but does not prevent the conciliar majority from prevailing on the most contested questions of religious liberty, ecumenism, and the Church's relation to the modern world. Lefebvre signs many of the final documents — a fact that critics of the SSPX frequently cite — but later clarifies that he signed under significant pressure and social expectation, and that he came to regret several signatures. [→ §3 Key Figures: Lefebvre, Sigaud, Castro Mayer]
 
 **The documents the SSPX would come to contest most sharply:**
 
@@ -95,9 +95,13 @@ Paul VI makes several revisions to the Missal in response but proceeds with prom
 
 ---
 
-### 1970 — SSPX Founded at Écône
+### 1969–1970 — Foundation of the SSPX
 
-**November 1, 1970.** Archbishop Marcel Lefebvre establishes the *Fraternité Sacerdotale Saint-Pie X* (Society of Saint Pius X) in Écône, in the canton of Valais, Switzerland. The Society receives canonical approval from Bishop François Charrière of the Diocese of Lausanne, Geneva, and Fribourg as a *pia unio* (pious union) — a recognized association within the Church.
+**July 2, 1969.** Living in semi-retirement in Rome after his 1968 resignation from the Spiritans, Lefebvre — approached by a small group of seminarians who had sought him out from the French Seminary at Santa Chiara, alarmed by the post-conciliar collapse of their own formation — establishes the **Saint Pius X Association for Priestly Training** in Fribourg, Switzerland, with the agreement of his friend Bishop François Charrière. The Association is conceived as a residence and community for diocesan seminarians who would attend the University of Fribourg for their academic studies while receiving traditional spiritual formation and liturgical life in community. It is the institutional seed of the future Society.
+
+Within months it becomes apparent that the University of Fribourg itself has absorbed the post-conciliar currents Lefebvre wished to escape, and he is compelled to set up a self-contained teaching faculty. A group of Swiss benefactors acquires the former property of the Canons of Saint Bernard at Écône, in the canton of Valais, and offers it to him; with the reluctant oral consent of Bishop Nestor Adam of Sion, Lefebvre opens a preparatory year of spirituality at Écône in the autumn of 1969 — the full seminary will follow the next year.
+
+**November 1, 1970.** Archbishop Marcel Lefebvre formally establishes the *Fraternité Sacerdotale Saint-Pie X* (Society of Saint Pius X) at Écône, in the canton of Valais, Switzerland. The Society receives canonical approval from Bishop François Charrière of the Diocese of Lausanne, Geneva, and Fribourg as a *pia unio* (pious union) — a recognized association within the Church.
 
 The Society's stated purpose: the formation and sanctification of Catholic priests according to traditional standards, for the service of the Church. Lefebvre names it after Pope Pius X, the pope who had condemned Modernism in the encyclical *Pascendi Dominici Gregis* (1907).
 

@@ -124,6 +124,8 @@ This is the SSPX's reason for existing. Not to be a permanent parallel structure
 
 The SSPX is, on this self-understanding, not a movement of innovation but a community of preservation. In a time when the broader Church was discarding much of its inheritance, someone had to keep it alive. The SSPX took up that responsibility.
 
+Lefebvre's solution was structural, not merely liturgical. Preserving the Mass meant preserving the priesthood that offered it; preserving the priesthood meant preserving the seminary that formed it; preserving the seminary meant preserving the Catholic families that supplied it; preserving Catholic families meant preserving the schools, the sister congregations, and the religious life that supported them. None of these elements can survive in isolation. The Society's reach — six international seminaries, scores of schools, contemplative and active sister congregations on five continents, Benedictine and Franciscan men's monasteries, an associated network of roughly seventeen traditional communities — is not institutional ambition. It is, in Lefebvre's logic, the minimum structure required to preserve a complete Catholic life through a generational crisis. The chapel network is one organ of that life, not the body. [→ §1 Part IV; §10 the parallel-church objection below]
+
 ### Empirical Evidence in the SSPX's Favor
 
 If the SSPX's diagnosis were wrong — if the post-conciliar Church were spiritually healthy, full of vibrant faith, attracting vocations, forming saints — the SSPX would have nothing to point to as evidence of crisis. But the empirical reality is the opposite. The communities that have preserved traditional Catholicism, the SSPX prominent among them, have generally been the strongest spiritually:
@@ -244,7 +246,7 @@ The SSPX argues that Rome's own behavior toward the Society — across four deca
 
 **2015–2017:** Pope Francis grants permanent faculties for valid and licit confessions (2016) and establishes the marriage delegation framework (2017). Rome positively confers what for decades had been disputed.
 
-**2019–present:** The SSPX continues to consecrate bishops without papal mandate. Rome imposes no new excommunications. The 1988 act, on Rome's own behavior, was apparently not as schismatic as the 1988 documents had suggested.
+**1988–early 2026:** No further SSPX consecrations occur — the Society relies for thirty-eight years on the four bishops consecrated in 1988. Rome's stated position softens steadily across this period: *Summorum Pontificum* (2007), the 2009 remission of the excommunications, the 2016 confession faculty, the 2017 marriage delegation framework. None of these acts is conditioned on the SSPX retracting or repenting of the 1988 consecrations. The 1988 act, on Rome's own subsequent behavior, was apparently not as schismatic as the 1988 documents had suggested.
 
 This is not a story of an embattled rebel group versus a steady Roman authority. It is a story of Rome itself, over forty years, progressively normalizing the situation of the SSPX — vindicating the SSPX's liturgical claims, abandoning the schism language, lifting the penalties, granting the faculties, tolerating subsequent consecrations without new condemnations.
 
@@ -322,6 +324,8 @@ They were canonically irregular but not, the SSPX argues, sinful — because the
 ### "The SSPX is a parallel church."
 
 The SSPX has no ambition to be a parallel church. They have repeatedly engaged in negotiations toward regularization. They explicitly affirm the Catholic Church's unity and the pope's authority. They recognize their irregular status as a problem to be solved, not a permanent state to be celebrated. Their continued existence in irregular status is, on their analysis, a temporary necessity, not a settled vocation. [→ §1 Self-Understanding; §10 Continuing Application]
+
+There is also a structural argument that often goes unnoticed. Lefebvre deliberately designed the SSPX's episcopate as *auxiliary*: the Society's bishops have no diocesan territory, no ordinary jurisdiction, and no claim to be the proper pastors of any portion of the faithful. Their role is restricted to those sacraments which require episcopal orders — confirmations and ordinations. The Society does not erect dioceses; its Mass centers are not parishes in the proper canonical sense; its priests do not claim canonical mission from the local Ordinary but recognize that Ordinary as the legitimate diocesan bishop of the territory. As Lefebvre repeatedly insisted to his own priests — recently restated by the Society's current Bursar General — "I do not want to give any semblance of creating a parallel hierarchy, because that would be schismatic." The architecture of the Society — auxiliary bishops only, no territorial claim, no rival jurisdiction — is built around the refusal to constitute a parallel structure. This is not merely a rhetorical disclaimer; it is the canonical shape of the Society itself. [→ §7 Canon Law]
 
 ---
 
