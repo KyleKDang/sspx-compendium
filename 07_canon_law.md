@@ -227,6 +227,14 @@ This canon provides a fallback defense: even if Lefebvre was wrong that a state 
 
 ---
 
+### Canon 1345 — Judicial Discretion to Refrain from Punishment
+
+A third anchor in the same canonical complex. Canon 1345 of CIC 1983 authorizes the judge — where the offender had only an imperfect use of reason, acted under necessity, fear, passion, or a disturbed mental state, and where reform appears achievable otherwise — to refrain from imposing any punishment, unless justice or the repair of scandal positively requires it.
+
+Three canons (1323, 1324, 1345) thus form a graduated structure: 1323 exempts from the penalty altogether where strict necessity is met; 1324 mitigates the penalty where the offender in good faith believed himself within 1323; 1345 leaves the judge discretion to omit penalty even outside the strict exemption. The SSPX's case rests primarily on 1323 §4; 1324 and 1345 are the canonical fallbacks if a court were to find that the strict 1323 conditions were not perfectly met.
+
+---
+
 ### Canon 144 — Supplied Jurisdiction
 
 This canon is crucial for understanding the validity of SSPX sacraments — particularly confessions and marriages.

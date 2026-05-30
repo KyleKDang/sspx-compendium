@@ -127,6 +127,8 @@ Most thoughtful Catholics who engage the evidence seriously end up in Position C
 
 This is the prudential question. It depends partly on your Level 1 conclusions but is not determined by them.
 
+A methodological note before proceeding. Most disagreement about the SSPX at this level is *not* disagreement about the principles of the state of necessity. The classical doctrine — that human ecclesiastical law admits of exceptions where its observance would frustrate the common good and salvation of souls — is uncontroversial in the Catholic moral tradition (see §10 Part IV; §7 Canon 1323 §4). The disagreement is over the *facts*: whether the situation of the post-conciliar Church is in fact a state of grave general necessity sufficient to justify the act of 1988 (and the announced act of 2026). Fr. Paul Robinson's framing of this division is exact: "If we're going to disagree, we're going to disagree on whether or not there is a state of necessity, not on the principles that apply when there is a state of necessity." The work of Level 2 is therefore not theoretical but evidentiary. The questions below ask you to weigh the facts as you find them.
+
 ### 2.1 Was the state of necessity met in 1988?
 
 The compendium's analysis (§7, §10, §11, §12 Debate 2) found this is genuinely contested. The case in favor depends on accepting Lefebvre's reading of Roman intentions; the case against depends on the existence of alternatives (the May 5 Protocol, the FSSP-style path) that traditional Catholicism could and did take.

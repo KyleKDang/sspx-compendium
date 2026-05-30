@@ -374,6 +374,21 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
+### Hirpinus — *The 1988 Consecrations: Theological Study*, Parts I and II (1999)
+- **What it is:** A two-part theological study of the 1988 episcopal consecrations and the state-of-necessity defense, published in *Si Si No No* and translated into the English-language *Angelus* under the pen name "Hirpinus," edited by Rev. Fr. Kenneth Novak. Part I appeared in the July 1999 issue, Part II in the September 1999 issue (No. 34).
+- **Why it matters:** The definitive SSPX theological exposition of the state of necessity as a category of moral and canonical theology, applied to Lefebvre's 1988 act. Establishes the suspension-not-denial distinction that is decisive for the Society's posture toward papal authority. Cited verbatim in §10 Part IV.
+- **Key passage:** "The priest or bishop who, constrained by necessity, does not obey the pope is not thereby denying his own subordination to the pope outside the case of necessity, and so he is not refusing authority in its lawful exercise. Similarly, a wife is not denying the authority of her husband outside of the case of necessity, in which she has the duty to supply for him against his unreasonably opposed will."
+- **Where to find it:** [SSPX Asia archive (Sept. 1999)](https://www.sspxasia.com/Documents/SiSiNoNo/1999_September/The_1988_Consecrations.htm)
+
+---
+
+### Causidicus — *The 1988 Consecrations: Canonical Study*, Parts I–V (1999–2000)
+- **What it is:** The canonical companion to the Hirpinus theological study, published serially in *Si Si No No / The Angelus* beginning November 1999 (Part I) and continuing through 2000, under the pen name "Causidicus," again edited by Rev. Fr. Kenneth Novak. Treats the 1988 consecrations under the categories of canonical penalty, imputability, mitigating circumstances, the state-of-necessity exemption (Canon 1323 §4), and the schism question (Canon 751).
+- **Why it matters:** The most detailed SSPX-authored canonical analysis of the 1988 consecrations published in English. Together with the Hirpinus theological study, the two sub-studies form the SSPX's foundational scholarly defense of the 1988 act.
+- **Where to find it:** [SSPX Asia archive (Jan. 2000)](https://www.sspxasia.com/Documents/SiSiNoNo/2000_January/The_1988_Consecrations.htm); [Isidore.co Angelus mirror](https://isidore.co/misc/Res%20pro%20Deo/Pope%20St.%20Pius%20X%20&%E2%81%84or%20SSPX/The%20Angelus/HTMLs/1923.html). Additional canonical-study installments are mirrored under the same SSPX Asia directory by month (March, July, September 2000).
+
+---
+
 ### SSPX — General Chapter Statements
 - **What they are:** Official statements issued at the SSPX's quadrennial General Chapters; set the Society's direction on relations with Rome.
 - **Why they matter:** The clearest official statements of the Society's institutional position.
