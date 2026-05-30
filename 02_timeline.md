@@ -262,6 +262,8 @@ He announces he will proceed with episcopal consecrations on June 30, 1988.
 
 ### June 30, 1988 — The Episcopal Consecrations
 
+**Discernment.** Lefebvre's decision did not arise suddenly. According to Bishop Bernard Fellay, who was Lefebvre's closest collaborator during this period, Lefebvre spent a portion of every night during the final year before the consecrations in prayer before the Blessed Sacrament asking God for the grace to perceive His will. In his June 30 sermon Lefebvre identified two events as the *signs* by which he understood God to be confirming the necessity of acting: the inter-religious prayer gathering at **Assisi (October 27, 1986)**, which Lefebvre took as a doctrinal break with the prior magisterium on religious indifferentism, and the formal Roman response to the **dubia he had submitted on *Dignitatis Humanae*** — received in late 1987 or early 1988 — in which Rome insisted on continuity but conceded that the conciliar teaching on religious liberty was "something new." Lefebvre took the two events together as a sufficient indication that the doctrinal impasse documented in his July 14, 1987 meeting with Cardinal Ratzinger (see §5) would not be resolved by further negotiation. The repudiation of the May 5 Protocol the day after he signed it followed from the same discernment.
+
 **June 30, 1988.** At the Seminary of Écône, Archbishop Lefebvre — assisted by Bishop António de Castro Mayer of Campos, Brazil — consecrates four priests as bishops:
 
 1. **Bernard Fellay** (Swiss) — age 30 at consecration

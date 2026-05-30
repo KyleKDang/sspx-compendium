@@ -329,6 +329,16 @@ The questions to watch:
 
 The consecrations themselves — under current Roman practice — will likely not produce new canonical events of the magnitude of 1988. But they will reveal something about the trajectory of the SSPX's relationship with Rome, and you should pay attention.
 
+### Hold Rome with filial love — even in the crisis.
+
+One of the practical difficulties of the SSPX question is that it can wound the reader's filial sense toward Rome. The arguments rehearsed in this compendium — that specific Council documents create real tensions with prior teaching, that Rome's own behavior over four decades has been in tension with itself, that the pope may in specific and grave cases be resisted — can be heard, by the unwary, as licensing a kind of contempt for the See of Peter. They should not be.
+
+Bishop Bernard Fellay has offered an analogy that the SSPX itself uses to frame this point. Imagine a parent who is losing his or her mind to Alzheimer's or a similar erosion of the faculties — the parent by whom you were known and the household ordered. Do you go away? No. You do not pretend that what the parent says under the disease is sound; you do not endorse confused commands as if they were rational. But you do not leave. You take *more* care of the parent in such a condition, not less. The filial relation intensifies precisely because the parent is hurt.
+
+The SSPX commends a similar interior disposition toward Rome in the present hour: refuse to deny the problem; refuse to leave; *intensify* rather than withdraw filial devotion. The combination — refusal of error and refusal of distance — is what Fellay calls "heroic," and is what the Society understands itself to be living out. The Catholic who reaches a different judgment on the underlying questions and attends a diocesan parish rather than an SSPX chapel may still need precisely the same disposition: a refusal to deny the genuine problems in the post-conciliar Church combined with a refusal to abandon the visible Roman Church Christ established. The temptation either to deny the crisis or to leave is real on every side of this dispute; the Catholic answer is the same in either direction. *Stay. And hold the truth.*
+
+There are, in Fellay's own image, two abysses to be avoided: on one side, insulting God by accepting as Catholic what cannot be reconciled with the Catholic faith; on the other, rejecting the Church Christ founded. The SSPX understands itself to be walking the narrow ridge between them. Whatever you conclude about the SSPX, the ridge is real, and the discipline of walking it is required of every serious Catholic in the present situation.
+
 ### Pray.
 
 This document has been written as a work of theological and historical analysis. It has tried to give you what reason and evidence can give you about the SSPX question.

@@ -205,6 +205,39 @@ The SSPX accepts that doctrine can develop. They deny that development can inclu
 
 The SSPX argues that the personalist framework — while not in itself wrong — has been used to displace the prior framework grounded in the objective order of truth. The dignity of the person comes from his ordering to truth; it does not give him a right against truth. A man's dignity requires that he be allowed to approach truth freely — not that he be permitted to embrace and propagate falsehood as a civil right.
 
+**On magisterial weight:**
+
+The SSPX argues that the specific weight a teaching carries depends on how it has been taught. A doctrine taught universally by the ordinary magisterium across a long period — by popes, by bishops, by the catechisms and theology manuals of the Church, with the moral unanimity of Catholic authorities — approaches the infallibility proper to the universal ordinary magisterium (Vatican I, *Dei Filius*; Vatican II, *Lumen Gentium* §25). The prior teaching on the religious obligations of the civil order — *Mirari Vos*, *Quanta Cura*, the Syllabus, *Immortale Dei*, *Libertas Praestantissimum*, and confirmed in *Quas Primas* — meets this test. A Conciliar Declaration of the lowest formal category cannot, on the SSPX's reading, overturn what the universal ordinary magisterium has consistently taught for more than a century. The teaching may be developed, refined, clarified — but its substance cannot be reversed without surrendering the doctrine of magisterial continuity itself.
+
+### Two Historical Exchanges Documenting the Impasse
+
+The doctrinal dispute over religious liberty was not academic. It was engaged in two documented direct encounters between Lefebvre and Roman authorities, both of which the SSPX considers paradigmatic of why a merely practical regularization could not resolve the question.
+
+**September 11, 1976 — Castel Gandolfo. Lefebvre and Paul VI.**
+
+During Lefebvre's private audience with Paul VI on September 11, 1976 — only weeks after the Society's canonical suppression and his suspension *a divinis* — Lefebvre attempted to put the doctrinal question directly to the pope. He cited the prior popes who had taught the Catholic doctrine of the religious obligations of the civil order, and asked the pope which teaching he was now bound to follow when the recent teaching appeared to contradict the older. According to the transcript of the audience drawn up afterwards by Cardinal Giovanni Benelli, then *Sostituto* of the Secretariat of State, and according to Lefebvre's own account given to the seminarians of Écône on September 12 and 18, 1976, Paul VI declined to engage:
+
+> "Let us leave that aside. We are not here to discuss theology."
+>
+> — Paul VI, audience of September 11, 1976, Castel Gandolfo (Benelli transcript)
+
+The exchange — brief, polite, and final — captures the SSPX's claim that the doctrinal question has never been engaged at the level of doctrine by the post-conciliar Roman authorities; the response has consistently been to bracket the question rather than answer it.
+
+**July 14, 1987 — Rome. Lefebvre and Cardinal Ratzinger.**
+
+Eleven years later, with negotiations toward a regularization underway and the consecrations not yet a settled decision, Lefebvre met with Cardinal Joseph Ratzinger, Prefect of the Congregation for the Doctrine of the Faith. The meeting addressed the *Dignitatis Humanae* question directly. Ratzinger argued for the legitimacy of the Council's teaching as a development from the prior magisterium; Lefebvre argued that the prior universal teaching could not simply be set aside as erroneous without surrendering the continuity of the Magisterium itself. According to Bishop Bernard Fellay's recollection (publicly recounted in 2026), Lefebvre at one point pressed Ratzinger:
+
+> "But Your Eminence, you cannot oppose fifteen hundred years of the Church. It is not only a teaching — it is also a practice. The relation between Church and state, the Catholic state, is really a practice. You cannot say it was wrong."
+
+Ratzinger, after a pause, is recalled by Fellay to have repeated quietly: "It was wrong. It was wrong." Lefebvre then rose to his feet and replied:
+
+<!-- TODO: verify the verbatim wording against Tissier de Mallerais, *Marcel Lefebvre: The Biography* (Angelus Press, 2004), and against Lefebvre's contemporaneous notes of the July 14, 1987 meeting. The fact and substance of the meeting are verified in publicly accessible sources (Rorate Caeli's Lefebvre archive; FSSPX.news "Operation Survival" series); the specific verbatim above is Bishop Fellay's 2026 recollection in the SSPX podcast series and has not yet been confirmed verbatim against the Tissier biography. -->
+> "Your Eminence, for us Jesus Christ is everything. He is God. He is our Saviour. He is our King. We will never be able to work together."
+>
+> — Lefebvre to Cardinal Ratzinger, July 14, 1987 (per Bishop Fellay's recollection)
+
+Whatever the precise verbatim, the substance of the encounter is documented in mainstream sources: the two men identified the same doctrinal point — *was the prior teaching erroneous?* — and gave incompatible answers. The May 5, 1988 Protocol attempted in the months that followed to set the doctrinal question aside in favor of a practical regularization; Lefebvre repudiated it on May 6 partly because he had concluded, on the basis of this July 1987 exchange, that no merely practical accommodation could bridge a doctrinal impasse at the level of principles.
+
 ### Where the Dispute Stands
 
 The dispute over *Dignitatis Humanae* is the central theological question dividing the SSPX from Rome. Three things can be said with confidence:
