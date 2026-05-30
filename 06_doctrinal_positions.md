@@ -328,6 +328,14 @@ The SSPX argues:
 
 Therefore, when post-conciliar popes have done these things (in the SSPX analysis), Catholics are justified — even required — to resist these specific exercises of authority, while continuing to recognize the office and the man who holds it. This is the doctrine of "filial resistance" — the term Lefebvre and his successors use to describe their posture.
 
+### The Epistemic Precondition — Judgment vs. Rash Judgment
+
+Before the SSPX's substantive resistance argument can be assessed, a methodological objection has to be cleared away. Critics often say: "Who are you to judge the pope? Did not Christ say 'Judge not, that you be not judged' (Matt 7:1)?" The Fathers of the Church, on whom the perennial Catholic interpretation of this passage rests, distinguish two senses of *judgment*. The judgment Our Lord forbids is (a) *rash judgment* — judging without sufficient reason, or attributing motives where the evidence is insufficient — and (b) *judgment of the internal forum* — judging another's state of soul, his ultimate culpability, the secret movements of his will. These are reserved to God, and to lawful spiritual superiors within their proper scope. What Christ does *not* forbid — and what moral life positively requires — is the judgment of *objective public acts in matters of certainty*. A man who sees his brother enter into a second marriage while his first wife is still living, no annulment having been granted, is not in violation of "Judge not" when he tells his brother "what you are about to do is adultery." He is exercising the judgment a fraternal love is bound to make.
+
+Applied to the post-conciliar magisterium: the SSPX is not judging the pope's interior state, his subjective culpability, or his ultimate destiny. The Society judges objective public teachings — the Abu Dhabi 2019 declaration's wording on the diversity of religions, the conciliar treatment of religious liberty as a natural right, the *subsistit in* formulation read against *Mystici Corporis*'s *est* — in matters where the public Catholic teaching of prior centuries is itself certain and public. This kind of judgment is not the prohibited one. It is an act of the intellect without which one cannot remain a moral agent.
+
+A second precision belongs here. Canon law holds that the First See is judged by no one (*Prima sedes a nemine iudicatur*). This bears on judicial-jurisdictional judgment — no ecclesiastical court has competence over the pope. It does not bear on the simple intellectual recognition that a particular teaching does or does not match the prior definitive teaching of the Church, which any Catholic capable of reading both can perform. The SSPX's case rests on this distinction: it offers the recognition, not a jurisdictional sentence; the certain judgment, not the rash one.
+
 ### What the SSPX is NOT Claiming
 
 To prevent misunderstanding:

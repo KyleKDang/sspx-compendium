@@ -420,9 +420,27 @@ Defenders argue:
 - The warm tone toward Judaism reflects the historical reality that Catholic-Jewish relations had been marked by tragic violence and contempt for centuries; the Council appropriately addressed this with a tone of repentance and respect.
 - The Council was speaking pastorally, not dogmatically. It does not address — and does not need to address — the theological questions about what these religions are in their essence.
 
+### The Post-Conciliar Trajectory — From Assisi (1986) to Abu Dhabi (2019)
+
+The SSPX's case at §5 Part IV does not rest on the text of *Nostra Aetate* alone but on the trajectory of post-conciliar practice and teaching that has flowed from it. Two later high-profile events anchor the SSPX reading.
+
+**Assisi (October 27, 1986).** Pope John Paul II convened 160 religious leaders — 32 Christian and 11 non-Christian religions, including Christians, Jews, Muslims, Hindus, Buddhists, Jains, Sikhs, Zoroastrians, leaders of African and American Traditional Religions, and Shinto — at the Basilica of St. Francis of Assisi to pray for peace. Each religion prayed separately; John Paul II did not personally pray to any non-Catholic god. The optics — the leaders of every major world religion gathered in Catholic sacred space, each invoking his own god for the common end of peace — were precisely the SSPX's concern, and Lefebvre identified Assisi as one of two "signs from God" justifying his June 30, 1988 consecrations (the other being the Roman silence in response to his 1987 *dubia* on religious liberty; see §3 Lefebvre profile and §2 Timeline).
+
+**Abu Dhabi (February 4, 2019).** Pope Francis and Sheikh Ahmed el-Tayeb, Grand Imam of Al-Azhar, signed the *Document on Human Fraternity for World Peace and Living Together*. In a section listing the convictions the joint declaration upholds, the document states:
+
+> "The pluralism and the diversity of religions, colour, sex, race and language are willed by God in His wisdom, through which He created human beings."
+>
+> — *Document on Human Fraternity*, Abu Dhabi, February 4, 2019
+
+[Vatican.va — Abu Dhabi Document](https://www.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html)
+
+The wording produced immediate and continuing controversy. The phrase is bracketed with "colour, sex, race and language" — categories where "willed by God in His wisdom" is uncontroversial — but the inclusion of *religions* in the same list, on the SSPX reading, formulates a sharp indifferentist claim: the diversity of religions, as such, is presented as part of God's positive will for creation, not as a fallen condition awaiting evangelization. Bishop Athanasius Schneider has reported that Pope Francis subsequently clarified, in conversation with him, that the phrase referred only to the "permissive will of God." On June 10, 2019, Cardinals Raymond Burke and Jānis Pujats, Archbishops Tomasz Peta and Jan Paweł Lenga, and Bishop Schneider published a 40-point *Declaration of Truths Relating to Some of the Most Common Errors in the Life of the Church of Our Days*, in which they affirmed against the Abu Dhabi formulation that "the religion born of faith in Jesus Christ" is the "only religion positively willed by God." For the SSPX, this is the point: the controversy was not raised by the Society alone but by mainstream-loyal Catholic prelates who found the joint declaration's formulation incompatible with the perennial teaching that the Catholic Church is the only religion positively willed by God for the salvation of souls.
+
+The line from *Nostra Aetate* through Assisi 1986 to Abu Dhabi 2019 is, on the SSPX reading, the consolidation of a trajectory — from the carefully irenic Council text, through the optic ambiguity of Assisi, to a formal joint-signature claim that goes substantially beyond what the Council document itself said. Defenders argue each step is reconcilable with the prior teaching (Schneider's "permissive will" reading of Abu Dhabi being a clear instance); the SSPX argues that *needing* such a reconciling reading at each step is itself the evidence that the formulations have drifted from the perennial teaching they ought to be expressing.
+
 ### Where the Dispute Stands
 
-*Nostra Aetate* itself is a brief and largely irenic document. The SSPX's concerns are real but less about the document itself than about the subsequent ecumenical and interreligious practice that has flowed from it. The 1986 Assisi gathering of religious leaders — which Lefebvre identified as a turning point in his decision to consecrate bishops — was in significant part an outworking of the *Nostra Aetate* framework.
+*Nostra Aetate* itself is a brief and largely irenic document. The SSPX's concerns are real but less about the document itself than about the subsequent ecumenical and interreligious practice that has flowed from it — Assisi 1986, Assisi 2002, the Joint Declaration on the Doctrine of Justification (1999), and the Abu Dhabi Document (2019).
 
 The substantive theological question — what is the relationship between non-Christian religions, the natural law, the universal salvific will of God, and the Catholic Church as the one ark of salvation — is genuinely difficult, and was inadequately addressed by *Nostra Aetate*'s brief text. Both defenders and critics can find support in subsequent magisterial documents, particularly *Dominus Iesus* (2000), which reaffirmed the Catholic Church's unique role in salvation.
 
