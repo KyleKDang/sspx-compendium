@@ -163,6 +163,24 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 
 ---
 
+### Pope Pius XII — *Ad Sinarum Gentem* (1954)
+**To the Chinese Catholic People — on the supranationality of the Church**
+- **What it is:** Encyclical of October 7, 1954, addressed to the Catholic Church in China at the outset of the Communist regime's effort to establish a national Catholic Church independent of Rome.
+- **Why it matters:** Articulates the perennial Catholic teaching on the twofold sacred hierarchy of orders and jurisdiction (§12), the impossibility of a "national Church" displacing the universal Catholic communion (§22), and the maxim "We must obey God rather than men" when civil or ecclesiastical authority commands what falls outside its competence (§26). Foundational for the SSPX's 2026 argument that the order/jurisdiction distinction codified here precludes the *Lumen Gentium* §21 reformulation.
+- **Key passage (§12):** "By virtue of God's Will, the faithful are divided into two classes: the clergy and the laity. By virtue of the same Will is established the twofold sacred hierarchy, namely, of orders and jurisdiction."
+- **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html)
+
+---
+
+### Pope Pius XII — *Ad Apostolorum Principis* (1958)
+**On the situation of the Church in China**
+- **What it is:** Encyclical of June 29, 1958, reinforcing the Holy Office Decree of August 9, 1951, which had introduced the *latae sententiae* excommunication for unauthorized episcopal consecration in response to the Chinese Patriotic Catholic Association's state-coerced consecrations.
+- **Why it matters:** §39 codifies the perennial teaching, citing *Mystici Corporis* (1943), that bishops consecrated in defiance of Rome "enjoy no powers of teaching or of jurisdiction, since jurisdiction passes to bishops only through the Roman Pontiff." Anchors both the canonical penalty history (suspension before 1951 → excommunication after) and the order/jurisdiction distinction.
+- **Key passage (§39):** "Bishops who have been neither named nor confirmed by the Apostolic See, but who, on the contrary, have been elected and consecrated in defiance of its express orders, enjoy no powers of teaching or of jurisdiction, since jurisdiction passes to bishops only through the Roman Pontiff."
+- **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)
+
+---
+
 ### St. Vincent of Lérins — *Commonitorium* (434 AD)
 **The Vincentian Canon**
 - **What it is:** The classical patristic test of authentic Tradition: what has been believed everywhere, always, and by all (*quod ubique, quod semper, quod ab omnibus*).

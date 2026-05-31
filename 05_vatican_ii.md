@@ -61,6 +61,27 @@ The SSPX argument exploits this distinction. They argue that they owe "religious
 
 This is a contested theological claim. Critics argue that "religious submission" requires acceptance even when one cannot perfectly reconcile the teaching with prior tradition; one should presume the Magisterium is correct and that the apparent contradiction is one's own failure of understanding. The SSPX responds that this principle, taken absolutely, would eliminate the possibility of any genuine theological judgment and would make all post-conciliar teaching by definition correct.
 
+### *Lumen Gentium* §21 and the Conflation of Order and Jurisdiction
+
+A particular passage of the Council that has become load-bearing in the 2026 schism dispute is *Lumen Gentium* §21:
+
+> "Episcopal consecration, together with the office of sanctifying, also confers the office of teaching and of governing, which, however, of its very nature, can be exercised only in hierarchical communion with the head and the members of the college."
+>
+> — *Lumen Gentium* §21 (November 21, 1964)
+
+[Vatican.va — *Lumen Gentium*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
+
+The §21 formulation is structurally novel. The perennial Catholic teaching, codified at Pius XII's *Ad Sinarum Gentem* §12 (October 7, 1954) and at 1917 CIC Canons 108–109, was that the Church possesses *two* distinct hierarchies — the hierarchy of *orders* (conferred by sacred ordination) and the hierarchy of *jurisdiction* (conferred by canonical mission from the Roman Pontiff). On the perennial reading, a bishop receives the *power of orders* by sacramental consecration but receives *jurisdiction* only by direct papal grant. §21 alters this framework: episcopal consecration now itself "confers the office of teaching and of governing," with hierarchical communion supplying the condition for *exercise* rather than the source of the *power* itself. [→ §7 for the canonical history of this distinction and the 1951 / 1958 Pius XII codifications.]
+
+The pivot did not go unnoticed at the time. Joseph Ratzinger — the post-conciliar Council's most prominent theological commentator — explicitly identified §21 as a *change* from the perennial teaching. In the 1966 essay collection that became the English-language *Theological Highlights of Vatican II*, the then-Father Ratzinger wrote:
+
+<!-- TODO (print-source): Verify the exact English wording of the Ratzinger 1966 passage against the Paulist Press edition of *Theological Highlights of Vatican II* (1966) or the German *Das neue Volk Gottes. Entwürfe zur Ekklesiologie* (Düsseldorf: Patmos, 1969). The substance is well-attested in SSPX literature; the precise English wording is taken from Fr. Luke's 2026 reading in the SSPX podcast *The Episcopal Consecrations*, ep. 6. -->
+> "An evolution of a scope difficult to foresee is expressed in these affirmations [on the origins of episcopal power]. The rigid line of demarcation that had stood for centuries between the power of order and the power of jurisdiction in the spirit of most Western theologians has become passible. The strong bond between these two realities, which at bottom are only one, appears to view."
+
+Ratzinger added that the same Council shift was "the point of departure that the law took apropos of the structure of the Latin church in the second millennium as compared to the first" — that is, that the pontifical-mandate requirement for episcopal consecration (the Latin-church-centralization development of the second millennium) had, in his judgment, "threatened to suffocate the collegial feeling of the patristic era."
+
+The pivot has direct doctrinal consequences for the 2026 schism dispute. On the §21 reading, the consecration of a bishop without papal mandate is the conferral of a share in the Church's governance against the will of the head of the college — and is therefore intrinsically schismatic. On the perennial reading codified at *Ad Sinarum Gentem* §12, *Ad Apostolorum Principis* §39, 1917 CIC Canons 108–109, and articulated by Cardinal St. Robert Bellarmine in *De Ecclesia*, the consecration of a bishop without papal mandate confers the *power of orders* alone, leaves the *jurisdiction* untouched (the Roman Pontiff alone gives or withholds it), and is therefore a disorder in the administration of a sacrament rather than an attack on the unity of the Church. The 2026 SSPX case for the consecrations turns precisely on this perennial reading; the 2026 curial case against them turns precisely on the §21 reading. [→ §7 Canon Law; §10 Part VIII.]
+
 ---
 
 ## Part II: *Dignitatis Humanae* — The Declaration on Religious Liberty
