@@ -366,9 +366,55 @@ The SSPX responds:
 
 ### The Project in the Words of the Popes
 
-A separate question from the document itself is what the post-conciliar pontiffs have understood the ecumenical project to mean and to require. The SSPX's contention that the trajectory has consolidated in a direction Vatican II's irenic text did not require can be examined against the popes' own framings of the project across four pontificates.
+A separate question from the document itself is what the post-conciliar pontiffs have understood the ecumenical project to mean and to require. The SSPX's contention that the trajectory has consolidated in a direction Vatican II's irenic text did not require can be examined against the popes' own framings of the project — and against the joint declarations and study documents issued in their names — across four pontificates and roughly half a century.
 
-**John Paul II, *Ut Unum Sint* (May 25, 1995).** The encyclical devoted to ecumenism. On Assisi 1986:
+**John Paul II and Ecumenical Patriarch Demetrius I, *Common Declaration* at the Phanar (November 30, 1979).** The first major papal-patriarchal joint declaration of the post-conciliar period, issued at the close of John Paul II's visit to the Ecumenical Patriarchate of Constantinople. The declaration set the operative formula for Catholic-Orthodox ecumenism in the decades that followed:
+
+> "In this spirit, we reject every form of proselytism, every attitude which would or could be perceived as a lack of respect."
+>
+> — *Common Declaration of Pope John Paul II and Ecumenical Patriarch Demetrius I*, Phanar, November 30, 1979
+
+[Vatican.va — Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/relazioni-bilaterali/patriarcato-ecumenico/dichiarazioni-comuni/common-declaration-of-pope-john-paul-ii-and-patriarch-dimitrios-.html)
+
+The formulation is the post-conciliar inversion of Pius XI's *Mortalium Animos* (January 6, 1928): where Pius XI had taught that the only legitimate path to Christian unity is the *return* of separated Christians to the one true Church and had forbidden Catholic participation in pan-Christian assemblies on the grounds that such participation implied the unity of the Church had been lost and needed to be found, the 1979 declaration treats the call to return as itself a "form of proselytism" to be rejected. The framework that emerged from this declaration — Catholic and Orthodox as "sister Churches" already in real if imperfect communion, with each side respecting the other's pastoral authority over its own faithful — would be codified by the Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church in 1993.
+
+**The Balamand Declaration (June 23, 1993).** Issued by the Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church at the Balamand School of Theology in Lebanon. The declaration was a Catholic-side response to Orthodox protests that the post-Soviet revival of the Eastern Catholic ("Uniate") churches threatened the ecumenical dialogue. Its key paragraphs codify substantive Catholic concessions on terms that, on the SSPX reading, are structurally incompatible with the perennial Catholic doctrine of the Church.
+
+On the historical Catholic teaching about salvation outside the Church:
+
+> "In order to legitimize this tendency, a source of proselytism, the Catholic Church developed the theological vision according to which she presented herself as the only one to whom salvation was entrusted."
+>
+> — Balamand Declaration §10
+
+On the model of unity:
+
+> "[Uniatism] can no longer be accepted either as a method to be followed nor as a model of the unity our Churches are seeking."
+>
+> — Balamand Declaration §12
+
+On the relationship of the two communions:
+
+> "the Catholic Churches and the Orthodox Churches recognize each other as Sister Churches."
+>
+> — Balamand Declaration §14
+
+On the authority of Orthodox bishops over Orthodox faithful — the load-bearing passage for the 2026 schism dispute:
+
+> "Bishops and priests have the duty before God to respect the authority which the Holy Spirit has given to the bishops and priests of the other Church and for that reason to avoid interfering in the spiritual life of the faithful of that Church."
+>
+> — Balamand Declaration §29
+
+[Vatican.va — Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-lingua-inglese.html)
+
+The §29 formulation is the Catholic-side concession that Orthodox bishops, by ordination alone and without papal mandate or canonical mission from Rome, hold a "duty before God" — that is, an authority from God — over Orthodox faithful in territories that overlap Catholic dioceses. The 2026 SSPX argument [→ §10 Part VIII] is that this is precisely the concession the SSPX needs only a fraction of: the Society does not claim that its four bishops to be consecrated July 1, 2026 hold jurisdiction over any faithful at all; it claims only the orders, on the perennial division of order from jurisdiction that *Lumen Gentium* §21 reopened [→ §5 Part I; §7].
+
+**John Paul II, *Ut Unum Sint* (May 25, 1995).** The encyclical devoted to ecumenism. On the framework of "Sister Churches" — adopting verbatim a 1971 address of Paul VI to Patriarch Athenagoras:
+
+> "In virtue of the apostolic succession, we are united more closely by the priesthood and the Eucharist… In each local Church this mystery of divine love is enacted, and surely this is the ground of the traditional and very beautiful expression 'Sister Churches', which local Churches were fond of applying to one another (cf. *Unitatis Redintegratio*, 14). For centuries we lived this life of 'Sister Churches', and together held Ecumenical Councils which guarded the deposit of faith against all corruption. And now, after a long period of division and mutual misunderstanding, the Lord is enabling us to discover ourselves as 'Sister Churches' once more, in spite of the obstacles which were once raised between us."
+>
+> — *Ut Unum Sint* §57, quoting Paul VI
+
+On Assisi 1986:
 
 > "In 1986 at Assisi, during the World Day of Prayer for Peace, Christians of the various Churches and Ecclesial Communities prayed with one voice to the Lord of history for peace in the world. That same day, in a different but parallel way, Jews and representatives of non-Christian religions also prayed for peace in a harmonious expression of feelings which struck a resonant chord deep in the human spirit."
 >
@@ -388,6 +434,24 @@ On the claim that all Christian communities have martyrs:
 
 The SSPX reading is that §83 is the load-bearing passage: an attachment to Christ "so radical and absolute as to lead even to the shedding of blood" cannot, on the traditional Catholic understanding, be predicated of a person *in so far as he is Protestant* — for in so far as he is Protestant he holds a religion the Church judges false and (where culpably held) damaging to the salvation of the soul. He can be a martyr of conscience or a martyr by baptism of blood, but only in so far as he is sufficiently detached from the false doctrine to be implicitly ordered toward the Catholic faith. §83's formulation, the SSPX argues, blurs this classical distinction.
 
+On the office of the bishop of Rome itself:
+
+> "I am convinced that I have a particular responsibility in this regard, above all in acknowledging the ecumenical aspirations of the majority of the Christian Communities, and in heeding the request made of me to find a way of exercising the primacy which, while in no way renouncing what is essential to its mission, is nonetheless open to a new situation."
+>
+> — *Ut Unum Sint* §95
+
+§95 is the canonical text for the post-conciliar Roman project of "reimagining" the papacy in terms open to the ecumenical interlocutors who do not accept the Vatican I definitions. It is the passage to which the 2024 Dicastery for Promoting Christian Unity study document *The Bishop of Rome* (below) explicitly attaches itself: the document opens by describing itself as a "synthesis of recent ecumenical developments on the theme of primacy and synodality" in response to "the invitation addressed to all Christians by St. John Paul II in *Ut Unum Sint*."
+
+**John Paul II, ecumenical celebration at the Cathedral of St. Gregory the Illuminator, Yerevan, Armenia (September 26, 2001).** Addressing the Armenian Apostolic Church — Oriental Orthodox, in formal schism from Rome since the council of Chalcedon (451) — on the occasion of the 1,700th anniversary of Armenian Christianity:
+
+> "Like the dove returning with the olive branch of peace and love (cf. Gen 8:11), I pray that my visit will be a kind of consecration of the already rich and fruitful cooperation existing between us. There is a real and intimate unity between the Catholic Church and the Church of Armenia since both preserve apostolic succession and have valid sacraments, particularly Baptism and the Eucharist… I have asked — in my Encyclical Letter *Ut Unum Sint* — that the Bishops and theologians of our Churches reflect on 'forms in which this ministry may accomplish a service of love recognized by all concerned' (No. 95)."
+>
+> — John Paul II, ecumenical-celebration homily, Cathedral of St. Gregory the Illuminator, Yerevan, September 26, 2001
+
+[Vatican.va — Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/fr/dialoghi/sezione-orientale/chiese-ortodosse-orientali/relazioni-bilaterali/eglise-armenienne/chiesa-apostolica-armena--sede-di-etchmiadzin--armenia-/visites/apostolic-visit-of-pope-john-paul-to-armenia/ecumenical-celebration-in-new-apostolic-cathedral-of-st-gregory-/en.html)
+
+The Yerevan passage names the operative premise of the post-conciliar Roman approach to the Oriental and Eastern Orthodox: apostolic succession and valid sacraments together suffice for "real and intimate unity," without the submission to the Roman Pontiff that Vatican I had defined as a "necessary criterion" for being part of the one Church of Christ. The passage closes with the *Ut Unum Sint* §95 invocation — the appeal for a reimagined Petrine ministry "recognized by all concerned." Leo XIV referenced this same JPII Armenian framework in his January 25, 2026 Vespers homily (below).
+
 **Benedict XVI, address at the former Augustinian convent in Erfurt to the Council of the Evangelical Church in Germany (September 23, 2011):**
 
 > "For me, the great ecumenical step forward of recent decades is that we have become aware of all this common ground, that we acknowledge it as we pray and sing together, as we make our joint commitment to the Christian ethos in our dealings with the world, as we bear common witness to the God of Jesus Christ in this world as our inalienable, shared foundation."
@@ -404,13 +468,59 @@ The SSPX notes that "praying and singing together" is presented as the great ste
 
 [Vatican.va — June 9, 2021 video message](https://www.vatican.va/content/francesco/en/messages/pont-messages/2021/documents/20210609-videomessaggio-seminario-newyork.html)
 
+**Dicastery for Promoting Christian Unity, *The Bishop of Rome: Primacy and Synodality in the Ecumenical Dialogues and in the Responses to the Encyclical 'Ut Unum Sint'*** (study document, published June 13, 2024; approved by Pope Francis; presented at the Vatican by Cardinal Kurt Koch, Prefect of the Dicastery, and Cardinal Mario Grech, Secretary General of the Synod). The 147-page document gathers the responses of ecumenical interlocutors to *Ut Unum Sint*'s invitation and articulates the Catholic-side recommendations of the 2021 plenary assembly of the Dicastery, "Towards an Exercise of Primacy in the 21st Century."
+
+<!-- TODO (print/PDF-source): The four key passages below are substantively attested across the National Catholic Reporter, USCCB, *America*, Catholic World Report, Word on Fire, and *La Civiltà Cattolica* coverage of the document's June 13, 2024 release; the exact verbatim wording should be re-verified directly against the official PDF (https://www.christianunity.va/content/dam/unitacristiani/Collana_Ut_unum_sint/The_Bishop_of_Rome/The%20Bishop%20of%20Rome.pdf) when access permits. The wording below is per Fr. Luke's 2026 reading in the SSPX podcast *The Episcopal Consecrations*, ep. 7. -->
+
+The document explicitly frames the Vatican I definitions as the obstacle to overcome:
+
+> "In *Pastor Aeternus* the First Vatican Council created a new situation [by] proclaiming these doctrines as dogmas. These dogmatic definitions have proved to be a significant obstacle for other Christians with regard to the papacy. While for Catholics, maintaining communion in faith and sacraments with the bishop of Rome is considered a necessary criterion for being considered Church in the full sense, for the Orthodox as well as for Protestants, it is precisely the pope's historic claim to authority and teaching and in church life that are most at variance with the image of the Church presented to us in the New Testament, the early Christian writings."
+>
+> — *The Bishop of Rome* (2024)
+
+On *Lumen Gentium* §21 as the resolution of that obstacle [→ §5 Part I]:
+
+> "In its teaching on the sacramentality of the episcopate in *Lumen Gentium* 21, Vatican II re-established the connection between sacramental and juridical powers given through ordination… this sacramental and juridical power means that a bishop possesses authority by virtue of his ordination that is not juridically delegated by the bishop of Rome. The exercise of this authority, however, is ultimately controlled by the supreme authority of the Church… the bishop receives both the sacramental and pastoral powers directly from Christ through ordination and episcopal consecration."
+>
+> — *The Bishop of Rome* (2024)
+
+On the proposed hermeneutic of reading the Vatican I definitions in light of Vatican II:
+
+> "Among the proposals expressed by the dialogues, the call for the Catholic re-reception or official commentary of Vatican I seems particularly important, assuming the hermeneutical rule that the dogmas of Vatican I must be read in light of Vatican II."
+>
+> — *The Bishop of Rome* (2024)
+
+On the corresponding reframing of the office of the bishop of Rome:
+
+> "Roman primacy should be understood not so much as a universal power in a universal Church as an authority in service to the communion between the Churches."
+>
+> — *The Bishop of Rome* (2024)
+
+The SSPX's reading [→ §10 Part VIII] is that the document is the explicit Dicastery-level codification of what the JPII Yerevan address (2001) had already implied: that the substance of the Vatican I definitions on the papacy — taught as *de fide* — is now to be subordinated to the requirements of ecumenical convergence. The document carries the approval of Pope Francis, the presentation of the Prefect of the dicastery responsible for ecumenism (Cardinal Koch), and the formal description as "summarizing approximately 30 responses to *Ut Unum Sint* and 50 texts of ecumenical dialogues." It is not, formally, a magisterial document; it is a Dicastery study text. It does, however, name the operative direction of the post-conciliar Roman ecumenical project as a Dicastery understands it under two popes.
+
 **Pope Leo XIV, homily at Second Vespers on the Solemnity of the Conversion of St. Paul (Basilica of St. Paul Outside the Walls, January 25, 2026)** — concluding the 59th Week of Prayer for Christian Unity:
 
 > "In the passage from the Letter to the Ephesians chosen as the theme for this year's Week of Prayer, we repeatedly hear the adjective 'one'. One body, one Spirit, one hope, one Lord, one faith, one baptism, one God. Dear brothers and sisters, how can these inspired words not touch us deeply? How can our hearts not burn within us when we hear them? Yes, we share the same faith in the one and only God, the Father of all people. We confess together the one Lord and true Son of God, Jesus Christ, and the one Holy Spirit, who inspires us and impels us towards full unity and the common witness to the Gospel. We are one! We already are! Let us recognize it, experience it and make it visible!"
 
 [Vatican.va — Leo XIV Vespers homily, January 25, 2026](https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260125-vespri-unita-cristiani.html)
 
-The continuity across the four pontificates is the SSPX's point. The trajectory the Society identified at *Unitatis Redintegratio*'s promulgation — that the document's irenic surface would consolidate into a settled magisterial insistence that visible unity precedes doctrinal conversion — is, on the SSPX reading, exactly what the popes' own statements over six decades have described.
+**Pope Leo XIV, *Message on the Occasion of the Installation of the Archbishop of Canterbury* (March 20, 2026).** Sent on the occasion of Sarah Mullally's installation as the 106th Archbishop of Canterbury on March 25, 2026 at Canterbury Cathedral. (Mullally had been confirmed as 106th Archbishop on January 28, 2026 at St. Paul's Cathedral, London — the first woman in the office's 1,400-year history.) The message was delivered on March 26, 2026 by Cardinal Kurt Koch as the Pope's envoy at a common prayer service co-presided by Mullally and Koch in Canterbury Cathedral. The message opens:
+
+> "Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ, the Father's Son, in truth and love." (2 Jn 1:3)
+
+The substantive ecclesiological passages, all addressed to a woman who is by Catholic canonical reckoning a layperson and by virtue of Leo XIII's *Apostolicae Curae* (September 15, 1896) the holder of an office whose ordinations are "absolutely null and utterly void":
+
+> "I know that the office for which you have been chosen is a weighty one, with responsibilities not only in the Diocese of Canterbury, but throughout the Church of England as well as the Anglican Communion as a whole."
+
+And, quoting Pope Francis' 2024 address to the Anglican primates:
+
+> "Dear sister, I willingly make these words my own: 'For it is through the witness of a reconciled, fraternal and united Christian community that the proclamation of the Gospel will resound most clearly.' … it would be a scandal if, due to our divisions, we did not fulfil our common vocation to make Christ known."
+
+[Vatican.va — Leo XIV message of March 20, 2026](https://www.vatican.va/content/leo-xiv/en/messages/pont-messages/2026/documents/20260320-arcivescovo-canterbury.html)
+
+The message attributes to Mullally "responsibilities… throughout the Church of England as well as the Anglican Communion as a whole" — that is, an office over the baptized of a community whose orders the Catholic Church has formally judged invalid since 1896. It addresses her as "dear sister" and approves a Pope Francis 2024 formulation in which Catholic-Anglican communion is treated as a common Christian community whose divisions impede a "common vocation." The message points back to the Anglican-Roman Catholic International Commission and explicitly to the 2006 ARCIC document *Growing Together in Unity and Mission*, whose recommendations include "more frequent joint non-Eucharistic worship," mutual public prayer for one another's bishops, "consideration… of the association of Anglican bishops with Roman Catholic bishops in their ad limina visits to Rome," shared protocols for clergy movement between the two communions, and "attending each other's ordinations" as an opportunity "to acknowledge publicly the fruitfulness of each other's ordained ministries." The SSPX's reading [→ §10 Part VIII] is that the substance of the message — and, still more, the lived practice the ARCIC document recommends — works against the 1896 *Apostolicae Curae* judgment without formally repealing it, and so confirms the same structural pattern the *Bishop of Rome* 2024 document codifies: the prior definitive teaching is read in light of the subsequent ecumenical convergence rather than the other way around.
+
+The continuity across nearly half a century and four pontificates — JPII–Demetrius I 1979, Balamand 1993, *Ut Unum Sint* 1995, JPII Yerevan 2001, Erfurt 2011, Francis–John 17 Movement 2021, *The Bishop of Rome* 2024, Leo XIV Vespers 2026, Leo XIV–Mullally 2026 — is the SSPX's point. The trajectory the Society identified at *Unitatis Redintegratio*'s promulgation — that the document's irenic surface would consolidate into a settled magisterial insistence that visible unity precedes doctrinal conversion, with the prior definitions on the Catholic Church, on Anglican orders, and on the Vatican I papacy each being read down in service of that visible unity — is, on the SSPX reading, exactly what the popes' own statements and the Roman dicasteries' own study documents over six decades have described.
 
 ### Where the Dispute Stands
 

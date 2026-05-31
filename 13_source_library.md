@@ -356,6 +356,30 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
+### Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church — The Balamand Declaration (1993)
+*Uniatism, Method of Union of the Past, and the Present Search for Full Communion*
+- **What it is:** Joint statement of the seventh plenary session of the International Commission, signed at the Balamand School of Theology in Lebanon on June 23, 1993. The Catholic-side response to Orthodox protests against the post-Soviet revival of the Eastern Catholic ("Uniate") churches.
+- **Why it matters:** Codifies the post-conciliar Catholic recognition of Orthodox bishops as exercising true authority over their faithful (§29 — "the authority which the Holy Spirit has given to the bishops and priests of the other Church"); names Catholic-Orthodox as "Sister Churches" (§14); rejects "uniatism" as a model of unity (§12). Load-bearing for the 2026 SSPX argument that Rome's lived recognition of episcopal jurisdiction in formal schism from Rome contradicts the schism charge against the SSPX consecrations.
+- **Where to find it:** [Vatican.va — Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-lingua-inglese.html)
+
+---
+
+### IARCCUM (Anglican-Roman Catholic Commission for Unity and Mission) — *Growing Together in Unity and Mission* (2006)
+*Building on 40 Years of Anglican-Roman Catholic Dialogue*
+- **What it is:** Joint statement of the second Anglican-Roman Catholic International Commission, dated Feast of St. Francis (October 4) 2006, published February 2007. Builds on 40 years of ARCIC dialogue going back to the 1966 Paul VI / Archbishop Michael Ramsey meeting.
+- **Why it matters:** Codifies the post-conciliar Catholic recommendations for joint pastoral practice between Catholics and Anglicans: shared non-Eucharistic worship, mutual public prayer for one another's bishops, association of Anglican bishops with Catholic bishops on ad limina visits to Rome, shared protocols for clergy movement between communions, and attendance at one another's ordinations. Referenced in Pope Leo XIV's March 20, 2026 message to Sarah Mullally. Cited in the 2026 SSPX argument that Rome's lived practice toward the Anglican Communion contradicts the *Apostolicae Curae* (1896) judgment that Anglican orders are null and void.
+- **Where to find it:** [Vatican.va — Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-occidentale/comunione-anglicana/relazioni/iarccum/iarccum-agreed-statements--correspondence--commentaries--communi/iarccum-agreed-statements/testo-in-inglese.html); [IARCCUM PDF](https://www.anglicancommunion.org/media/104627/Growing-Together-in-Unity-and-Mission_english.pdf)
+
+---
+
+### Dicastery for Promoting Christian Unity — *The Bishop of Rome* (2024)
+*Primacy and Synodality in the Ecumenical Dialogues and in the Responses to the Encyclical 'Ut Unum Sint'*
+- **What it is:** 147-page study document published June 13, 2024 by the Dicastery for Promoting Christian Unity. Approved for publication by Pope Francis. Presented by Cardinal Kurt Koch (Prefect of the Dicastery) and Cardinal Mario Grech (Secretary General of the Synod). Synthesis of approximately 30 ecumenical-interlocutor responses to John Paul II's *Ut Unum Sint* (1995) and 50 theological-dialogue texts on the theme of papal primacy and synodality.
+- **Why it matters:** The most explicit Roman-side document framing the Vatican I dogmatic definitions of papal primacy as a "significant obstacle" for other Christians; the most explicit Roman-side document framing *Lumen Gentium* §21 as having "re-established the connection between sacramental and juridical powers given through ordination"; the canonical text for the post-conciliar "re-reception" approach to Vatican I in light of Vatican II. Load-bearing for the 2026 SSPX argument [→ §5 Part III; §10 Part VIII] that the post-conciliar Roman authorities have substantially abandoned the perennial Catholic teaching on the source of episcopal jurisdiction that the 2026 schism charge against the SSPX would presuppose.
+- **Where to find it:** [Vatican.va — Christian Unity dicastery news release (June 13, 2024)](https://www.christianunity.va/content/unitacristiani/en/news/2024/2024-06-13-il-vescovo-di-roma-nuovo-documento-dpuc.html); [Full PDF](https://www.christianunity.va/content/dam/unitacristiani/Collana_Ut_unum_sint/The_Bishop_of_Rome/The%20Bishop%20of%20Rome.pdf)
+
+---
+
 ## Category IV: SSPX Primary Documents
 
 ---
