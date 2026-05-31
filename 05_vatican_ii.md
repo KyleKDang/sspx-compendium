@@ -343,11 +343,59 @@ The SSPX responds:
 - Post-conciliar ecumenism in practice has often led to *de facto* indifferentism, even where the formal documents maintain the Catholic Church's unique identity.
 - The Joint Declaration on the Doctrine of Justification (1999) — in which Catholics and Lutherans declared substantial agreement on a doctrine that had been the central dispute of the Reformation — is presented by SSPX critics as an example of how post-conciliar ecumenism has obscured rather than clarified Catholic doctrine.
 
+### The Project in the Words of the Popes
+
+A separate question from the document itself is what the post-conciliar pontiffs have understood the ecumenical project to mean and to require. The SSPX's contention that the trajectory has consolidated in a direction Vatican II's irenic text did not require can be examined against the popes' own framings of the project across four pontificates.
+
+**John Paul II, *Ut Unum Sint* (May 25, 1995).** The encyclical devoted to ecumenism. On Assisi 1986:
+
+> "In 1986 at Assisi, during the World Day of Prayer for Peace, Christians of the various Churches and Ecclesial Communities prayed with one voice to the Lord of history for peace in the world. That same day, in a different but parallel way, Jews and representatives of non-Christian religions also prayed for peace in a harmonious expression of feelings which struck a resonant chord deep in the human spirit."
+>
+> — *Ut Unum Sint* §76 <!-- TODO (web-fetch): Re-verify verbatim against vatican.va; this pass relied on substance verification across mirrors after the Vatican.va direct fetch returned truncated content. -->
+
+On the goal of visible unity:
+
+> "From this basic but partial unity it is now necessary to advance towards the visible unity which is required and sufficient and which is manifested in a real and concrete way, so that the Churches may truly become a sign of that full communion in the one, holy, catholic and apostolic Church which will be expressed in the common celebration of the Eucharist."
+>
+> — *Ut Unum Sint* §78 <!-- TODO (web-fetch): Re-verify verbatim. -->
+
+On the claim that all Christian communities have martyrs:
+
+> "All Christian Communities know that, thanks to the power given by the Spirit, obeying that will of the Father and overcoming those obstacles is not beyond their reach. All of them in fact have martyrs for the Christian faith. Despite the tragedy of our divisions, these brothers and sisters have preserved an attachment to Christ and to the Father so radical and absolute as to lead even to the shedding of blood."
+>
+> — *Ut Unum Sint* §83 <!-- TODO (web-fetch): Re-verify verbatim. -->
+
+The SSPX reading is that §83 is the load-bearing passage: an attachment to Christ "so radical and absolute as to lead even to the shedding of blood" cannot, on the traditional Catholic understanding, be predicated of a person *in so far as he is Protestant* — for in so far as he is Protestant he holds a religion the Church judges false and (where culpably held) damaging to the salvation of the soul. He can be a martyr of conscience or a martyr by baptism of blood, but only in so far as he is sufficiently detached from the false doctrine to be implicitly ordered toward the Catholic faith. §83's formulation, the SSPX argues, blurs this classical distinction.
+
+**Benedict XVI, address at the former Augustinian convent in Erfurt to the Council of the Evangelical Church in Germany (September 23, 2011):**
+
+> "For me, the great ecumenical step forward of recent decades is that we have become aware of all this common ground, that we acknowledge it as we pray and sing together, as we make our joint commitment to the Christian ethos in our dealings with the world, as we bear common witness to the God of Jesus Christ in this world as our inalienable, shared foundation."
+>
+> — Address at the Chapter Hall of the Former Augustinian Convent, Erfurt, September 23, 2011
+
+[Vatican.va — Benedict XVI Erfurt address](https://www.vatican.va/content/benedict-xvi/en/speeches/2011/september/documents/hf_ben-xvi_spe_20110923_evangelical-church-erfurt.html)
+
+The SSPX notes that "praying and singing together" is presented as the great step forward, and that the substantive faith is characterized as an "inalienable, shared foundation." The Roman rite of baptism, by contrast, begins with the catechumen's response *Fidem* ("the Faith") to the question "what do you ask of the Church of God?" — a faith *received through* the one Church, not a shared natural foundation.
+
+**Pope Francis, video message to the John 17 Movement retreat at St. Joseph's Seminary, Yonkers, NY (June 9, 2021):**
+
+> "This division is the work of the father of lies. He knows that Christians are disciples of Christ, that they are one, that they are brothers. He doesn't care if they are evangelicals or Orthodox, Lutheran, Catholics or apostolic. He doesn't care. They are Christians. And that blood of martyrdom unites today. Dear brothers and sisters, we are living an ecumenism of blood. This must encourage us to do what we are doing today — to pray, to dialogue together, to shorten the distance between us, to strengthen our bonds of brotherhood." <!-- TODO (web-fetch): Re-verify verbatim against the Vatican.va text of the June 9, 2021 video message; substance is well-attested across Vatican News, Catholic News Agency, and Catholic World Report. -->
+
+[Vatican.va — June 9, 2021 video message](https://www.vatican.va/content/francesco/en/messages/pont-messages/2021/documents/20210609-videomessaggio-seminario-newyork.html)
+
+**Pope Leo XIV, homily at Second Vespers on the Solemnity of the Conversion of St. Paul (Basilica of St. Paul Outside the Walls, January 25, 2026)** — concluding the 59th Week of Prayer for Christian Unity:
+
+> "In the passage from the Letter to the Ephesians chosen as the theme for this year's Week of Prayer, we repeatedly hear the adjective 'one'. One body, one Spirit, one hope, one Lord, one faith, one baptism, one God. Dear brothers and sisters, how can these inspired words not touch us deeply? How can our hearts not burn within us when we hear them? Yes, we share the same faith in the one and only God, the Father of all people. We confess together the one Lord and true Son of God, Jesus Christ, and the one Holy Spirit, who inspires us and impels us towards full unity and the common witness to the Gospel. We are one! We already are! Let us recognize it, experience it and make it visible!"
+
+[Vatican.va — Leo XIV Vespers homily, January 25, 2026](https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20260125-vespri-unita-cristiani.html)
+
+The continuity across the four pontificates is the SSPX's point. The trajectory the Society identified at *Unitatis Redintegratio*'s promulgation — that the document's irenic surface would consolidate into a settled magisterial insistence that visible unity precedes doctrinal conversion — is, on the SSPX reading, exactly what the popes' own statements over six decades have described.
+
 ### Where the Dispute Stands
 
 The ecumenism dispute is less philosophically sharp than the religious liberty dispute, but more pastorally consequential. Many of the post-conciliar developments most distressing to traditionalists — interreligious prayer services, Catholic participation in non-Catholic worship, the apparent equalization of Christian denominations — flow from the framework of *Unitatis Redintegratio*.
 
-The defense that the document maintains Catholic identity while engaging ecumenically is theologically defensible; the lived practice of post-conciliar ecumenism has often been less precise than the document itself.
+The defense that the document maintains Catholic identity while engaging ecumenically is theologically defensible; the lived practice of post-conciliar ecumenism — and the pontifical statements interpreting it across four pontificates — has consolidated in a direction many readers find harder to reconcile with the prior magisterium than the document itself would have suggested.
 
 ---
 

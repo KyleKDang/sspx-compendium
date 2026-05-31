@@ -184,6 +184,16 @@ In the cover letter accompanying the Intervention, Cardinals Ottaviani and Bacci
 
 The letter is a remarkable document — two cardinals, one of them the immediate past head of the Holy Office, addressing the pope with both filial reverence and theological urgency.
 
+The body of the Short Critical Study then translates the structural claim into a predictive diagnosis — that the practical effect of the reform on the faithful's belief will be precisely the erosion that the *lex orandi, lex credendi* principle would forecast:
+
+> "The innovations in the *Novus Ordo* and the fact that all that is of perennial value finds only a minor place, if it subsists at all, could well turn into a certainty the suspicions already prevalent, alas, in many circles, that truths which have always been believed by the Christian people can be changed or ignored without infidelity to that sacred deposit of doctrine to which the Catholic faith is bound for ever. Recent reforms have amply demonstrated that fresh changes in the liturgy could lead to nothing but complete bewilderment on the part of the faithful."
+
+The Intervention closes with a conscience-bound verdict:
+
+> "To abandon a liturgical tradition which for four centuries was both the sign and pledge of unity of worship, and to replace it with another which cannot but be a sign of division by virtue of the countless liberties implicitly authorized, and which teems with insinuations or manifest errors against the integrity of the Catholic religion, is, we feel in conscience bound to proclaim, an incalculable error."
+
+These three passages — opening claim, predictive diagnosis, closing verdict — form the structural arc of the Intervention. The 2019 Pew Research figure cited in Part IV below (31% of self-identified American Catholics believe in the Real Presence) is one empirical measure of the prediction the Intervention made fifty years earlier. Whether the causal connection is as direct as the Intervention forecasts is contested; that the prediction it made about the *lex credendi* fruit of the *lex orandi* change has been borne out by the surveys is not.
+
 ### Paul VI's Response
 
 Paul VI received the Intervention and made some revisions in response. The most significant was the rewriting of GIRM §7 (discussed above). The new Mass otherwise proceeded to promulgation.
@@ -433,13 +443,15 @@ This position has been criticized from both sides: traditionalists find it insuf
 
 ### Where Francis Stood
 
-Francis's *Traditionis Custodes* (2021) represents a sharp departure from Benedict XVI's mediating position. The new framework:
+Francis's *Traditionis Custodes* (2021) represents a sharp departure from Benedict XVI's mediating position. Article 1 reads:
 
-- Declares the post-Vatican II rite "the *unique* expression of the Roman Rite."
-- Significantly restricts the celebration of the Traditional Rite.
-- Argues that traditional Mass communities have been instrumentalized to oppose Vatican II.
+> "The liturgical books promulgated by Saint Paul VI and Saint John Paul II, in conformity with the decrees of Vatican Council II, are the unique expression of the *lex orandi* of the Roman Rite."
 
-The SSPX response — and the response of many mainstream traditionalists — has been that Francis's framework contradicts Benedict's, and that this contradiction is itself evidence of the doctrinal instability the SSPX has long warned against. The Magisterium, traditionalists argue, cannot consistently affirm in 2007 that the Traditional Mass was "never juridically abrogated" and then in 2021 effectively reverse course.
+[Vatican.va — *Traditionis Custodes*](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)
+
+Article 3 §1 directs bishops to "determine that these groups [permitted to celebrate the 1962 Missal] do not deny the validity and the legitimacy of the liturgical reform, dictated by Vatican Council II and the Magisterium of the Supreme Pontiffs." Combined, the two articles foreclose Benedict XVI's two-form framework: there is one *lex orandi*, expressed in the post-conciliar books, and continued use of the 1962 Missal is conditioned on the doctrinal acceptance of the reform.
+
+The SSPX response — and the response of many mainstream traditionalists — has been that Francis's framework contradicts Benedict's, and that this contradiction is itself evidence of the doctrinal instability the SSPX has long warned against. The Magisterium, traditionalists argue, cannot consistently affirm in 2007 that the Traditional Mass was "never juridically abrogated" and then in 2021 effectively reverse course. SSPX commentators have noted a paradoxical "honesty" in *Traditionis Custodes*: it is the post-Benedict admission that the two rites cannot coexist precisely because they do not express the same faith — which is exactly the SSPX's longstanding claim. Where Benedict tried to bracket the doctrinal question and offer juridical co-existence, *Traditionis Custodes* re-opens it and answers it in the opposite direction from the SSPX, but on the same premise: liturgical co-existence is a function of doctrinal co-extension.
 
 ---
 
