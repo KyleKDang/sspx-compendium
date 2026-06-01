@@ -578,6 +578,38 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
+### Eduardo F. Regatillo, SJ — *Institutiones Iuris Canonici* (1956)
+- **Publisher:** Santander: Sal Terrae, 1956 (multiple editions through the 1950s–60s); standard mid-twentieth-century Spanish-Jesuit canon law manual.
+- **What it is:** A two-volume canonical-institutional manual covering the 1917 Code; volume 2, p. 600, contains the load-bearing passage on the proper scope of the 1951 Holy Office Decree's *latae sententiae* excommunication for unauthorized episcopal consecration.
+- **Why it matters:** Regatillo, one of the pre-eminent canonists of the mid-twentieth century, argues — writing five years after the 1951 Decree and against the lived backdrop of its Chinese-CCPA target — that the excommunication was intended to apply only to consecrations involving the conferral of jurisdiction (residential bishops), not to unauthorized consecrations of titular or auxiliary bishops (to whom no jurisdiction is given). This is the contemporary canonical reading the SSPX invokes in defense of the auxiliary character of its 1988 and 2026 consecrations. Cited in §7 Canon Law and §10 Part VIII.
+- **Where to find it:** Theological research libraries; partial reproductions of the relevant passage circulate across canon-law commentary online.
+
+---
+
+### George Weigel — *The End and the Beginning: Pope John Paul II — The Victory of Freedom, the Last Years, the Legacy* (2010)
+- **Publisher:** Doubleday, 2010.
+- **What it is:** The companion volume to Weigel's earlier *Witness to Hope*, covering John Paul II's late pontificate, the collapse of communism, and the JPII–Slipyj / JPII–Husar arc. Standard JPII biography for the post-1990 years.
+- **Why it matters:** The widely cited account of the Vatican's response to Cardinal Josyf Slipyj's April 2, 1977 illicit episcopal consecrations at Castel Gandolfo — "stony silence followed by a refusal for nearly two decades to recognize the episcopal character of the men Slipyj had chosen." Cited in §10 Part VIII as the standard source on the most direct historical analog to the SSPX consecrations.
+- **Where to find it:** Penguin Random House (Doubleday imprint); major Catholic and general-interest bookstores; widely available secondhand.
+
+---
+
+### Jaroslav Pelikan — *Confessor Between East and West: A Portrait of Ukrainian Cardinal Josyf Slipyj* (1990)
+- **Publisher:** Wm. B. Eerdmans Publishing Company, Grand Rapids, MI, 1990 (xiv + 249 pp.).
+- **What it is:** The major English-language biographical study of Cardinal Josyf Slipyj, written by Jaroslav Pelikan (1923–2006), the foremost American historian of Christian doctrine of his generation.
+- **Why it matters:** The English-language scholarly reference for Slipyj's eighteen years of Soviet imprisonment, his subsequent relations with Rome, his 1977 illicit consecrations, and his judgment that the Roman Curia was causing the Ukrainian Catholic Church more trouble than the Soviet authorities had. Cited in §10 Part VIII as the most authoritative English-language biographical source on Slipyj.
+- **Where to find it:** Eerdmans; widely available secondhand; an Internet Archive scan is at https://archive.org/details/confessorbetween0000peli.
+
+---
+
+### Cardinal Josyf Slipyj — *A Witness of the Silent Church* (forthcoming, April 2026)
+- **Publisher:** The Catholic University of America Press, April 2026.
+- **Editors / Translators:** Andrew J. Summerson and Cyril Kennedy; foreword by Yury P. Avvakumov.
+- **What it is:** The first English translation of Cardinal Slipyj's memoirs (*Spomyny*) — Slipyj's own first-person account of his eighteen years in Soviet labor camps, his relations with Rome, his 1969 patriarchal petition, and his decision to consecrate three bishops in 1977 without papal mandate.
+- **Why it matters:** The primary source from Slipyj's own pen for the case the SSPX cites as the most direct analog to its 1988 and 2026 consecrations. Forthcoming entry; check CUA Press for release at https://www.cuapress.org.
+
+---
+
 ## Category VI: Key Videos and Recordings
 
 ---
