@@ -119,6 +119,26 @@ This is the precise meaning of "irregular canonical status." The orders are vali
 
 ---
 
+### 5. The Rights of the Faithful and the Supreme Law
+
+Two canons of the 1983 Code frame the rights of the faithful and the purpose for which all canonical authority is exercised. They are not Part II's decisive canons on the consecration question; they are the inner-frame of the entire Code's purpose, and they bear on every dispute about whether a particular act of authority has remained within its proper bounds.
+
+**Canon 213** — on the rights of the faithful to receive the spiritual goods of the Church:
+
+> "The Christian faithful have the right to receive assistance from the sacred pastors out of the spiritual goods of the Church, especially the word of God and the sacraments."
+
+The right is the *faithful's* right, not the pastors' grant. The Code obliges sacred pastors to provide the means of salvation — the word of God authentically preached and the sacraments validly and licitly administered — to those baptized into the Church. Where ordinary structures fail to provide these means (the SSPX's structural claim about the post-conciliar parish in many places), the question whether the faithful are entitled to seek them elsewhere is anchored in the canonical right Canon 213 names. The classical state-of-necessity framework discussed below (Canon 1323 §4; supplied jurisdiction, Canon 144) is the legal mechanism by which that right is preserved when the ordinary means fail.
+
+**Canon 1752** — the closing canon of the entire 1983 Code:
+
+> "In cases of transfer the prescripts of can. 1747 are to be applied, canonical equity is to be observed, and the salvation of souls, which must always be the supreme law in the Church, is to be kept before one's eyes."
+
+The Latin formula is the classical *salus animarum suprema lex esse debet*. That the legislator chose to *close the entire Code* with this principle — placing it not in Book I's general norms but at the very end, as the last word before the reader closes the volume — is a deliberate structural signal: every preceding canon is to be read in service to it. The salvation of souls is the *suprema lex* of ecclesiastical law, the criterion against which the operation of every other canon is measured. The SSPX's case, both in 1988 and in 2026, is anchored here. Where the application of the letter of canon law would frustrate the salvation of souls — by depriving the faithful of valid traditional sacraments, formed Catholic clergy, and orthodox preaching — the equity (*epieikeia*) the closing canon names operates against the letter precisely in the name of the mind of the legislator [→ §10 Case For, Part IV].
+
+Together, Canons 213 and 1752 frame the rights-and-purposes architecture of the Code: the faithful have a right to the means of salvation; the entire canonical structure exists in service to the salvation of souls. Any act of canonical authority — including the imposition or remission of penalties for unauthorized episcopal consecration — must answer to this frame.
+
+---
+
 ## Part II: The Decisive Canons
 
 We turn now to the specific canons most directly relevant to the SSPX. These are quoted in full, with both the official English text and (where helpful) the Latin original.

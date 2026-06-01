@@ -295,28 +295,50 @@ The Catholic doctrine of the papacy holds that:
 
 The SSPX position can be summarized as: full acceptance of Catholic doctrine on the papacy, with a particular emphasis on the *limits* of papal authority that has become unusual in the post-conciliar period.
 
-The classical Catholic theologians — Cajetan, Bellarmine, Suarez, John of St. Thomas — all held that there are theoretical limits to papal authority. None of them ever claimed the pope could teach error in defined doctrine; all of them recognized that the pope's authority operates within Catholic Tradition, not above it.
+The classical Catholic theologians — from Juan de Torquemada and Cajetan in the fifteenth and sixteenth centuries through Bellarmine and Suárez in the post-Tridentine era to the standard pre-conciliar dogmatic manuals of Ott and Van Noort in the twentieth century — are unanimous on this point. None of them ever claimed the pope could teach error in defined doctrine; all of them recognized that the pope's authority operates within Catholic Tradition and within the bounds set by the salvation of souls, not above them.
+
+**Cardinal Juan de Torquemada, OP, *Summa de Ecclesia*, Book II, Chapter 49 (1453):**
+
+<!-- TODO (print-source): The English below is the settled traditionalist English rendering in wide circulation across OnePeterFive, trueorfalsepope.com, and Edward Feser's writings. Underlying critical Latin: the 1561 Venice edition (pp. 162–163) or the Lyon 1496 editio princeps. Verify the wording against either available critical edition. -->
+
+> "Although it clearly follows from the circumstances that the Pope can err at times and command things which must not be done, we are not to be simply obedient to him in all things. That does not show he must not be obeyed when his commands are good. To know in what cases he is to be obeyed and in what not, it is said in the Acts of the Apostles, 'One ought to obey God rather than man.' Therefore, were the pope to command anything against holy scripture or the articles of faith or the truth of the sacraments or the commands of natural or divine law, he ought not to be obeyed; but in such commands he is to be disregarded."
+
+Torquemada — uncle of the more famous Spanish Inquisitor and one of the most authoritative ecclesiologists of his era — sets the formal pattern the later witnesses elaborate: the pope's authority binds only within the limits set by divine and natural law, holy scripture, the articles of faith, and the truth of the sacraments.
 
 <!-- TODO (print-source): Verify the exact English wording against a critical edition of De Romano Pontifice (e.g., the Ryan Grant translation, Mediatrix Press) or the Vivès Latin Opera Omnia. SSPX-aligned literature sometimes cites this passage as "II.30," but Chapter 30 in the standard Latin numbering is "Whether a Heretical Pope Can Be Deposed?" — the resistance passage is in Chapter 29 ("On the Pope's Errors and Mistakes"). The text below reflects the standard English rendering. -->
 **St. Robert Bellarmine, *De Romano Pontifice*, Book II, Chapter 29:**
 
-> "Just as it is licit to resist a pontiff who attacks the body, so it is licit to resist one who attacks souls or destroys the civil order, or above all, who tries to destroy the Church. I say that it is licit to resist him by not doing what he commands, and by impeding the execution of his will."
+> "Just as it is licit to resist a pontiff that attacks the body, it is also licit to resist one who attacks the soul or who disturbs the civil order or above all one who intends to destroy the church. I say it is licit to resist by not doing what he orders and by impeding the execution of what he wills. It is not licit, with everything, to judge him, impose a punishment, or depose him, for those actions are accorded to one superior to the pope."
 
-This passage from one of the most distinguished post-Tridentine theologians — a Doctor of the Church — is foundational to the SSPX's framework. Bellarmine is not authorizing schism; he is articulating the classical Catholic principle that obedience to the pope is bounded by obedience to Catholic Tradition. Where they conflict, the Tradition prevails — though this is, on Bellarmine's analysis, a rare and limit case requiring great prudence.
+This passage from one of the most distinguished post-Tridentine theologians — a Doctor of the Church — is foundational to the SSPX's framework. Bellarmine is not authorizing schism; he is articulating the classical Catholic principle that obedience to the pope is bounded by obedience to Catholic Tradition. The trailing clause is essential to the SSPX's position: licit resistance to specific acts is one thing; *jurisdictional sentence* over the pope (judging, punishing, deposing) is another, and is reserved to "one superior to the pope" — that is, to God alone. Bellarmine's distinction is precisely the line that separates the SSPX's resistance posture from the sedevacantist conclusion. Where Tradition and a particular papal act conflict, the Tradition prevails in the act refused; but the office of the man refusing the act stands, and the office of the pope issuing it is not denied.
 
-<!-- TODO (print-source): Cajetan's De Comparatione Auctoritatis Papae et Concilii (1511) is preserved chiefly in the 1936 Pollet critical edition (Romae, Apud Institutum Angelicum). Verify the English wording below against a critical edition or scholarly translation; the Galatians 2:11–14 allusion is integral to the argument but the exact phrasing of the quoted English may reflect a translator's paraphrase. -->
-**Cardinal Cajetan, *De Comparatione Auctoritatis Papae et Concilii* (1511):**
+<!-- TODO (print-source): Cajetan's De Comparatione Auctoritatis Papae et Concilii (1511) is preserved chiefly in the 1936 Pollet critical edition (Romae, Apud Institutum Angelicum). The fuller passage below is the standard traditionalist English in circulation across OnePeterFive, sspx.org's "Question of Papal Heresy" series, FSSPX Asia, and Unam Sanctam Catholicam; verify the wording against the Pollet critical edition. -->
+**Cardinal Cajetan (Thomas de Vio, OP), *De Comparatione Auctoritatis Papae et Concilii* (1511):**
 
-> "If the pope, by erroneous teaching or unlawful command, tries to destroy the faith, every Catholic is bound to resist him to his face, just as Paul resisted Peter."
+> "You must resist therefore to his face a pope who is openly tearing the Church apart. For example, when he refuses to confer ecclesiastical benefices except for money or in exchange for an office, and possession of such benefices must be denied to those who bought them, with all reverence and obedience, and a case of simony — even committed by the pope — must be denounced. Without a doubt, secular princes and the clergy could properly take the sword from a madman's hand. There are also ways by which, without rebellion, the secular princes and the prelates of the Church, if they wish to use them, could offer resistance and impediment to abuse of power. Let them meet with fitting remedies the destructive abuse of power: by not obeying the wicked, not flattering, not being silent, by accusing, by arguing, etc."
 
-The reference is to Galatians 2:11–14, where St. Paul opposes St. Peter for behavior contrary to the truth of the Gospel — a New Testament instance of one apostle resisting another, including the first pope, when his conduct deviated from the truth.
+The reference is to Galatians 2:11–14, where St. Paul opposes St. Peter for behavior contrary to the truth of the Gospel — a New Testament instance of one apostle resisting another, including the first pope, when his conduct deviated from the truth. Cajetan's worked example (simony) is significant: he does not treat the resistance principle as a purely theoretical safeguard but as a practical duty, exercised "with all reverence and obedience," when the pope's actual conduct injures the common good of the Church.
 
-<!-- TODO (print-source): Verify against a critical Latin edition of Suárez's Defensio Fidei Catholicae (Coimbra 1613). The English wording below is the standard SSPX-cited version; the precise location (Book IV vs. some editions' Book III "On Schism") and chapter number should be checked. -->
-**Francisco Suárez, *Defensio Fidei Catholicae*, Book IV, Chapter 12 (1613):**
+<!-- TODO (print-source): Verify against the Vivès Opera Omnia, Tome 12 (De Fide Theologica). The standard English rendering below is in wide circulation across traditionalist literature (OnePeterFive, Novus Ordo Watch, the SSPX "Question of Papal Heresy" series). The location is De Fide, Spe et Charitate, Disputation X, Section VI, n. 16 — Suárez's theological treatise on the virtue of faith, not the political-tract Defensio Fidei to which the passage has sometimes been incorrectly attributed. -->
+**Francisco Suárez, SJ, *De Fide, Spe et Charitate*, Disp. X, Sect. VI, n. 16 (early 17th c.):**
 
-> "[The pope] could be schismatic if he were unwilling to be in normal union with the whole body of the Church, as would occur if he attempted to excommunicate the whole Church, or if he wanted to overturn all the ecclesiastical ceremonies confirmed by Apostolic Tradition... For he could not, even by his own command, conduct himself differently."
+> "If the Pope lays down an order contrary to right customs, one does not have to obey him; if he tries to do something manifestly opposed to justice and to the common good, it would be licit to resist him; if he attacks by force, he could be repelled by force, with the moderation characteristic of a good defense."
 
-These citations are essential for understanding the SSPX framework. The SSPX is not claiming a novel right to disobey the pope. They are invoking a classical Catholic principle — recognized by the most distinguished theologians — that papal authority operates within the bounds of Tradition.
+These three witnesses span the 15th, 16th, and early 17th centuries. The same teaching is preserved without alteration in the standard pre-conciliar Catholic dogmatic manuals — the immediate textbook formation of every bishop and priest at Vatican II.
+
+**Ludwig Ott, *Fundamentals of Catholic Dogma*, on the limits of papal jurisdiction:**
+
+<!-- TODO (print-source): Verify against the Bastible/Lynch English edition (B. Herder Book Co., St. Louis, 1954; TAN Books reprint, ISBN 0895550091). The passage appears in the section on the Primacy of Jurisdiction of the Pope, likely pp. 286–290 of the standard TAN paperback. Google Books full-text search confirms both distinctive phrases ("efficacious brake," "ecclesiastical decisions and usages") in the standard edition. -->
+
+> "As the supreme lawgiver of the Church, the pope is not legally bound by ecclesiastical decisions and usages but by divine law alone. This demands that the papal power, in consonance with its purpose, should be employed for the building up of the Mystical Body of Christ and not for its destruction. The divine law therefore is an efficacious brake on arbitrariness."
+
+**Msgr. G. Van Noort, *Dogmatic Theology, Vol. II: Christ's Church*, n. 171, p. 283 (Castelot/Murphy English ed., Newman Press 1957):**
+
+> "From the doctrine outlined above concerning the pope's jurisdiction, it should be clear that the jurisdiction of the supreme pontiff has no other limits than those laid down by divine law or which the nature and goal of the Church, a spiritual kingdom, imply… Finally, from the doctrine outlined above, one should not leap to the absurd conclusion that all things are licit to the pope, or that he may turn things topsy-turvy in the Church at mere whim. Possession of power is one thing; a rightful use of power quite another. The supreme pontiff has received his power for the sake of building up the Church, not tearing it down."
+
+These two 20th-century witnesses are decisive against the suggestion that the SSPX's position is a "rad-trad" novelty cooked up against the Council. Ott and Van Noort were the standard dogmatic textbooks of the immediate pre-conciliar Catholic seminary — the formation of every bishop who voted at Vatican II. They preserve, in 20th-century manualist form, the same teaching Torquemada, Bellarmine, Cajetan, and Suárez had developed across the preceding five centuries: papal power is real, supreme, and divinely instituted; its scope is set by divine law and by the purpose of the Church (the salvation of souls); the use of papal power for purposes contrary to that scope is what Van Noort calls *turning things topsy-turvy* — possession is not, of itself, rightful use.
+
+These citations are essential for understanding the SSPX framework. The SSPX is not claiming a novel right to disobey the pope. They are invoking a classical Catholic principle — recognized by the most distinguished theologians of the perennial tradition — that papal authority operates within the bounds of Tradition and within the *suprema lex* of the salvation of souls (Canon 1752 of the 1983 Code) [→ §7 Canon Law].
 
 ### The SSPX Argument Applied
 
@@ -347,7 +369,7 @@ To prevent misunderstanding:
 
 What they claim is the right and duty to resist specific acts of papal authority that they judge to contradict prior definitive Catholic teaching — while remaining in communion with the pope as legitimate pope.
 
-Whether this position is theologically defensible is, of course, contested. The SSPX argues it is the classical Catholic position, articulated by Bellarmine, Cajetan, Suárez, and the major theologians. Their critics argue that the post-Vatican I conception of papal authority (after the definition of papal infallibility in 1870) leaves less room for such resistance than the SSPX claims. This is a genuine theological dispute, addressed in §10–§12.
+Whether this position is theologically defensible is, of course, contested. The SSPX argues it is the classical Catholic position, articulated by Torquemada, Cajetan, Bellarmine, and Suárez, and preserved without alteration in the standard pre-conciliar dogmatic manuals of Ott and Van Noort. Their critics argue that the post-Vatican I conception of papal authority (after the definition of papal infallibility in 1870) leaves less room for such resistance than the SSPX claims. This is a genuine theological dispute, addressed in §10–§12.
 
 ---
 
@@ -571,7 +593,7 @@ What unites them is that none of them are arbitrary. They are derived, argued, a
 | 3. Social Kingship | Christ reigns over societies | *Quas Primas*; *Immortale Dei* | Direct (vs. DH framework) |
 | 4. Religious Liberty | Error has no rights | Syllabus props. 15, 77; *Libertas* | Direct (vs. DH §2) |
 | 5. Ecumenism | Unity through return, not dialogue | *Mortalium Animos* | Direct (vs. UR framework) |
-| 6. Papacy | Authority bounded by Tradition | Bellarmine, Cajetan, Suárez | Indirect (interpretation of authority) |
+| 6. Papacy | Authority bounded by Tradition | Torquemada, Cajetan, Bellarmine, Suárez, Ott, Van Noort | Indirect (interpretation of authority) |
 | 7. Tradition | Unchangeable in substance | Trent IV; Vatican I; Vincentian Canon | Indirect (interpretation of "living Tradition") |
 | 8. Church and Salvation | One true Church | Florence; *Mystici Corporis* | Partial (vs. some readings of LG §8, UR, NA) |
 | 9. Modernism | Continuing root cause | *Pascendi*; *Lamentabili Sane* | Indirect (current trends as continuation) |

@@ -538,6 +538,46 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
+### Ludwig Ott — *Fundamentals of Catholic Dogma* (German 1952; English 1955)
+- **Publisher:** German original *Grundriss der katholischen Dogmatik* (Herder, Freiburg 1952); English translation by Patrick Lynch, edited by James Bastible (B. Herder Book Co., St. Louis 1954); reprinted by TAN Books (multiple editions).
+- **What it is:** The standard one-volume pre-conciliar Catholic dogmatic theology manual, used as a seminary textbook across the English-speaking Catholic world from the mid-1950s through Vatican II.
+- **Why it matters:** Decisive against the suggestion that the SSPX position on the limits of papal jurisdiction is a post-conciliar invention. Ott — writing as a mainstream Catholic dogmatician under the immediate pre-conciliar magisterium — preserves the perennial doctrine that papal power is bounded by divine law and the purpose of the Church, and that "the divine law therefore is an efficacious brake on arbitrariness." Cited in §6 Position 6.
+- **Where to find it:** [TAN Books](https://tanbooks.com); Amazon; archive.org (open scans of the Bastible/Lynch edition).
+
+---
+
+### Msgr. G. (Gerardus) Van Noort — *Dogmatic Theology, Vol. II: Christ's Church* (English 1957)
+- **Publisher:** English translation by John J. Castelot, SS and William R. Murphy, SS (Newman Press, Westminster, MD, 1957/1959); reprinted by Mediatrix Press.
+- **What it is:** The English-language translation of Van Noort's *Tractatus de Ecclesia Christi*, a standard pre-conciliar ecclesiology manual.
+- **Why it matters:** Carries the perennial "possession of power vs. rightful use of power" distinction (n. 171, p. 283) — papal power is supreme and divinely instituted, but its scope is set by divine law and the nature and goal of the Church, and one "should not leap to the absurd conclusion that all things are licit to the pope, or that he may turn things topsy-turvy in the Church at mere whim." Cited in §6 Position 6.
+- **Where to find it:** [Mediatrix Press](https://mediatrixpress.com); archive.org (open scans of the Castelot/Murphy edition).
+
+---
+
+### Cardinal Juan de Torquemada, OP — *Summa de Ecclesia* (1453)
+- **Editions:** *Editio princeps* Lyon 1496; standard print 1561 Venice edition (pp. 162–163 for the limits-of-obedience passage in Book II, Ch. 49).
+- **What it is:** The most authoritative 15th-century Dominican ecclesiology, written by a cardinal-theologian — uncle of the more famous Spanish Inquisitor — who set much of the formal pattern for later post-Tridentine treatments of papal authority.
+- **Why it matters:** Establishes the deep historical pedigree of the SSPX's framework on the limits of obedience. Cited in §6 Position 6.
+- **Where to find it:** Critical editions in major theological libraries; reproductions of Book II, Ch. 49 are available at trueorfalsepope.com and in Edward Feser's published work.
+
+---
+
+### Cardinal Cajetan (Thomas de Vio, OP) — *De Comparatione Auctoritatis Papae et Concilii* (1511)
+- **Critical edition:** V.M.J. Pollet, OP, Rome 1936 (Apud Institutum Angelicum).
+- **What it is:** Cajetan's treatise comparing the authority of pope and council, written in the context of the conciliarist controversies of the early 16th century. Cajetan is the most authoritative Thomist commentator of his era and a cardinal of the Roman Church.
+- **Why it matters:** Source of the classical "resist him to his face" formulation drawn from Galatians 2:11–14, and the practical worked example (simony) showing that resistance is exercised "with all reverence and obedience." Cited in §6 Position 6.
+- **Where to find it:** Pollet 1936 critical edition in theological research libraries; reproductions of the resistance passage are widely available across SSPX and other traditionalist sources.
+
+---
+
+### Francisco Suárez, SJ — *De Fide, Spe et Charitate*, Disputation X (early 17th c.)
+- **Edition:** Vivès *Opera Omnia*, Tome 12 (*De Fide Theologica*); Disp. X, Sect. VI, n. 16 contains the resistance passage.
+- **What it is:** Suárez's theological treatise on the virtues of faith, hope, and charity — distinct from his political-tract *Defensio Fidei Catholicae* (Coimbra 1613) to which the resistance passage has sometimes been incorrectly attributed.
+- **Why it matters:** Source of the standard rendering of the Jesuit theologian's three-tier teaching on resistance to a pope acting against right customs, against the common good, or by force. Cited in §6 Position 6.
+- **Where to find it:** Vivès *Opera Omnia* in theological research libraries; the standard English of the resistance passage is reproduced across the traditionalist literature.
+
+---
+
 ## Category VI: Key Videos and Recordings
 
 ---
