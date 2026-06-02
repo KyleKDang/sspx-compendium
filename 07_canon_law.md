@@ -53,15 +53,15 @@ Schism has a precise canonical definition. It is not a vague term for "Catholics
 
 **Canon 751 (CIC 1983):**
 
-> *"Schisma est subtractio submissionis Summo Pontifici aut communionis cum Ecclesiae membris eidem subditis."*
+> *"...schisma, subiectionis Summo Pontifici aut communionis cum Ecclesiae membris eidem subditis detrectatio."*
 >
-> "Schism is the withdrawal of submission to the Supreme Pontiff or from communion with the members of the Church subject to him."
+> "...schism is the refusal of submission to the Supreme Pontiff or of communion with the members of the Church subject to him."
 
 Notice what this definition requires:
 
-1. **Withdrawal** — an active rejection, not a disagreement.
+1. **Refusal** (Latin *detrectatio*) — an active rejection, not a disagreement.
 2. **Of submission to the Supreme Pontiff** — denial that the pope has authority, OR
-3. **From communion with the members of the Church** — refusal to be in ecclesial communion with other Catholics.
+3. **Of communion with the members of the Church** — refusal to be in ecclesial communion with other Catholics.
 
 Notice what it does *not* require:
 - Disobedience to a specific papal command.
@@ -97,7 +97,7 @@ Canonical penalties come in two forms.
 
 **A *ferendae sententiae* penalty** ("sentence to be passed") must be imposed by a competent authority through a judicial or administrative process. The penalty does not exist until the authority pronounces it.
 
-**Why this matters:** The 1988 consecrations carried a *latae sententiae* excommunication under Canon 1382. This means Lefebvre and the four bishops were excommunicated the moment the consecrations took place — not by John Paul II's *Ecclesia Dei*, which merely *declared* what had already happened automatically.
+**Why this matters:** The 1988 consecrations carried a *latae sententiae* excommunication under Canon 1382. This means Lefebvre, Castro Mayer (the co-consecrator), and the four bishops they consecrated were excommunicated the moment the consecrations took place — not by John Paul II's *Ecclesia Dei*, which merely *declared* what had already happened automatically.
 
 This also means:
 - The penalty applied only to the bishops who consecrated and were consecrated. It did not — and could not — apply to SSPX priests, religious, or laity, who did not commit the act.
@@ -173,7 +173,7 @@ The application turns on what "refusal of submission" means. There are two main 
 **English:**
 > "A bishop who consecrates someone a bishop without a pontifical mandate and the person who receives the consecration from him incur a *latae sententiae* excommunication reserved to the Apostolic See."
 
-**Note:** This canon was renumbered Canon 1387 in the 2021 revision of Book VI of the Code (*Pascite gregem Dei*, Francis, June 1, 2021), but the substance is identical. References to "Canon 1382" in pre-2021 documents refer to the same content.
+**Note:** This canon was renumbered Canon 1387 in the 2021 revision of Book VI of the Code (*Pascite gregem Dei*, Francis, May 23, 2021; effective December 8, 2021), but the substance is identical. References to "Canon 1382" in pre-2021 documents refer to the same content.
 
 **The pre-1917 background — varied modes of episcopal appointment in Catholic history.** For nearly two millennia before the 1917 Code, the universal requirement of a papal mandate for episcopal consecration *did not exist*. Bishops were chosen and consecrated by means that varied widely across periods and regions.
 
@@ -217,7 +217,7 @@ Pius XII's framework — codified at Canons 108–109, anchored in *Mystici Corp
 
 A further datum bears on the same question. The 1983 Code dropped Canon 109's "canonical mission" clause — the textual marker that jurisdiction is conferred specifically by papal grant rather than implicitly by ordination — in keeping with the *Lumen Gentium* §21 reformulation. The 1917-to-1983 codification change is itself probative of the pivot in the underlying ecclesiology.
 
-The order/jurisdiction distinction was also load-bearing for the *interpretation* the standard canonical authorities gave to the 1951 Decree itself. **Fr. Eduardo F. Regatillo, SJ** (1882–1970) — one of the pre-eminent canonists of the mid-twentieth century, whose *Institutiones Iuris Canonici* (Santander: Sal Terrae, 1956) was a standard reference manual — argued in volume 2, p. 600, that the 1951 Decree's *latae sententiae* excommunication was intended to cover only consecrations involving the conferral of jurisdiction: "The decree appears to cover only those who are consecrated as residential bishops, for this is the actual case which the Holy See intends to condemn." On Regatillo's reading, unauthorized consecration of a *titular* or *auxiliary* bishop — one to whom no jurisdiction is given — was probably not intended to incur the new excommunication, leaving the baseline 1917 CIC Canon 2370 *suspension* penalty in force. This contemporary canonical reading, by a Jesuit canonist writing five years after the 1951 Decree against the lived backdrop of its Chinese-CCPA target, is itself an argument that the canonical machinery now invoked against the SSPX consecrations was not designed for, and on its original authoritative interpretation did not reach, the auxiliary-bishop case the SSPX has consistently maintained — both in 1988 and in the announced 2026 consecrations.
+The order/jurisdiction distinction was also load-bearing for the *interpretation* the standard canonical authorities gave to the 1951 Decree itself. **Fr. Eduardo F. Regatillo, SJ** (1882–1975) — one of the pre-eminent canonists of the mid-twentieth century, whose *Institutiones Iuris Canonici* (Santander: Sal Terrae, 1956) was a standard reference manual — argued in volume 2, p. 600, that the 1951 Decree's *latae sententiae* excommunication was intended to cover only consecrations involving the conferral of jurisdiction: "The decree appears to cover only those who are consecrated as residential bishops, for this is the actual case which the Holy See intends to condemn." On Regatillo's reading, unauthorized consecration of a *titular* or *auxiliary* bishop — one to whom no jurisdiction is given — was probably not intended to incur the new excommunication, leaving the baseline 1917 CIC Canon 2370 *suspension* penalty in force. This contemporary canonical reading, by a Jesuit canonist writing five years after the 1951 Decree against the lived backdrop of its Chinese-CCPA target, is itself an argument that the canonical machinery now invoked against the SSPX consecrations was not designed for, and on its original authoritative interpretation did not reach, the auxiliary-bishop case the SSPX has consistently maintained — both in 1988 and in the announced 2026 consecrations.
 
 Cardinal St. Robert Bellarmine, addressing the same question three centuries before the Council, articulated the perennial position in stronger terms:
 
@@ -258,18 +258,20 @@ This is the canon directly invoked by *Ecclesia Dei* (1988). Lefebvre, Castro Ma
 
 This is the most important canon for the SSPX's defense. It must be quoted in full.
 
-**Latin:**
-> *"Nulli poenae obnoxius est qui, cum legem vel praeceptum violavit: 1° sextum decimum aetatis annum nondum explevit; 2° sine culpa ignoravit se legem vel praeceptum violare; ignorantiae autem inadvertentia et error aequiparantur; 3° egit ex vi physica vel ex casu fortuito, quem praevidere vel cui praeviso occurrere non potuit; 4° metu gravi, quamvis relative tantum, coactus egit, aut ex necessitate vel gravi incommodo, nisi tamen actus sit intrinsece malus aut vergat in animarum damnum; 5° legitimae tutelae causa contra iniustum sui vel alterius aggressorem egit, debitum servans moderamen; 6° rationis usu carebat, firmis praescriptis cann. 1324, §1, n. 2 et 1325; 7° sine culpa putavit aliquam ex circumstantiis, de quibus in nn. 4 vel 5, adesse."*
+**Latin** (current text per *Pascite gregem Dei*, 2021):
+> *"Nulli poenae est obnoxius qui, cum legem vel praeceptum violavit: 1° sextum decimum aetatis annum nondum explevit; 2° sine culpa ignoravit se legem vel praeceptum violare; ignorantiae autem inadvertentia et error aequiparantur; 3° egit ex vi physica vel ex casu fortuito, quem praevidere vel cui praeviso occurrere non potuit; 4° metu gravi, quamvis relative tantum, coactus egit, aut ex necessitate vel gravi incommodo, nisi tamen actus sit intrinsece malus aut vergat in animarum damnum; 5° legitimae tutelae causa contra iniustum sui vel alterius aggressorem egit, debitum servans moderamen; 6° rationis usu carebat, firmis praescriptis cann. 1324, § 1, n. 2, et 1326, § 1, n. 4; 7° sine culpa putavit aliquam adesse ex circumstantiis, de quibus in nn. 4 vel 5."*
 
 **English:**
-> "The following are not subject to a penalty when they have violated a law or precept:
-> 1° a person who has not yet completed the sixteenth year of age;
-> 2° a person who without negligence was ignorant that he or she violated a law or precept; inadvertence and error are equivalent to ignorance;
-> 3° a person who acted due to physical force or in virtue of a mere accident which could neither be foreseen nor prevented when foreseen;
-> 4° **a person who acted coerced by grave fear, even if only relatively grave, or due to necessity or grave inconvenience unless the act is intrinsically evil or tends to the harm of souls;**
-> 5° a person who acted with due moderation against an unjust aggressor for the sake of legitimate self defense or defense of another;
-> 6° a person who lacked the use of reason, without prejudice to the prescripts of cann. 1324, §1, n. 2 and 1325;
-> 7° a person who without negligence thought that one of the circumstances mentioned in nn. 4 or 5 was present."
+> "No one is liable to a penalty who, when violating a law or precept:
+> 1° has not completed the sixteenth year of age;
+> 2° was, without fault, ignorant of violating the law or precept; inadvertence and error are equivalent to ignorance;
+> 3° acted under physical force, or under the impetus of a chance occurrence which the person could not foresee or if foreseen could not avoid;
+> 4° **acted under the compulsion of grave fear, even if only relative, or by reason of necessity or grave inconvenience, unless, however, the act is intrinsically evil or tends to be harmful to souls;**
+> 5° acted, within the limits of due moderation, in lawful self-defence or defence of another against an unjust aggressor;
+> 6° lacked the use of reason, without prejudice to the provisions of cann. 1324 § 1 n. 2 and 1326 § 1 n. 4;
+> 7° thought, through no personal fault, that some one of the circumstances existed which are mentioned in nn. 4 or 5."
+
+(The 2021 revision of Book VI did not change the substance of Canon 1323; the only material edit is the cross-reference at 6°, where the pre-2021 reference to *can. 1325* was updated to *can. 1326 § 1 n. 4* to reflect the renumbering within Book VI. The 1988 Lefebvre defense was made under the pre-2021 text; the current text on which the announced 2026 consecrations would be tested is the version above.)
 
 **The critical clause is 1323, 4°.** It exempts from canonical penalty anyone who acted *out of necessity* — the famous "state of necessity" (*status necessitatis*) — unless the act is intrinsically evil or tends to harm souls.
 
@@ -294,7 +296,7 @@ Critics respond:
 3. The act *does* tend to harm souls — by creating a parallel ecclesial structure that draws Catholics out of full communion with their legitimate pastors.
 4. The judgment about what constitutes a state of necessity cannot be made unilaterally by the subject; otherwise any disobedience becomes self-justifying.
 
-**Canonical opinion on the state of necessity defense is genuinely divided.** Distinguished canonists have argued both sides. Count von Pohlheim, the canonist Geoffrey Hand, and others have argued that Lefebvre's invocation of Canon 1323 was canonically sound. Other canonists — including most working within Roman dicasteries — have held that the state-of-necessity defense fails because the act itself was not strictly necessary.
+**Canonical opinion on the state of necessity defense is genuinely divided.** Distinguished canonists have argued both sides. The pseudonymous Hirpinus (*The 1988 Consecrations: Theological Study*, July and September 1999) and Causidicus (*The 1988 Consecrations: Canonical Study*, November 1999 through 2000), both writing in *Si Si No No / The Angelus*, defended Lefebvre's invocation of Canon 1323 in detailed studies still cited by SSPX-aligned canonists today [→ §13, Category IV]. Other canonists — including most working within Roman dicasteries — have held that the state-of-necessity defense fails because the act itself was not strictly necessary.
 
 What is uncontested: the SSPX has a serious canonical argument here, not a frivolous one. The lifting of the excommunications in 2009 can be read as Rome quietly conceding that the canonical situation was more complicated than *Ecclesia Dei* had suggested.
 
@@ -302,9 +304,9 @@ What is uncontested: the SSPX has a serious canonical argument here, not a frivo
 
 ### Canon 1324 — Mitigation of Penalty
 
-**Canon 1324 §1, 8°** is also relevant. It states that a penalty must be *tempered* (not eliminated, but reduced) when the offender "*thought without negligence* that one of the circumstances mentioned in Canon 1323 was present."
+**Canon 1324 §1, 8°** is also relevant. It states that a penalty must be *tempered* (not eliminated, but reduced) when the offender is "one who erroneously, but culpably, thought that some one of the circumstances existed which are mentioned in can. 1323 nn. 4 or 5."
 
-This canon provides a fallback defense: even if Lefebvre was wrong that a state of necessity strictly existed, if he in good faith believed it existed, the penalty must be mitigated. This argument is sometimes invoked when the strict Canon 1323 defense is challenged.
+This canon provides a fallback defense: even if Lefebvre was *wrong* that a strict state of necessity existed, and even if his error was *culpable* (i.e., negligently formed rather than blamelessly held — Canon 1323 7° already covers the blameless case with full exemption), the penalty must still be mitigated rather than imposed in full. This argument is sometimes invoked when the strict Canon 1323 defense is challenged.
 
 ---
 
@@ -359,11 +361,16 @@ Critics responded that supplied jurisdiction applies to isolated cases, not to s
 
 For completeness, this canon describes what an excommunicated person may and may not do.
 
-**Canon 1331 §1** (as revised in 2021):
-> "A person who has been excommunicated is forbidden:
-> 1° to have any ministerial part in the celebration of the Sacrifice of the Eucharist or in any other ceremonies whatsoever of public worship;
-> 2° to celebrate the sacraments or sacramentals and to receive the sacraments;
-> 3° to discharge any ecclesiastical offices, ministries, or functions, or to perform acts of governance."
+**Canon 1331 §1** (as revised by *Pascite gregem Dei*, 2021):
+> "An excommunicated person is prohibited:
+> 1° from celebrating the Sacrifice of the Eucharist and the other sacraments;
+> 2° from receiving the sacraments;
+> 3° from administering sacramentals and from celebrating the other ceremonies of liturgical worship;
+> 4° from taking an active part in the celebrations listed above;
+> 5° from exercising any ecclesiastical offices, duties, ministries or functions;
+> 6° from performing acts of governance."
+
+(The pre-2021 wording had three combined items rather than six; the substance is essentially preserved with greater specificity.)
 
 **Application to the SSPX (before 2009):** An excommunicated bishop is forbidden to celebrate sacraments. However — and this is essential — *forbidden* does not mean *unable*. The excommunicated bishop's sacraments remain valid but are gravely illicit. Holy Orders received from an excommunicated bishop are valid but illicit, except in danger of death.
 
@@ -381,7 +388,7 @@ A few additional points from the general law of penalties are worth noting:
 
 - **Canon 1313 §1:** "If a law is changed after a delict is committed, the law more favorable to the accused is to be applied." This applies particularly to the 2021 revision of Book VI of the Code, which softened some penalties.
 
-- **Canon 1321 §1:** "No one can be punished unless the external violation of a law or precept, committed by the person, is *gravely imputable by reason of malice or culpability*." Even canonical violations require culpability for penalty.
+- **Canon 1321 §2** (post-2021 numbering; this was §1 in the original 1983 Code): "No one can be punished unless the commission by him or her of an external violation of a law or precept is gravely imputable by reason of malice or of culpability." Even canonical violations require culpability for penalty. The 2021 revision also added a new §1 that "Any person is considered innocent until the contrary is proved" — the first explicit codification of the presumption of innocence in the 1983 Code.
 
 ---
 
@@ -445,7 +452,7 @@ Francis's 2017 letter to Müller addressed this: local Ordinaries should grant d
 
 **Answer:** **Yes** — this is the prevailing canonical opinion since 2009.
 
-Canon 1247 requires the faithful to attend Mass on Sundays and holy days of obligation. Canon 1248 §1 specifies that this obligation is satisfied "by attending Mass celebrated according to the Catholic rite anywhere on a feast day itself."
+Canon 1247 obliges the faithful to participate in the Mass on Sundays and other holy days of obligation. Canon 1248 §1 specifies that "a person who assists at a Mass celebrated anywhere in a Catholic rite either on the feast day itself or in the evening of the preceding day satisfies the obligation of participating in the Mass."
 
 A Catholic rite. The Traditional Latin Mass is a Catholic rite (confirmed by *Summorum Pontificum*). The Mass is celebrated by a validly ordained priest. The Eucharistic sacrifice is really offered. Therefore the obligation is satisfied.
 
