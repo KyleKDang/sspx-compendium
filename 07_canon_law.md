@@ -347,8 +347,8 @@ Critics responded that supplied jurisdiction applies to isolated cases, not to s
 
 **The dispute was substantially resolved by Pope Francis:**
 
-- **2015:** *Misericordiae Vultus* explicitly grants SSPX priests the faculty to validly hear confessions during the Jubilee Year.
-- **2016:** *Misericordia et Misera* makes this permanent: "I therefore establish that those who during the Extraordinary Jubilee of Mercy approach these priests of the Society of Saint Pius X to celebrate the Sacrament of Reconciliation shall validly and licitly receive the absolution of their sins."
+- **September 1, 2015:** In a letter to Archbishop Rino Fisichella, Pope Francis grants SSPX priests the faculty to absolve validly during the Jubilee Year of Mercy: "I establish that those who during the Holy Year of Mercy approach these priests of the Fraternity of St Pius X to celebrate the Sacrament of Reconciliation shall validly and licitly receive the absolution of their sins." (The April 11, 2015 bull *Misericordiae Vultus*, which announced the Jubilee, did not itself mention the SSPX; the faculty came in this separate September letter.)
+- **November 20, 2016:** *Misericordia et Misera* §12 makes the faculty permanent: "I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon."
 - **2017:** Francis's letter to Cardinal Müller (March 27, 2017) addresses marriages, instructing that local Ordinaries should grant SSPX priests delegation to witness marriages.
 
 **Why this matters:** Francis's grants do not merely *concede* what the SSPX claimed (that supplied jurisdiction already applied). They *positively confer* faculties. This is significant: it implicitly acknowledges that the SSPX had a real canonical problem that required Roman action to solve, while resolving the problem in the SSPX's favor.
@@ -432,7 +432,7 @@ SSPX Masses meet all the conditions for validity. They are illicit insofar as th
 
 **Answer:** **Since 2016, unambiguously yes — by direct papal grant.** Before 2016, contested but with strong arguments for validity via supplied jurisdiction (Canon 144).
 
-This is the canonical situation most clarified by recent papal action. *Misericordia et Misera* (2016) made permanent what *Misericordiae Vultus* (2015) had granted: SSPX priests validly absolve sins.
+This is the canonical situation most clarified by recent papal action. *Misericordia et Misera* (2016) made permanent what Francis's September 1, 2015 letter to Archbishop Fisichella had granted for the Jubilee Year: SSPX priests validly absolve sins.
 
 ---
 

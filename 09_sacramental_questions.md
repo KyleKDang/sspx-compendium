@@ -193,14 +193,16 @@ The Pontifical Commission *Ecclesia Dei*, in various communications, generally a
 
 ---
 
-### 2015: *Misericordiae Vultus* — Jubilee Faculties
+### 2015: Letter to Archbishop Fisichella — Jubilee Faculties
 
-**Pope Francis, *Misericordiae Vultus* (April 11, 2015), §25:**
+**Pope Francis, Letter to Archbishop Rino Fisichella (September 1, 2015):**
 
-> "For the Jubilee Year I have decided that the Church will live this Jubilee spiritually at Lourdes and in the local Churches. I also grant priests of the Fraternité Sacerdotale Saint-Pie X the faculty to celebrate the Sacrament of Reconciliation for the validity and licity of the sacrament."
+> "I establish that those who during the Holy Year of Mercy approach these priests of the Fraternity of St Pius X to celebrate the Sacrament of Reconciliation shall validly and licitly receive the absolution of their sins."
+
+(This grant came in the September 1, 2015 letter, not in the bull *Misericordiae Vultus* of April 11, 2015, which announced the Jubilee but did not mention the SSPX.)
 
 **Analysis:**
-- The grant is unambiguous: "for the validity *and* licity of the sacrament."
+- The grant is unambiguous: the faithful "shall *validly and licitly* receive the absolution of their sins."
 - This is not merely a supply of jurisdiction in the sense of Canon 144 — it is an explicit positive grant of the faculty.
 - The pope, who possesses universal jurisdiction, explicitly confers on SSPX priests the faculty to hear confessions validly and licitly.
 - The faculty was initially granted for the Jubilee Year (December 8, 2015 – November 20, 2016).
@@ -211,13 +213,13 @@ The Pontifical Commission *Ecclesia Dei*, in various communications, generally a
 
 **Pope Francis, *Misericordia et Misera* (November 20, 2016), §12:**
 
-> "For the pastoral benefit of these faithful, and trusting in the good will of their priests to strive with God's help for the recovery of full communion in the Catholic Church, I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be without the Sacrament of Reconciliation through the Church's pardon."
+> "For the pastoral benefit of these faithful, and trusting in the good will of their priests to strive with God's help for the recovery of full communion in the Catholic Church, I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon."
 
 **Analysis:**
 - The Jubilee faculty is extended indefinitely — "until further provisions are made."
 - The justification is pastoral and personal: "I have personally decided." This is a papal act, not a delegated administrative provision.
 - The faculty applies universally to all SSPX priests for all faithful who approach them.
-- The phrase "lest anyone ever be without the Sacrament of Reconciliation" reveals Francis's pastoral priority: ensuring sacramental access trumps the canonical irregularity.
+- The phrase "lest anyone ever be deprived of the sacramental sign of reconciliation" reveals Francis's pastoral priority: ensuring sacramental access trumps the canonical irregularity.
 
 ---
 
@@ -446,7 +448,7 @@ The SSPX is the primary provider of the Traditional Latin Mass in many parts of 
 
 For such Catholics, the canonical irregularity of the SSPX is a cross to be borne — a wound in the Church that they suffer rather than cause. Their attendance is not an act of defiance toward Rome but a seeking of what they need to live the Catholic faith.
 
-This pastoral situation is acknowledged by the Francis-era provisions. The explicit statement in *Misericordia et Misera* — "lest anyone ever be without the Sacrament of Reconciliation through the Church's pardon" — reflects a pastoral awareness that the SSPX faithful have genuine spiritual needs that Rome wishes to address even in the absence of full regularization.
+This pastoral situation is acknowledged by the Francis-era provisions. The explicit statement in *Misericordia et Misera* — "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" — reflects a pastoral awareness that the SSPX faithful have genuine spiritual needs that Rome wishes to address even in the absence of full regularization.
 
 ---
 
@@ -509,7 +511,7 @@ What remains is the institutional irregularity — the lack of canonical mission
 |---|---|---|---|
 | *Summorum Pontificum* | July 7, 2007 | Benedict XVI | 1962 Missal permanently valid; never abrogated |
 | Decree lifting excommunications | January 21, 2009 | Congregation for Bishops | Removes penalties from four bishops |
-| *Misericordiae Vultus* | April 11, 2015 | Francis | Initial confession faculty grant |
+| Letter to Abp. Fisichella | September 1, 2015 | Francis | Initial SSPX confession faculty grant |
 | *Misericordia et Misera* | November 20, 2016 | Francis | Permanent confession faculty |
 | Letter to Cardinal Müller | March 27, 2017 | Francis | Marriage delegation framework |
 | *Traditonis Custodes* | July 16, 2021 | Francis | TLM restrictions (does not affect SSPX) |

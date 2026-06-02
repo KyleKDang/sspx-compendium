@@ -588,7 +588,8 @@ The following are the primary documents referenced throughout this timeline. All
 | *Universae Ecclesiae* | Apr 30, 2011 | PCED | Implementation of *Summorum Pontificum* |
 | Lifting of excommunications | Jan 21, 2009 | Benedict XVI | Removes penalties from four SSPX bishops |
 | Benedict's letter to bishops | Mar 10, 2009 | Benedict XVI | Explains lifting; no formal schism statement |
-| *Misericordiae Vultus* | Apr 11, 2015 | Francis | Jubilee Year; SSPX confession faculties |
+| *Misericordiae Vultus* | Apr 11, 2015 | Francis | Indiction of the Jubilee Year of Mercy |
+| Letter to Abp. Fisichella | Sep 1, 2015 | Francis | Grants SSPX confession faculty for the Jubilee |
 | *Misericordia et Misera* | Nov 20, 2016 | Francis | Makes SSPX confession faculties permanent |
 | Marriage delegation letter | Mar 27, 2017 | Francis → Müller | SSPX marriage validity |
 | *Traditionis Custodes* | Jul 16, 2021 | Francis | Restricts TLM; does not affect SSPX |

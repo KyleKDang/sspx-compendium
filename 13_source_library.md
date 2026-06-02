@@ -313,10 +313,10 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ---
 
-### Pope Francis — *Misericordiae Vultus* (2015)
-**Bull of Indiction of the Jubilee of Mercy**
-- **Why it matters:** Contains the first explicit grant of confession faculties to SSPX priests; see §25.
-- **Link:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)
+### Pope Francis — Letter to Archbishop Rino Fisichella (September 1, 2015)
+**Letter in preparation for the Jubilee of Mercy**
+- **Why it matters:** Contains the first explicit grant of confession faculties to SSPX priests. (The Jubilee was announced in the bull *Misericordiae Vultus*, April 11, 2015, which did not mention the SSPX; the faculty grant is in this letter.)
+- **Link:** [Vatican.va](https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150901_lettera-indulgenza-giubileo-misericordia.html)
 
 ---
 

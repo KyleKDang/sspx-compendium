@@ -182,7 +182,7 @@ An SSPX Mass is a valid Mass. This has never been seriously disputed by anyone, 
 
 Attending an SSPX Mass fulfills the Sunday obligation. Canon 1248 of the Code of Canon Law states that the obligation "is satisfied by assistance at a Mass which is celebrated anywhere in a Catholic rite." The traditional Latin Mass is a Catholic rite, as Benedict XVI confirmed. Canon lawyers across the spectrum agree that attendance satisfies the obligation.
 
-Confessions at an SSPX chapel are valid. Pope Francis granted SSPX priests the faculty to absolve sins validly and licitly, first for the Jubilee Year in 2015 and then permanently in 2016, writing that he did so "lest anyone ever be without the Sacrament of Reconciliation through the Church's pardon" (*Misericordia et Misera*, 2016). A confession made to an SSPX priest is valid, and the absolution is real.
+Confessions at an SSPX chapel are valid. Pope Francis granted SSPX priests the faculty to absolve sins validly and licitly, first for the Jubilee Year in 2015 and then permanently in 2016, writing that he did so "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" (*Misericordia et Misera*, 2016). A confession made to an SSPX priest is valid, and the absolution is real.
 
 Marriages at an SSPX chapel are valid, with one practical step. Since a 2017 instruction from Pope Francis, the local bishop is to grant SSPX priests the delegation needed to witness marriages. The Society arranges this routinely; the only advice is to confirm it with the chapel in advance.
 

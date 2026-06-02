@@ -293,12 +293,14 @@ Francis's pontificate produced a paradoxical pattern: significant practical norm
 
 ---
 
-### *Misericordiae Vultus* — Bull of Indiction of the Extraordinary Jubilee of Mercy
+### Letter of Pope Francis to Archbishop Rino Fisichella — September 1, 2015
 
 **Author:** Pope Francis
-**Date:** April 11, 2015
-**Genre:** Bull
-**Vatican.va:** [Vatican.va](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)
+**Date:** September 1, 2015
+**Genre:** Letter (to the President of the Pontifical Council for Promoting the New Evangelization, in preparation for the Jubilee of Mercy)
+**Vatican.va:** [Vatican.va](https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150901_lettera-indulgenza-giubileo-misericordia.html)
+
+*(The Jubilee itself was announced in the bull Misericordiae Vultus, April 11, 2015, which did not mention the SSPX. The confession faculty was granted in this separate September letter; the passage below is frequently misattributed to the bull.)*
 
 ---
 
@@ -329,14 +331,14 @@ Francis's pontificate produced a paradoxical pattern: significant practical norm
 
 #### Key Quotation (Article 12)
 
-> "For the pastoral benefit of these faithful, and trusting in the good will of their priests to strive with God's help for the recovery of full communion in the Catholic Church, I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be without the Sacrament of Reconciliation through the Church's pardon."
+> "For the pastoral benefit of these faithful, and trusting in the good will of their priests to strive with God's help for the recovery of full communion in the Catholic Church, I have personally decided to extend this faculty beyond the Jubilee Year, until further provisions are made, lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon."
 
 ---
 
 #### Analysis
 
 - The Jubilee-Year faculty is extended *indefinitely* — "until further provisions are made."
-- The justification — "lest anyone ever be without the Sacrament of Reconciliation through the Church's pardon" — is pastoral. Francis treats the practical need for access to confession as more pressing than the canonical irregularity that would otherwise impede it.
+- The justification — "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" — is pastoral. Francis treats the practical need for access to confession as more pressing than the canonical irregularity that would otherwise impede it.
 - This is the most significant single canonical action regarding the SSPX since 2009. It establishes that SSPX priests validly absolve sins, permanently.
 
 ---
@@ -542,7 +544,7 @@ The trajectory of Roman documents over four decades suggests several conclusions
 | Decree lifting excommunications | January 21, 2009 | Cong. for Bishops | Excommunications remitted |
 | Letter to bishops on remission | March 10, 2009 | Benedict XVI | Doctrinal not disciplinary; canonical irregularity |
 | *Universae Ecclesiae* | April 30, 2011 | PCED | Implementation of *Summorum Pontificum* |
-| *Misericordiae Vultus* | April 11, 2015 | Francis | Jubilee Year confession faculties |
+| Letter to Abp. Fisichella | September 1, 2015 | Francis | Jubilee Year SSPX confession faculty |
 | *Misericordia et Misera* | November 20, 2016 | Francis | Confession faculties permanent |
 | Letter to Müller on marriages | March 27, 2017 | Francis | Marriage delegation framework |
 | *Traditionis Custodes* | July 16, 2021 | Francis | Restricts TLM; SSPX unaffected |
