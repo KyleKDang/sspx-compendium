@@ -61,7 +61,7 @@ This dual character — condemnation plus outreach — defines Rome's posture to
 **Analysis:**
 - The penalty is declared, not imposed. The document *declares* that the consecrating and consecrated bishops have *incurred* a *latae sententiae* excommunication. The excommunication was automatic upon the act; *Ecclesia Dei* announces it publicly.
 - The penalty applies only to the named bishops. It does not extend to SSPX priests, religious, or laity. This canonical fact has been frequently misunderstood; the document itself is precise.
-- Mons. de Castro Mayer, the co-consecrator, is named elsewhere in the document and incurs the same penalty.
+- Mons. Antônio de Castro Mayer, the co-consecrator, is *not* named in *Ecclesia Dei* itself; he was named in the separate Decree of Excommunication issued by the Congregation for Bishops on July 1, 1988, and incurred the same *latae sententiae* penalty as co-consecrator.
 
 **On the "root" of the act:**
 
@@ -87,7 +87,7 @@ This dual character — condemnation plus outreach — defines Rome's posture to
 
 *Ecclesia Dei* established the framework within which all subsequent Roman engagement with the SSPX has occurred. Three of its provisions deserve special emphasis:
 
-- **The condemnation language** would be substantially softened, then effectively retracted, by subsequent Roman documents. By 2009, Rome would no longer call the SSPX schismatic. By 2007, Benedict XVI would state explicitly that "after [the consecrations] there was no formal schism."
+- **The condemnation language** would be substantially softened, then effectively retracted, by subsequent Roman documents. By 2009, Rome would no longer call the SSPX schismatic. As early as 2005, Cardinal Darío Castrillón Hoyos — president of the Pontifical Commission *Ecclesia Dei* — would state publicly that, although the 1988 consecrations were gravely illicit, "it was not a formal schism" [→ §3 Key Figures, for the verbatim].
 - **The penalty itself** was lifted in 2009.
 - **The pastoral concern for traditional liturgy** was affirmed and dramatically expanded by *Summorum Pontificum* (2007), which made the Traditional Mass available to any priest of the Roman Rite.
 
@@ -132,7 +132,7 @@ The accompanying letter to bishops — released the same day — is, if anything
 
 **Article 2 — Permission to celebrate the Traditional Mass:**
 
-> "In Masses celebrated without the people, each Catholic priest of the Latin rite, whether secular or regular, may use the Roman Missal published by Bl. Pope John XXIII in 1962, or the Roman Missal promulgated by Pope Paul VI in 1970, and may do so on any day."
+> "In Masses celebrated without the people, each Catholic priest of the Latin rite, whether secular or regular, may use the Roman Missal published by Bl. Pope John XXIII in 1962, or the Roman Missal promulgated by Pope Paul VI in 1970, and may do so on any day with the exception of the Easter Triduum."
 
 **Analysis:**
 - Any priest may celebrate the Traditional Mass without permission from his bishop.
@@ -170,9 +170,11 @@ The accompanying letter is where Benedict speaks most directly and personally. S
 - One of the most quoted passages in the document. The principle stated — that what was sacred to earlier generations cannot suddenly be considered harmful — is a direct theological criticism of the post-conciliar attitude toward the Traditional Mass.
 - This passage has been cited by traditionalists across the spectrum, not only the SSPX. Its theological weight extends well beyond the immediate liturgical question.
 
-**On the SSPX situation (in the same letter):**
+**On exclusive use of the older rite (the same passage, continued):**
 
-> "What earlier generations held as sacred, remains sacred and great for us too... It behoves all of us to preserve the riches which have developed in the Church's faith and prayer, and to give them their proper place. Needless to say, in order to experience full communion, the priests of the communities adhering to the former usage cannot, as a matter of principle, exclude celebrating according to the new books. The total exclusion of the new rite would not in fact be consistent with the recognition of its value and holiness."
+The sentences immediately following, in the same paragraph, turn to the obligations of those attached to the older form:
+
+> "Needless to say, in order to experience full communion, the priests of the communities adhering to the former usage cannot, as a matter of principle, exclude celebrating according to the new books. The total exclusion of the new rite would not in fact be consistent with the recognition of its value and holiness."
 
 **Analysis:**
 - A subtle but important challenge to the SSPX position. Benedict affirms the legitimacy of the Traditional Mass but holds that exclusive celebration of it — and refusal to recognize the validity and holiness of the new rite — would itself be problematic.
@@ -185,7 +187,7 @@ The accompanying letter is where Benedict speaks most directly and personally. S
 **Author:** Pontifical Commission *Ecclesia Dei*
 **Date:** April 30, 2011
 **Genre:** Instruction
-**Vatican.va:** [English version](https://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/documents/rc_com_ecclsdei_doc_20110430_universae-ecclesiae_en.html)
+**Vatican.va:** [English version](https://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/documents/rc_com_ecclsdei_doc_20110430_istr-universae-ecclesiae_en.html)
 
 ---
 
@@ -200,12 +202,14 @@ The document is significant because it shows the Roman authorities actively defe
 
 ---
 
-### Decree *Ecclesiae unitatem* — Lifting of the Excommunications
+### Decree Remitting the Excommunications of the Four SSPX Bishops
 
-**Author:** Congregation for Bishops, with approval of Pope Benedict XVI
+**Author:** Congregation for Bishops (signed by Cardinal Giovanni Battista Re, Prefect), with the powers expressly granted by Pope Benedict XVI
 **Date:** January 21, 2009
 **Genre:** Decree
 **Vatican.va:** [Vatican.va](https://www.vatican.va/roman_curia/congregations/cbishops/documents/rc_con_cbishops_doc_20090121_remissione-scomunica_en.html)
+
+*(This decree should not be confused with the motu proprio* Ecclesiae Unitatem*, issued separately by Benedict XVI on July 2, 2009, which restructured the Pontifical Commission* Ecclesia Dei *and placed it under the CDF.)*
 
 ---
 
@@ -264,12 +268,14 @@ This document, issued in response to the firestorm following the Williamson cont
 
 **On the absence of formal schism:**
 
-> "I was saddened by the fact that even Catholics who, after all, might have had a better knowledge of the situation, thought they had to attack me with open hostility. Precisely for this reason I thank all the more our Jewish friends, who helped to clear up the misunderstanding quickly and to restore the atmosphere of friendship and trust which — as in the days of Pope John Paul II — also during my entire pontificate has been and continues to be a priority for me."
+Benedict's March 2009 letter does not itself use the phrase "formal schism." The most authoritative Roman characterization of the SSPX as not in formal schism comes from Cardinal Darío Castrillón Hoyos, then president of the Pontifical Commission *Ecclesia Dei*, in his November 2005 interview with Gianni Cardinale for *30 Days* (*30 Giorni*):
 
-(Benedict's most direct statement on the schism question is in another context but reflects the same posture. In private remarks to Vittorio Messori, later published, Benedict stated: "The Society of Saint Pius X is not in formal schism. The schismatic act was the episcopal consecration in 1988. After that act, there was no formal schism." This statement, while not part of the official letter, is widely cited.)
+> "Unfortunately Archbishop Lefebvre went ahead with the consecration and hence the situation of separation came about, even if it was not a formal schism... It cannot be said in correct, exact, and precise terms that there is a schism. There is a schismatic attitude in the fact of consecrating bishops without pontifical mandate."
+>
+> — Cardinal Darío Castrillón Hoyos, interview with Gianni Cardinale, *30 Days* (November 2005) [→ §3 Key Figures, for the fuller verbatim]
 
 **Analysis:**
-- Read together with Cardinal Castrillón Hoyos's repeated statements that the SSPX is "not in formal schism," and with the absence of schism language in the 2009 decree, Rome's current position is clear: the SSPX is in canonical irregularity, but not in schism.
+- Read together with the conspicuous absence of any schism language in the 2009 decree, and with Benedict's own framing of the SSPX problem as doctrinal rather than disciplinary, Rome's settled position since 2005–2009 is clear: the SSPX is in canonical irregularity, but not in formal schism.
 - This represents a substantive shift from the 1988 language, even though *Ecclesia Dei* has not been formally retracted.
 
 ---
@@ -343,12 +349,12 @@ Francis's pontificate produced a paradoxical pattern: significant practical norm
 
 ---
 
-### Letter from Pope Francis to Cardinal Müller — March 27, 2017
+### Letter on the Marriages of SSPX Faithful — March 27, 2017
 
-**Author:** Pope Francis
-**Date:** March 27, 2017
-**Genre:** Personal letter from the pope to the Prefect of the CDF
-**Note:** Not published on Vatican.va as a formal document; widely circulated and accepted as authentic. The text was made public by the SSPX itself and confirmed by Vatican sources.
+**Author:** Congregation for the Doctrine of the Faith / Pontifical Commission *Ecclesia Dei*, signed by Cardinal Gerhard Müller (Prefect) and Archbishop Guido Pozzo (Secretary of *Ecclesia Dei*)
+**Date:** March 27, 2017 (approved by Pope Francis at the audience of March 24, 2017; made public April 4, 2017)
+**Genre:** Letter to local Ordinaries, issued with papal approval
+**Note:** Released through the Holy See Press Office bulletin rather than entered into the Vatican.va document archive; the text is widely reproduced and accepted as authentic.
 
 ---
 
@@ -456,9 +462,9 @@ In the years following *Traditionis Custodes*, SSPX attendance surged in many re
 ### *Responsa ad Dubia* on *Traditionis Custodes*
 
 **Author:** Congregation for Divine Worship and the Discipline of the Sacraments
-**Date:** December 18, 2021
+**Date:** December 4, 2021 (published December 18, 2021)
 **Genre:** Responses to formal questions
-**Vatican.va:** [Vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211218_responsa-dubia-litteris_en.html)
+**Vatican.va:** [Vatican.va](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_en.html)
 
 ---
 
@@ -477,7 +483,7 @@ For the SSPX situation: the *Responsa* reinforces the pattern. As restrictions o
 
 - **2022–2025:** Various administrative actions implementing *Traditionis Custodes*, none of which directly target the SSPX. Periodic meetings between Vatican officials and the SSPX continued.
 - **2024:** Reports of ongoing dialogue between the SSPX and the Dicastery for the Doctrine of the Faith (which absorbed the Pontifical Commission *Ecclesia Dei* in 2019). No agreement announced.
-- **No new excommunications or formal censures** were issued for any SSPX consecration during the Francis pontificate, despite multiple consecrations occurring.
+- **No SSPX episcopal consecrations occurred during the Francis pontificate.** The Society consecrated no new bishops between 1988 and 2026, so the question of fresh canonical penalties for unauthorized consecration did not arise during these years. (The next consecrations — four bishops — were announced February 2, 2026 and scheduled for July 1, 2026, under Leo XIV rather than Francis.)
 
 ---
 
@@ -518,10 +524,10 @@ Tracing the documents from 1988 to the present reveals a consistent pattern:
 
 The trajectory of Roman documents over four decades suggests several conclusions:
 
-- **The schism question has effectively been resolved in the SSPX's favor.** No major Roman document since 2009 has called them schismatic. Current canonical practice treats the situation as irregular but not separated.
+- **The schism question appeared resolved in the SSPX's favor — until the 2026 consecrations.** No major Roman document between 2009 and early 2026 called the SSPX schismatic, and canonical practice treated the situation as irregular but not separated. The Dicastery for the Doctrine of the Faith's May 13, 2026 statement — characterizing the planned July 1, 2026 consecrations as "a schismatic act" — has reopened the question in connection with the new consecrations, though it is directed at the prospective act rather than retroactively reclassifying the Society's existing status.
 - **The canonical situation has been progressively normalized at the sacramental level.** Confessions, marriages, and (de facto) Sunday attendance have been validated.
 - **The doctrinal question remains unresolved.** Benedict XVI's 2009 letter identifies this as the substantive issue, and no subsequent document has addressed it definitively.
-- **The episcopal consecrations have been tacitly accepted as a continuing condition.** Rome has not imposed new penalties for any post-2009 consecration. This is a remarkable silence, given that Canon 1382 (now 1387) in principle still applies.
+- **The 1988 consecrations were treated as a closed disciplinary matter — until 2026.** The Society consecrated no new bishops between 1988 and 2026, and the penalties from 1988 were remitted in 2009; for nearly four decades the live canonical question of unauthorized consecration lay dormant. It was reopened only by the four consecrations announced February 2, 2026 (scheduled for July 1, 2026), to which the Dicastery for the Doctrine of the Faith responded on May 13, 2026 by calling the planned act "a schismatic act" carrying *latae sententiae* excommunication under Canon 1382 (now 1387).
 - **The Traditional Mass has been treated separately from the SSPX itself.** *Summorum Pontificum* expanded it; *Traditionis Custodes* restricted it — but neither document directly addressed the SSPX. This separation suggests Rome views the two issues — liturgical preference and the SSPX's canonical status — as distinct.
 
 ### What the Documents Do Not Settle
@@ -529,7 +535,7 @@ The trajectory of Roman documents over four decades suggests several conclusions
 - **Whether the SSPX is right about Vatican II.** No document addresses the substantive theological dispute.
 - **Whether and when regularization will occur.** Multiple opportunities (1988, 2012) have been missed; the path forward is uncertain.
 - **Whether the SSPX's continued existence as an irregular structure is sustainable.** The current arrangement is unprecedented and inherently unstable.
-- **What Rome's approach will be under Leo XIV.** The new pontificate may continue the current pattern or initiate something new.
+- **What Rome's approach will be under Leo XIV.** The first concrete signal — the Dicastery for the Doctrine of the Faith's May 13, 2026 statement on the planned consecrations — points toward confrontation rather than continuity of the post-2009 modus vivendi, but how the situation develops after July 1, 2026 remains to be seen.
 
 ---
 
@@ -546,7 +552,7 @@ The trajectory of Roman documents over four decades suggests several conclusions
 | *Universae Ecclesiae* | April 30, 2011 | PCED | Implementation of *Summorum Pontificum* |
 | Letter to Abp. Fisichella | September 1, 2015 | Francis | Jubilee Year SSPX confession faculty |
 | *Misericordia et Misera* | November 20, 2016 | Francis | Confession faculties permanent |
-| Letter to Müller on marriages | March 27, 2017 | Francis | Marriage delegation framework |
+| CDF/*Ecclesia Dei* letter on marriages | March 27, 2017 | Müller & Pozzo (approved by Francis) | Marriage delegation framework |
 | *Traditionis Custodes* | July 16, 2021 | Francis | Restricts TLM; SSPX unaffected |
 | Letter to bishops on *Traditionis Custodes* | July 16, 2021 | Francis | Rationale: TLM used to reject Vatican II |
 | *Responsa ad Dubia* | December 18, 2021 | CDW | Tightens TLM restrictions |
