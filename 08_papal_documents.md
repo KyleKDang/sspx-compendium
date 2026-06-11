@@ -514,11 +514,11 @@ Tracing the documents from 1988 to the present reveals a consistent pattern:
 - **1988 — Maximal severity.** *Ecclesia Dei* condemns the act as "schismatic" and declares excommunications.
 - **1988–2007 — Gradual softening.** The Commission *Ecclesia Dei* increasingly emphasizes pastoral outreach. Cardinal Castrillón explicitly states the SSPX is not in formal schism. The Traditional Mass receives expanded indults.
 - **2007 — Major liturgical liberalization.** *Summorum Pontificum* makes the Traditional Mass widely available.
-- **2009 — Canonical normalization (partial).** Excommunications lifted. Benedict XVI explicitly states there was no formal schism after 1988.
+- **2009 — Canonical normalization (partial).** Excommunications lifted. Benedict XVI frames the remaining obstacle as doctrinal rather than disciplinary.
 - **2009–2012 — Near-regularization.** Doctrinal Discussions, then collapse of the proposed agreement.
 - **2015–2017 — Practical sacramental normalization under Francis.** Confessions and marriages validated.
 - **2021 — Reversal on the Traditional Mass (but not on the SSPX).** *Traditionis Custodes* restricts the TLM but leaves SSPX ministry untouched.
-- **2021–present — Tolerance combined with restriction.** Rome neither regularizes the SSPX nor declares them schismatic; neither penalizes new consecrations nor formalizes their ministry.
+- **2021–present — Tolerance combined with restriction.** Rome neither regularizes the SSPX nor declares them schismatic; it neither formalizes their ministry nor suppresses it — until the February 2026 consecration announcement draws the DDF's May 13, 2026 warning.
 
 ### What the Pattern Implies
 
@@ -546,7 +546,7 @@ The trajectory of Roman documents over four decades suggests several conclusions
 | *Ecclesia Dei adflicta* | July 2, 1988 | John Paul II | Foundational condemnation; "schismatic act"; excommunications declared |
 | Various Ecclesia Dei Commission replies | 1988–2009 | PCED | Pastoral guidance; "not in formal schism" |
 | *Summorum Pontificum* | July 7, 2007 | Benedict XVI | TLM as Extraordinary Form; never juridically abrogated |
-| Letter to bishops on *Summorum Pontificum* | July 7, 2007 | Benedict XVI | Sacred remains sacred; no formal schism |
+| Letter to bishops on *Summorum Pontificum* | July 7, 2007 | Benedict XVI | Sacred remains sacred; 1962 Missal never juridically abrogated |
 | Decree lifting excommunications | January 21, 2009 | Cong. for Bishops | Excommunications remitted |
 | Letter to bishops on remission | March 10, 2009 | Benedict XVI | Doctrinal not disciplinary; canonical irregularity |
 | *Universae Ecclesiae* | April 30, 2011 | PCED | Implementation of *Summorum Pontificum* |
