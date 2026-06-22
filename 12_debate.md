@@ -25,48 +25,53 @@ We work through each domain.
 
 ### Debate 1: Is the SSPX in Schism?
 
-**The claim (SSPX defender):** The SSPX is not in schism. Schism, per Canon 751, is the withdrawal of submission to the Pope or from communion with the Catholics subject to him. The SSPX recognizes the Pope as Pope, prays for him at every Mass, accepts his teaching authority in principle, and is in communion with all Catholics who hold the Catholic faith. They disobey specific commands while affirming the authority that issues them — which is disobedience, not schism. Both Benedict XVI (2009 letter to bishops) and Cardinal Castrillón Hoyos (multiple statements) have explicitly stated the SSPX is "not in formal schism." This is the current Roman position.
+**The claim (SSPX defender):** The SSPX is not in schism. Schism, per Canon 751, is the refusal of submission to the Pope or of communion with the Catholics subject to him. The SSPX recognizes the Pope as Pope, prays for him at every Mass, accepts his teaching authority in principle, and is in communion with all Catholics who hold the Catholic faith. They disobey specific commands while affirming the authority that issues them, which is disobedience, not schism. Cardinal Castrillón Hoyos, the Vatican official long responsible for relations with the Society, publicly described their status as a "situation of separation" that was "not a formal schism." Benedict XVI, in his 2009 letter to the bishops, located the dispute in doctrinal rather than disciplinary terms and treated it as a wound within the Church to be healed, not a schism to be punished. This is the current Roman position.
 
-**The counter-claim (mainstream critic):** *Ecclesia Dei* (1988) called the consecrations a "schismatic act" because they "implied in practice the rejection of the Roman primacy." Even if the SSPX verbally affirms the Pope's office, their institutional pattern — consecrating bishops without papal mandate, ordaining priests without canonical mission, perpetually withholding submission to specific Council teachings — constitutes a *material* withdrawal even if not a *formal* one. The Catholic Church under Pius XII (*Mystici Corporis*) defined membership as requiring not just verbal recognition but submission to legitimate authority. The SSPX's institutional posture is incompatible with this submission, even if individual SSPX members are not formally separated.
+**The counter-claim (mainstream critic):** *Ecclesia Dei* (1988) called the consecrations a "schismatic act" because they "implied in practice the rejection of the Roman primacy." Even if the SSPX verbally affirms the Pope's office, their institutional pattern — consecrating bishops without papal mandate, ordaining priests without canonical mission, perpetually withholding submission to specific Council teachings — constitutes a *material* withdrawal even if not a *formal* one. Pius XII's *Mystici Corporis* taught that the Church is a visible society governed by her lawful hierarchy, not merely a communion of shared belief; on this understanding the SSPX's institutional posture, which refuses the governance of the lawful hierarchy, impairs communion even if individual members are not formally separated.
 
 **The evidence for "not in schism":**
-- Benedict XVI's explicit statement: "After [the consecrations] there was no formal schism."
-- Castrillón Hoyos's repeated public statements that the SSPX is "not in formal schism."
+- Benedict XVI's 2009 letter to the bishops, framing the SSPX's lack of canonical status as resting "not... on disciplinary but on doctrinal reasons" and the goal as healing a wound rather than confronting a schism.
+- Cardinal Castrillón Hoyos's description of the SSPX (2005 *30 Giorni* interview) as in a "situation of separation" that was "not a formal schism."
 - The 2009 lifting of excommunications without any retraction by the SSPX of the 1988 act — implying Rome no longer considers the act schismatic in the strict canonical sense.
 - The 2015–2017 sacramental grants — Rome would not grant valid sacramental faculties to a schismatic body in the way it did.
 - Canon 751's strict definition — withdrawal of submission to the Pope, which the SSPX has not done formally.
-- No subsequent Roman document since 2009 has called the SSPX schismatic.
+- Rome has never declared the SSPX as a body to be in schism; through the 2009 remission, the doctrinal discussions, and the sacramental grants it has treated the Society as a Catholic body in an irregular situation.
 
 **The evidence for "schism in some sense":**
 - *Ecclesia Dei*'s original characterization as "schismatic act."
 - The 2021 *Traditionis Custodes* framework — while not directly addressing the SSPX, it characterizes communities that "reject not only the liturgical reform, but of the Vatican Council II itself" as instrumentalizing the liturgy against Catholic unity.
 - The visible communion argument: communion is not merely verbal but involves submission to legitimate authority in the discipline and government of the Church (per Vatican I's *Pastor Aeternus*).
-- The longue durée problem: a posture maintained over forty years, across multiple generations of bishops, that involves persistent acts contrary to papal will, is no longer a momentary act of resistance — it becomes a settled institutional condition.
+- The longue durée problem: a posture maintained over forty years, across multiple generations of bishops, that involves persistent acts contrary to papal will, is no longer a momentary act of resistance but a settled institutional condition.
+- The May 13, 2026 statement of the Dicastery for the Doctrine of the Faith (DDF — formerly the Congregation for the Doctrine of the Faith), under Cardinal Víctor Manuel Fernández, which called the SSPX's planned July 2026 episcopal consecrations "a schismatic act" carrying *latae sententiae* ("of a sentence already passed") excommunication, the most explicit Roman use of the term against an SSPX act since 1988.
 
-**Assessment:** The SSPX has the stronger argument on this specific question.
+**Assessment:** The SSPX has the stronger argument as to its present status, though the planned 2026 consecrations reopen the question.
 
-Current Roman usage does not call the SSPX schismatic. The most authoritative figures who have spoken — Benedict XVI, Cardinal Castrillón Hoyos — have explicitly said they are not in formal schism. Subsequent Roman actions (lifting excommunications, granting sacramental faculties) are consistent with this position and inconsistent with treating the SSPX as schismatic.
+As to the Society's existing status, Roman usage has not called the SSPX schismatic. Cardinal Castrillón Hoyos, the curial official then charged with the question, explicitly said their situation was not a formal schism, and Benedict XVI framed the dispute as doctrinal rather than as a schism to be punished. Subsequent Roman actions (lifting excommunications, granting sacramental faculties) are consistent with this position and inconsistent with treating the SSPX as schismatic.
 
-The critic's argument has force at the conceptual level — communion does require submission, and the SSPX's pattern is genuinely problematic — but it has to argue *against* the explicit statements of the relevant Roman authorities. The critic must say "Rome should call the SSPX schismatic even though Rome does not." This is a coherent position, but it is not the position Rome currently holds.
+The critic's argument has force at the conceptual level (communion does require submission, and the SSPX's pattern is genuinely problematic), but it has to argue *against* the explicit statements and conduct of the relevant Roman authorities. The critic must say "Rome should call the SSPX schismatic even though Rome does not." This is a coherent position, but it has not been the position Rome held with respect to the Society's existing status.
 
-The proper characterization, by current Roman criteria, is **canonical irregularity** — not schism. Whether the criteria should be different is a different question.
+That settled picture is now under fresh strain. On May 13, 2026 the Dicastery for the Doctrine of the Faith warned that the consecrations the SSPX had announced for July 1, 2026 would be "a schismatic act" incurring *latae sententiae* excommunication, the most pointed Roman use of the term since 1988. This does not retroactively make the Society's prior status schismatic, and the SSPX has answered that the new consecrations claim no power of jurisdiction and in no way deny the papal primacy (General House communiqué, May 26, 2026), proceeding only from what it called "the objective state of grave necessity in which souls find themselves" (February 2, 2026 announcement). But it reopens, in sharp and immediate form, the very question this debate examines.
 
-**Open subsidiary question:** Whether the SSPX's pattern, sustained indefinitely, eventually becomes a kind of *de facto* schism even if not *de jure*. This is conceptually serious, but it is not the current canonical position.
+The proper characterization, by the criteria Rome has applied to the Society's existing status, remains **canonical irregularity** rather than schism. Whether the July 2026 consecrations will change that, and whether the criteria should be different, are distinct questions.
+
+**Open subsidiary question:** Whether the SSPX's pattern, sustained indefinitely and now extended by a second unauthorized round of consecrations, eventually becomes a kind of *de facto* schism even if not *de jure*. The 2026 DDF warning shows this question is no longer merely hypothetical.
 
 ---
 
 ### Debate 2: Were the 1988 Consecrations Canonically Defensible?
 
-**The claim (SSPX defender):** The consecrations met the conditions of Canon 1323 §4 — the state of necessity exemption from canonical penalty. The Catholic Church faced a genuine crisis; the traditional priesthood was endangered; Rome's offered alternative (one Roman-chosen bishop under uncertain conditions) was inadequate; the act of consecrating bishops is not intrinsically evil; the consecrations did not harm souls but served them by ensuring continued sacramental access. Therefore the *latae sententiae* excommunication did not actually apply, even before its formal lifting in 2009. Bellarmine, Cajetan, and Suárez authorize this kind of action in the face of grave threats to the faith.
+**The claim (SSPX defender):** The consecrations met the conditions of Canon 1323, 4° — the state of necessity exemption from canonical penalty. The Catholic Church faced a genuine crisis; the traditional priesthood was endangered; Rome's offered alternative (one Roman-chosen bishop under uncertain conditions) was inadequate; the act of consecrating bishops is not intrinsically evil; the consecrations did not harm souls but served them by ensuring continued sacramental access. Therefore the *latae sententiae* excommunication did not actually apply, even before its formal lifting in 2009. Bellarmine, Cajetan, and Suárez authorize this kind of action in the face of grave threats to the faith.
 
-**The counter-claim (mainstream critic):** The state of necessity in Canon 1323 §4 requires *strict* necessity, not just grave concern. In 1988, alternatives existed: Rome had offered to consecrate a bishop under the May 5 Protocol; even without consecrations, the SSPX's existing priests could have continued ministering for decades; canonical succession could have been negotiated. The retraction of the Protocol within 24 hours was based on Lefebvre's *suspicion* of Rome's good faith, not on a manifest failure of Rome's commitments. The state of necessity cannot be invoked unilaterally — it requires genuinely objective necessity recognizable by the broader Catholic community. The thoughtful traditionalists who broke from Lefebvre to form the FSSP demonstrate that the broader Catholic community did *not* agree that the conditions for state of necessity were met. Their subsequent fruitful preservation of tradition within canonical regularity confirms that the SSPX's institutional response was not necessary.
+**The counter-claim (mainstream critic):** The state of necessity in Canon 1323, 4° requires *strict* necessity, not just grave concern. In 1988, alternatives existed: Rome had offered to consecrate a bishop under the May 5 Protocol; even without consecrations, the SSPX's existing priests could have continued ministering for decades; canonical succession could have been negotiated. The retraction of the Protocol within 24 hours was based on Lefebvre's *suspicion* of Rome's good faith, not on a manifest failure of Rome's commitments. The state of necessity cannot be invoked unilaterally — it requires genuinely objective necessity recognizable by the broader Catholic community. The thoughtful traditionalists who broke from Lefebvre to form the FSSP demonstrate that the broader Catholic community did *not* agree that the conditions for state of necessity were met. Their subsequent fruitful preservation of tradition within canonical regularity confirms that the SSPX's institutional response was not necessary.
 
 **The evidence for canonical defensibility:**
-- Canon 1323 §4 is real canon law, explicitly providing for the exemption.
+- Canon 1323, 4° is real canon law, explicitly providing for the exemption.
+- Even if the necessity were misjudged, Canon 1324 §1, 8° and §3 provide that one who culpably but erroneously believes the conditions of Canon 1323, 4° are present is "not bound by a *latae sententiae* penalty," a further canonical ground for holding that the automatic excommunication never took effect.
 - Bellarmine, Cajetan, and Suárez are major Catholic theologians authorizing resistance under grave conditions.
+- The May 1988 Protocol's terms were themselves grounds for judging it inadequate: it provided a single bishop, to be approved by Rome rather than freely chosen, with the Society holding only a minority voice on a Roman-controlled commission and no assurance of continued episcopal succession. Lefebvre's withdrawal rested on these concrete deficiencies, not on bare distrust.
 - Lefebvre's good faith — confirmed by his consistent character, his lifetime of service to the Church, and his deathbed convictions — argues that he met the subjective conditions for the exemption.
 - The 2009 lifting of excommunications, without requiring SSPX retraction, can be read as Rome's quiet acknowledgment that the situation was more complicated than *Ecclesia Dei* had suggested.
-- Subsequent SSPX consecrations (2006, 2019, etc.) have not been newly excommunicated — suggesting Rome no longer treats unauthorized SSPX consecrations as fresh schismatic acts.
+- Rome's conduct after 2009, including formal doctrinal discussions (2009–2011) and the grant of confession and marriage faculties (2015–2017), engaged the SSPX as a Catholic body to be reconciled rather than a schismatic sect to be confronted afresh.
 
 **The evidence against canonical defensibility:**
 - The May 5 Protocol existed. Rome had agreed to consecrate a traditional bishop. Lefebvre signed.
@@ -78,7 +83,7 @@ The proper characterization, by current Roman criteria, is **canonical irregular
 
 **Assessment:** This question is **genuinely contested** — neither side has clearly the stronger argument.
 
-The SSPX has a serious canonical case. Canon 1323 §4 is real; Bellarmine and Suárez are real theological authorities; Lefebvre's subjective good faith is genuine. The state-of-necessity defense is not frivolous.
+The SSPX has a serious canonical case. Canon 1323, 4° is real; Bellarmine and Suárez are real theological authorities; Lefebvre's subjective good faith is genuine. The state-of-necessity defense is not frivolous.
 
 The mainstream critic has equally serious counter-arguments. "Strict necessity" is genuinely demanding; the Protocol genuinely offered an alternative; the FSSP genuinely demonstrated that tradition could survive without the consecrations.
 
@@ -94,7 +99,7 @@ The honest conclusion: the canonical case for the 1988 consecrations is *defensi
 
 This is the central doctrinal dispute and the question Benedict XVI identified as the real barrier to SSPX regularization.
 
-**The claim (SSPX defender):** *Dignitatis Humanae* §2 teaches that there is a natural right to religious freedom rooted in human dignity, which extends to public profession of religion, and which should be enshrined in civil law as a civil right. Pius IX's Syllabus of Errors (1864) explicitly condemned propositions 15, 77, and 78 — which together cover exactly this teaching: that man has a right to freely embrace any religion, that the Catholic religion ought not to be held as the only religion of the state, and that residents of Catholic countries should be free to publicly practice non-Catholic religions. Gregory XVI in *Mirari Vos* called liberty of conscience an "insanity" (*deliramentum*). Leo XIII in *Libertas* taught that the state must not treat religions alike. These prior definitive teachings cannot be reconciled with *Dignitatis Humanae*'s plain meaning. The continuity-resolution offered by mainstream theologians (distinguishing civil liberty from religious indifferentism) is plausible at a high level but does not survive close textual analysis.
+**The claim (SSPX defender):** *Dignitatis Humanae* §2 teaches that there is a natural right to religious freedom rooted in human dignity, which extends to public profession of religion, and which should be enshrined in civil law as a civil right. Pius IX's Syllabus of Errors (1864) explicitly condemned propositions 15, 77, and 78 — which together cover exactly this teaching: that man has a right to freely embrace any religion, that the Catholic religion ought not to be held as the only religion of the state, and that residents of Catholic countries should be free to publicly practice non-Catholic religions. Gregory XVI in *Mirari Vos* (1832) condemned liberty of conscience as a *deliramentum* ("raving madness"). Leo XIII in *Libertas* taught that the state must not treat religions alike. These prior definitive teachings cannot be reconciled with *Dignitatis Humanae*'s plain meaning. The continuity-resolution offered by mainstream theologians (distinguishing civil liberty from religious indifferentism) is plausible at a high level but does not survive close textual analysis.
 
 **The counter-claim (mainstream critic):** *Dignitatis Humanae* teaches only *immunity from coercion* — it does not teach that all religions are equally valid or that no religion can be preferred by the state. The "due limits" clause explicitly preserves the right of civil authorities to protect public order. The prior teaching of Pius IX and Leo XIII was directed against indifferentism (the false claim that all religions are equal) and against secular liberalism (the exclusion of religion from public life), not against the moderate civil liberty taught by Vatican II. The development is genuine but not contradictory: the Church came to see, after the experience of totalitarianism and pluralism, that civil immunity from coercion is itself a Catholic principle, distinct from the indifferentism that Pius IX and Leo XIII rightly condemned. The 2007 CDF clarifications and subsequent magisterial statements support this reading.
 
@@ -102,8 +107,8 @@ This is the central doctrinal dispute and the question Benedict XVI identified a
 - Side-by-side reading of the relevant texts: Pius IX explicitly condemns the proposition that man is "free to embrace and profess that religion which, guided by the light of reason, he shall consider true." *Dignitatis Humanae* §2 affirms a right to religious freedom "whether privately or publicly, whether alone or in association with others." These read in their plain sense are saying opposite things.
 - *Dignitatis Humanae* roots the right in "the dignity of the human person" — making it a *natural right*. Pius IX denied that error has rights; only persons have rights. The Vatican II framework appears to give natural rights to *acts* (public profession) that the prior teaching said had no rights.
 - The 2007 CDF *Responses on the Doctrine of the Church* addressed *Lumen Gentium*'s "subsists in" but did not address the religious liberty question. No magisterial document since 1965 has produced a sustained, detailed reconciliation of *Dignitatis Humanae* with the Syllabus and *Libertas*.
-- The "continuity resolution" is asserted but rarely worked out in detail. Brian Harrison's *Religious Liberty and Contraception* (1988) is the most serious attempt; few mainstream theologians have engaged it.
-- Cardinal Avery Dulles, in his treatment of religious liberty, acknowledged genuine tension and proposed "development through addition" rather than full reconciliation.
+- The "continuity resolution" is asserted far more often than it is worked out: even its most substantial attempt, Brian Harrison's *Religious Liberty and Contraception* (1988), has gone largely unengaged by mainstream theologians, leaving the apparent contradiction effectively unanswered.
+- Cardinal Avery Dulles, though defending the change as authentic doctrinal development, conceded that the difference between the nineteenth-century popes and *Dignitatis Humanae* lies "in the means" each envisages, an admission that the discontinuity at that level is real.
 
 **The evidence for genuine continuity:**
 - *Dignitatis Humanae*'s "due limits" clause preserves civil authority's right to protect public order.
@@ -139,7 +144,7 @@ This is the most genuinely contested doctrinal question, and the one that will r
 
 **Evidence the hermeneutic does not adequately address everything:**
 - Benedict XVI's 2005 Address asserts continuity but does not produce sustained textual reconciliations of the most contested passages.
-- The 2009 Doctrinal Discussions between Rome and the SSPX, conducted under Benedict XVI's hermeneutic framework, did not produce agreement — both sides reported that genuine differences remained.
+- The 2009–2011 Doctrinal Discussions between Rome and the SSPX, conducted under Benedict XVI's hermeneutic framework, did not produce agreement; both sides reported that genuine differences remained.
 - Specific textual tensions (Pius IX vs. *Dignitatis Humanae*) have not been resolved in nearly sixty years.
 - Different schools of mainstream Catholic theology continue to disagree about how to interpret the most contested Vatican II passages.
 
@@ -157,7 +162,7 @@ The honest conclusion: the hermeneutic of continuity is the right principle but 
 
 ### Debate 5: Is the SSPX's Liturgical Critique Substantively Correct?
 
-**The claim (SSPX defender):** The 1969 liturgical reform was unprecedented in scope, undertaken in a manner contrary to organic development, and produced a rite that — while valid — expresses Catholic Eucharistic doctrine more ambiguously than the rite it replaced. The Ottaviani Intervention's specific concerns (the new Offertory, the changed prayers, the new orientation, the marginalization of the Roman Canon) identified real problems. The catastrophic decline in Catholic Eucharistic belief (the 31% Real Presence figure in 2019 Pew) correlates with the reform in ways that demand explanation. Benedict XVI's *Summorum Pontificum* (2007) vindicated the central SSPX liturgical claim by declaring the Traditional Mass had "never been juridically abrogated."
+**The claim (SSPX defender):** The 1969 liturgical reform was unprecedented in scope, undertaken in a manner contrary to organic development, and produced a rite that — while valid — expresses Catholic Eucharistic doctrine more ambiguously than the rite it replaced. The Ottaviani Intervention's specific concerns (the new Offertory, the changed prayers, the new orientation, the marginalization of the Roman Canon) identified real problems. The catastrophic decline in Catholic Eucharistic belief (the 31% Real Presence figure in 2019 Pew) correlates with the reform in ways that demand explanation. Benedict XVI vindicated the central SSPX liturgical claim in the letter accompanying *Summorum Pontificum* (2007), where he stated the Traditional Mass "was never juridically abrogated and, consequently, in principle, was always permitted."
 
 **The counter-claim (mainstream critic):** The new Mass, properly celebrated, expresses Catholic doctrine adequately. The specific concerns of the Ottaviani Intervention were partially addressed by Paul VI's 1970 revisions (particularly the GIRM §7 revision). The continued existence of the Roman Canon as Eucharistic Prayer I preserves the most explicit sacrificial expressions. The decline in Catholic belief has many causes — the sexual revolution, the collapse of cultural Christianity, secularization — not primarily the liturgical reform. The reform was a legitimate exercise of papal authority over the liturgy, mandated by an ecumenical council. The traditional Mass remains available (within the post-*Traditionis Custodes* framework); the choice for the new Mass does not require denigrating the old.
 
@@ -165,12 +170,13 @@ The honest conclusion: the hermeneutic of continuity is the right principle but 
 - The new Offertory does substitute "blessing" prayers for explicitly sacrificial prayers. This is textually demonstrable.
 - The role of Protestant observers in the Consilium is documented; whether their influence was decisive is contested, but their presence shaped the orientation of the work.
 - The 1970 *pro multis* translation controversy was eventually resolved in favor of the SSPX critique (Benedict's 2006 directive, implemented in 2011).
-- Cardinal Ratzinger himself acknowledged that "the prohibition of the missal that was now decreed... was something quite extraordinary. Nothing of the sort had ever happened in the entire history of the liturgy."
+- Cardinal Ratzinger himself wrote that he "was dismayed by the prohibition of the old missal, since nothing of the sort had ever happened in the entire history of the liturgy." <!-- TODO print-source: Ratzinger, *Milestones: Memoirs 1927–1977* (Ignatius Press, 1998), p. 148 -->
 - The 31% Real Presence figure is real and represents a catastrophic loss of Catholic Eucharistic belief.
 - The crisis in liturgical reverence — communion in the hand, casual dress, liturgical experimentation, loss of sacred music — is widely acknowledged at the highest levels of the Church.
 
 **Evidence against the strongest form of the critique:**
 - The new Mass remains valid when properly celebrated; the SSPX does not dispute this.
+- The reform's principles are conciliar in origin, not an imposition of the Consilium alone: *Sacrosanctum Concilium* (1963), approved by the Council Fathers, itself called for the revision of the rites, a wider use of the vernacular, and a "noble simplicity" in the liturgy (§34).
 - The Roman Canon (EP I) is the same in both rites.
 - The new Mass has expanded the lectionary, increased the prefaces, and added genuine elements of liturgical richness.
 - Many serious traditional Catholics — including the FSSP, ICKSP, and Cardinal Sarah — engage the new Mass without the SSPX's distinctive critical posture.
@@ -232,6 +238,7 @@ The honest conclusion: the SSPX's posture does create some unity-related harms (
 - The 2012 refusal to accept regularization on Rome's terms was explicitly grounded in the SSPX's institutional judgment about how Vatican II should be received — a judgment Rome did not share.
 
 **Evidence the SSPX is not alternative magisterium:**
+- Holding to and transmitting already-defined teaching is the ordinary duty of all the faithful and of all catechesis, not the exercise of a teaching office; if doing this much constituted a rival magisterium, every catechist and every Catholic who discerns orthodoxy from error would be one. The SSPX claims only this passive fidelity, not the active power to define.
 - The SSPX explicitly affirms papal authority and the supreme Magisterium of the Church.
 - They do not claim infallibility for their judgments.
 - They acknowledge that their canonical situation is irregular and requires resolution.
@@ -299,7 +306,7 @@ The fruit-evidence does not, by itself, vindicate the SSPX's institutional choic
 - In many regions post-*Traditionis Custodes*, the SSPX is the only available source of the Traditional Latin Mass.
 
 **Evidence against regular SSPX attendance:**
-- The Pontifical Commission *Ecclesia Dei* consistently said attendance was "not the ideal."
+- The Pontifical Commission *Ecclesia Dei* (Msgr. Camille Perl, January 18, 2003) stated that it "cannot recommend" attendance at SSPX Masses.
 - Long-term SSPX formation produces patterns the §11 critic identifies as problematic.
 - Full canonical communion is itself a Catholic value; attendance at irregular structures should not be normalized.
 - Canonical alternatives, where they exist, preserve the Catholic life the SSPX provides without the canonical irregularity.
@@ -329,7 +336,7 @@ The honest conclusion: there is no categorical answer. Both the SSPX defender an
 **The counter-claim (mainstream critic):** Regularization is desirable and possible on terms Rome can offer. The 2012 terms (acceptance of Vatican II as legitimate Church teaching, with continuing theological engagement on specific passages) were minimal. They did not require the SSPX to abandon its concerns; they required the SSPX to accept Vatican II as legitimate Magisterium while continuing to engage its content theologically. The SSPX's refusal to accept these terms reveals that its specific institutional posture — making certain theological judgments about Vatican II essential to its identity — is incompatible with full Catholic communion. The barrier to regularization is on the SSPX's side.
 
 **Evidence regularization is blocked by Rome's terms:**
-- The Doctrinal Preamble (2012) did require explicit acceptance of Vatican II.
+- The Doctrinal Preamble (first presented September 14, 2011; revised through 2012) did require explicit acceptance of Vatican II.
 - This acceptance was understood by the SSPX bishops as incompatible with their mission to resist specific Council teachings.
 - Rome has not, in subsequent years, offered terms that would allow the SSPX to maintain its specific theological positions on Vatican II while being canonically regular.
 
@@ -347,6 +354,8 @@ The SSPX is correct that accepting these terms, given the Society's self-underst
 
 The honest conclusion: regularization is blocked because the SSPX has defined its institutional mission in a way that makes regularization on Rome's terms incompatible with that mission. This is not Rome's failure to offer reasonable terms; it is the SSPX's choice to make its specific theological positions essential to its institutional identity in a way that no other Catholic community has done.
 
+The 2026 consecrations sharpen the impasse. By announcing on February 2, 2026 a second round of episcopal consecrations without papal mandate, scheduled for July 1, 2026, the Society moved to secure its independent future rather than await terms from Rome, and the DDF responded on May 13, 2026 by warning that the act would be schismatic. Whether one reads this as the SSPX foreclosing regularization or as Rome withholding the doctrinal acknowledgment the Society seeks, it confirms that, as of mid-2026, the two sides remain roughly where the 2012 talks left them, now with a further canonical breach in prospect.
+
 Whether this choice was wise — whether it would have been better for the SSPX to accept regularization in 2012 and pursue its theological concerns within full communion — is the deepest pastoral and prudential question raised by the entire SSPX situation. It is the question on which §15 will focus.
 
 ---
@@ -356,7 +365,7 @@ Whether this choice was wise — whether it would have been better for the SSPX 
 Where do the debates leave us?
 
 ### Where the SSPX has the stronger argument:
-- The schism question (SSPX is not in formal schism by current Roman criteria).
+- The schism question (SSPX is not in formal schism by the criteria Rome has applied to its existing status, though the planned 2026 consecrations have reopened the question).
 - The liturgical critique of the Novus Ordo (substantively vindicated by Benedict XVI on key points).
 - The reality and gravity of the post-conciliar crisis.
 - The validity of their sacraments and the canonical exemptions for their faithful.
@@ -371,11 +380,11 @@ Where do the debates leave us?
 - The canonical defensibility of the 1988 consecrations (state of necessity defense is defensible but not decisive).
 - The doctrinal reconciliation of *Dignitatis Humanae* with prior teaching (textual tension is real; institutional resolution favors mainstream).
 - The pastoral question of whether individual Catholics should attend the SSPX (depends entirely on specific circumstances).
-- The future of regularization (depends on factors not yet visible).
+- The future of regularization (the 2026 consecrations and the DDF's response have hardened the impasse, but its longer-term resolution depends on factors not yet visible).
 
 ### What is established beyond serious dispute:
 - SSPX sacraments are valid.
-- SSPX is not currently in formal schism.
+- SSPX is not currently in formal schism (the DDF has warned that the consecrations planned for July 2026 would constitute a schismatic act).
 - The SSPX bishops are no longer excommunicated.
 - The Traditional Latin Mass was never juridically abrogated.
 - The post-conciliar period has included a real crisis in Catholic life.
@@ -390,7 +399,7 @@ These are the materials. They support a range of stances. The next section, §15
 
 | Debate | Question | Winner | Confidence |
 |---|---|---|---|
-| 1 | Is the SSPX in schism? | SSPX | High — Rome explicitly says they are not |
+| 1 | Is the SSPX in schism? | SSPX (as to present status) | High for the present; the 2026 DDF warning on the planned consecrations reopens it |
 | 2 | Were the 1988 consecrations canonically defensible? | Open | Genuinely contested |
 | 3 | Does *DH* contradict prior teaching? | SSPX on text; Mainstream on authority | Honest split |
 | 4 | Does hermeneutic of continuity work? | Both partial | Principle right; application incomplete |
@@ -399,7 +408,7 @@ These are the materials. They support a range of stances. The next section, §15
 | 7 | Is the SSPX an alternative magisterium? | Mainstream | Moderate — practically true |
 | 8 | Does the SSPX produce net positive fruit? | Both | Real fruit, real harm; depends on weighing |
 | 9 | Should Catholics attend the SSPX? | Depends | Prudential, not categorical |
-| 10 | Will/should the SSPX be regularized? | Open | Barrier is on SSPX side, but understandable |
+| 10 | Will/should the SSPX be regularized? | Open | Barrier is on SSPX side, but understandable; 2026 consecrations hardened the impasse |
 
 ---
 
