@@ -58,13 +58,15 @@ When a doctrine has been:
 
 Consider the doctrine that civil society owes public worship to Christ and ought to acknowledge the Catholic Church as the true Church. This is taught:
 
-- By **Leo XIII** in *Immortale Dei* (1885): "Justice therefore forbids... the State to be godless; or to adopt a line of action which would end in godlessness — namely, to treat the various religions (as they call them) alike, and to bestow upon them promiscuously equal rights and privileges."
+- By **Leo XIII** in *Libertas* (1888): "Justice therefore forbids... the State to be godless; or to adopt a line of action which would end in godlessness — namely, to treat the various religions (as they call them) alike, and to bestow upon them promiscuously equal rights and privileges."
 - By **Pius IX** in *Quanta Cura* (1864), condemning the contrary position as a "most pernicious error."
 - By **Pius XI** in *Quas Primas* (1925), instituting the Feast of Christ the King precisely to teach this doctrine universally.
 - By **the Syllabus of Errors** (1864), condemning the proposition that "in the present day it is no longer expedient that the Catholic religion should be held as the only religion of the State."
 - By the consistent teaching of the Catholic catechisms, theology manuals, and seminary formation from Trent through Pius XII.
 
 This is taught everywhere, always, by all. It meets the Vincentian Canon. It is part of the deposit of faith.
+
+The doctrine is not an arbitrary historical preference. It follows from premises the Church holds as certain: that Christ is King by right over all creation, not only over private hearts; that the temporal common good is itself ordered to the eternal good of souls; and that the state, as a moral agent established by God, is therefore bound by the divine law it did not author. If Christ is truly King, a state that refuses Him public recognition is not neutral but derelict. This is why Leo XIII could call it "a public crime to act as though there were no God" (*Immortale Dei*, 1885).
 
 Now consider what *Dignitatis Humanae* §2 says:
 
@@ -73,6 +75,8 @@ Now consider what *Dignitatis Humanae* §2 says:
 The claim is that there is a *natural right*, rooted in *human dignity*, to *religious freedom* as a *civil right*. Religious freedom here is the right of persons to act on their religious convictions, including false convictions, "publicly or privately, whether alone or in association with others, within due limits."
 
 These two teachings cannot both be true in the sense they appear to mean. The prior teaching says the civil order owes public worship to the true God and should not be neutral between truth and error. The later teaching says all religions have an equal civil right to public expression. These are not compatible at the level of plain meaning. [→ §5 *Dignitatis Humanae* analysis]
+
+The deeper point survives even if a careful reading reconciles the texts. The prior teaching did not merely permit the Catholic state; it taught it as the ideal and bound rulers to public recognition of Christ. That ideal has not been reformulated but quietly retired: it has receded from magisterial rhetoric, from renegotiated concordats, and from the Church's public acts. A successful textual reconciliation of *Dignitatis Humanae* with the Syllabus, even if achieved, would not restore it. That, on the SSPX's account, is the contradiction that matters most.
 
 ### The SSPX Response
 
@@ -136,6 +140,12 @@ If the SSPX's diagnosis were wrong, if the post-conciliar Church were spirituall
 - **Growth after *Traditionis Custodes***: Following Francis's 2021 restriction of the Traditional Mass within the regular Church, the SSPX has experienced significant growth, both because in many places it is now the only local source of the rite, and because the apparent contradiction between Benedict XVI's *Summorum Pontificum* and Francis's *Traditionis Custodes* has vindicated the SSPX's concerns about post-conciliar magisterial instability.
 
 These data do not prove the SSPX is doctrinally correct. But they show that the SSPX has, in fact, produced the kind of Catholic life (vocations, families, observant faithful, formed Catholics) that the broader Church has struggled to produce. Whatever one's judgment of the SSPX's canonical situation, this is the kind of empirical evidence that demands serious engagement.
+
+### Why Clarity Converts
+
+A further argument runs in the Society's favor, and it is the one ordinary Catholics feel most directly. The faith is handed on by being taught with conviction. The old principle *lex orandi, lex credendi* holds that people come to believe what the Church prays and teaches without hesitation, and they quietly stop believing what she appears unsure of. A magisterium that softens its hard sayings, blurs its liturgy, and qualifies its claims about Christ and His Church does not thereby become more persuasive; it becomes less, and the figures above are what that looks like a generation later.
+
+The Society's wager is the opposite. Unambiguous doctrine, an unambiguous rite, and confident preaching hand the faith on intact, and the SSPX's full chapels, large families, and steady vocations are consistent with that wager. This is a prudential argument rather than a proof, since the crisis has many causes. But it meets the charge that the Society's insistence on the older formulations is mere rigidity. People want the truth, and they can tell when the one charged with teaching it no longer seems sure of it. The authority to convert is bound up with the confidence to teach plainly, and the Society claims to be keeping that confidence alive.
 
 ---
 
