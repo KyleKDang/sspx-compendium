@@ -149,7 +149,7 @@ The SSPX argues it has not withdrawn: it recognizes the Pope as Pope, prays for 
 
 The SSPX's framework requires the Catholic to accept the prior definitive Magisterium while resisting the current Magisterium where the SSPX judges that there is contradiction. This framework presupposes that the individual Catholic, or at minimum the SSPX bishops as a small interpretive community, can reliably determine when the current Magisterium contradicts the prior, and act on that determination.
 
-But this is to make the individual Catholic (or the SSPX) the supreme interpreter of the Magisterium. It is precisely the Protestant move, exalting private judgment above the Church's living teaching authority, dressed up in traditionalist clothing.
+But this is to make the individual Catholic (or the SSPX) the supreme interpreter of the Magisterium. Whatever the intention, the operative principle is that the believer's own judgment decides which magisterial acts command assent, which sets private judgment above the Church's living teaching authority. That is the one principle Catholic ecclesiology cannot concede, because it relocates the final rule of faith from the Church to the individual conscience.
 
 The Catholic position is different. The Magisterium *itself* is the proper interpreter of the Magisterium. The Church's authentic interpretation of her own prior teaching is what the current Magisterium provides. Where there appears to be tension, the resolution must come from the Magisterium, not from a private theologian, a private bishop, or a society of priests.
 
