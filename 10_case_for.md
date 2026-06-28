@@ -66,7 +66,7 @@ Consider the doctrine that civil society owes public worship to Christ and ought
 
 This is taught everywhere, always, by all. It meets the Vincentian Canon. It is part of the deposit of faith.
 
-The doctrine is not an arbitrary historical preference. It follows from premises the Church holds as certain: that Christ is King by right over all creation, not only over private hearts; that the temporal common good is itself ordered to the eternal good of souls; and that the state, as a moral agent established by God, is therefore bound by the divine law it did not author. If Christ is truly King, a state that refuses Him public recognition is not neutral but derelict. This is why Leo XIII could call it "a public crime to act as though there were no God" (*Immortale Dei*, 1885).
+The doctrine follows from premises the Church holds as certain: that Christ is King by right over all creation, not only over private hearts, and that the state, as a moral agent established by God, is bound by the divine law it did not author. It was on this basis that Leo XIII called it "a public crime to act as though there were no God" (*Immortale Dei*, 1885).
 
 Now consider what *Dignitatis Humanae* §2 says:
 
@@ -76,7 +76,7 @@ The claim is that there is a *natural right*, rooted in *human dignity*, to *rel
 
 These two teachings cannot both be true in the sense they appear to mean. The prior teaching says the civil order owes public worship to the true God and should not be neutral between truth and error. The later teaching says all religions have an equal civil right to public expression. These are not compatible at the level of plain meaning. [→ §5 *Dignitatis Humanae* analysis]
 
-The deeper point survives even if a careful reading reconciles the texts. The prior teaching did not merely permit the Catholic state; it taught it as the ideal and bound rulers to public recognition of Christ. That ideal has not been reformulated but quietly retired: it has receded from magisterial rhetoric, from renegotiated concordats, and from the Church's public acts. A successful textual reconciliation of *Dignitatis Humanae* with the Syllabus, even if achieved, would not restore it. That, on the SSPX's account, is the contradiction that matters most.
+Even a careful reading that reconciles the texts would not settle the deeper point. The prior teaching did not merely permit the Catholic state; it taught it as the ideal and bound rulers to public recognition of Christ. That ideal has not been reformulated but quietly retired, receding from magisterial rhetoric, from renegotiated concordats, and from the Church's public acts. A textual reconciliation of *Dignitatis Humanae* with the Syllabus, even if achieved, would not restore it.
 
 ### The SSPX Response
 
