@@ -1,4 +1,4 @@
-# Section 1: What Is the SSPX — Identity, Self-Understanding, and Overview
+# Section 1: What Is the SSPX - Identity, Self-Understanding, and Overview
 ## The SSPX Compendium
 
 > **How to use this section.** This is the entry point to the compendium. It orients you to what the Society of Saint Pius X is, what it holds itself to be, what Rome says it is, where it fits in the landscape of Catholic traditionalism, and why it matters. It is deliberately not a deep-dive: every claim made here is developed at length in later sections. Think of it as a map of the territory rather than the territory itself. Cross-references throughout point you to the relevant sections for fuller treatment.
@@ -27,7 +27,7 @@ The founding vision is most clearly articulated in Lefebvre's Declaration of Nov
 
 > "We refuse, on the other hand, and have always refused to follow the Rome of neo-Modernist and neo-Protestant tendencies which were clearly evident in the Second Vatican Council and, after the Council, in all the reforms which derived from it."
 >
-> — Archbishop Marcel Lefebvre, *Declaration of 21 November 1974*
+> - Archbishop Marcel Lefebvre, *Declaration of 21 November 1974*
 
 These two passages contain the SSPX's entire self-understanding in miniature. The Society is not rejecting Rome; it is distinguishing between "Eternal Rome" (the Rome of perennial Catholic Tradition) and the Rome of a specific historical moment (the Rome of post-conciliar reforms it considers deviations). It claims fidelity to the first while resisting the second. Whether this distinction is theologically defensible is the central question of the entire dispute. [→ §5 Vatican II; §6 Doctrinal Positions; §10–§12 The Debate]
 
@@ -73,7 +73,7 @@ Rome's official position on the SSPX has evolved significantly over the nearly f
 
 ---
 
-## Part IV: What the SSPX Actually Is — Size, Structure, and Global Presence
+## Part IV: What the SSPX Actually Is - Size, Structure, and Global Presence
 
 The SSPX is not a small fringe community. It is a substantial global institution with a complete institutional life.
 

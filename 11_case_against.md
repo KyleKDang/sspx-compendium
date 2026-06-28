@@ -47,13 +47,13 @@ The Catholic Church teaches that Christ founded a visible Church on the foundati
 
 > "Wherefore we teach and declare that, by divine ordinance, the Roman church possesses a pre-eminence of ordinary power over every other church, and that this jurisdictional power of the Roman pontiff is both episcopal and immediate. Both clergy and faithful, of whatever rite and dignity, both singly and collectively, are bound to submit to this power by the duty of hierarchical subordination and true obedience, and this not only in matters concerning faith and morals, but also in those which regard the discipline and government of the church throughout the world."
 >
-> — *Pastor Aeternus* (First Vatican Council, 1870), ch. 3
+> - *Pastor Aeternus* (First Vatican Council, 1870), ch. 3
 
 The same Council declared:
 
 > "So, then, if anyone says that the Roman pontiff has merely an office of supervision and guidance, and not the full and supreme power of jurisdiction over the whole church, and this not only in matters of faith and morals, but also in those which concern the discipline and government of the church dispersed throughout the whole world; or that he has only the principal part, but not the absolute fullness, of this supreme power; or that this power of his is not ordinary and immediate both over all and each of the churches and over all and each of the pastors and faithful: let him be anathema."
 >
-> — *Pastor Aeternus* (First Vatican Council, 1870), ch. 3, canon
+> - *Pastor Aeternus* (First Vatican Council, 1870), ch. 3, canon
 
 This teaching is at the same level of authority as the dogmas of the Trinity and the Incarnation. It is *de fide divina et catholica*. To deny it is heresy.
 
@@ -133,7 +133,7 @@ The Catholic Church is not an idea or a set of doctrines. It is the Mystical Bod
 
 > "Actually only those are to be included as members of the Church who have been baptized and profess the true faith, and who have not been so unfortunate as to separate themselves from the unity of the Body, or been excluded by legitimate authority for grave faults committed."
 >
-> — *Mystici Corporis Christi* (1943), §22
+> - *Mystici Corporis Christi* (1943), §22
 
 Three things make one a member of the Catholic Church: baptism, profession of the true faith, and submission to legitimate authority (visible communion with the bishops and Pope).
 

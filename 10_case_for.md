@@ -174,7 +174,7 @@ Classical moral theology grades spiritual necessity by degree. The Society's 198
 
 The SSPX's claim is that the post-conciliar crisis has placed individual souls in the fourth state (extreme spiritual necessity, because saving one's soul today without assistance has become morally near-impossible) and the Church as a whole in the fifth, with the further refinement that the grave public necessity is both *doctrinal* (a generalized weakening of the deposit of faith) and *liturgical* (a defective ordinary form imposed on most of the Western Church). This is the application of an existing taxonomy to a situation the taxonomy was designed to handle.
 
-### The Divine Warrant — Christ's Sabbath Parables
+### The Divine Warrant - Christ's Sabbath Parables
 
 The state-of-necessity exception to positive law has, in the Catholic reading, a dominical warrant. The Gospel records repeated conflicts between Christ and the Pharisees over Sabbath observance, in which Christ defends extraordinary action precisely as Sabbath law would have authorized it. Two of His own examples in this dispute frame the distinction:
 
@@ -201,11 +201,11 @@ The clearest contemporary articulation of this point appears in a 1999 *Si Si No
 
 > "The priest or bishop who, constrained by necessity, does not obey the pope is not thereby denying his own subordination to the pope outside the case of necessity, and so he is not refusing authority in its lawful exercise. Similarly, a wife is not denying the authority of her husband outside of the case of necessity, in which she has the duty to supply for him against his unreasonably opposed will."
 >
-> — Hirpinus, *The 1988 Consecrations* (theological study, Part II), *The Angelus*, September 1999
+> - Hirpinus, *The 1988 Consecrations* (theological study, Part II), *The Angelus*, September 1999
 
 This is the architecture of the SSPX's posture. The Society is not asserting that John Paul II in 1988, Francis through 2025, or Leo XIV today is not the pope; it is asserting that specific exercises of papal authority, in the specific matter of the preservation of the traditional Catholic priesthood, are not binding under the conditions of necessity.
 
-### The Intuitive Case — Analogies for State of Necessity
+### The Intuitive Case - Analogies for State of Necessity
 
 The canonical category of necessity is not foreign to ordinary Catholic experience. The Church herself recognizes several analogies that anchor the principle in common moral intuition, and which the SSPX's leadership (Bishop Fellay in particular) deploys to explain the Society's posture.
 
@@ -246,7 +246,7 @@ Lefebvre articulated the necessity argument directly in the consecration sermon 
 >
 > This Life of Our Lord Jesus Christ is disappearing everywhere in the Conciliar Church. They are following roads which are not Catholic roads: they simply lead to apostasy. This is why we do this ceremony."
 >
-> — Archbishop Marcel Lefebvre, sermon at the episcopal consecrations, Écône, June 30, 1988
+> - Archbishop Marcel Lefebvre, sermon at the episcopal consecrations, Écône, June 30, 1988
 
 The sermon-text formulation matters. Lefebvre did not pitch the act as a defiance of authority but as a *recognition of a case of necessity*, using exactly the manualist category that Fr. Paul Robinson (an SSPX priest and author of *The Realist Guide to Religion and Science*) would later draw out in the Society's 2026 exposition of the consecrations. The same vocabulary recurs in the SSPX's 2026 case for the planned July 1 consecrations.
 
@@ -275,7 +275,7 @@ The argument has three pieces.
 
 > "Three psalms (58, 83, and 109) have been omitted from the psalter cycle because of their curses; in the same way, some verses have been omitted from certain psalms, as noted at the head of each. The reason for the omission is a certain psychological difficulty, even though the psalms of imprecation are in fact used as prayer in the New Testament, for example, Rv 6:10, and in no sense to encourage the use of curses."
 >
-> — *General Instruction of the Liturgy of the Hours* §131
+> - *General Instruction of the Liturgy of the Hours* §131
 
 The SSPX reads this as the clearest signal that the reformers held there is something in the inspired Word of God no longer appropriate to modern man. To suppress inspired Scripture from the public prayer of the Church on the ground of "psychological difficulty" is, on the traditional reading of inspiration, to make a *doctrinal* claim about Scripture that the Catholic understanding of inspiration cannot accommodate. Archbishop Lefebvre insisted repeatedly that nothing in the deposit of faith can be inappropriate to any age; the Office is not the deposit of faith, but the principle stated in GILH §131 ("psychological difficulty" warranting suppression of inspired Scripture) is the kind of premise from which doctrinal reductions then follow.
 
@@ -313,7 +313,7 @@ The classical theological case for resistance has its scriptural foundation in G
 
 St. Thomas treats the episode as the precedent in his discussion of fraternal correction (*Summa Theologiae* II-II, q. 33, a. 4): Paul's rebuke of Peter, though public and though directed at his superior, was justified "on account of the imminent danger of scandal concerning faith"; and Aquinas there quotes St. Augustine's comment that Peter, in accepting it, "gave an example to superiors... of not disdaining to be corrected by their subjects." The Church's own scriptural and theological tradition thus includes the example of one apostle correcting another, including the first Pope, when his actions threatened the integrity of the faith.
 
-### What This Authorizes — and Does Not
+### What This Authorizes - and Does Not
 
 The classical doctrine of resistance does not authorize:
 - Schism (formal denial of papal authority)
@@ -399,7 +399,7 @@ If the canonical irregularity were producing spiritual barrenness, this would be
 
 ---
 
-## Part VIII: Anticipated Objections — and Brief Responses
+## Part VIII: Anticipated Objections - and Brief Responses
 
 This section gives brief responses to the most common objections; full responses appear in §12 (point-by-point debate).
 

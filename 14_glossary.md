@@ -1,7 +1,7 @@
 # Section 14: Glossary of Terms
 ## The SSPX Compendium
 
-> **How to use this section.** This glossary defines every technical term used throughout the compendium — canonical, theological, liturgical, and historical. Entries are written to be precise without being pedantic; the goal is working fluency, not academic exhaustiveness. Terms are organized alphabetically within four categories: (I) Canonical and Legal Terms, (II) Theological and Doctrinal Terms, (III) Liturgical Terms, and (IV) Historical and Institutional Terms. Cross-references to relevant sections of the compendium are included where the term is analyzed in depth. Where a term has both a technical Catholic meaning and a common misuse, both are noted.
+> **How to use this section.** This glossary defines every technical term used throughout the compendium - canonical, theological, liturgical, and historical. Entries are written to be precise without being pedantic; the goal is working fluency, not academic exhaustiveness. Terms are organized alphabetically within four categories: (I) Canonical and Legal Terms, (II) Theological and Doctrinal Terms, (III) Liturgical Terms, and (IV) Historical and Institutional Terms. Cross-references to relevant sections of the compendium are included where the term is analyzed in depth. Where a term has both a technical Catholic meaning and a common misuse, both are noted.
 
 ---
 
@@ -15,12 +15,12 @@ A solemn ecclesiastical condemnation of greater severity than excommunication; t
 ---
 
 ### Apostolic Administration
-A canonical structure by which a territory or community is placed under the pastoral care of a bishop appointed directly by the Holy See, rather than under a diocesan ordinary. The *Apostolic Administration of Saint John Mary Vianney* in Campos, Brazil (2002) is the model most relevant to the SSPX — a fully canonical traditional community that reconciled with Rome and was placed under an apostolic administrator. [→ §1 Overview; §3 Key Figures]
+A canonical structure by which a territory or community is placed under the pastoral care of a bishop appointed directly by the Holy See, rather than under a diocesan ordinary. The *Apostolic Administration of Saint John Mary Vianney* in Campos, Brazil (2002) is the model most relevant to the SSPX - a fully canonical traditional community that reconciled with Rome and was placed under an apostolic administrator. [→ §1 Overview; §3 Key Figures]
 
 ---
 
 ### Apostolic See
-The See of Rome, considered as the seat of the Bishop of Rome — the Pope — and his curial apparatus. "Apostolic See" is used interchangeably with "Holy See" in canonical usage. Penalties "reserved to the Apostolic See" (such as the 1988 excommunications under Canon 1382) can only be lifted by the Pope or by someone acting with explicit papal delegation. [→ §7 Canon Law; §8 Papal Documents]
+The See of Rome, considered as the seat of the Bishop of Rome - the Pope - and his curial apparatus. "Apostolic See" is used interchangeably with "Holy See" in canonical usage. Penalties "reserved to the Apostolic See" (such as the 1988 excommunications under Canon 1382) can only be lifted by the Pope or by someone acting with explicit papal delegation. [→ §7 Canon Law; §8 Papal Documents]
 
 ---
 
@@ -33,7 +33,7 @@ The See of Rome, considered as the seat of the Bishop of Rome — the Pope — a
 ---
 
 ### Canonical Mission
-The formal commissioning of a cleric by competent authority to exercise his orders within the Church's structures. A validly ordained priest has the sacramental power to celebrate Mass and absolve sins, but he requires a canonical mission — given by his bishop through incardination — to exercise these powers lawfully in public ministry. SSPX priests have valid orders but lack canonical mission; this is the precise meaning of their "irregular canonical status." [→ §7 Canon Law]
+The formal commissioning of a cleric by competent authority to exercise his orders within the Church's structures. A validly ordained priest has the sacramental power to celebrate Mass and absolve sins, but he requires a canonical mission - given by his bishop through incardination - to exercise these powers lawfully in public ministry. SSPX priests have valid orders but lack canonical mission; this is the precise meaning of their "irregular canonical status." [→ §7 Canon Law]
 
 ---
 
@@ -68,7 +68,7 @@ The canonical authorization given to a priest by a local ordinary or pastor, per
 ---
 
 ### *De Fide Divina et Catholica*
-Literally, "of divine and Catholic faith." The highest category of Catholic doctrine — propositions that must be believed because they have been proposed by the Church (through solemn definition or universal ordinary Magisterium) as divinely revealed. Denial constitutes heresy in the canonical sense. Vatican II, as a pastoral council without formal definitions, did not produce doctrines of this category; its teachings are of the lower categories of authoritative Church teaching. [→ §5 Vatican II; §6 Doctrinal Positions]
+Literally, "of divine and Catholic faith." The highest category of Catholic doctrine - propositions that must be believed because they have been proposed by the Church (through solemn definition or universal ordinary Magisterium) as divinely revealed. Denial constitutes heresy in the canonical sense. Vatican II, as a pastoral council without formal definitions, did not produce doctrines of this category; its teachings are of the lower categories of authoritative Church teaching. [→ §5 Vatican II; §6 Doctrinal Positions]
 
 ---
 
@@ -83,12 +83,12 @@ A canonical censure that excludes the person from participation in the sacrament
 ---
 
 ### Faculty (Canonical)
-The specific authorization to perform a sacramental or jurisdictional act. Distinct from the power of orders (which is received at ordination) and from canonical mission (which is received by incardination). A priest can have valid orders but require a specific faculty to licitly or validly exercise them in certain contexts — for example, the faculty to hear confessions (Canon 966) or to witness marriages (Canon 1111). Pope Francis granted SSPX priests the faculty to hear confessions permanently in 2016. [→ §7 Canon Law; §9 Sacramental Questions]
+The specific authorization to perform a sacramental or jurisdictional act. Distinct from the power of orders (which is received at ordination) and from canonical mission (which is received by incardination). A priest can have valid orders but require a specific faculty to licitly or validly exercise them in certain contexts - for example, the faculty to hear confessions (Canon 966) or to witness marriages (Canon 1111). Pope Francis granted SSPX priests the faculty to hear confessions permanently in 2016. [→ §7 Canon Law; §9 Sacramental Questions]
 
 ---
 
 ### *Ferendae Sententiae*
-A canonical penalty that must be imposed by a competent authority through a judicial or administrative process — it does not exist until it is formally declared. Contrasted with *latae sententiae* (automatic) penalties. Most canonical penalties are *ferendae sententiae*. [→ §7 Canon Law]
+A canonical penalty that must be imposed by a competent authority through a judicial or administrative process - it does not exist until it is formally declared. Contrasted with *latae sententiae* (automatic) penalties. Most canonical penalties are *ferendae sententiae*. [→ §7 Canon Law]
 
 ---
 
@@ -103,17 +103,17 @@ A canonical censure that forbids participation in certain liturgical actions in 
 ---
 
 ### Jurisdiction
-The authority to govern — to make binding decisions in the forum of conscience (internal forum) or in the external life of the Church (external forum). Distinct from the power of orders (which enables sacramental actions) though related to it. The power of absolution, for instance, requires both valid priestly orders and jurisdictional authority (the faculty). The 2016 papal grant of confession faculties to SSPX priests addressed the jurisdictional dimension. [→ §7 Canon Law]
+The authority to govern - to make binding decisions in the forum of conscience (internal forum) or in the external life of the Church (external forum). Distinct from the power of orders (which enables sacramental actions) though related to it. The power of absolution, for instance, requires both valid priestly orders and jurisdictional authority (the faculty). The 2016 papal grant of confession faculties to SSPX priests addressed the jurisdictional dimension. [→ §7 Canon Law]
 
 ---
 
 ### *Latae Sententiae*
-Literally "sentence already passed." A canonical penalty incurred automatically by the very act itself, at the moment of its commission, without any judicial declaration or process. The person becomes subject to the penalty the instant the act occurs. The 1988 excommunication of Lefebvre and the four bishops was *latae sententiae* — it applied the moment the consecrations took place, not when John Paul II subsequently declared it. [→ §7 Canon Law]
+Literally "sentence already passed." A canonical penalty incurred automatically by the very act itself, at the moment of its commission, without any judicial declaration or process. The person becomes subject to the penalty the instant the act occurs. The 1988 excommunication of Lefebvre and the four bishops was *latae sententiae* - it applied the moment the consecrations took place, not when John Paul II subsequently declared it. [→ §7 Canon Law]
 
 ---
 
 ### *Lex*
-Latin for "law." Often encountered in two phrases central to this document: *lex orandi* (the law of prayer — the Church's liturgical practice) and *lex credendi* (the law of belief — the Church's doctrinal content). The principle *lex orandi, lex credendi* holds that these are inseparably related: how the Church prays expresses and shapes what the Church believes. The SSPX's entire liturgical argument rests on this principle. [→ §4 TLM vs Novus Ordo; §6 Doctrinal Positions]
+Latin for "law." Often encountered in two phrases central to this document: *lex orandi* (the law of prayer - the Church's liturgical practice) and *lex credendi* (the law of belief - the Church's doctrinal content). The principle *lex orandi, lex credendi* holds that these are inseparably related: how the Church prays expresses and shapes what the Church believes. The SSPX's entire liturgical argument rests on this principle. [→ §4 TLM vs Novus Ordo; §6 Doctrinal Positions]
 
 ---
 
@@ -138,12 +138,12 @@ A term for the bishop of a diocese (the "local ordinary") or the Pope (the "supr
 ---
 
 ### *Pia Unio*
-A "pious association" — a canonical category for recognized groups of Catholics with shared religious or charitable purposes. The SSPX was originally erected as a *pia unio* with canonical approval from the Diocese of Lausanne in 1970. Its canonical status was suppressed in 1975 by Bishop Mamie. [→ §2 Timeline; §3 Key Figures]
+A "pious association" - a canonical category for recognized groups of Catholics with shared religious or charitable purposes. The SSPX was originally erected as a *pia unio* with canonical approval from the Diocese of Lausanne in 1970. Its canonical status was suppressed in 1975 by Bishop Mamie. [→ §2 Timeline; §3 Key Figures]
 
 ---
 
 ### Personal Prelature
-A canonical structure — established by Vatican II and codified in CIC 1983 — consisting of a prelate, clergy, and (optionally) laity, organized for particular pastoral purposes and operating across diocesan boundaries under direct supervision of the Holy See. Opus Dei is the only existing personal prelature. The 2012 negotiations proposed regularizing the SSPX as a personal prelature — a model the Society ultimately refused on doctrinal terms. [→ §2 Timeline; §12 Debate]
+A canonical structure - established by Vatican II and codified in CIC 1983 - consisting of a prelate, clergy, and (optionally) laity, organized for particular pastoral purposes and operating across diocesan boundaries under direct supervision of the Holy See. Opus Dei is the only existing personal prelature. The 2012 negotiations proposed regularizing the SSPX as a personal prelature - a model the Society ultimately refused on doctrinal terms. [→ §2 Timeline; §12 Debate]
 
 ---
 
@@ -153,7 +153,7 @@ Per Canon 751: "the withdrawal of submission to the Supreme Pontiff or from comm
 ---
 
 ### *Status Necessitatis* (State of Necessity)
-The canonical principle, codified in Canon 1323 §4, that exempts from canonical penalty a person who acted "due to necessity or grave inconvenience" — provided the act is not intrinsically evil and does not tend to the harm of souls. The SSPX invokes this principle to argue the 1988 consecrations did not incur the excommunication of Canon 1382. Whether the conditions for the state of necessity were met in 1988 is the most contested canonical question in the entire debate. [→ §7 Canon Law; §10 Case For; §11 Case Against; §12 Debate 2]
+The canonical principle, codified in Canon 1323 §4, that exempts from canonical penalty a person who acted "due to necessity or grave inconvenience" - provided the act is not intrinsically evil and does not tend to the harm of souls. The SSPX invokes this principle to argue the 1988 consecrations did not incur the excommunication of Canon 1382. Whether the conditions for the state of necessity were met in 1988 is the most contested canonical question in the entire debate. [→ §7 Canon Law; §10 Case For; §11 Case Against; §12 Debate 2]
 
 ---
 
@@ -163,12 +163,12 @@ The principle of Canon 144: in cases of common error or positive and probable do
 ---
 
 ### Suspension *a divinis*
-A canonical censure barring a priest or bishop from exercising his priestly functions — celebrating Mass, administering sacraments, preaching with authority. Does not invalidate orders; a suspended priest remains a validly ordained priest, but his exercise of priestly ministry is illicit. Lefebvre was suspended *a divinis* in 1976 after ordaining thirteen priests against Vatican orders. He publicly defied the suspension. [→ §2 Timeline]
+A canonical censure barring a priest or bishop from exercising his priestly functions - celebrating Mass, administering sacraments, preaching with authority. Does not invalidate orders; a suspended priest remains a validly ordained priest, but his exercise of priestly ministry is illicit. Lefebvre was suspended *a divinis* in 1976 after ordaining thirteen priests against Vatican orders. He publicly defied the suspension. [→ §2 Timeline]
 
 ---
 
 ### Validity vs. Liceity
-The most important distinction in the SSPX canonical discussion. A sacrament is **valid** when it really and truly occurs — when the necessary conditions of matter, form, minister, and intention are met. A sacrament is **licit** when it is performed in conformity with Church law. These are independent: a sacrament can be valid but illicit. All SSPX sacraments are valid; their liceity varies depending on the specific sacrament and the specific canonical grants in force. *This distinction is essential to understanding every canonical claim made about the SSPX.* [→ §7 Canon Law]
+The most important distinction in the SSPX canonical discussion. A sacrament is **valid** when it really and truly occurs - when the necessary conditions of matter, form, minister, and intention are met. A sacrament is **licit** when it is performed in conformity with Church law. These are independent: a sacrament can be valid but illicit. All SSPX sacraments are valid; their liceity varies depending on the specific sacrament and the specific canonical grants in force. *This distinction is essential to understanding every canonical claim made about the SSPX.* [→ §7 Canon Law]
 
 ---
 
@@ -191,7 +191,7 @@ The unbroken chain of episcopal consecrations from the apostles to the present. 
 ---
 
 ### Deposit of Faith
-The totality of divine Revelation — contained in Scripture and Tradition — entrusted by Christ to the apostles and through them to the Church, to be preserved and transmitted in its integrity. The Magisterium does not create doctrine; it guards and authentically interprets the deposit of faith. The SSPX's claim is that certain post-conciliar developments have introduced novelties incompatible with the deposit — not additions to it, but contradictions of it. [→ §6 Position 7; §5 Vatican II]
+The totality of divine Revelation - contained in Scripture and Tradition - entrusted by Christ to the apostles and through them to the Church, to be preserved and transmitted in its integrity. The Magisterium does not create doctrine; it guards and authentically interprets the deposit of faith. The SSPX's claim is that certain post-conciliar developments have introduced novelties incompatible with the deposit - not additions to it, but contradictions of it. [→ §6 Position 7; §5 Vatican II]
 
 ---
 
@@ -201,12 +201,12 @@ The legitimate growth in the Church's understanding of the deposit of faith, wit
 ---
 
 ### *Extra Ecclesiam Nulla Salus*
-Latin: "Outside the Church there is no salvation." The traditional Catholic doctrine that the Catholic Church is the necessary means of salvation. Defined at the Council of Florence (1442). Qualified — but not abandoned — by Pius IX's *Quanto Conficiamur Moerore* (1863): those who are invincibly ignorant may be saved through extraordinary grace, but salvation always comes from Christ through the Church. The SSPX holds this doctrine in its traditional formulation; they argue post-conciliar ecumenical frameworks have effectively abandoned it. [→ §6 Position 8; §5 *Nostra Aetate*]
+Latin: "Outside the Church there is no salvation." The traditional Catholic doctrine that the Catholic Church is the necessary means of salvation. Defined at the Council of Florence (1442). Qualified - but not abandoned - by Pius IX's *Quanto Conficiamur Moerore* (1863): those who are invincibly ignorant may be saved through extraordinary grace, but salvation always comes from Christ through the Church. The SSPX holds this doctrine in its traditional formulation; they argue post-conciliar ecumenical frameworks have effectively abandoned it. [→ §6 Position 8; §5 *Nostra Aetate*]
 
 ---
 
 ### Heresy
-The obstinate denial or obstinate doubt, after reception of baptism, of a truth that must be believed by divine and Catholic faith (Canon 751). Distinguished from schism (refusal of submission to authority) and apostasy (total repudiation of Christianity). The SSPX does not accuse the post-conciliar popes of heresy in the strict canonical sense; their charge is something less — the toleration and promulgation of theological errors and ambiguities, not formal denial of defined doctrine. [→ §7 Canon Law]
+The obstinate denial or obstinate doubt, after reception of baptism, of a truth that must be believed by divine and Catholic faith (Canon 751). Distinguished from schism (refusal of submission to authority) and apostasy (total repudiation of Christianity). The SSPX does not accuse the post-conciliar popes of heresy in the strict canonical sense; their charge is something less - the toleration and promulgation of theological errors and ambiguities, not formal denial of defined doctrine. [→ §7 Canon Law]
 
 ---
 
@@ -216,17 +216,17 @@ Pope Benedict XVI's framework for receiving Vatican II (articulated in his 2005 
 ---
 
 ### Hypostatic Union
-The Catholic dogma that Jesus Christ is one divine Person in two natures — human and divine — without confusion, change, division, or separation (Council of Chalcedon, 451). Not directly disputed in the SSPX context but cited here because: (a) it illustrates the kind of defined, irreversible doctrine the SSPX invokes when arguing prior teaching cannot be reversed; (b) all parties in the SSPX debate fully accept it, which clarifies that the dispute is not about the central dogmas of Christianity. [→ §6 Doctrinal Positions]
+The Catholic dogma that Jesus Christ is one divine Person in two natures - human and divine - without confusion, change, division, or separation (Council of Chalcedon, 451). Not directly disputed in the SSPX context but cited here because: (a) it illustrates the kind of defined, irreversible doctrine the SSPX invokes when arguing prior teaching cannot be reversed; (b) all parties in the SSPX debate fully accept it, which clarifies that the dispute is not about the central dogmas of Christianity. [→ §6 Doctrinal Positions]
 
 ---
 
 ### Infallibility (Papal)
-The charism by which the Pope, when speaking *ex cathedra* — in his capacity as supreme teacher of the universal Church, defining a doctrine of faith or morals to be held by the whole Church — is preserved from error by the Holy Spirit. Defined at Vatican I (*Pastor Aeternus*, 1870). The SSPX accepts this dogma; they are not anti-papal. The dispute is about whether specific post-conciliar papal teachings qualify as *ex cathedra* definitions (they do not) and whether non-infallible teaching can contradict prior definitive teaching (the SSPX says yes in certain cases; Rome says no). [→ §6 Position 6]
+The charism by which the Pope, when speaking *ex cathedra* - in his capacity as supreme teacher of the universal Church, defining a doctrine of faith or morals to be held by the whole Church - is preserved from error by the Holy Spirit. Defined at Vatican I (*Pastor Aeternus*, 1870). The SSPX accepts this dogma; they are not anti-papal. The dispute is about whether specific post-conciliar papal teachings qualify as *ex cathedra* definitions (they do not) and whether non-infallible teaching can contradict prior definitive teaching (the SSPX says yes in certain cases; Rome says no). [→ §6 Position 6]
 
 ---
 
 ### *In Persona Christi*
-Latin: "in the person of Christ." The theological formula describing the priest's sacramental role at the altar and in the confessional — acting not in his own person but as a representation of Christ himself. Essential to the SSPX's doctrine of the priesthood and the sacrificial character of the Mass. [→ §6 Position 1; §6 Position 2]
+Latin: "in the person of Christ." The theological formula describing the priest's sacramental role at the altar and in the confessional - acting not in his own person but as a representation of Christ himself. Essential to the SSPX's doctrine of the priesthood and the sacrificial character of the Mass. [→ §6 Position 1; §6 Position 2]
 
 ---
 
@@ -255,12 +255,12 @@ A sacrifice offered to God in reparation for sin, which wins his mercy and placa
 ---
 
 ### *Quod Ubique, Quod Semper, Quod Ab Omnibus*
-Latin: "what has been believed everywhere, always, by all." The *Vincentian Canon* — the standard for identifying authentic Catholic Tradition from St. Vincent of Lérins's *Commonitorium* (434 AD). The SSPX invokes this as the test by which prior definitive teaching is identified and by which novelties are measured. [→ §6 Position 7; §13 Source Library]
+Latin: "what has been believed everywhere, always, by all." The *Vincentian Canon* - the standard for identifying authentic Catholic Tradition from St. Vincent of Lérins's *Commonitorium* (434 AD). The SSPX invokes this as the test by which prior definitive teaching is identified and by which novelties are measured. [→ §6 Position 7; §13 Source Library]
 
 ---
 
 ### Real Presence
-The Catholic doctrine that Christ is truly, really, and substantially present — body, blood, soul, and divinity — in the Eucharist after the words of consecration, under the appearances (accidents) of bread and wine. Defined at the Council of Trent (Session XIII, 1551). All parties in the SSPX dispute affirm this doctrine; the dispute is about whether the Novus Ordo's liturgical formulations express it with sufficient clarity. [→ §4 TLM vs Novus Ordo; §6 Position 1]
+The Catholic doctrine that Christ is truly, really, and substantially present - body, blood, soul, and divinity - in the Eucharist after the words of consecration, under the appearances (accidents) of bread and wine. Defined at the Council of Trent (Session XIII, 1551). All parties in the SSPX dispute affirm this doctrine; the dispute is about whether the Novus Ordo's liturgical formulations express it with sufficient clarity. [→ §4 TLM vs Novus Ordo; §6 Position 1]
 
 ---
 
@@ -279,12 +279,12 @@ The position that the Chair of Peter (*sedes Petri*) is currently vacant (*vacan
 ---
 
 ### Social Kingship of Christ
-The doctrine that Christ's Kingship extends not only over individual souls but over all human societies — nations, governments, and civil institutions — which are therefore obligated to acknowledge him and to order their laws according to divine law. Defined and elaborated by Pope Pius XI in *Quas Primas* (1925). The SSPX considers this doctrine implicitly denied by *Dignitatis Humanae*'s framework. [→ §6 Position 3]
+The doctrine that Christ's Kingship extends not only over individual souls but over all human societies - nations, governments, and civil institutions - which are therefore obligated to acknowledge him and to order their laws according to divine law. Defined and elaborated by Pope Pius XI in *Quas Primas* (1925). The SSPX considers this doctrine implicitly denied by *Dignitatis Humanae*'s framework. [→ §6 Position 3]
 
 ---
 
 ### *Subsistit In*
-Latin: "subsists in." The formula used in *Lumen Gentium* §8 to describe the relationship between the Church of Christ and the Catholic Church: the Church of Christ "*subsistit in*" the Catholic Church, rather than the pre-conciliar formula "*is*" the Catholic Church. The SSPX argued this language could be read as a branch theory — implying the Church of Christ extends beyond the Catholic Church. The CDF's 2007 *Responses* clarified that "subsists in" means the Catholic Church *is* the Church of Christ, substantially addressing this textual concern. [→ §5 Vatican II]
+Latin: "subsists in." The formula used in *Lumen Gentium* §8 to describe the relationship between the Church of Christ and the Catholic Church: the Church of Christ "*subsistit in*" the Catholic Church, rather than the pre-conciliar formula "*is*" the Catholic Church. The SSPX argued this language could be read as a branch theory - implying the Church of Christ extends beyond the Catholic Church. The CDF's 2007 *Responses* clarified that "subsists in" means the Catholic Church *is* the Church of Christ, substantially addressing this textual concern. [→ §5 Vatican II]
 
 ---
 
@@ -294,7 +294,7 @@ The doctrine that at the words of consecration, the entire substance of the brea
 ---
 
 ### Tradition (Sacred)
-The deposit of divine Revelation as transmitted through the living life of the Church — distinct from but co-equal with Sacred Scripture as a source of Revelation. Includes the liturgical tradition, the Fathers of the Church, the universal teaching of the bishops, and the *sensus fidelium* (the sense of the faithful). The SSPX's entire framework depends on a specific understanding of Tradition: that it is unchangeable in substance, however it may develop in expression, and that no subsequent teaching can contradict it. The 1988 *Ecclesia Dei* accused the SSPX of an "incomplete and contradictory" notion of Tradition. [→ §6 Position 7; §8 Papal Documents]
+The deposit of divine Revelation as transmitted through the living life of the Church - distinct from but co-equal with Sacred Scripture as a source of Revelation. Includes the liturgical tradition, the Fathers of the Church, the universal teaching of the bishops, and the *sensus fidelium* (the sense of the faithful). The SSPX's entire framework depends on a specific understanding of Tradition: that it is unchangeable in substance, however it may develop in expression, and that no subsequent teaching can contradict it. The 1988 *Ecclesia Dei* accused the SSPX of an "incomplete and contradictory" notion of Tradition. [→ §6 Position 7; §8 Papal Documents]
 
 ---
 
@@ -307,17 +307,17 @@ The deposit of divine Revelation as transmitted through the living life of the C
 ---
 
 ### *Ad Orientem*
-Latin: "to the east." The traditional posture of celebration in which both priest and people face the same direction — toward the liturgical east (the altar), symbolizing the shared orientation of priest and people toward God. Contrasted with *versus populum* (facing the people), which became standard after the 1969 reform. The SSPX celebrates exclusively *ad orientem*. Cardinal Ratzinger in *The Spirit of the Liturgy* (2000) argued for the restoration of *ad orientem* celebration. [→ §4 TLM vs Novus Ordo]
+Latin: "to the east." The traditional posture of celebration in which both priest and people face the same direction - toward the liturgical east (the altar), symbolizing the shared orientation of priest and people toward God. Contrasted with *versus populum* (facing the people), which became standard after the 1969 reform. The SSPX celebrates exclusively *ad orientem*. Cardinal Ratzinger in *The Spirit of the Liturgy* (2000) argued for the restoration of *ad orientem* celebration. [→ §4 TLM vs Novus Ordo]
 
 ---
 
 ### Canon of the Mass (Roman Canon)
-The central Eucharistic Prayer of the Roman Rite — one of the most ancient liturgical texts in Christianity, dating in its basic form to at least the 4th century. Also called *Eucharistic Prayer I* in the Novus Ordo. The only Eucharistic Prayer in the 1962 Missal; one of four (later seven) in the Novus Ordo, and the least frequently used in practice. The SSPX considers the marginalization of the Roman Canon in favor of newer, shorter Eucharistic Prayers a doctrinal loss. [→ §4 TLM vs Novus Ordo]
+The central Eucharistic Prayer of the Roman Rite - one of the most ancient liturgical texts in Christianity, dating in its basic form to at least the 4th century. Also called *Eucharistic Prayer I* in the Novus Ordo. The only Eucharistic Prayer in the 1962 Missal; one of four (later seven) in the Novus Ordo, and the least frequently used in practice. The SSPX considers the marginalization of the Roman Canon in favor of newer, shorter Eucharistic Prayers a doctrinal loss. [→ §4 TLM vs Novus Ordo]
 
 ---
 
 ### Extraordinary Form
-The name given by Pope Benedict XVI in *Summorum Pontificum* (2007) to the Traditional Latin Mass (1962 Missal) — the "extraordinary expression" of the *lex orandi* of the Roman Rite, as distinguished from the Ordinary Form (the Novus Ordo). This nomenclature was accepted by mainstream traditionalists and rejected by Francis's *Traditionis Custodes* (2021), which returned to describing the Novus Ordo as "the unique expression" of the Roman Rite. [→ §4 TLM vs Novus Ordo; §8 Papal Documents]
+The name given by Pope Benedict XVI in *Summorum Pontificum* (2007) to the Traditional Latin Mass (1962 Missal) - the "extraordinary expression" of the *lex orandi* of the Roman Rite, as distinguished from the Ordinary Form (the Novus Ordo). This nomenclature was accepted by mainstream traditionalists and rejected by Francis's *Traditionis Custodes* (2021), which returned to describing the Novus Ordo as "the unique expression" of the Roman Rite. [→ §4 TLM vs Novus Ordo; §8 Papal Documents]
 
 ---
 
@@ -342,17 +342,17 @@ The section of the Mass in which the bread and wine are presented and offered to
 ---
 
 ### Ordinary Form
-The name for the Novus Ordo Missae as established by *Summorum Pontificum* (2007) — the "ordinary expression" of the *lex orandi* of the Roman Rite, as distinguished from the Extraordinary Form (the 1962 Missal). [→ §4 TLM vs Novus Ordo; §8 Papal Documents]
+The name for the Novus Ordo Missae as established by *Summorum Pontificum* (2007) - the "ordinary expression" of the *lex orandi* of the Roman Rite, as distinguished from the Extraordinary Form (the 1962 Missal). [→ §4 TLM vs Novus Ordo; §8 Papal Documents]
 
 ---
 
 ### *Pro Multis* / "For Many"
-Latin: "for many." The traditional translation of Christ's words over the chalice at the Last Supper (Matthew 26:28; Mark 14:24). In the Latin Novus Ordo, "*pro multis*" was preserved; however, many vernacular translations rendered it as "for all" rather than "for many" — a translation the SSPX (among others) criticized as obscuring the Catholic theology of applied redemption. Pope Benedict XVI issued a directive in 2006 requiring "for many" in all vernacular translations; this was implemented in the English-speaking world with the revised Roman Missal of 2011. The resolution of this dispute represents one of the clearest SSPX-adjacent vindications by the mainstream Church. [→ §4 TLM vs Novus Ordo]
+Latin: "for many." The traditional translation of Christ's words over the chalice at the Last Supper (Matthew 26:28; Mark 14:24). In the Latin Novus Ordo, "*pro multis*" was preserved; however, many vernacular translations rendered it as "for all" rather than "for many" - a translation the SSPX (among others) criticized as obscuring the Catholic theology of applied redemption. Pope Benedict XVI issued a directive in 2006 requiring "for many" in all vernacular translations; this was implemented in the English-speaking world with the revised Roman Missal of 2011. The resolution of this dispute represents one of the clearest SSPX-adjacent vindications by the mainstream Church. [→ §4 TLM vs Novus Ordo]
 
 ---
 
 ### *Sacrosanctum Concilium*
-The Second Vatican Council's Constitution on the Sacred Liturgy (December 4, 1963); the foundational document authorizing liturgical reform. The SSPX argues that the 1969 reform went far beyond what *Sacrosanctum Concilium* itself mandated — particularly noting that the Constitution explicitly called for the preservation of Latin (§36, §54) and Gregorian chant (§116), both of which largely disappeared from post-conciliar parish practice. [→ §4 TLM vs Novus Ordo; §5 Vatican II]
+The Second Vatican Council's Constitution on the Sacred Liturgy (December 4, 1963); the foundational document authorizing liturgical reform. The SSPX argues that the 1969 reform went far beyond what *Sacrosanctum Concilium* itself mandated - particularly noting that the Constitution explicitly called for the preservation of Latin (§36, §54) and Gregorian chant (§116), both of which largely disappeared from post-conciliar parish practice. [→ §4 TLM vs Novus Ordo; §5 Vatican II]
 
 ---
 
@@ -381,12 +381,12 @@ The SSPX's English-language publishing house, based in Kansas City, Missouri. Pu
 ---
 
 ### Assisi Gatherings (1986, 2002, 2011)
-Interreligious prayer gatherings convened by John Paul II and (in 2011) Benedict XVI at Assisi, bringing together religious leaders from dozens of traditions to pray for peace. Each group prayed according to its own tradition, in close proximity to Catholic sacred spaces. Archbishop Lefebvre identified the 1986 Assisi event as a turning point in his decision to proceed with the 1988 consecrations — citing it as a visible manifestation of false ecumenism. [→ §2 Timeline; §6 Position 5]
+Interreligious prayer gatherings convened by John Paul II and (in 2011) Benedict XVI at Assisi, bringing together religious leaders from dozens of traditions to pray for peace. Each group prayed according to its own tradition, in close proximity to Catholic sacred spaces. Archbishop Lefebvre identified the 1986 Assisi event as a turning point in his decision to proceed with the 1988 consecrations - citing it as a visible manifestation of false ecumenism. [→ §2 Timeline; §6 Position 5]
 
 ---
 
 ### *Consilium*
-The *Consilium ad exsequendam Constitutionem de sacra Liturgia* — the commission established by Paul VI in 1964 to implement *Sacrosanctum Concilium*. Under the direction of Archbishop Annibale Bugnini, the Consilium produced the Novus Ordo Missae (1969). Its proceedings were largely private; six Protestant observers participated in a consultative capacity. The Consilium's methods and composition are subjects of traditionalist criticism. [→ §4 TLM vs Novus Ordo]
+The *Consilium ad exsequendam Constitutionem de sacra Liturgia* - the commission established by Paul VI in 1964 to implement *Sacrosanctum Concilium*. Under the direction of Archbishop Annibale Bugnini, the Consilium produced the Novus Ordo Missae (1969). Its proceedings were largely private; six Protestant observers participated in a consultative capacity. The Consilium's methods and composition are subjects of traditionalist criticism. [→ §4 TLM vs Novus Ordo]
 
 ---
 
@@ -420,7 +420,7 @@ A fully canonical traditional Catholic institute, founded in 1990 in Gabon and n
 ---
 
 ### Joint Declaration on the Doctrine of Justification (1999)
-A joint declaration by the Catholic Church and the Lutheran World Federation stating that they had reached "a consensus in basic truths of the doctrine of justification" — the doctrine that had been at the center of the 16th-century Reformation controversy. The SSPX and other traditionalists criticized this declaration as obscuring genuine remaining theological differences between Catholic and Protestant soteriology. [→ §5 *Unitatis Redintegratio*; §6 Position 5]
+A joint declaration by the Catholic Church and the Lutheran World Federation stating that they had reached "a consensus in basic truths of the doctrine of justification" - the doctrine that had been at the center of the 16th-century Reformation controversy. The SSPX and other traditionalists criticized this declaration as obscuring genuine remaining theological differences between Catholic and Protestant soteriology. [→ §5 *Unitatis Redintegratio*; §6 Position 5]
 
 ---
 
