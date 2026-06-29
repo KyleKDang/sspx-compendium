@@ -15,7 +15,8 @@ Each sacramental question is addressed with a consistent format:
 4. **The current best answer** - what the evidence supports as of the date of this document
 5. **Practical notes** - what this means for a Catholic in practice
 
-This section deliberately distinguishes *validity* (does the sacrament really happen?) from *liceity* (is it being performed lawfully?) from *pastoral prudence* (is attending or receiving advisable?). These three questions have different answers and must not be collapsed.
+This section deliberately distinguishes *validity* (does the sacrament really happen?) from *liceity* (is it being performed lawfully?) from *pastoral prudence* (is attending or receiving advisable?).
+These three questions have different answers and must not be collapsed.
 
 ---
 
@@ -23,7 +24,9 @@ This section deliberately distinguishes *validity* (does the sacrament really ha
 
 ### The Question
 
-Does the SSPX celebrate a valid Catholic Mass? Does attendance satisfy the Sunday obligation? Is it licit for a Catholic to attend regularly?
+Does the SSPX celebrate a valid Catholic Mass?
+Does attendance satisfy the Sunday obligation?
+Is it licit for a Catholic to attend regularly?
 
 ---
 
@@ -31,7 +34,8 @@ Does the SSPX celebrate a valid Catholic Mass? Does attendance satisfy the Sunda
 
 **The answer: unambiguously yes.**
 
-This has never been seriously disputed by any canonical or theological authority. The conditions for a valid Mass are:
+This has never been seriously disputed by any canonical or theological authority.
+The conditions for a valid Mass are:
 
 - A validly ordained priest
 - Valid matter (wheaten bread, grape wine)
@@ -39,14 +43,22 @@ This has never been seriously disputed by any canonical or theological authority
 - Proper intention (to do what the Church does)
 - A valid liturgical rite
 
-SSPX priests meet every condition. They are validly ordained by validly consecrated bishops in an unbroken line of apostolic succession. They use wheaten bread and grape wine. They pronounce the words of consecration. They intend to do what the Church does. They celebrate the 1962 Roman Missal - a rite whose validity has been confirmed by Benedict XVI's declaration that it was "never juridically abrogated."
+SSPX priests meet every condition.
+They are validly ordained by validly consecrated bishops in an unbroken line of apostolic succession.
+They use wheaten bread and grape wine.
+They pronounce the words of consecration.
+They intend to do what the Church does.
+They celebrate the 1962 Roman Missal - a rite whose validity has been confirmed by Benedict XVI's declaration that it was "never juridically abrogated."
 
 **Canon 900 §1:**
 > "The minister who is able to confect the sacrament of the Eucharist in the person of Christ is a validly ordained priest alone."
 
-A validly ordained priest, acting with proper matter, form, and intention, confects a valid Eucharist. The canonical irregularity of the priest's situation does not touch validity.
+A validly ordained priest, acting with proper matter, form, and intention, confects a valid Eucharist.
+The canonical irregularity of the priest's situation does not touch validity.
 
-**The practical consequence:** At every SSPX Mass, Christ becomes truly, really, substantially present under the forms of bread and wine. The sacrifice of Calvary is truly offered to the Father. This is not in dispute.
+**The practical consequence:** At every SSPX Mass, Christ becomes truly, really, substantially present under the forms of bread and wine.
+The sacrifice of Calvary is truly offered to the Father.
+This is not in dispute.
 
 ---
 
@@ -64,29 +76,54 @@ This question has a more complex canonical history than the validity question, b
 **Canon 1248 §1:**
 > "A person who assists at a Mass celebrated anywhere in a Catholic rite either on the feast day itself or in the evening of the preceding day satisfies the obligation of participating in the Mass."
 
-The key phrase is "a Catholic rite." The Traditional Latin Mass is a Catholic rite - confirmed definitively by *Summorum Pontificum* (2007). The Pontifical Commission *Ecclesia Dei*, in various communications, stated that SSPX Masses are celebrated "in a Catholic rite." The obligation-fulfillment question therefore reduces to: is the Mass at an SSPX chapel a Mass celebrated in a Catholic rite? The answer is yes.
+The key phrase is "a Catholic rite."
+The Traditional Latin Mass is a Catholic rite - confirmed definitively by *Summorum Pontificum* (2007).
+The Pontifical Commission *Ecclesia Dei*, in various communications, stated that SSPX Masses are celebrated "in a Catholic rite."
+The obligation-fulfillment question therefore reduces to: is the Mass at an SSPX chapel a Mass celebrated in a Catholic rite?
+The answer is yes.
 
 **The evolution of Rome's position:**
 
-**1988–1990s:** The post-*Ecclesia Dei* period produced cautious guidance. The Pontifical Commission *Ecclesia Dei* initially discouraged attendance at SSPX Masses, and some canonists argued the obligation was not satisfied because the priest lacked canonical mission. The SSPX was in a newly-excommunicated condition; attending their Masses was strongly discouraged.
+**1988–1990s:** The post-*Ecclesia Dei* period produced cautious guidance.
+The Pontifical Commission *Ecclesia Dei* initially discouraged attendance at SSPX Masses, and some canonists argued the obligation was not satisfied because the priest lacked canonical mission.
+The SSPX was in a newly-excommunicated condition; attending their Masses was strongly discouraged.
 
-**2000–2007:** The Commission's guidance was mixed and at times internally inconsistent. In correspondence signed by its secretary, Msgr. Camille Perl, the Pontifical Commission *Ecclesia Dei* indicated in a 2002 private reply that a Catholic could satisfy the Sunday obligation at an SSPX Mass, then clarified in January 2003 that that reply had been a private communication and that SSPX Masses remained illicit. The net public effect was that attendance was treated as "not the ideal" and the obligation-fulfillment question was left practically unsettled.
+**2000–2007:** The Commission's guidance was mixed and at times internally inconsistent.
+In correspondence signed by its secretary, Msgr. Camille Perl, the Pontifical Commission *Ecclesia Dei* indicated in a 2002 private reply that a Catholic could satisfy the Sunday obligation at an SSPX Mass, then clarified in January 2003 that that reply had been a private communication and that SSPX Masses remained illicit.
+The net public effect was that attendance was treated as "not the ideal" and the obligation-fulfillment question was left practically unsettled.
 
-**2007:** *Summorum Pontificum* changed the landscape. By declaring the 1962 Missal a permanently valid form of the Roman Rite, never juridically abrogated, Benedict XVI removed any residual doubt about the Catholic character of the rite the SSPX celebrates. Canon lawyers consistently concluded that attendance satisfies the Sunday obligation.
+**2007:** *Summorum Pontificum* changed the landscape.
+By declaring the 1962 Missal a permanently valid form of the Roman Rite, never juridically abrogated, Benedict XVI removed any residual doubt about the Catholic character of the rite the SSPX celebrates.
+Canon lawyers consistently concluded that attendance satisfies the Sunday obligation.
 
-**2009:** The lifting of the excommunications removed the most serious canonical obstacle. The four SSPX bishops were no longer under the most severe canonical penalty. While the Society's irregular status remained, the specific obstacle that had given some canonists pause was resolved.
+**2009:** The lifting of the excommunications removed the most serious canonical obstacle.
+The four SSPX bishops were no longer under the most severe canonical penalty.
+While the Society's irregular status remained, the specific obstacle that had given some canonists pause was resolved.
 
-**2009–present:** The mainstream canonical opinion has consolidated firmly in favor of obligation-satisfaction. The Pontifical Commission *Ecclesia Dei* did not formally forbid attendance, and after 2009 never issued guidance suggesting the obligation was unfulfilled. No subsequent papal document has addressed the question. The practical reality - that hundreds of thousands of Catholics worldwide attend SSPX Masses every Sunday - has proceeded without formal Roman prohibition.
+**2009–present:** The mainstream canonical opinion has consolidated firmly in favor of obligation-satisfaction.
+The Pontifical Commission *Ecclesia Dei* did not formally forbid attendance, and after 2009 never issued guidance suggesting the obligation was unfulfilled.
+No subsequent papal document has addressed the question.
+The practical reality - that hundreds of thousands of Catholics worldwide attend SSPX Masses every Sunday - has proceeded without formal Roman prohibition.
 
-**Post-2021:** *Traditionis Custodes* (2021) restricted the celebration of the Traditional Mass within the regular canonical Church. It had no effect on the SSPX. In many dioceses, it significantly reduced or eliminated access to the Traditional Mass outside the SSPX. For many Catholics after 2021, the SSPX is the only practically available source of the Traditional Latin Mass.
+**Post-2021:** *Traditionis Custodes* (2021) restricted the celebration of the Traditional Mass within the regular canonical Church.
+It had no effect on the SSPX.
+In many dioceses, it significantly reduced or eliminated access to the Traditional Mass outside the SSPX.
+For many Catholics after 2021, the SSPX is the only practically available source of the Traditional Latin Mass.
 
 **Current canonical consensus:**
 
-The mainstream canonical reasoning is straightforward and rests on the text of Canon 1248 §1: the obligation is satisfied by assistance at a Mass "celebrated anywhere in a Catholic rite." The obligation attaches to the *rite*, not to the canonical regularity of the particular celebration or the liceity of the celebrant's ministry. Canonists who write on the Sunday obligation make this point directly - Dr. Edward Peters, for instance, has stressed that the precept is met at any Mass celebrated in a Catholic rite, not only at a particular "approved" Mass. Applied to the SSPX: the 1962 Roman Missal is a Catholic rite (confirmed by *Summorum Pontificum*), so a Mass an SSPX priest celebrates in that rite satisfies the obligation. The priest's irregular standing bears on liceity, not on fulfillment of the obligation.
+The mainstream canonical reasoning is straightforward and rests on the text of Canon 1248 §1: the obligation is satisfied by assistance at a Mass "celebrated anywhere in a Catholic rite."
+The obligation attaches to the *rite*, not to the canonical regularity of the particular celebration or the liceity of the celebrant's ministry.
+Canonists who write on the Sunday obligation make this point directly - Dr. Edward Peters, for instance, has stressed that the precept is met at any Mass celebrated in a Catholic rite, not only at a particular "approved" Mass.
+Applied to the SSPX: the 1962 Roman Missal is a Catholic rite (confirmed by *Summorum Pontificum*), so a Mass an SSPX priest celebrates in that rite satisfies the obligation.
+The priest's irregular standing bears on liceity, not on fulfillment of the obligation.
 
 **An important qualification:**
 
-Where a Catholic has ready access to a Mass in full canonical standing - a diocesan parish, an FSSP chapel - and freely chooses to attend the SSPX instead, the obligation is still satisfied. The canon requires attendance at "a Catholic rite," not specifically at a canonically regular celebration. However, some theologians argue that regular exclusive SSPX attendance - when canonical alternatives are readily available - raises broader prudential questions beyond the technical obligation-fulfillment question. These are addressed in the "Pastoral Prudence" section below.
+Where a Catholic has ready access to a Mass in full canonical standing - a diocesan parish, an FSSP chapel - and freely chooses to attend the SSPX instead, the obligation is still satisfied.
+The canon requires attendance at "a Catholic rite," not specifically at a canonically regular celebration.
+However, some theologians argue that regular exclusive SSPX attendance - when canonical alternatives are readily available - raises broader prudential questions beyond the technical obligation-fulfillment question.
+These are addressed in the "Pastoral Prudence" section below.
 
 ---
 
@@ -94,24 +131,30 @@ Where a Catholic has ready access to a Mass in full canonical standing - a dioce
 
 **The answer: the attendance itself incurs no canonical penalty and is not formally prohibited.**
 
-Liceity - doing something in conformity with law - is a stricter standard than validity. An act can be valid but illicit. In this case:
+Liceity - doing something in conformity with law - is a stricter standard than validity.
+An act can be valid but illicit.
+In this case:
 
 - There is no canon that forbids Catholics from attending SSPX Masses.
 - There is no canon that penalizes Catholics for attending SSPX Masses.
 - The Pontifical Commission *Ecclesia Dei* never issued a binding prohibition on attendance.
 - No papal document has forbidden attendance.
 
-Attendance is therefore canonically *permitted* - not in the sense of explicitly authorized, but in the sense of not prohibited. In canon law, what is not forbidden is permitted.
+Attendance is therefore canonically *permitted* - not in the sense of explicitly authorized, but in the sense of not prohibited.
+In canon law, what is not forbidden is permitted.
 
 **What about aiding an illicit ministry?**
 
-Some theologians have argued that regular SSPX attendance amounts to supporting a ministry that lacks canonical mission, which is itself illicit, and that therefore attendance is materially cooperative in an illicit act. This argument has not been adopted by Rome and is not the mainstream canonical position. The SSPX's priests are real priests celebrating a real Mass; supporting their ministry is not equivalent to supporting an invalid or schismatic ministry.
+Some theologians have argued that regular SSPX attendance amounts to supporting a ministry that lacks canonical mission, which is itself illicit, and that therefore attendance is materially cooperative in an illicit act.
+This argument has not been adopted by Rome and is not the mainstream canonical position.
+The SSPX's priests are real priests celebrating a real Mass; supporting their ministry is not equivalent to supporting an invalid or schismatic ministry.
 
 ---
 
 ### 4. Pastoral Prudence on Mass Attendance
 
-This is distinct from the canonical question. Even if attendance is valid and licit (which the evidence supports), there are pastoral considerations a thoughtful Catholic should weigh:
+This is distinct from the canonical question.
+Even if attendance is valid and licit (which the evidence supports), there are pastoral considerations a thoughtful Catholic should weigh:
 
 **When SSPX attendance is most clearly appropriate:**
 - When the SSPX provides the only available Traditional Latin Mass.
@@ -126,9 +169,11 @@ This is distinct from the canonical question. Even if attendance is valid and li
 
 **The warning of the Pontifical Commission *Ecclesia Dei* (various communications, 1990s–2000s):**
 
-The Commission consistently stated that attendance at SSPX Masses "is not the ideal" and that Catholics should prefer fully regular traditional communities when available. This guidance is not binding law - it does not say attendance is illicit - but it reflects a legitimate pastoral concern: that habitual SSPX attendance can gradually draw a Catholic into the Society's distinctive stance toward Rome in ways that go beyond simply attending a valid Mass.
+The Commission consistently stated that attendance at SSPX Masses "is not the ideal" and that Catholics should prefer fully regular traditional communities when available.
+This guidance is not binding law - it does not say attendance is illicit - but it reflects a legitimate pastoral concern: that habitual SSPX attendance can gradually draw a Catholic into the Society's distinctive stance toward Rome in ways that go beyond simply attending a valid Mass.
 
-This concern should be taken seriously without being treated as dispositive. A Catholic of robust faith who attends the SSPX for the Traditional Mass while remaining in communion with his bishop and aware of the Society's irregular status is in a different situation from a Catholic who begins to share the SSPX's institutional posture toward the post-conciliar Church without careful formation.
+This concern should be taken seriously without being treated as dispositive.
+A Catholic of robust faith who attends the SSPX for the Traditional Mass while remaining in communion with his bishop and aware of the Society's irregular status is in a different situation from a Catholic who begins to share the SSPX's institutional posture toward the post-conciliar Church without careful formation.
 
 ---
 
@@ -136,7 +181,9 @@ This concern should be taken seriously without being treated as dispositive. A C
 
 ### The Question
 
-Are confessions at SSPX chapels valid? Are they licit? Can a Catholic who has committed serious sin confess to an SSPX priest with confidence that his sins are truly absolved?
+Are confessions at SSPX chapels valid?
+Are they licit?
+Can a Catholic who has committed serious sin confess to an SSPX priest with confidence that his sins are truly absolved?
 
 ---
 
@@ -160,13 +207,15 @@ Are confessions at SSPX chapels valid? Are they licit? Can a Catholic who has co
 
 Canon 144 explicitly mentions Canon 966 - the confession faculty canon - among the faculties the Church supplies in cases of common error or positive and probable doubt.
 
-**This means:** If a faithful Catholic approaches an SSPX confessor in a state of common error (believing the priest has the faculty) or in a state of positive and probable doubt (the canonical situation is genuinely unclear), the Church itself supplies the missing jurisdiction. The absolution is valid.
+**This means:** If a faithful Catholic approaches an SSPX confessor in a state of common error (believing the priest has the faculty) or in a state of positive and probable doubt (the canonical situation is genuinely unclear), the Church itself supplies the missing jurisdiction.
+The absolution is valid.
 
 ---
 
 ### Pre-2015: The Debated Period
 
-Before 2015, the canonical status of SSPX confessions was genuinely contested. Two positions were held by serious canonists:
+Before 2015, the canonical status of SSPX confessions was genuinely contested.
+Two positions were held by serious canonists:
 
 **Position A: Supplied jurisdiction applies; confessions are valid.**
 
@@ -185,7 +234,9 @@ Arguments:
 
 **The pastoral resolution during this period:**
 
-The Pontifical Commission *Ecclesia Dei*, in various communications, generally advised that SSPX confessions were "probably" valid through supplied jurisdiction but were "not the ideal." In practice, many bishops - acting on their own pastoral judgment - granted faculties to SSPX priests in their dioceses for the hearing of confessions. The result was a patchwork that varied from diocese to diocese.
+The Pontifical Commission *Ecclesia Dei*, in various communications, generally advised that SSPX confessions were "probably" valid through supplied jurisdiction but were "not the ideal."
+In practice, many bishops - acting on their own pastoral judgment - granted faculties to SSPX priests in their dioceses for the hearing of confessions.
+The result was a patchwork that varied from diocese to diocese.
 
 ---
 
@@ -213,7 +264,8 @@ The Pontifical Commission *Ecclesia Dei*, in various communications, generally a
 
 **Analysis:**
 - The Jubilee faculty is extended indefinitely - "until further provisions are made."
-- The justification is pastoral and personal: "I have personally decided." This is a papal act, not a delegated administrative provision.
+- The justification is pastoral and personal: "I have personally decided."
+  This is a papal act, not a delegated administrative provision.
 - The faculty applies universally to all SSPX priests for all faithful who approach them.
 - The phrase "lest anyone ever be deprived of the sacramental sign of reconciliation" reveals Francis's pastoral priority: ensuring sacramental access trumps the canonical irregularity.
 
@@ -223,20 +275,29 @@ The Pontifical Commission *Ecclesia Dei*, in various communications, generally a
 
 **The current answer: SSPX confessions are valid and licit by direct papal grant.**
 
-This is no longer a matter of canonical dispute. Since November 20, 2016, SSPX priests have possessed an indefinite, universally applicable faculty to hear confessions, granted by the pope personally. The absolution imparted by an SSPX priest is as valid and licit as absolution imparted by any canonical priest with standard faculties.
+This is no longer a matter of canonical dispute.
+Since November 20, 2016, SSPX priests have possessed an indefinite, universally applicable faculty to hear confessions, granted by the pope personally.
+The absolution imparted by an SSPX priest is as valid and licit as absolution imparted by any canonical priest with standard faculties.
 
 **What the grant does and does not settle:**
 
-- **Settled:** Confessions are valid. Absolutions are genuine. Sins confessed to an SSPX priest with proper contrition and intention are truly forgiven.
+- **Settled:** Confessions are valid.
+  Absolutions are genuine.
+  Sins confessed to an SSPX priest with proper contrition and intention are truly forgiven.
 - **Settled:** The grant applies to all SSPX priests - not just those in specific countries or specific chapels.
-- **Unsettled:** The grant is framed as temporary ("until further provisions are made"). It has not been revoked and could in principle be withdrawn. As of this writing, it remains in force.
-- **Unsettled:** Whether the grant implies anything about the SSPX's broader canonical status. Francis explicitly does not say the Society is regularized; the faculty is a pastoral measure, not a canonical normalization.
+- **Unsettled:** The grant is framed as temporary ("until further provisions are made").
+  It has not been revoked and could in principle be withdrawn.
+  As of this writing, it remains in force.
+- **Unsettled:** Whether the grant implies anything about the SSPX's broader canonical status.
+  Francis explicitly does not say the Society is regularized; the faculty is a pastoral measure, not a canonical normalization.
 
 **Practical notes:**
 
 - A Catholic may confess to an SSPX priest with full confidence in the validity of the absolution.
 - The normal conditions for valid reception of the sacrament apply: contrition (sorrow for sins), the intention to amend, confession of grave sins by number and kind, and willingness to perform the assigned penance.
-- The SSPX is known for serious, attentive confessional practice. Their priests are trained to give careful attention to the proper dispositions, the integrity of confession, and the assignment of appropriate penances. Confessions at SSPX chapels are often described by faithful as significantly more thorough than what is available in many diocesan parishes.
+- The SSPX is known for serious, attentive confessional practice.
+  Their priests are trained to give careful attention to the proper dispositions, the integrity of confession, and the assignment of appropriate penances.
+  Confessions at SSPX chapels are often described by faithful as significantly more thorough than what is available in many diocesan parishes.
 
 ---
 
@@ -244,7 +305,9 @@ This is no longer a matter of canonical dispute. Since November 20, 2016, SSPX p
 
 ### The Question
 
-Is a marriage celebrated at an SSPX chapel valid? What canonical requirements govern SSPX marriages? What should a Catholic do if they wish to marry at an SSPX chapel?
+Is a marriage celebrated at an SSPX chapel valid?
+What canonical requirements govern SSPX marriages?
+What should a Catholic do if they wish to marry at an SSPX chapel?
 
 ---
 
@@ -258,13 +321,16 @@ Marriage is the most canonically complex of the sacraments for the SSPX because 
 **Canon 1108 §2:**
 > "The person who assists at a marriage is understood to be only that person who is present, asks for the manifestation of the consent of the contracting parties, and receives it in the name of the Church."
 
-**The crucial requirement:** A Catholic marriage normally requires the presence of a priest who has proper *delegation* to witness the marriage in that territory. The delegation comes from the local ordinary (bishop) or the parish priest (*parochus*) of the place where the marriage is celebrated.
+**The crucial requirement:** A Catholic marriage normally requires the presence of a priest who has proper *delegation* to witness the marriage in that territory.
+The delegation comes from the local ordinary (bishop) or the parish priest (*parochus*) of the place where the marriage is celebrated.
 
-SSPX priests - lacking canonical mission and not being incardinated into any diocese - do not automatically possess this delegation. Without delegation, an SSPX priest who witnesses a marriage does not fulfill the requirements of Canon 1108, rendering the marriage potentially invalid for lack of canonical form.
+SSPX priests - lacking canonical mission and not being incardinated into any diocese - do not automatically possess this delegation.
+Without delegation, an SSPX priest who witnesses a marriage does not fulfill the requirements of Canon 1108, rendering the marriage potentially invalid for lack of canonical form.
 
 **The danger of clandestine marriages:**
 
-A marriage contracted without canonical form (except in narrow circumstances of danger of death or absence of a competent minister - Canons 1116 and 1127) is *invalid* in Catholic law. The Church does not merely disapprove of it; she does not recognize it as a marriage at all.
+A marriage contracted without canonical form (except in narrow circumstances of danger of death or absence of a competent minister - Canons 1116 and 1127) is *invalid* in Catholic law.
+The Church does not merely disapprove of it; she does not recognize it as a marriage at all.
 
 This created a genuinely serious pastoral problem for SSPX faithful who wished to marry in the traditional rite.
 
@@ -278,25 +344,34 @@ Before Francis's 2017 intervention, the canonical status of SSPX marriages was t
 
 **Position A: SSPX marriages are generally invalid.**
 
-Marriage, unlike confession, normally requires canonical *form*: under Canon 1108 §1, the assisting priest or deacon must hold delegation from the local ordinary or pastor of the place, and a marriage celebrated without canonical form is invalid. An SSPX priest, lacking that delegation, does not satisfy the form. On this view, Canon 144's supplied jurisdiction does not rescue the marriage, because supply is meant for isolated cases of common error or genuine doubt, not for the systematic ministry of an organization whose lack of ordinary delegation is publicly known. Where the faithful know the priest has no delegation, there is no common error; and because the law clearly withholds the faculty, there is no positive and probable doubt of law. The supply therefore never engages, and the marriage fails for want of form.
+Marriage, unlike confession, normally requires canonical *form*: under Canon 1108 §1, the assisting priest or deacon must hold delegation from the local ordinary or pastor of the place, and a marriage celebrated without canonical form is invalid.
+An SSPX priest, lacking that delegation, does not satisfy the form.
+On this view, Canon 144's supplied jurisdiction does not rescue the marriage, because supply is meant for isolated cases of common error or genuine doubt, not for the systematic ministry of an organization whose lack of ordinary delegation is publicly known.
+Where the faithful know the priest has no delegation, there is no common error; and because the law clearly withholds the faculty, there is no positive and probable doubt of law.
+The supply therefore never engages, and the marriage fails for want of form.
 
 **Position B: Canon 144 supplies the faculty; SSPX marriages are valid.**
 
-Canon 144 §2 extends supplied jurisdiction to "the faculties mentioned in cann. 882, 883, 966, and 1111, §1" - and Canon 1111 §1 is precisely the faculty to assist at marriages. The marriage faculty is thus supplied on the same terms as the confession faculty (Canon 966): in cases of common error or positive and probable doubt, the Church herself supplies the delegation the priest lacks. On this view, the genuine uncertainty surrounding the SSPX's canonical situation furnishes the positive and probable doubt that triggers the supply, and the marriages are valid.
+Canon 144 §2 extends supplied jurisdiction to "the faculties mentioned in cann. 882, 883, 966, and 1111, §1" - and Canon 1111 §1 is precisely the faculty to assist at marriages.
+The marriage faculty is thus supplied on the same terms as the confession faculty (Canon 966): in cases of common error or positive and probable doubt, the Church herself supplies the delegation the priest lacks.
+On this view, the genuine uncertainty surrounding the SSPX's canonical situation furnishes the positive and probable doubt that triggers the supply, and the marriages are valid.
 
 **Position C: Some SSPX marriages are valid, others not - depends on circumstances.**
 
-Where the faithful approach the SSPX chapel genuinely unaware of the lack of delegation (common error), or where the canonical situation is genuinely doubtful (positive and probable doubt), Canon 144 supplies. Where the faithful are fully aware of the lack of delegation and no doubt exists, the marriage may be invalid.
+Where the faithful approach the SSPX chapel genuinely unaware of the lack of delegation (common error), or where the canonical situation is genuinely doubtful (positive and probable doubt), Canon 144 supplies.
+Where the faithful are fully aware of the lack of delegation and no doubt exists, the marriage may be invalid.
 
 **The practical reality pre-2017:**
 
-Many bishops, understanding the hardship created for SSPX faithful, granted delegation to SSPX priests on a case-by-case or general basis for marriages in their dioceses. This was an informal pastoral solution that varied by diocese.
+Many bishops, understanding the hardship created for SSPX faithful, granted delegation to SSPX priests on a case-by-case or general basis for marriages in their dioceses.
+This was an informal pastoral solution that varied by diocese.
 
 ---
 
 ### 2017: The CDF / *Ecclesia Dei* Letter on SSPX Marriages
 
-**CDF / Pontifical Commission *Ecclesia Dei* letter on the marriages of SSPX faithful, March 27, 2017** - signed by Cardinal Gerhard Müller (Prefect of the CDF) and Archbishop Guido Pozzo (Secretary of *Ecclesia Dei*), approved by Pope Francis at the audience of March 24, 2017, and made public April 4, 2017. The letter, addressed to local Ordinaries, instructed that:
+**CDF / Pontifical Commission *Ecclesia Dei* letter on the marriages of SSPX faithful, March 27, 2017** - signed by Cardinal Gerhard Müller (Prefect of the CDF) and Archbishop Guido Pozzo (Secretary of *Ecclesia Dei*), approved by Pope Francis at the audience of March 24, 2017, and made public April 4, 2017.
+The letter, addressed to local Ordinaries, instructed that:
 
 1. Local ordinaries are to grant SSPX priests the faculty to witness marriages of SSPX faithful validly.
 2. Where the ordinary grants delegation, the marriage is celebrated in full canonical regularity.
@@ -306,7 +381,9 @@ Many bishops, understanding the hardship created for SSPX faithful, granted dele
 **Analysis:**
 - This is a systematic solution to the marriage-delegation problem, issued with papal approval.
 - It does not grant SSPX priests a universal faculty to witness marriages the way the confession grant works - it directs local ordinaries to provide the necessary delegation.
-- In practice, this means the validity of a specific SSPX marriage depends partly on whether the local ordinary has granted delegation. In most regions, the bishop's office, if contacted, will grant delegation. In some regions - particularly where bishops are hostile to the SSPX - this may be more difficult.
+- In practice, this means the validity of a specific SSPX marriage depends partly on whether the local ordinary has granted delegation.
+  In most regions, the bishop's office, if contacted, will grant delegation.
+  In some regions - particularly where bishops are hostile to the SSPX - this may be more difficult.
 
 ---
 
@@ -318,9 +395,12 @@ Many bishops, understanding the hardship created for SSPX faithful, granted dele
 
 1. **Contact the SSPX priest or chapel early.** SSPX chaplains are generally well-versed in the current canonical requirements and will guide the faithful through the process.
 
-2. **Determine whether the local ordinary has granted general delegation.** In many dioceses, this has already been done in response to the 2017 letter. The SSPX's district office for your region will know.
+2. **Determine whether the local ordinary has granted general delegation.** In many dioceses, this has already been done in response to the 2017 letter.
+   The SSPX's district office for your region will know.
 
-3. **If delegation has not been granted, request it.** A request should be made to the local bishop's office for delegation to the SSPX priest to witness the specific marriage. Post-2017, such requests should be granted by bishops following the 2017 directive. Refusal is not impossible but would be contrary to the papal instruction.
+3. **If delegation has not been granted, request it.** A request should be made to the local bishop's office for delegation to the SSPX priest to witness the specific marriage.
+   Post-2017, such requests should be granted by bishops following the 2017 directive.
+   Refusal is not impossible but would be contrary to the papal instruction.
 
 4. **If delegation cannot be obtained, arrange for a diocesan priest to witness.** The SSPX priest can still preach and officiate the liturgical portions; the canonical witnessing is done by the diocesan representative.
 
@@ -328,7 +408,9 @@ Many bishops, understanding the hardship created for SSPX faithful, granted dele
 
 **Marriage preparation:**
 
-The SSPX's marriage preparation is typically thorough by any standard. It includes sustained engagement with Catholic doctrine on marriage (its permanence, indissolubility, and sacramental character), the purposes of marriage (procreation and education of children, mutual sanctification), and the moral theology of conjugal life. Couples who have gone through SSPX marriage preparation frequently describe it as more serious and substantive than what is typically available in diocesan programs.
+The SSPX's marriage preparation is typically thorough by any standard.
+It includes sustained engagement with Catholic doctrine on marriage (its permanence, indissolubility, and sacramental character), the purposes of marriage (procreation and education of children, mutual sanctification), and the moral theology of conjugal life.
+Couples who have gone through SSPX marriage preparation frequently describe it as more serious and substantive than what is typically available in diocesan programs.
 
 ---
 
@@ -338,21 +420,29 @@ The SSPX's marriage preparation is typically thorough by any standard. It includ
 
 **Validity: unambiguously yes.**
 
-Baptism is the simplest sacramental question. The minister of baptism in cases of necessity can be any person with the proper intention. When celebrated solemnly by a priest, the requirements are minimal: water, the Trinitarian formula, and the intention to do what the Church does.
+Baptism is the simplest sacramental question.
+The minister of baptism in cases of necessity can be any person with the proper intention.
+When celebrated solemnly by a priest, the requirements are minimal: water, the Trinitarian formula, and the intention to do what the Church does.
 
 **Canon 861 §1:**
 > "The ordinary minister of baptism is a bishop, a presbyter, or a deacon, without prejudice to the prescript of can. 530, n. 1."
 
-SSPX priests are validly ordained priests. Their baptisms are unambiguously valid.
+SSPX priests are validly ordained priests.
+Their baptisms are unambiguously valid.
 
 **Canon 861 §2:**
 > "When an ordinary minister is absent or impeded, a catechist or another person designated for this function by the local ordinary, or in a case of necessity any person with the right intention, confers baptism licitly."
 
-Even a layman can baptize validly in an emergency. An SSPX priest's baptism, therefore, is valid beyond any doubt.
+Even a layman can baptize validly in an emergency.
+An SSPX priest's baptism, therefore, is valid beyond any doubt.
 
-**Liceity:** An SSPX baptism is technically illicit insofar as the priest lacks canonical mission. However, no canonical penalty attaches to receiving an illicit but valid baptism. The baptism is real; the person is truly baptized.
+**Liceity:** An SSPX baptism is technically illicit insofar as the priest lacks canonical mission.
+However, no canonical penalty attaches to receiving an illicit but valid baptism.
+The baptism is real; the person is truly baptized.
 
-**Practical note:** SSPX baptisms should be registered. The SSPX maintains baptismal registers at their priories and chapels. Parents should ensure the child's baptism is recorded; they may also wish to notify their local parish, which can note the baptism in diocesan records.
+**Practical note:** SSPX baptisms should be registered.
+The SSPX maintains baptismal registers at their priories and chapels.
+Parents should ensure the child's baptism is recorded; they may also wish to notify their local parish, which can note the baptism in diocesan records.
 
 ---
 
@@ -360,15 +450,20 @@ Even a layman can baptize validly in an emergency. An SSPX priest's baptism, the
 
 **Validity: yes, but with a specific canonical history.**
 
-A bishop validly consecrated can confirm validly. SSPX bishops are validly consecrated. Their confirmations are therefore valid.
+A bishop validly consecrated can confirm validly.
+SSPX bishops are validly consecrated.
+Their confirmations are therefore valid.
 
-**Liceity:** Confirmation outside the ordinary canonical structure is illicit. Additionally, *Traditionis Custodes* (2021) and subsequent *Responsa ad Dubia* specifically addressed confirmation in the older rite - but again, these apply to the canonical Church, not to the SSPX.
+**Liceity:** Confirmation outside the ordinary canonical structure is illicit.
+Additionally, *Traditionis Custodes* (2021) and subsequent *Responsa ad Dubia* specifically addressed confirmation in the older rite - but again, these apply to the canonical Church, not to the SSPX.
 
 **The emergency confirmation issue:**
 
-In cases where Catholic faithful who are in danger of death wish to receive confirmation and no regular minister is available, Canon 883, 3° provides that "the pastor or indeed any presbyter" possesses the faculty to confirm by the law itself. SSPX priests can therefore confirm in danger of death, even apart from the episcopal faculty.
+In cases where Catholic faithful who are in danger of death wish to receive confirmation and no regular minister is available, Canon 883, 3° provides that "the pastor or indeed any presbyter" possesses the faculty to confirm by the law itself.
+SSPX priests can therefore confirm in danger of death, even apart from the episcopal faculty.
 
-**Practical note:** The SSPX bishops regularly make pastoral visits to SSPX chapels and communities for the administration of confirmation. This is a regular feature of SSPX pastoral life.
+**Practical note:** The SSPX bishops regularly make pastoral visits to SSPX chapels and communities for the administration of confirmation.
+This is a regular feature of SSPX pastoral life.
 
 ---
 
@@ -376,13 +471,17 @@ In cases where Catholic faithful who are in danger of death wish to receive conf
 
 **Validity: yes.**
 
-SSPX ordinations - both to the diaconate and to the priesthood - are valid. The matter (the imposition of hands), form (the consecratory prayer), minister (a validly consecrated bishop), and subject (a baptized male who has gone through the required preparatory stages) all meet the requirements.
+SSPX ordinations - both to the diaconate and to the priesthood - are valid.
+The matter (the imposition of hands), form (the consecratory prayer), minister (a validly consecrated bishop), and subject (a baptized male who has gone through the required preparatory stages) all meet the requirements.
 
 **Liceity:** SSPX ordinations are illicit because the ordinands are not incardinated into a canonical diocese or recognized religious institute, and the ordaining bishop does not have canonical mission for the Latin rite Church in the relevant territory.
 
-**Practical consequence:** Men ordained to the priesthood by SSPX bishops are real priests with full sacramental powers. They can validly celebrate Mass, hear confessions (now with the papal faculty), and administer the other sacraments. Their canonical mission remains irregular, but their priesthood is real.
+**Practical consequence:** Men ordained to the priesthood by SSPX bishops are real priests with full sacramental powers.
+They can validly celebrate Mass, hear confessions (now with the papal faculty), and administer the other sacraments.
+Their canonical mission remains irregular, but their priesthood is real.
 
-**Why this matters for the faithful:** When SSPX seminarians are ordained each year at Écône, Dillwyn (Virginia), Flavigny, Zaitzkofen, La Reja, and Goulburn, real priests are produced for the Church. The faithful who will be served by these priests will receive real sacraments from real priests.
+**Why this matters for the faithful:** When SSPX seminarians are ordained each year at Écône, Dillwyn (Virginia), Flavigny, Zaitzkofen, La Reja, and Goulburn, real priests are produced for the Church.
+The faithful who will be served by these priests will receive real sacraments from real priests.
 
 ---
 
@@ -393,17 +492,22 @@ SSPX ordinations - both to the diaconate and to the priesthood - are valid. The 
 **Canon 1003 §1:**
 > "Every priest and a priest alone validly administers the anointing of the sick."
 
-SSPX priests are validly ordained priests. Their anointing of the sick is valid.
+SSPX priests are validly ordained priests.
+Their anointing of the sick is valid.
 
-**Liceity:** Technically illicit for the same reasons as other SSPX sacramental ministry. However, in a case of necessity, Canon 1003 §3 provides that any priest may administer the anointing, and Canon 144 supplies jurisdiction in cases of doubt or common error.
+**Liceity:** Technically illicit for the same reasons as other SSPX sacramental ministry.
+However, in a case of necessity, Canon 1003 §3 provides that any priest may administer the anointing, and Canon 144 supplies jurisdiction in cases of doubt or common error.
 
-**Practical note:** Catholics in danger of death who are in SSPX chapels or communities should not hesitate to receive anointing from an SSPX priest. The sacrament is real, the grace is real, and the soul's welfare takes absolute pastoral precedence over canonical technicalities in an emergency.
+**Practical note:** Catholics in danger of death who are in SSPX chapels or communities should not hesitate to receive anointing from an SSPX priest.
+The sacrament is real, the grace is real, and the soul's welfare takes absolute pastoral precedence over canonical technicalities in an emergency.
 
 ---
 
 ### Holy Communion outside Mass
 
-SSPX priests distribute Holy Communion during Mass. The Host is the real Body of Christ, validly consecrated, regardless of the priest's canonical status. Receiving from an SSPX priest at Mass or in other contexts where the SSPX has hosts reserved is receiving the real Eucharist.
+SSPX priests distribute Holy Communion during Mass.
+The Host is the real Body of Christ, validly consecrated, regardless of the priest's canonical status.
+Receiving from an SSPX priest at Mass or in other contexts where the SSPX has hosts reserved is receiving the real Eucharist.
 
 The question of *extraordinary ministers* of Holy Communion does not arise in SSPX contexts - the SSPX does not use extraordinary ministers.
 
@@ -411,11 +515,14 @@ The question of *extraordinary ministers* of Holy Communion does not arise in SS
 
 ## Part V: The Broader Pastoral Question
 
-The canonical questions above have answers. But they do not fully answer the question a Catholic who is considering the SSPX for the long term should ask - not just "are the sacraments valid?" but "is regular engagement with the SSPX pastorally sound?"
+The canonical questions above have answers.
+But they do not fully answer the question a Catholic who is considering the SSPX for the long term should ask - not just "are the sacraments valid?" but "is regular engagement with the SSPX pastorally sound?"
 
 ### What Rome Has Indicated
 
-Rome's consistent guidance - even as it has validated the sacraments - has been that the SSPX's irregular status represents an abnormal situation that faithful Catholics should understand as such. The Pontifical Commission *Ecclesia Dei* consistently stated that SSPX attendance was "not the ideal" and that Catholics should prefer fully regular communities. The lifting of excommunications (2009) and the sacramental grants (2015–2017) are pastoral provisions, not endorsements of the SSPX's institutional situation.
+Rome's consistent guidance - even as it has validated the sacraments - has been that the SSPX's irregular status represents an abnormal situation that faithful Catholics should understand as such.
+The Pontifical Commission *Ecclesia Dei* consistently stated that SSPX attendance was "not the ideal" and that Catholics should prefer fully regular communities.
+The lifting of excommunications (2009) and the sacramental grants (2015–2017) are pastoral provisions, not endorsements of the SSPX's institutional situation.
 
 At the same time:
 
@@ -426,21 +533,30 @@ At the same time:
 
 ### The Question of Spiritual Formation
 
-One legitimate concern about long-term SSPX engagement is spiritual formation. The SSPX cultivates a specific theological culture - one deeply shaped by the convictions described in §6. This culture is, by and large, a serious and genuinely Catholic one. But it carries the risk of forming Catholics who:
+One legitimate concern about long-term SSPX engagement is spiritual formation.
+The SSPX cultivates a specific theological culture - one deeply shaped by the convictions described in §6.
+This culture is, by and large, a serious and genuinely Catholic one.
+But it carries the risk of forming Catholics who:
 
 - Develop an instinctive hostility toward legitimate post-conciliar Church structures.
 - Identify Catholicism primarily with pre-conciliar forms in ways that make engagement with the broader Church difficult.
 - Develop an excessive suspicion of any accommodation with Rome.
 
-These are risks, not certainties. Many Catholics who attend SSPX chapels regularly are exemplary in their faith, their practice, and their charity. The risks are noted not to discourage engagement but to encourage the kind of self-awareness that any serious Catholic formation requires.
+These are risks, not certainties.
+Many Catholics who attend SSPX chapels regularly are exemplary in their faith, their practice, and their charity.
+The risks are noted not to discourage engagement but to encourage the kind of self-awareness that any serious Catholic formation requires.
 
 ### The Question of Sacramental Economy
 
-The SSPX is the primary provider of the Traditional Latin Mass in many parts of the world. After *Traditionis Custodes* (2021), it has become in some places the *only* available provider. For Catholics whose spiritual life is nourished by the Traditional Mass - whose faith has been formed by it, whose prayer is shaped by it - the SSPX chapel may be a genuine spiritual necessity, not merely a preference.
+The SSPX is the primary provider of the Traditional Latin Mass in many parts of the world.
+After *Traditionis Custodes* (2021), it has become in some places the *only* available provider.
+For Catholics whose spiritual life is nourished by the Traditional Mass - whose faith has been formed by it, whose prayer is shaped by it - the SSPX chapel may be a genuine spiritual necessity, not merely a preference.
 
-For such Catholics, the canonical irregularity of the SSPX is a cross to be borne - a wound in the Church that they suffer rather than cause. Their attendance is not an act of defiance toward Rome but a seeking of what they need to live the Catholic faith.
+For such Catholics, the canonical irregularity of the SSPX is a cross to be borne - a wound in the Church that they suffer rather than cause.
+Their attendance is not an act of defiance toward Rome but a seeking of what they need to live the Catholic faith.
 
-This pastoral situation is acknowledged by the Francis-era provisions. The explicit statement in *Misericordia et Misera* - "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" - reflects a pastoral awareness that the SSPX faithful have genuine spiritual needs that Rome wishes to address even in the absence of full regularization.
+This pastoral situation is acknowledged by the Francis-era provisions.
+The explicit statement in *Misericordia et Misera* - "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" - reflects a pastoral awareness that the SSPX faithful have genuine spiritual needs that Rome wishes to address even in the absence of full regularization.
 
 ---
 
@@ -473,13 +589,22 @@ This pastoral situation is acknowledged by the Francis-era provisions. The expli
 
 - These sacraments, when administered by SSPX priests or bishops, are valid.
 - Register the sacraments through the SSPX's own records and, where possible, through diocesan channels.
-- In emergencies (danger of death), do not hesitate. The sacrament is real.
+- In emergencies (danger of death), do not hesitate.
+  The sacrament is real.
 
 ### A final word
 
-The sacramental situation of the SSPX is, as of 2026, more normalized than at any prior point in the Society's history. Confessions are formally valid and licit. Marriages are addressed by a papal framework. Masses are celebrations of a rite the Church has confirmed was never abrogated. The bishops are no longer excommunicated. The faithful who seek the traditional sacraments at SSPX chapels are not, in any formal sense, outside the Catholic Church.
+The sacramental situation of the SSPX is, as of 2026, more normalized than at any prior point in the Society's history.
+Confessions are formally valid and licit.
+Marriages are addressed by a papal framework.
+Masses are celebrations of a rite the Church has confirmed was never abrogated.
+The bishops are no longer excommunicated.
+The faithful who seek the traditional sacraments at SSPX chapels are not, in any formal sense, outside the Catholic Church.
 
-What remains is the institutional irregularity - the lack of canonical mission that prevents the Society from being fully integrated into the Church's structures. This irregularity matters, and honest Catholics should acknowledge it. But it does not deprive them of the sacraments. And at the level of the individual Catholic's access to grace, to absolution, to the sacrifice of the Mass, and to the other means God has provided - the sacramental question has been answered in their favor.
+What remains is the institutional irregularity - the lack of canonical mission that prevents the Society from being fully integrated into the Church's structures.
+This irregularity matters, and honest Catholics should acknowledge it.
+But it does not deprive them of the sacraments.
+And at the level of the individual Catholic's access to grace, to absolution, to the sacrifice of the Mass, and to the other means God has provided - the sacramental question has been answered in their favor.
 
 ---
 

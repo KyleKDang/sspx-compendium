@@ -7,7 +7,8 @@
 
 ## Category I: Foundational Catholic Magisterial Documents
 
-These are the documents of the pre-conciliar Magisterium that the SSPX invokes as defining Catholic doctrine. They are the evidentiary base for the SSPX's claim that it holds the faith the Church has always taught.
+These are the documents of the pre-conciliar Magisterium that the SSPX invokes as defining Catholic doctrine.
+They are the evidentiary base for the SSPX's claim that it holds the faith the Church has always taught.
 
 ---
 
@@ -23,7 +24,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### Council of Trent - Session XXII (1562)
 **On the Sacrifice of the Mass**
 - **What it is:** The definitive doctrinal canons on the Holy Sacrifice of the Mass, promulgated in response to the Protestant Reformation.
-- **Why it matters:** The SSPX argues that the 1969 liturgical reform compromised the expression of precisely what Trent defined. These canons are the doctrinal baseline against which the Novus Ordo is measured.
+- **Why it matters:** The SSPX argues that the 1969 liturgical reform compromised the expression of precisely what Trent defined.
+  These canons are the doctrinal baseline against which the Novus Ordo is measured.
 - **Key passage (Canon 1):** "If anyone says that in the Mass a true and proper sacrifice is not offered to God, or that to be offered is nothing else but that Christ is given to us to eat, let him be anathema."
 - **Key passage (Canon 3):** "If anyone says that the sacrifice of the Mass is one only of praise and thanksgiving... but not a propitiatory one... let him be anathema."
 - **Where to find it:** [Papal Encyclicals Online](https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm)
@@ -52,7 +54,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### First Vatican Council - *Pastor Aeternus* (1870)
 **On Papal Primacy and Infallibility**
 - **What it is:** The dogmatic constitution defining the Pope's supreme, universal, ordinary, and immediate jurisdiction, and his infallibility in *ex cathedra* definitions.
-- **Why it matters:** Cuts both ways in the SSPX debate. The SSPX accepts papal infallibility and primacy in principle; their critics use *Pastor Aeternus* to argue the SSPX has acted against the very jurisdiction it claims to accept.
+- **Why it matters:** Cuts both ways in the SSPX debate.
+  The SSPX accepts papal infallibility and primacy in principle; their critics use *Pastor Aeternus* to argue the SSPX has acted against the very jurisdiction it claims to accept.
 - **Key passage:** "[T]his jurisdictional power of the Roman Pontiff... is *immediate*; with respect to which the pastors and faithful of whatever rite and dignity... are bound by the duty of hierarchical subordination and true obedience."
 - **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html) (Latin); [Papal Encyclicals Online](https://www.papalencyclicals.net/councils/ecum20.htm) (English)
 
@@ -61,7 +64,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### First Vatican Council - *Dei Filius* (1870)
 **On Faith and Revelation**
 - **What it is:** The dogmatic constitution on faith, reason, and revelation.
-- **Why it matters:** Defines that all things in Scripture and Tradition are to be believed; establishes the proper relationship between faith and reason. The SSPX's framework for what binds Catholic belief rests partly on *Dei Filius*.
+- **Why it matters:** Defines that all things in Scripture and Tradition are to be believed; establishes the proper relationship between faith and reason.
+  The SSPX's framework for what binds Catholic belief rests partly on *Dei Filius*.
 - **Where to find it:** [Papal Encyclicals Online](https://www.papalencyclicals.net/councils/ecum20.htm)
 
 ---
@@ -120,7 +124,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### Pope Pius X - *Pascendi Dominici Gregis* (1907)
 **On the Errors of Modernism**
 - **What it is:** The comprehensive papal condemnation of Modernism - the theological system that treats doctrine as historically conditioned, revelation as religious experience, and dogma as evolving.
-- **Why it matters:** The SSPX's entire framework for understanding the post-conciliar crisis rests on *Pascendi*. They argue that the post-conciliar period represents a triumph of the very tendencies Pius X condemned.
+- **Why it matters:** The SSPX's entire framework for understanding the post-conciliar crisis rests on *Pascendi*.
+  They argue that the post-conciliar period represents a triumph of the very tendencies Pius X condemned.
 - **Key passage:** "Hence we may correctly call Modernism the synthesis of all heresies. Were anyone to attempt the task of collecting together all the errors that have been broached against the faith and to concentrate the sap and substance of them all into one, he could not better succeed than the Modernists have done."
 - **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)
 - **Read alongside:** *Lamentabili Sane* (1907) - the accompanying syllabus of condemned Modernist propositions: [Vatican.va](https://www.vatican.va/archive/aas/documents/AAS-40-1907-ocr.pdf)
@@ -166,7 +171,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### Pope Pius XII - *Ad Sinarum Gentem* (1954)
 **To the Chinese Catholic People - on the supranationality of the Church**
 - **What it is:** Encyclical of October 7, 1954, addressed to the Catholic Church in China at the outset of the Communist regime's effort to establish a national Catholic Church independent of Rome.
-- **Why it matters:** Articulates the perennial Catholic teaching on the twofold sacred hierarchy of orders and jurisdiction (§12), the impossibility of a "national Church" displacing the universal Catholic communion (§22), and the maxim "We must obey God rather than men" when civil or ecclesiastical authority commands what falls outside its competence (§26). Foundational for the SSPX's 2026 argument that the order/jurisdiction distinction codified here precludes the *Lumen Gentium* §21 reformulation.
+- **Why it matters:** Articulates the perennial Catholic teaching on the twofold sacred hierarchy of orders and jurisdiction (§12), the impossibility of a "national Church" displacing the universal Catholic communion (§22), and the maxim "We must obey God rather than men" when civil or ecclesiastical authority commands what falls outside its competence (§26).
+  Foundational for the SSPX's 2026 argument that the order/jurisdiction distinction codified here precludes the *Lumen Gentium* §21 reformulation.
 - **Key passage (§12):** "By virtue of God's Will, the faithful are divided into two classes: the clergy and the laity. By virtue of the same Will is established the twofold sacred hierarchy, namely, of orders and jurisdiction."
 - **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html)
 
@@ -175,7 +181,8 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 ### Pope Pius XII - *Ad Apostolorum Principis* (1958)
 **On the situation of the Church in China**
 - **What it is:** Encyclical of June 29, 1958, reinforcing the Holy Office Decree of August 9, 1951, which had introduced the *latae sententiae* excommunication for unauthorized episcopal consecration in response to the Chinese Patriotic Catholic Association's state-coerced consecrations.
-- **Why it matters:** §39 codifies the perennial teaching, citing *Mystici Corporis* (1943), that bishops consecrated in defiance of Rome "enjoy no powers of teaching or of jurisdiction, since jurisdiction passes to bishops only through the Roman Pontiff." Anchors both the canonical penalty history (suspension before 1951 → excommunication after) and the order/jurisdiction distinction.
+- **Why it matters:** §39 codifies the perennial teaching, citing *Mystici Corporis* (1943), that bishops consecrated in defiance of Rome "enjoy no powers of teaching or of jurisdiction, since jurisdiction passes to bishops only through the Roman Pontiff."
+  Anchors both the canonical penalty history (suspension before 1951 → excommunication after) and the order/jurisdiction distinction.
 - **Key passage (§39):** "Bishops who have been neither named nor confirmed by the Apostolic See, but who, on the contrary, have been elected and consecrated in defiance of its express orders, enjoy no powers of teaching or of jurisdiction, since jurisdiction passes to bishops only through the Roman Pontiff."
 - **Where to find it:** [Vatican.va](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)
 
@@ -192,14 +199,16 @@ These are the documents of the pre-conciliar Magisterium that the SSPX invokes a
 
 ## Category II: Vatican II Documents
 
-The most contested documents of Vatican II. All available at Vatican.va in English and Latin.
+The most contested documents of Vatican II.
+All available at Vatican.va in English and Latin.
 
 ---
 
 ### *Sacrosanctum Concilium* (1963)
 **Constitution on the Sacred Liturgy**
 - **Why it matters:** Mandated liturgical reform; its principles were invoked (sometimes beyond their actual content) to justify the 1969 reform.
-- **What to read:** §36 (Latin to be preserved), §54 (vernacular use), §112–121 (sacred music). The SSPX argues that post-conciliar implementation violated the Council's own directives on Latin and Gregorian chant.
+- **What to read:** §36 (Latin to be preserved), §54 (vernacular use), §112–121 (sacred music).
+  The SSPX argues that post-conciliar implementation violated the Council's own directives on Latin and Gregorian chant.
 - **Link:** [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)
 
 ---
@@ -230,7 +239,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### *Dignitatis Humanae* (1965)
 **Declaration on Religious Freedom**
-- **Why it matters:** The central document in the SSPX-Rome theological dispute. Its teaching on religious liberty appears to the SSPX to contradict the prior teaching of Pius IX, Gregory XVI, and Leo XIII.
+- **Why it matters:** The central document in the SSPX-Rome theological dispute.
+  Its teaching on religious liberty appears to the SSPX to contradict the prior teaching of Pius IX, Gregory XVI, and Leo XIII.
 - **What to read:** §2 (the right to religious freedom and its foundation in human dignity), §7 (the limits of religious freedom).
 - **Link:** [Vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html)
 
@@ -280,7 +290,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### Pope Benedict XVI - *Summorum Pontificum* (2007)
 **Apostolic Letter on the Traditional Latin Mass**
-- **Why it matters:** Declares the 1962 Missal "never juridically abrogated," the Extraordinary Form of the Roman Rite, available to any priest. Directly vindicates the SSPX's central liturgical claim.
+- **Why it matters:** Declares the 1962 Missal "never juridically abrogated," the Extraordinary Form of the Roman Rite, available to any priest.
+  Directly vindicates the SSPX's central liturgical claim.
 - **What to read:** Article 1 (the two forms of the Roman Rite), Article 2 (permission for any priest to celebrate the TLM), and especially the accompanying letter to bishops (separately linked).
 - **Link:** [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)
 - **Accompanying letter to bishops:** [Vatican.va](https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070707_lettera-vescovi.html) - **essential reading**; contains Benedict's most direct personal statements on the traditional liturgy, the post-conciliar crisis, and the SSPX.
@@ -315,7 +326,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### Pope Francis - Letter to Archbishop Rino Fisichella (September 1, 2015)
 **Letter in preparation for the Jubilee of Mercy**
-- **Why it matters:** Contains the first explicit grant of confession faculties to SSPX priests. (The Jubilee was announced in the bull *Misericordiae Vultus*, April 11, 2015, which did not mention the SSPX; the faculty grant is in this letter.)
+- **Why it matters:** Contains the first explicit grant of confession faculties to SSPX priests.
+  (The Jubilee was announced in the bull *Misericordiae Vultus*, April 11, 2015, which did not mention the SSPX; the faculty grant is in this letter.)
 - **Link:** [Vatican.va](https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150901_lettera-indulgenza-giubileo-misericordia.html)
 
 ---
@@ -358,24 +370,33 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church - The Balamand Declaration (1993)
 *Uniatism, Method of Union of the Past, and the Present Search for Full Communion*
-- **What it is:** Joint statement of the seventh plenary session of the International Commission, signed at the Balamand School of Theology in Lebanon on June 23, 1993. The Catholic-side response to Orthodox protests against the post-Soviet revival of the Eastern Catholic ("Uniate") churches.
-- **Why it matters:** Codifies the post-conciliar Catholic recognition of Orthodox bishops as exercising true authority over their faithful (§29 - "the authority which the Holy Spirit has given to the bishops and priests of the other Church"); names Catholic-Orthodox as "Sister Churches" (§14); rejects "uniatism" as a model of unity (§12). Load-bearing for the 2026 SSPX argument that Rome's lived recognition of episcopal jurisdiction in formal schism from Rome contradicts the schism charge against the SSPX consecrations.
+- **What it is:** Joint statement of the seventh plenary session of the International Commission, signed at the Balamand School of Theology in Lebanon on June 23, 1993.
+  The Catholic-side response to Orthodox protests against the post-Soviet revival of the Eastern Catholic ("Uniate") churches.
+- **Why it matters:** Codifies the post-conciliar Catholic recognition of Orthodox bishops as exercising true authority over their faithful (§29 - "the authority which the Holy Spirit has given to the bishops and priests of the other Church"); names Catholic-Orthodox as "Sister Churches" (§14); rejects "uniatism" as a model of unity (§12).
+  Load-bearing for the 2026 SSPX argument that Rome's lived recognition of episcopal jurisdiction in formal schism from Rome contradicts the schism charge against the SSPX consecrations.
 - **Where to find it:** [Vatican.va - Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-lingua-inglese.html)
 
 ---
 
 ### IARCCUM (Anglican-Roman Catholic Commission for Unity and Mission) - *Growing Together in Unity and Mission* (2006)
 *Building on 40 Years of Anglican-Roman Catholic Dialogue*
-- **What it is:** Joint statement of the second Anglican-Roman Catholic International Commission, dated Feast of St. Francis (October 4) 2006, published February 2007. Builds on 40 years of ARCIC dialogue going back to the 1966 Paul VI / Archbishop Michael Ramsey meeting.
-- **Why it matters:** Codifies the post-conciliar Catholic recommendations for joint pastoral practice between Catholics and Anglicans: shared non-Eucharistic worship, mutual public prayer for one another's bishops, association of Anglican bishops with Catholic bishops on ad limina visits to Rome, shared protocols for clergy movement between communions, and attendance at one another's ordinations. Referenced in Pope Leo XIV's March 20, 2026 message to Sarah Mullally. Cited in the 2026 SSPX argument that Rome's lived practice toward the Anglican Communion contradicts the *Apostolicae Curae* (1896) judgment that Anglican orders are null and void.
+- **What it is:** Joint statement of the second Anglican-Roman Catholic International Commission, dated Feast of St. Francis (October 4) 2006, published February 2007.
+  Builds on 40 years of ARCIC dialogue going back to the 1966 Paul VI / Archbishop Michael Ramsey meeting.
+- **Why it matters:** Codifies the post-conciliar Catholic recommendations for joint pastoral practice between Catholics and Anglicans: shared non-Eucharistic worship, mutual public prayer for one another's bishops, association of Anglican bishops with Catholic bishops on ad limina visits to Rome, shared protocols for clergy movement between communions, and attendance at one another's ordinations.
+  Referenced in Pope Leo XIV's March 20, 2026 message to Sarah Mullally.
+  Cited in the 2026 SSPX argument that Rome's lived practice toward the Anglican Communion contradicts the *Apostolicae Curae* (1896) judgment that Anglican orders are null and void.
 - **Where to find it:** [Vatican.va - Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-occidentale/comunione-anglicana/relazioni/iarccum/iarccum-agreed-statements--correspondence--commentaries--communi/iarccum-agreed-statements/testo-in-inglese.html); [IARCCUM PDF](https://www.anglicancommunion.org/media/104627/Growing-Together-in-Unity-and-Mission_english.pdf)
 
 ---
 
 ### Dicastery for Promoting Christian Unity - *The Bishop of Rome* (2024)
 *Primacy and Synodality in the Ecumenical Dialogues and in the Responses to the Encyclical 'Ut Unum Sint'*
-- **What it is:** 147-page study document published June 13, 2024 by the Dicastery for Promoting Christian Unity. Approved for publication by Pope Francis. Presented by Cardinal Kurt Koch (Prefect of the Dicastery) and Cardinal Mario Grech (Secretary General of the Synod). Synthesis of approximately 30 ecumenical-interlocutor responses to John Paul II's *Ut Unum Sint* (1995) and 50 theological-dialogue texts on the theme of papal primacy and synodality.
-- **Why it matters:** The most explicit Roman-side document framing the Vatican I dogmatic definitions of papal primacy as a "significant obstacle" for other Christians; the most explicit Roman-side document framing *Lumen Gentium* §21 as having "re-established the connection between sacramental and juridical powers given through ordination"; the canonical text for the post-conciliar "re-reception" approach to Vatican I in light of Vatican II. Load-bearing for the 2026 SSPX argument [→ §5 Part III; §10 Part VIII] that the post-conciliar Roman authorities have substantially abandoned the perennial Catholic teaching on the source of episcopal jurisdiction that the 2026 schism charge against the SSPX would presuppose.
+- **What it is:** 147-page study document published June 13, 2024 by the Dicastery for Promoting Christian Unity.
+  Approved for publication by Pope Francis.
+  Presented by Cardinal Kurt Koch (Prefect of the Dicastery) and Cardinal Mario Grech (Secretary General of the Synod).
+  Synthesis of approximately 30 ecumenical-interlocutor responses to John Paul II's *Ut Unum Sint* (1995) and 50 theological-dialogue texts on the theme of papal primacy and synodality.
+- **Why it matters:** The most explicit Roman-side document framing the Vatican I dogmatic definitions of papal primacy as a "significant obstacle" for other Christians; the most explicit Roman-side document framing *Lumen Gentium* §21 as having "re-established the connection between sacramental and juridical powers given through ordination"; the canonical text for the post-conciliar "re-reception" approach to Vatican I in light of Vatican II.
+  Load-bearing for the 2026 SSPX argument [→ §5 Part III; §10 Part VIII] that the post-conciliar Roman authorities have substantially abandoned the perennial Catholic teaching on the source of episcopal jurisdiction that the 2026 schism charge against the SSPX would presuppose.
 - **Where to find it:** [Vatican.va - Christian Unity dicastery news release (June 13, 2024)](https://www.christianunity.va/content/unitacristiani/en/news/2024/2024-06-13-il-vescovo-di-roma-nuovo-documento-dpuc.html); [Full PDF](https://www.christianunity.va/content/dam/unitacristiani/Collana_Ut_unum_sint/The_Bishop_of_Rome/The%20Bishop%20of%20Rome.pdf)
 
 ---
@@ -386,7 +407,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 
 ### Archbishop Lefebvre - Declaration of November 21, 1974
 - **What it is:** The foundational theological statement of the SSPX; written after a hostile Vatican visitation of Écône; articulates the SSPX's distinction between "Catholic Rome" and the Rome of "neo-Modernist and neo-Protestant tendencies."
-- **Why it matters:** This is the SSPX in its own words. Any serious engagement with the Society must begin here.
+- **Why it matters:** This is the SSPX in its own words.
+  Any serious engagement with the Society must begin here.
 - **Where to find it:** [SSPX.org](https://sspx.org/en/declaration-archbishop-lefebvre-1974)
 
 ---
@@ -417,17 +439,25 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ---
 
 ### Hirpinus - *The 1988 Consecrations: Theological Study*, Parts I and II (1999)
-- **What it is:** A two-part theological study of the 1988 episcopal consecrations and the state-of-necessity defense, published in *Si Si No No* and translated into the English-language *Angelus* under the pen name "Hirpinus," edited by Rev. Fr. Kenneth Novak. Part I appeared in the July 1999 issue, Part II in the September 1999 issue (No. 34).
-- **Why it matters:** The definitive SSPX theological exposition of the state of necessity as a category of moral and canonical theology, applied to Lefebvre's 1988 act. Establishes the suspension-not-denial distinction that is decisive for the Society's posture toward papal authority. Cited verbatim in §10 Part IV.
+- **What it is:** A two-part theological study of the 1988 episcopal consecrations and the state-of-necessity defense, published in *Si Si No No* and translated into the English-language *Angelus* under the pen name "Hirpinus," edited by Rev. Fr. Kenneth Novak.
+  Part I appeared in the July 1999 issue, Part II in the September 1999 issue (No. 34).
+- **Why it matters:** The definitive SSPX theological exposition of the state of necessity as a category of moral and canonical theology, applied to Lefebvre's 1988 act.
+  Establishes the suspension-not-denial distinction that is decisive for the Society's posture toward papal authority.
+  Cited verbatim in §10 Part IV.
 - **Key passage:** "The priest or bishop who, constrained by necessity, does not obey the pope is not thereby denying his own subordination to the pope outside the case of necessity, and so he is not refusing authority in its lawful exercise. Similarly, a wife is not denying the authority of her husband outside of the case of necessity, in which she has the duty to supply for him against his unreasonably opposed will."
-- **Where to find it:** [SSPX Asia archive (Sept. 1999)](https://www.sspxasia.com/Documents/SiSiNoNo/1999_September/The_1988_Consecrations.htm)
+- **Where to find it:** [SSPX Asia archive (Sept.
+  1999)](https://www.sspxasia.com/Documents/SiSiNoNo/1999_September/The_1988_Consecrations.htm)
 
 ---
 
 ### Causidicus - *The 1988 Consecrations: Canonical Study*, Parts I–V (1999–2000)
-- **What it is:** The canonical companion to the Hirpinus theological study, published serially in *Si Si No No / The Angelus* beginning November 1999 (Part I) and continuing through 2000, under the pen name "Causidicus," again edited by Rev. Fr. Kenneth Novak. Treats the 1988 consecrations under the categories of canonical penalty, imputability, mitigating circumstances, the state-of-necessity exemption (Canon 1323 §4), and the schism question (Canon 751).
-- **Why it matters:** The most detailed SSPX-authored canonical analysis of the 1988 consecrations published in English. Together with the Hirpinus theological study, the two sub-studies form the SSPX's foundational scholarly defense of the 1988 act.
-- **Where to find it:** [SSPX Asia archive (Jan. 2000)](https://www.sspxasia.com/Documents/SiSiNoNo/2000_January/The_1988_Consecrations.htm); [Isidore.co Angelus mirror](https://isidore.co/misc/Res%20pro%20Deo/Pope%20St.%20Pius%20X%20&%E2%81%84or%20SSPX/The%20Angelus/HTMLs/1923.html). Additional canonical-study installments are mirrored under the same SSPX Asia directory by month (March, July, September 2000).
+- **What it is:** The canonical companion to the Hirpinus theological study, published serially in *Si Si No No / The Angelus* beginning November 1999 (Part I) and continuing through 2000, under the pen name "Causidicus," again edited by Rev. Fr. Kenneth Novak.
+  Treats the 1988 consecrations under the categories of canonical penalty, imputability, mitigating circumstances, the state-of-necessity exemption (Canon 1323 §4), and the schism question (Canon 751).
+- **Why it matters:** The most detailed SSPX-authored canonical analysis of the 1988 consecrations published in English.
+  Together with the Hirpinus theological study, the two sub-studies form the SSPX's foundational scholarly defense of the 1988 act.
+- **Where to find it:** [SSPX Asia archive (Jan.
+  2000)](https://www.sspxasia.com/Documents/SiSiNoNo/2000_January/The_1988_Consecrations.htm); [Isidore.co Angelus mirror](https://isidore.co/misc/Res%20pro%20Deo/Pope%20St.%20Pius%20X%20&%E2%81%84or%20SSPX/The%20Angelus/HTMLs/1923.html).
+  Additional canonical-study installments are mirrored under the same SSPX Asia directory by month (March, July, September 2000).
 
 ---
 
@@ -452,7 +482,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Archbishop Marcel Lefebvre - *Open Letter to Confused Catholics* (1986)
 - **Publisher:** Angelus Press (Kansas City, MO)
 - **What it is:** The most accessible introduction to Lefebvre's theological positions; written for ordinary Catholic readers.
-- **Why it matters:** The clearest statement of the SSPX's doctrinal concerns in plain, readable prose. Anyone wishing to understand the SSPX from the inside should read this first.
+- **Why it matters:** The clearest statement of the SSPX's doctrinal concerns in plain, readable prose.
+  Anyone wishing to understand the SSPX from the inside should read this first.
 - **Where to find it:** [Angelus Press](https://angeluspress.org) | Available on Amazon and through Catholic book suppliers.
 
 ---
@@ -468,7 +499,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Archbishop Marcel Lefebvre - *I Accuse the Council* (1976)
 - **Publisher:** Angelus Press
 - **What it is:** A sharp theological critique of Vatican II and its post-conciliar implementation; written in the aftermath of Lefebvre's 1976 suspension.
-- **Why it matters:** The most polemical of Lefebvre's major works; illustrates the intensity of his conviction. More useful after reading *Open Letter* and *They Have Uncrowned Him*.
+- **Why it matters:** The most polemical of Lefebvre's major works; illustrates the intensity of his conviction.
+  More useful after reading *Open Letter* and *They Have Uncrowned Him*.
 - **Where to find it:** [Angelus Press](https://angeluspress.org)
 
 ---
@@ -476,7 +508,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Bishop Bernard Tissier de Mallerais - *Marcel Lefebvre: The Biography* (2004)
 - **Publisher:** Angelus Press (English translation of *Marcel Lefebvre: Une vie*, 2002)
 - **What it is:** The authoritative and most extensively researched biography of Lefebvre; written by one of the four 1988 bishops who served as Lefebvre's personal secretary.
-- **Why it matters:** Indispensable for understanding who Lefebvre was, what shaped his thinking, and why he acted as he did. Sympathetic but not hagiographic; engages the difficulties honestly.
+- **Why it matters:** Indispensable for understanding who Lefebvre was, what shaped his thinking, and why he acted as he did.
+  Sympathetic but not hagiographic; engages the difficulties honestly.
 - **Where to find it:** [Angelus Press](https://angeluspress.org)
 
 ---
@@ -541,7 +574,9 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Ludwig Ott - *Fundamentals of Catholic Dogma* (German 1952; English 1955)
 - **Publisher:** German original *Grundriss der katholischen Dogmatik* (Herder, Freiburg 1952); English translation by Patrick Lynch, edited by James Bastible (B. Herder Book Co., St. Louis 1954); reprinted by TAN Books (multiple editions).
 - **What it is:** The standard one-volume pre-conciliar Catholic dogmatic theology manual, used as a seminary textbook across the English-speaking Catholic world from the mid-1950s through Vatican II.
-- **Why it matters:** Decisive against the suggestion that the SSPX position on the limits of papal jurisdiction is a post-conciliar invention. Ott - writing as a mainstream Catholic dogmatician under the immediate pre-conciliar magisterium - preserves the perennial doctrine that papal power is bounded by divine law and the purpose of the Church, and that "the divine law therefore is an efficacious brake on arbitrariness." Cited in §6 Position 6.
+- **Why it matters:** Decisive against the suggestion that the SSPX position on the limits of papal jurisdiction is a post-conciliar invention.
+  Ott - writing as a mainstream Catholic dogmatician under the immediate pre-conciliar magisterium - preserves the perennial doctrine that papal power is bounded by divine law and the purpose of the Church, and that "the divine law therefore is an efficacious brake on arbitrariness."
+  Cited in §6 Position 6.
 - **Where to find it:** [TAN Books](https://tanbooks.com); Amazon; archive.org (open scans of the Bastible/Lynch edition).
 
 ---
@@ -549,7 +584,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Msgr. G. (Gerardus) Van Noort - *Dogmatic Theology, Vol. II: Christ's Church* (English 1957)
 - **Publisher:** English translation by John J. Castelot, SS and William R. Murphy, SS (Newman Press, Westminster, MD, 1957/1959); reprinted by Mediatrix Press.
 - **What it is:** The English-language translation of Van Noort's *Tractatus de Ecclesia Christi*, a standard pre-conciliar ecclesiology manual.
-- **Why it matters:** Carries the perennial "possession of power vs. rightful use of power" distinction (n. 171, p. 283) - papal power is supreme and divinely instituted, but its scope is set by divine law and the nature and goal of the Church, and one "should not leap to the absurd conclusion that all things are licit to the pope, or that he may turn things topsy-turvy in the Church at mere whim." Cited in §6 Position 6.
+- **Why it matters:** Carries the perennial "possession of power vs. rightful use of power" distinction (n. 171, p. 283) - papal power is supreme and divinely instituted, but its scope is set by divine law and the nature and goal of the Church, and one "should not leap to the absurd conclusion that all things are licit to the pope, or that he may turn things topsy-turvy in the Church at mere whim."
+  Cited in §6 Position 6.
 - **Where to find it:** [Mediatrix Press](https://mediatrixpress.com); archive.org (open scans of the Castelot/Murphy edition).
 
 ---
@@ -557,23 +593,29 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Cardinal Juan de Torquemada, OP - *Summa de Ecclesia* (1453)
 - **Editions:** *Editio princeps* Lyon 1496; standard print 1561 Venice edition (pp. 162–163 for the limits-of-obedience passage in Book II, Ch. 49).
 - **What it is:** The most authoritative 15th-century Dominican ecclesiology, written by a cardinal-theologian - uncle of the more famous Spanish Inquisitor - who set much of the formal pattern for later post-Tridentine treatments of papal authority.
-- **Why it matters:** Establishes the deep historical pedigree of the SSPX's framework on the limits of obedience. Cited in §6 Position 6.
+- **Why it matters:** Establishes the deep historical pedigree of the SSPX's framework on the limits of obedience.
+  Cited in §6 Position 6.
 - **Where to find it:** Critical editions in major theological libraries; reproductions of Book II, Ch. 49 are available at trueorfalsepope.com and in Edward Feser's published work.
 
 ---
 
 ### Cardinal Cajetan (Thomas de Vio, OP) - *De Comparatione Auctoritatis Papae et Concilii* (1511)
 - **Critical edition:** V.M.J. Pollet, OP, Rome 1936 (Apud Institutum Angelicum).
-- **What it is:** Cajetan's treatise comparing the authority of pope and council, written in the context of the conciliarist controversies of the early 16th century. Cajetan is the most authoritative Thomist commentator of his era and a cardinal of the Roman Church.
-- **Why it matters:** Source of the classical "resist him to his face" formulation drawn from Galatians 2:11–14, and the practical worked example (simony) showing that resistance is exercised "with all reverence and obedience." Cited in §6 Position 6.
+- **What it is:** Cajetan's treatise comparing the authority of pope and council, written in the context of the conciliarist controversies of the early 16th century.
+  Cajetan is the most authoritative Thomist commentator of his era and a cardinal of the Roman Church.
+- **Why it matters:** Source of the classical "resist him to his face" formulation drawn from Galatians 2:11–14, and the practical worked example (simony) showing that resistance is exercised "with all reverence and obedience."
+  Cited in §6 Position 6.
 - **Where to find it:** Pollet 1936 critical edition in theological research libraries; reproductions of the resistance passage are widely available across SSPX and other traditionalist sources.
 
 ---
 
 ### Francisco Suárez, SJ - *De Fide, Spe et Charitate*, Disputation X (early 17th c.)
-- **Edition:** Vivès *Opera Omnia*, Tome 12 (*De Fide Theologica*); Disp. X, Sect. VI, n. 16 contains the resistance passage.
+- **Edition:** Vivès *Opera Omnia*, Tome 12 (*De Fide Theologica*); Disp.
+  X, Sect.
+  VI, n. 16 contains the resistance passage.
 - **What it is:** Suárez's theological treatise on the virtues of faith, hope, and charity - distinct from his political-tract *Defensio Fidei Catholicae* (Coimbra 1613) to which the resistance passage has sometimes been incorrectly attributed.
-- **Why it matters:** Source of the standard rendering of the Jesuit theologian's three-tier teaching on resistance to a pope acting against right customs, against the common good, or by force. Cited in §6 Position 6.
+- **Why it matters:** Source of the standard rendering of the Jesuit theologian's three-tier teaching on resistance to a pope acting against right customs, against the common good, or by force.
+  Cited in §6 Position 6.
 - **Where to find it:** Vivès *Opera Omnia* in theological research libraries; the standard English of the resistance passage is reproduced across the traditionalist literature.
 
 ---
@@ -581,23 +623,29 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ### Eduardo F. Regatillo, SJ - *Institutiones Iuris Canonici* (1956)
 - **Publisher:** Santander: Sal Terrae, 1956 (multiple editions through the 1950s–60s); standard mid-twentieth-century Spanish-Jesuit canon law manual.
 - **What it is:** A two-volume canonical-institutional manual covering the 1917 Code; volume 2, p. 600, contains the load-bearing passage on the proper scope of the 1951 Holy Office Decree's *latae sententiae* excommunication for unauthorized episcopal consecration.
-- **Why it matters:** Regatillo, one of the pre-eminent canonists of the mid-twentieth century, argues - writing five years after the 1951 Decree and against the lived backdrop of its Chinese-CCPA target - that the excommunication was intended to apply only to consecrations involving the conferral of jurisdiction (residential bishops), not to unauthorized consecrations of titular or auxiliary bishops (to whom no jurisdiction is given). This is the contemporary canonical reading the SSPX invokes in defense of the auxiliary character of its 1988 and 2026 consecrations. Cited in §7 Canon Law and §10 Part VIII.
+- **Why it matters:** Regatillo, one of the pre-eminent canonists of the mid-twentieth century, argues - writing five years after the 1951 Decree and against the lived backdrop of its Chinese-CCPA target - that the excommunication was intended to apply only to consecrations involving the conferral of jurisdiction (residential bishops), not to unauthorized consecrations of titular or auxiliary bishops (to whom no jurisdiction is given).
+  This is the contemporary canonical reading the SSPX invokes in defense of the auxiliary character of its 1988 and 2026 consecrations.
+  Cited in §7 Canon Law and §10 Part VIII.
 - **Where to find it:** Theological research libraries; partial reproductions of the relevant passage circulate across canon-law commentary online.
 
 ---
 
 ### George Weigel - *The End and the Beginning: Pope John Paul II - The Victory of Freedom, the Last Years, the Legacy* (2010)
 - **Publisher:** Doubleday, 2010.
-- **What it is:** The companion volume to Weigel's earlier *Witness to Hope*, covering John Paul II's late pontificate, the collapse of communism, and the JPII–Slipyj / JPII–Husar arc. Standard JPII biography for the post-1990 years.
-- **Why it matters:** The widely cited account of the Vatican's response to Cardinal Josyf Slipyj's April 2, 1977 illicit episcopal consecrations at Castel Gandolfo - "stony silence followed by a refusal for nearly two decades to recognize the episcopal character of the men Slipyj had chosen." Cited in §10 Part VIII as the standard source on the most direct historical analog to the SSPX consecrations.
+- **What it is:** The companion volume to Weigel's earlier *Witness to Hope*, covering John Paul II's late pontificate, the collapse of communism, and the JPII–Slipyj / JPII–Husar arc.
+  Standard JPII biography for the post-1990 years.
+- **Why it matters:** The widely cited account of the Vatican's response to Cardinal Josyf Slipyj's April 2, 1977 illicit episcopal consecrations at Castel Gandolfo - "stony silence followed by a refusal for nearly two decades to recognize the episcopal character of the men Slipyj had chosen."
+  Cited in §10 Part VIII as the standard source on the most direct historical analog to the SSPX consecrations.
 - **Where to find it:** Penguin Random House (Doubleday imprint); major Catholic and general-interest bookstores; widely available secondhand.
 
 ---
 
 ### Jaroslav Pelikan - *Confessor Between East and West: A Portrait of Ukrainian Cardinal Josyf Slipyj* (1990)
-- **Publisher:** Wm. B. Eerdmans Publishing Company, Grand Rapids, MI, 1990 (xiv + 249 pp.).
+- **Publisher:** Wm.
+  B. Eerdmans Publishing Company, Grand Rapids, MI, 1990 (xiv + 249 pp.).
 - **What it is:** The major English-language biographical study of Cardinal Josyf Slipyj, written by Jaroslav Pelikan (1923–2006), the foremost American historian of Christian doctrine of his generation.
-- **Why it matters:** The English-language scholarly reference for Slipyj's eighteen years of Soviet imprisonment, his subsequent relations with Rome, his 1977 illicit consecrations, and his judgment that the Roman Curia was causing the Ukrainian Catholic Church more trouble than the Soviet authorities had. Cited in §10 Part VIII as the most authoritative English-language biographical source on Slipyj.
+- **Why it matters:** The English-language scholarly reference for Slipyj's eighteen years of Soviet imprisonment, his subsequent relations with Rome, his 1977 illicit consecrations, and his judgment that the Roman Curia was causing the Ukrainian Catholic Church more trouble than the Soviet authorities had.
+  Cited in §10 Part VIII as the most authoritative English-language biographical source on Slipyj.
 - **Where to find it:** Eerdmans; widely available secondhand; an Internet Archive scan is at https://archive.org/details/confessorbetween0000peli.
 
 ---
@@ -606,7 +654,8 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 - **Publisher:** The Catholic University of America Press, April 2026.
 - **Editors / Translators:** Andrew J. Summerson and Cyril Kennedy; foreword by Yury P. Avvakumov.
 - **What it is:** The first English translation of Cardinal Slipyj's memoirs (*Spomyny*) - Slipyj's own first-person account of his eighteen years in Soviet labor camps, his relations with Rome, his 1969 patriarchal petition, and his decision to consecrate three bishops in 1977 without papal mandate.
-- **Why it matters:** The primary source from Slipyj's own pen for the case the SSPX cites as the most direct analog to its 1988 and 2026 consecrations. Forthcoming entry; check CUA Press for release at https://www.cuapress.org.
+- **Why it matters:** The primary source from Slipyj's own pen for the case the SSPX cites as the most direct analog to its 1988 and 2026 consecrations.
+  Forthcoming entry; check CUA Press for release at https://www.cuapress.org.
 
 ---
 
@@ -643,8 +692,11 @@ The most contested documents of Vatican II. All available at Vatican.va in Engli
 ---
 
 ### SSPX - *The Episcopal Consecrations* podcast series (2026)
-- **What it is:** A nine-episode interview series produced by the SSPX in the weeks before the planned July 1, 2026 consecrations at Écône. Episode 1 features Fr. Robert Brucciani - the Society's current Bursar General - on the life of Archbishop Lefebvre from birth through the founding of the SSPX. Subsequent episodes treat the Council, the 1976 Mass at Lille, the suspension *a divinis*, the 1988 consecrations, and the 2026 decision to consecrate four new bishops.
-- **Why it matters:** The most authoritative recent SSPX presentation of the rationale for the 2026 consecrations, delivered by current Society leadership in extended unscripted form. Several episodes contain material - particularly Lefebvre's biographical formation, the institutional logic of the Society (the "complete Catholic ecosystem" articulation, the six statutory works), and the architectural reasons the SSPX bishops are auxiliary rather than territorial - that does not appear in the Society's written sources.
+- **What it is:** A nine-episode interview series produced by the SSPX in the weeks before the planned July 1, 2026 consecrations at Écône.
+  Episode 1 features Fr. Robert Brucciani - the Society's current Bursar General - on the life of Archbishop Lefebvre from birth through the founding of the SSPX.
+  Subsequent episodes treat the Council, the 1976 Mass at Lille, the suspension *a divinis*, the 1988 consecrations, and the 2026 decision to consecrate four new bishops.
+- **Why it matters:** The most authoritative recent SSPX presentation of the rationale for the 2026 consecrations, delivered by current Society leadership in extended unscripted form.
+  Several episodes contain material - particularly Lefebvre's biographical formation, the institutional logic of the Society (the "complete Catholic ecosystem" articulation, the six statutory works), and the architectural reasons the SSPX bishops are auxiliary rather than territorial - that does not appear in the Society's written sources.
 - **Where to find it:** SSPX podcast platforms; YouTube (search "SSPX Episcopal Consecrations" or "FSSPX podcast").
 
 ---

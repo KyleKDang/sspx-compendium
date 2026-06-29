@@ -7,9 +7,12 @@
 
 ## Opening Orientation
 
-The SSPX is not, in its self-understanding, a "movement" with novel positions. It claims to hold the positions of pre-conciliar Catholicism - the positions taught universally in Catholic seminaries, catechisms, and theology manuals from the Council of Trent through the pontificate of Pius XII (1939–1958), with substantial continuity going back to the patristic period. Their argument is that these positions are not "their" positions but simply Catholic positions, which they have continued to hold while large portions of the post-conciliar Church appear to have abandoned or modified them.
+The SSPX is not, in its self-understanding, a "movement" with novel positions.
+It claims to hold the positions of pre-conciliar Catholicism - the positions taught universally in Catholic seminaries, catechisms, and theology manuals from the Council of Trent through the pontificate of Pius XII (1939–1958), with substantial continuity going back to the patristic period.
+Their argument is that these positions are not "their" positions but simply Catholic positions, which they have continued to hold while large portions of the post-conciliar Church appear to have abandoned or modified them.
 
-This claim is important because it shapes what counts as evidence. The SSPX argues that any position taught by:
+This claim is important because it shapes what counts as evidence.
+The SSPX argues that any position taught by:
 
 - A solemn definition of a Council
 - A definition by a Pope speaking *ex cathedra*
@@ -18,9 +21,12 @@ This claim is important because it shapes what counts as evidence. The SSPX argu
 - The consistent teaching of the major scholastic theologians, especially St. Thomas Aquinas
 - The pre-conciliar Catechisms (Trent, Pius X, the Catechism of the Catholic Church when it confirms prior teaching)
 
-...is binding on Catholic belief and cannot be reversed by subsequent teaching, whether of a council or of a pope. This is the framework within which their doctrinal positions are developed.
+...is binding on Catholic belief and cannot be reversed by subsequent teaching, whether of a council or of a pope.
+This is the framework within which their doctrinal positions are developed.
 
-This section presents the major SSPX positions according to this framework. Where their position is also the position of the broader Catholic Tradition (which is most of the time), this is noted. Where their position is contested with respect to recent magisterial documents (which is on a smaller number of points), this too is noted.
+This section presents the major SSPX positions according to this framework.
+Where their position is also the position of the broader Catholic Tradition (which is most of the time), this is noted.
+Where their position is contested with respect to recent magisterial documents (which is on a smaller number of points), this too is noted.
 
 ---
 
@@ -34,7 +40,8 @@ The Holy Mass is:
 2. **Identical in essence** with the sacrifice of Christ on the Cross, differing only in the manner of offering (bloody on Calvary, unbloody on the altar).
 3. **Offered by the priest** acting *in persona Christi* - in the person of Christ - who is both the principal Offerer and the Victim offered.
 4. **Of intrinsic value** independent of the faithful present: a Mass said by a priest alone in his chapel offers to God the same sacrifice as a Mass said in a full cathedral.
-5. **Productive of grace ex opere operato** - by the very performance of the sacramental act, when no obstacle is placed by the recipient. Not merely a subjective experience but an objective channel of grace.
+5. **Productive of grace ex opere operato** - by the very performance of the sacramental act, when no obstacle is placed by the recipient.
+   Not merely a subjective experience but an objective channel of grace.
 
 ### Supporting Catholic Tradition
 
@@ -62,7 +69,10 @@ The Holy Mass is:
 
 ### How This Grounds Position on the Liturgy
 
-The SSPX's commitment to the Traditional Mass and its critique of the Novus Ordo flow directly from this doctrine of the Mass. If the Mass *is* what Trent defined - a true, proper, propitiatory, sacrificial offering by a priest acting *in persona Christi* - then the liturgy must express this clearly. The traditional Mass, with its explicit sacrificial Offertory, its emphasis on the priest as *sacerdos*, its orientation toward the altar, and its theological precision, expresses this doctrine fully. The new Mass, the SSPX argues, while valid, expresses it more ambiguously - and the ambiguity has produced, in practice, weakened Catholic Eucharistic faith. [→ §4 TLM vs Novus Ordo]
+The SSPX's commitment to the Traditional Mass and its critique of the Novus Ordo flow directly from this doctrine of the Mass.
+If the Mass *is* what Trent defined - a true, proper, propitiatory, sacrificial offering by a priest acting *in persona Christi* - then the liturgy must express this clearly.
+The traditional Mass, with its explicit sacrificial Offertory, its emphasis on the priest as *sacerdos*, its orientation toward the altar, and its theological precision, expresses this doctrine fully.
+The new Mass, the SSPX argues, while valid, expresses it more ambiguously - and the ambiguity has produced, in practice, weakened Catholic Eucharistic faith. [→ §4 TLM vs Novus Ordo]
 
 ---
 
@@ -106,7 +116,10 @@ The Catholic priest is:
 
 ### Why This Matters
 
-The SSPX argues that the post-conciliar period has seen a widespread weakening of the Catholic understanding of the priesthood. The priest is increasingly described as a "presider," a "community leader," a "facilitator" - categories that obscure his sacerdotal character. The crisis of priestly identity - manifested in widespread laicizations, declining vocations, and confusion about the priest's distinctive role - is, on the SSPX analysis, partly attributable to this loss of clarity. Recovery of the traditional understanding of the priesthood is, for the SSPX, essential to recovery of the Catholic faith generally.
+The SSPX argues that the post-conciliar period has seen a widespread weakening of the Catholic understanding of the priesthood.
+The priest is increasingly described as a "presider," a "community leader," a "facilitator" - categories that obscure his sacerdotal character.
+The crisis of priestly identity - manifested in widespread laicizations, declining vocations, and confusion about the priest's distinctive role - is, on the SSPX analysis, partly attributable to this loss of clarity.
+Recovery of the traditional understanding of the priesthood is, for the SSPX, essential to recovery of the Catholic faith generally.
 
 ---
 
@@ -122,7 +135,8 @@ Christ is:
 2. **The legitimate sovereign** to whom all human authority is ultimately accountable.
 3. **The standard** by which civil law must be measured: laws contrary to the divine law are not truly binding.
 4. **The proper foundation** of the social and political order - neither secular liberalism (which excludes Christ from public life) nor totalitarianism (which substitutes a false absolute for Christ) is acceptable.
-5. **Owed public worship** by societies as such - not merely by individuals privately. The Catholic state is the ideal political order; the secular state is, at best, a tolerated abnormality.
+5. **Owed public worship** by societies as such - not merely by individuals privately.
+   The Catholic state is the ideal political order; the secular state is, at best, a tolerated abnormality.
 
 ### Supporting Catholic Tradition
 
@@ -150,7 +164,8 @@ Christ is:
 
 > "The end of human society is to live according to virtue, and through living virtuously to attain to the enjoyment of God."
 
-Civil society, on the Thomistic view, has not merely a temporal end but an ultimate end ordered to God. The state therefore has duties not only to maintain natural justice but to facilitate, where possible, the supernatural end of its members.
+Civil society, on the Thomistic view, has not merely a temporal end but an ultimate end ordered to God.
+The state therefore has duties not only to maintain natural justice but to facilitate, where possible, the supernatural end of its members.
 
 ### Lefebvre on the Social Kingship
 
@@ -160,14 +175,16 @@ Marcel Lefebvre's *They Have Uncrowned Him* (1987) is the most extended modern t
 
 ### The Vatican II Tension
 
-This is where the SSPX's theology comes into the sharpest tension with Vatican II. The traditional doctrine of the Social Kingship - that civil society must publicly acknowledge Christ as King and the Catholic Church as the true Church - is in tension with *Dignitatis Humanae*'s framework of religious liberty as a natural right.
+This is where the SSPX's theology comes into the sharpest tension with Vatican II.
+The traditional doctrine of the Social Kingship - that civil society must publicly acknowledge Christ as King and the Catholic Church as the true Church - is in tension with *Dignitatis Humanae*'s framework of religious liberty as a natural right.
 
 The SSPX argues:
 - *Quas Primas* (1925) was a solemn act of the ordinary papal Magisterium, instituting a feast for the universal Church, articulating a binding doctrine on the Social Kingship of Christ.
 - *Dignitatis Humanae* (1965) was a Declaration - the lowest category of Council document - that appears to deny the practical implications of *Quas Primas*.
 - The doctrine of the Social Kingship cannot be reversed by a subsequent Declaration; *Quas Primas* takes precedence.
 
-The mainstream response has been to argue that the two documents address different questions - *Quas Primas* the absolute spiritual reign of Christ, *Dignitatis Humanae* the proper functioning of civil authority. The SSPX argues this distinction does not work: *Quas Primas* explicitly addresses civil authority and its obligations to Christ.
+The mainstream response has been to argue that the two documents address different questions - *Quas Primas* the absolute spiritual reign of Christ, *Dignitatis Humanae* the proper functioning of civil authority.
+The SSPX argues this distinction does not work: *Quas Primas* explicitly addresses civil authority and its obligations to Christ.
 
 This is the area of the most genuine and irresolvable doctrinal dispute. [→ §5 Vatican II]
 
@@ -179,8 +196,10 @@ This is the area of the most genuine and irresolvable doctrinal dispute. [→ §
 
 Religious liberty, properly understood:
 
-1. **Does not mean that all religions are equal.** Only the Catholic religion is true. Others, insofar as they differ from Catholicism, are false in their distinctive content.
-2. **Does not include a right to publicly profess and propagate false religion.** Error has no rights. Only persons have rights - and persons have the right to know the truth.
+1. **Does not mean that all religions are equal.** Only the Catholic religion is true.
+   Others, insofar as they differ from Catholicism, are false in their distinctive content.
+2. **Does not include a right to publicly profess and propagate false religion.** Error has no rights.
+   Only persons have rights - and persons have the right to know the truth.
 3. **Does include the right not to be physically coerced into Catholic faith.** Conversion must be free.
 4. **Permits, prudentially, civil tolerance of non-Catholic religions** in certain circumstances - particularly in religiously plural societies, to avoid greater evils.
 5. **Does not require neutrality of the state toward true and false religions.** The ideal political order is the Catholic state, which acknowledges Christ as King and the Catholic Church as the true Church.
@@ -215,13 +234,16 @@ From *They Have Uncrowned Him* (1987):
 
 The dispute over religious liberty turns on a precise distinction the SSPX insists upon and which they argue *Dignitatis Humanae* obscures:
 
-**Negative religious liberty** (immunity from coercion in religious matters) - accepted by Catholic Tradition. No one is to be physically coerced into faith.
+**Negative religious liberty** (immunity from coercion in religious matters) - accepted by Catholic Tradition.
+No one is to be physically coerced into faith.
 
 **Positive religious liberty** (a natural right to embrace and publicly profess any religion one chooses, regardless of its truth) - rejected by Catholic Tradition before Vatican II, taught (the SSPX argues) by *Dignitatis Humanae*.
 
-The mainstream Catholic position is that *Dignitatis Humanae* affirms only negative religious liberty, even where its language seems to extend to positive religious liberty. The SSPX position is that the document's language explicitly grants a "natural right" to public profession of religion, which is precisely positive religious liberty as the prior Magisterium condemned it.
+The mainstream Catholic position is that *Dignitatis Humanae* affirms only negative religious liberty, even where its language seems to extend to positive religious liberty.
+The SSPX position is that the document's language explicitly grants a "natural right" to public profession of religion, which is precisely positive religious liberty as the prior Magisterium condemned it.
 
-This dispute is not resolved by clever interpretation. It is the principal doctrinal locus of the SSPX-Rome disagreement. [→ §5 *Dignitatis Humanae* section]
+This dispute is not resolved by clever interpretation.
+It is the principal doctrinal locus of the SSPX-Rome disagreement. [→ §5 *Dignitatis Humanae* section]
 
 ---
 
@@ -232,7 +254,8 @@ This dispute is not resolved by clever interpretation. It is the principal doctr
 Catholic relations with non-Catholic Christians should be characterized by:
 
 1. **Charity and respect for persons.** Non-Catholic Christians are not enemies; they are often men and women of genuine good faith.
-2. **Clarity about doctrine.** The Catholic Church is the one true Church founded by Christ. Other Christian communities, however much truth they retain, are deficient insofar as they have departed from Catholic faith and order.
+2. **Clarity about doctrine.** The Catholic Church is the one true Church founded by Christ.
+   Other Christian communities, however much truth they retain, are deficient insofar as they have departed from Catholic faith and order.
 3. **The goal of reunion through conversion.** The proper Catholic hope for non-Catholic Christians is their return to the Catholic Church - through the recognition of Catholic truth, not through Catholic compromise.
 4. **Rejection of false irenicism.** Smoothing over real doctrinal differences in order to achieve apparent unity is not unity but indifferentism.
 5. **No participation in non-Catholic worship as worship.** Catholics may attend non-Catholic services for legitimate reasons (a friend's wedding, observation) but not as a form of common worship.
@@ -273,7 +296,8 @@ The SSPX rejects elements that they argue contradict *Mortalium Animos*:
 - The treatment of non-Catholic communities as means of salvation in their own right.
 - The practical effects: shared worship, common prayer services, the Joint Declaration on the Doctrine of Justification (1999), and other examples of doctrinal compromise.
 
-The 1986 and 2002 Assisi gatherings of religious leaders - convened by John Paul II - represent for the SSPX the practical culmination of post-conciliar ecumenism: a public display of religious figures from many traditions, each praying in his own manner, in close physical proximity to Catholic sacred spaces. Lefebvre identified Assisi as a turning point in his decision to consecrate bishops. [→ §2 Timeline]
+The 1986 and 2002 Assisi gatherings of religious leaders - convened by John Paul II - represent for the SSPX the practical culmination of post-conciliar ecumenism: a public display of religious figures from many traditions, each praying in his own manner, in close physical proximity to Catholic sacred spaces.
+Lefebvre identified Assisi as a turning point in his decision to consecrate bishops. [→ §2 Timeline]
 
 ---
 
@@ -289,13 +313,17 @@ The Catholic doctrine of the papacy holds that:
 2. **The pope is infallible** when he speaks *ex cathedra* - defining doctrines of faith or morals to be held by the universal Church - under the conditions specified by *Pastor Aeternus* (Vatican I, 1870).
 3. **The pope is owed religious submission of will and intellect** in his authoritative non-defined teaching.
 4. **The pope's authority is real but bounded.** He has no authority to teach contrary to defined doctrine, to abrogate definitive prior teaching, or to harm the faith.
-5. **The papal office must be accepted; the man holding it must be acknowledged as pope.** The SSPX is not sedevacantist. Francis was pope. Leo XIV is pope. The papacy is real and binding.
+5. **The papal office must be accepted; the man holding it must be acknowledged as pope.** The SSPX is not sedevacantist.
+   Francis was pope.
+   Leo XIV is pope.
+   The papacy is real and binding.
 
 ### What Distinguishes the SSPX Position
 
 The SSPX position can be summarized as: full acceptance of Catholic doctrine on the papacy, with a particular emphasis on the *limits* of papal authority that has become unusual in the post-conciliar period.
 
-The classical Catholic theologians - from Juan de Torquemada and Cajetan in the fifteenth and sixteenth centuries through Bellarmine and Suárez in the post-Tridentine era to the standard pre-conciliar dogmatic manuals of Ott and Van Noort in the twentieth century - are unanimous on this point. None of them ever claimed the pope could teach error in defined doctrine; all of them recognized that the pope's authority operates within Catholic Tradition and within the bounds set by the salvation of souls, not above them.
+The classical Catholic theologians - from Juan de Torquemada and Cajetan in the fifteenth and sixteenth centuries through Bellarmine and Suárez in the post-Tridentine era to the standard pre-conciliar dogmatic manuals of Ott and Van Noort in the twentieth century - are unanimous on this point.
+None of them ever claimed the pope could teach error in defined doctrine; all of them recognized that the pope's authority operates within Catholic Tradition and within the bounds set by the salvation of souls, not above them.
 
 **Cardinal Juan de Torquemada, OP, *Summa de Ecclesia*, Book II, Chapter 49 (1453):**
 
@@ -310,21 +338,29 @@ Torquemada - uncle of the more famous Spanish Inquisitor and one of the most aut
 
 > "Just as it is licit to resist a pontiff that attacks the body, it is also licit to resist one who attacks the soul or who disturbs the civil order or above all one who intends to destroy the church. I say it is licit to resist by not doing what he orders and by impeding the execution of what he wills. It is not licit, with everything, to judge him, impose a punishment, or depose him, for those actions are accorded to one superior to the pope."
 
-This passage from one of the most distinguished post-Tridentine theologians - a Doctor of the Church - is foundational to the SSPX's framework. Bellarmine is not authorizing schism; he is articulating the classical Catholic principle that obedience to the pope is bounded by obedience to Catholic Tradition. The trailing clause is essential to the SSPX's position: licit resistance to specific acts is one thing; *jurisdictional sentence* over the pope (judging, punishing, deposing) is another, and is reserved to "one superior to the pope" - that is, to God alone. Bellarmine's distinction is precisely the line that separates the SSPX's resistance posture from the sedevacantist conclusion. Where Tradition and a particular papal act conflict, the Tradition prevails in the act refused; but the office of the man refusing the act stands, and the office of the pope issuing it is not denied.
+This passage from one of the most distinguished post-Tridentine theologians - a Doctor of the Church - is foundational to the SSPX's framework.
+Bellarmine is not authorizing schism; he is articulating the classical Catholic principle that obedience to the pope is bounded by obedience to Catholic Tradition.
+The trailing clause is essential to the SSPX's position: licit resistance to specific acts is one thing; *jurisdictional sentence* over the pope (judging, punishing, deposing) is another, and is reserved to "one superior to the pope" - that is, to God alone.
+Bellarmine's distinction is precisely the line that separates the SSPX's resistance posture from the sedevacantist conclusion.
+Where Tradition and a particular papal act conflict, the Tradition prevails in the act refused; but the office of the man refusing the act stands, and the office of the pope issuing it is not denied.
 
 <!-- TODO (print-source): Cajetan's De Comparatione Auctoritatis Papae et Concilii (1511) is preserved chiefly in the 1936 Pollet critical edition (Romae, Apud Institutum Angelicum). The fuller passage below is the standard traditionalist English in circulation across OnePeterFive, sspx.org's "Question of Papal Heresy" series, FSSPX Asia, and Unam Sanctam Catholicam; verify the wording against the Pollet critical edition. -->
 **Cardinal Cajetan (Thomas de Vio, OP), *De Comparatione Auctoritatis Papae et Concilii* (1511):**
 
 > "You must resist therefore to his face a pope who is openly tearing the Church apart. For example, when he refuses to confer ecclesiastical benefices except for money or in exchange for an office, and possession of such benefices must be denied to those who bought them, with all reverence and obedience, and a case of simony — even committed by the pope — must be denounced. Without a doubt, secular princes and the clergy could properly take the sword from a madman's hand. There are also ways by which, without rebellion, the secular princes and the prelates of the Church, if they wish to use them, could offer resistance and impediment to abuse of power. Let them meet with fitting remedies the destructive abuse of power: by not obeying the wicked, not flattering, not being silent, by accusing, by arguing, etc."
 
-The reference is to Galatians 2:11–14, where St. Paul opposes St. Peter for behavior contrary to the truth of the Gospel - a New Testament instance of one apostle resisting another, including the first pope, when his conduct deviated from the truth. Cajetan's worked example (simony) is significant: he does not treat the resistance principle as a purely theoretical safeguard but as a practical duty, exercised "with all reverence and obedience," when the pope's actual conduct injures the common good of the Church.
+The reference is to Galatians 2:11–14, where St. Paul opposes St. Peter for behavior contrary to the truth of the Gospel - a New Testament instance of one apostle resisting another, including the first pope, when his conduct deviated from the truth.
+Cajetan's worked example (simony) is significant: he does not treat the resistance principle as a purely theoretical safeguard but as a practical duty, exercised "with all reverence and obedience," when the pope's actual conduct injures the common good of the Church.
 
 <!-- TODO (print-source): Verify against the Vivès Opera Omnia, Tome 12 (De Fide Theologica). The standard English rendering below is in wide circulation across traditionalist literature (OnePeterFive, Novus Ordo Watch, the SSPX "Question of Papal Heresy" series). The location is De Fide, Spe et Charitate, Disputation X, Section VI, n. 16 - Suárez's theological treatise on the virtue of faith, not the political-tract Defensio Fidei to which the passage has sometimes been incorrectly attributed. -->
-**Francisco Suárez, SJ, *De Fide, Spe et Charitate*, Disp. X, Sect. VI, n. 16 (early 17th c.):**
+**Francisco Suárez, SJ, *De Fide, Spe et Charitate*, Disp.
+X, Sect.
+VI, n. 16 (early 17th c.):**
 
 > "If the Pope lays down an order contrary to right customs, one does not have to obey him; if he tries to do something manifestly opposed to justice and to the common good, it would be licit to resist him; if he attacks by force, he could be repelled by force, with the moderation characteristic of a good defense."
 
-These three witnesses span the 15th, 16th, and early 17th centuries. The same teaching is preserved without alteration in the standard pre-conciliar Catholic dogmatic manuals - the immediate textbook formation of every bishop and priest at Vatican II.
+These three witnesses span the 15th, 16th, and early 17th centuries.
+The same teaching is preserved without alteration in the standard pre-conciliar Catholic dogmatic manuals - the immediate textbook formation of every bishop and priest at Vatican II.
 
 **Ludwig Ott, *Fundamentals of Catholic Dogma*, on the limits of papal jurisdiction:**
 
@@ -336,9 +372,13 @@ These three witnesses span the 15th, 16th, and early 17th centuries. The same te
 
 > "From the doctrine outlined above concerning the pope's jurisdiction, it should be clear that the jurisdiction of the supreme pontiff has no other limits than those laid down by divine law or which the nature and goal of the Church, a spiritual kingdom, imply… Finally, from the doctrine outlined above, one should not leap to the absurd conclusion that all things are licit to the pope, or that he may turn things topsy-turvy in the Church at mere whim. Possession of power is one thing; a rightful use of power quite another. The supreme pontiff has received his power for the sake of building up the Church, not tearing it down."
 
-These two 20th-century witnesses are decisive against the suggestion that the SSPX's position is a "rad-trad" novelty cooked up against the Council. Ott and Van Noort were the standard dogmatic textbooks of the immediate pre-conciliar Catholic seminary - the formation of every bishop who voted at Vatican II. They preserve, in 20th-century manualist form, the same teaching Torquemada, Bellarmine, Cajetan, and Suárez had developed across the preceding five centuries: papal power is real, supreme, and divinely instituted; its scope is set by divine law and by the purpose of the Church (the salvation of souls); the use of papal power for purposes contrary to that scope is what Van Noort calls *turning things topsy-turvy* - possession is not, of itself, rightful use.
+These two 20th-century witnesses are decisive against the suggestion that the SSPX's position is a "rad-trad" novelty cooked up against the Council.
+Ott and Van Noort were the standard dogmatic textbooks of the immediate pre-conciliar Catholic seminary - the formation of every bishop who voted at Vatican II.
+They preserve, in 20th-century manualist form, the same teaching Torquemada, Bellarmine, Cajetan, and Suárez had developed across the preceding five centuries: papal power is real, supreme, and divinely instituted; its scope is set by divine law and by the purpose of the Church (the salvation of souls); the use of papal power for purposes contrary to that scope is what Van Noort calls *turning things topsy-turvy* - possession is not, of itself, rightful use.
 
-These citations are essential for understanding the SSPX framework. The SSPX is not claiming a novel right to disobey the pope. They are invoking a classical Catholic principle - recognized by the most distinguished theologians of the perennial tradition - that papal authority operates within the bounds of Tradition and within the *suprema lex* of the salvation of souls (Canon 1752 of the 1983 Code) [→ §7 Canon Law].
+These citations are essential for understanding the SSPX framework.
+The SSPX is not claiming a novel right to disobey the pope.
+They are invoking a classical Catholic principle - recognized by the most distinguished theologians of the perennial tradition - that papal authority operates within the bounds of Tradition and within the *suprema lex* of the salvation of souls (Canon 1752 of the 1983 Code) [→ §7 Canon Law].
 
 ### The SSPX Argument Applied
 
@@ -348,15 +388,30 @@ The SSPX argues:
 2. The pope has no authority to teach religious liberty in ways contradicting prior definitive teaching.
 3. The pope has no authority to require Catholics to accept formulations that contradict the prior Magisterium.
 
-Therefore, when post-conciliar popes have done these things (in the SSPX analysis), Catholics are justified - even required - to resist these specific exercises of authority, while continuing to recognize the office and the man who holds it. This is the doctrine of "filial resistance" - the term Lefebvre and his successors use to describe their posture.
+Therefore, when post-conciliar popes have done these things (in the SSPX analysis), Catholics are justified - even required - to resist these specific exercises of authority, while continuing to recognize the office and the man who holds it.
+This is the doctrine of "filial resistance" - the term Lefebvre and his successors use to describe their posture.
 
 ### The Epistemic Precondition - Judgment vs. Rash Judgment
 
-Before the SSPX's substantive resistance argument can be assessed, a methodological objection has to be cleared away. Critics often say: "Who are you to judge the pope? Did not Christ say 'Judge not, that you be not judged' (Matt 7:1)?" The Fathers of the Church, on whom the perennial Catholic interpretation of this passage rests, distinguish two senses of *judgment*. The judgment Our Lord forbids is (a) *rash judgment* - judging without sufficient reason, or attributing motives where the evidence is insufficient - and (b) *judgment of the internal forum* - judging another's state of soul, his ultimate culpability, the secret movements of his will. These are reserved to God, and to lawful spiritual superiors within their proper scope. What Christ does *not* forbid - and what moral life positively requires - is the judgment of *objective public acts in matters of certainty*. A man who sees his brother enter into a second marriage while his first wife is still living, no annulment having been granted, is not in violation of "Judge not" when he tells his brother "what you are about to do is adultery." He is exercising the judgment a fraternal love is bound to make.
+Before the SSPX's substantive resistance argument can be assessed, a methodological objection has to be cleared away.
+Critics often say: "Who are you to judge the pope? Did not Christ say 'Judge not, that you be not judged' (Matt 7:1)?"
+The Fathers of the Church, on whom the perennial Catholic interpretation of this passage rests, distinguish two senses of *judgment*.
+The judgment Our Lord forbids is (a) *rash judgment* - judging without sufficient reason, or attributing motives where the evidence is insufficient - and (b) *judgment of the internal forum* - judging another's state of soul, his ultimate culpability, the secret movements of his will.
+These are reserved to God, and to lawful spiritual superiors within their proper scope.
+What Christ does *not* forbid - and what moral life positively requires - is the judgment of *objective public acts in matters of certainty*.
+A man who sees his brother enter into a second marriage while his first wife is still living, no annulment having been granted, is not in violation of "Judge not" when he tells his brother "what you are about to do is adultery."
+He is exercising the judgment a fraternal love is bound to make.
 
-Applied to the post-conciliar magisterium: the SSPX is not judging the pope's interior state, his subjective culpability, or his ultimate destiny. The Society judges objective public teachings - the Abu Dhabi 2019 declaration's wording on the diversity of religions, the conciliar treatment of religious liberty as a natural right, the *subsistit in* formulation read against *Mystici Corporis*'s *est* - in matters where the public Catholic teaching of prior centuries is itself certain and public. This kind of judgment is not the prohibited one. It is an act of the intellect without which one cannot remain a moral agent.
+Applied to the post-conciliar magisterium: the SSPX is not judging the pope's interior state, his subjective culpability, or his ultimate destiny.
+The Society judges objective public teachings - the Abu Dhabi 2019 declaration's wording on the diversity of religions, the conciliar treatment of religious liberty as a natural right, the *subsistit in* formulation read against *Mystici Corporis*'s *est* - in matters where the public Catholic teaching of prior centuries is itself certain and public.
+This kind of judgment is not the prohibited one.
+It is an act of the intellect without which one cannot remain a moral agent.
 
-A second precision belongs here. Canon law holds that the First See is judged by no one (*Prima sedes a nemine iudicatur*). This bears on judicial-jurisdictional judgment - no ecclesiastical court has competence over the pope. It does not bear on the simple intellectual recognition that a particular teaching does or does not match the prior definitive teaching of the Church, which any Catholic capable of reading both can perform. The SSPX's case rests on this distinction: it offers the recognition, not a jurisdictional sentence; the certain judgment, not the rash one.
+A second precision belongs here.
+Canon law holds that the First See is judged by no one (*Prima sedes a nemine iudicatur*).
+This bears on judicial-jurisdictional judgment - no ecclesiastical court has competence over the pope.
+It does not bear on the simple intellectual recognition that a particular teaching does or does not match the prior definitive teaching of the Church, which any Catholic capable of reading both can perform.
+The SSPX's case rests on this distinction: it offers the recognition, not a jurisdictional sentence; the certain judgment, not the rash one.
 
 ### What the SSPX is NOT Claiming
 
@@ -369,7 +424,10 @@ To prevent misunderstanding:
 
 What they claim is the right and duty to resist specific acts of papal authority that they judge to contradict prior definitive Catholic teaching - while remaining in communion with the pope as legitimate pope.
 
-Whether this position is theologically defensible is, of course, contested. The SSPX argues it is the classical Catholic position, articulated by Torquemada, Cajetan, Bellarmine, and Suárez, and preserved without alteration in the standard pre-conciliar dogmatic manuals of Ott and Van Noort. Their critics argue that the post-Vatican I conception of papal authority (after the definition of papal infallibility in 1870) leaves less room for such resistance than the SSPX claims. This is a genuine theological dispute, addressed in §10–§12.
+Whether this position is theologically defensible is, of course, contested.
+The SSPX argues it is the classical Catholic position, articulated by Torquemada, Cajetan, Bellarmine, and Suárez, and preserved without alteration in the standard pre-conciliar dogmatic manuals of Ott and Van Noort.
+Their critics argue that the post-Vatican I conception of papal authority (after the definition of papal infallibility in 1870) leaves less room for such resistance than the SSPX claims.
+This is a genuine theological dispute, addressed in §10–§12.
 
 ---
 
@@ -380,9 +438,11 @@ Whether this position is theologically defensible is, of course, contested. The 
 Sacred Tradition is:
 
 1. **The deposit of Revelation** transmitted by the apostles to the Church and handed on to subsequent generations through the liturgy, the Magisterium, the writings of the Fathers, and the consistent practice of the Christian people.
-2. **Co-equal with Sacred Scripture** as a source of divine Revelation, not subordinate to it. The two together constitute the one Word of God.
+2. **Co-equal with Sacred Scripture** as a source of divine Revelation, not subordinate to it.
+   The two together constitute the one Word of God.
 3. **Unchangeable in substance, though developing in expression.** Tradition can be more deeply understood, more clearly articulated, more fully applied - but it cannot contradict itself.
-4. **The standard against which novelty is measured.** A teaching that cannot be shown to be contained in or developed from prior Tradition is suspect. A teaching that contradicts prior definitive Tradition is rejected.
+4. **The standard against which novelty is measured.** A teaching that cannot be shown to be contained in or developed from prior Tradition is suspect.
+   A teaching that contradicts prior definitive Tradition is rejected.
 5. **Living, but not malleable.** "Living Tradition" properly means a Tradition that continues to be received, lived, and proclaimed - not a Tradition that can change its content in response to contemporary pressures.
 
 ### Supporting Catholic Tradition
@@ -399,7 +459,8 @@ Sacred Tradition is:
 
 > "In the Catholic Church itself, all possible care must be taken, that we hold that faith which has been believed *everywhere, always, and by all*."
 
-This is the famous "Vincentian Canon": *quod ubique, quod semper, quod ab omnibus creditum est*. A teaching is authentically Catholic when it has been believed:
+This is the famous "Vincentian Canon": *quod ubique, quod semper, quod ab omnibus creditum est*.
+A teaching is authentically Catholic when it has been believed:
 - *Everywhere* - universally throughout the Catholic Church.
 - *Always* - continuously from the apostolic age.
 - *By all* - by the consensus of Catholic believers.
@@ -418,9 +479,12 @@ The SSPX accepts *Dei Verbum* (Vatican II's Constitution on Divine Revelation), 
 
 > "The Tradition that comes from the Apostles develops in the Church with the help of the Holy Spirit. For there is a growth in the understanding of the realities and the words which have been handed down. This happens through the contemplation and study made by believers... through the intimate understanding of spiritual things they experience, and through the preaching of those who have received through episcopal succession the sure gift of truth."
 
-The SSPX accepts this passage in its plain sense: Tradition develops through deeper understanding and richer application. They reject readings of "development" that would permit Tradition to contradict itself.
+The SSPX accepts this passage in its plain sense: Tradition develops through deeper understanding and richer application.
+They reject readings of "development" that would permit Tradition to contradict itself.
 
-The framing in *Ecclesia Dei* (1988) - that the SSPX has "an incomplete and contradictory notion of Tradition" - is, on the SSPX's reading, exactly backward. They argue that they hold the complete and traditional notion of Tradition: living in its transmission, identical in its content. The notion that "living Tradition" can include genuine contradiction of prior definitive teaching is, for the SSPX, the modernist corruption of the term against which they are resisting.
+The framing in *Ecclesia Dei* (1988) - that the SSPX has "an incomplete and contradictory notion of Tradition" - is, on the SSPX's reading, exactly backward.
+They argue that they hold the complete and traditional notion of Tradition: living in its transmission, identical in its content.
+The notion that "living Tradition" can include genuine contradiction of prior definitive teaching is, for the SSPX, the modernist corruption of the term against which they are resisting.
 
 ---
 
@@ -442,7 +506,8 @@ The Catholic Church is:
 
 > "The Holy Roman Church firmly believes, professes and preaches that none of those existing outside the Catholic Church, not only pagans but also Jews and heretics and schismatics, can have eternal life, but will go into the eternal fire which was prepared for the devil and his angels, unless before death they are joined with Her; and that the unity of the ecclesiastical body is so strong that only to those remaining in it are the sacraments of the Church of benefit for salvation, and do fastings, almsgiving, and other functions of piety and exercises of Christian service produce eternal reward, and that no one, whatever almsgiving he has practised, even if he has shed blood for the name of Christ, can be saved, unless he has remained in the bosom and unity of the Catholic Church."
 
-This is a definitive statement of *Extra Ecclesiam nulla salus*. It is also one of the most demanding texts in the Catholic tradition, and one that requires careful interpretation in light of later developments.
+This is a definitive statement of *Extra Ecclesiam nulla salus*.
+It is also one of the most demanding texts in the Catholic tradition, and one that requires careful interpretation in light of later developments.
 
 **Pope Pius IX, *Quanto Conficiamur Moerore* (1863)** - the standard pre-conciliar treatment of the question of those outside the visible Church:
 
@@ -459,9 +524,13 @@ The Catholic teaching is thus nuanced:
 
 ### The Tension with Vatican II
 
-The SSPX accepts the substance of *Lumen Gentium* - that the Catholic Church is the Church of Christ. They contest the *subsistit in* formulation (§8) where it appears to open the door to a multi-Church framework. They contest aspects of *Unitatis Redintegratio* and *Nostra Aetate* where they appear to suggest non-Catholic communities and even non-Christian religions are themselves means of salvation, rather than channels through which those invincibly ignorant might be saved by their implicit ordering to the Catholic Church.
+The SSPX accepts the substance of *Lumen Gentium* - that the Catholic Church is the Church of Christ.
+They contest the *subsistit in* formulation (§8) where it appears to open the door to a multi-Church framework.
+They contest aspects of *Unitatis Redintegratio* and *Nostra Aetate* where they appear to suggest non-Catholic communities and even non-Christian religions are themselves means of salvation, rather than channels through which those invincibly ignorant might be saved by their implicit ordering to the Catholic Church.
 
-The 2007 CDF document *Responses to Some Questions Regarding Certain Aspects of the Doctrine on the Church* clarified that "subsists in" means the Catholic Church *is* the Church of Christ. This substantially addresses the textual concern about *Lumen Gentium* §8. The broader concern about post-conciliar ecclesiological practice - whether the Church actually operates with the conviction that she is *the* Church or merely one among many - remains.
+The 2007 CDF document *Responses to Some Questions Regarding Certain Aspects of the Doctrine on the Church* clarified that "subsists in" means the Catholic Church *is* the Church of Christ.
+This substantially addresses the textual concern about *Lumen Gentium* §8.
+The broader concern about post-conciliar ecclesiological practice - whether the Church actually operates with the conviction that she is *the* Church or merely one among many - remains.
 
 ---
 
@@ -495,7 +564,8 @@ Pius X concluded:
 
 ### The SSPX Application
 
-The SSPX argues that Modernism, condemned by Pius X but never extirpated, regrouped during the pontificate of Pius XII (where it was held in check), and then emerged with full force at and after Vatican II. The post-conciliar period, on the SSPX analysis, has been the gradual implementation of essentially Modernist principles within the Catholic Church.
+The SSPX argues that Modernism, condemned by Pius X but never extirpated, regrouped during the pontificate of Pius XII (where it was held in check), and then emerged with full force at and after Vatican II.
+The post-conciliar period, on the SSPX analysis, has been the gradual implementation of essentially Modernist principles within the Catholic Church.
 
 Specific applications:
 - The treatment of dogma as historically conditioned (e.g., new interpretations of religious liberty that contradict prior teaching).
@@ -503,13 +573,19 @@ Specific applications:
 - The privileging of religious experience over doctrinal precision (in liturgy, catechesis, and pastoral practice).
 - The treatment of non-Catholic religions as partial vehicles of religious experience equivalent to Catholicism (in ecumenical and interreligious practice).
 
-The SSPX's argument is that these patterns, while not always identical to early 20th-century Modernism, are recognizably continuous with it. The Society's commitment to pre-conciliar Catholicism is therefore, in their self-understanding, a resistance to Modernism in its current form.
+The SSPX's argument is that these patterns, while not always identical to early 20th-century Modernism, are recognizably continuous with it.
+The Society's commitment to pre-conciliar Catholicism is therefore, in their self-understanding, a resistance to Modernism in its current form.
 
 ### Why This Frames the SSPX Self-Understanding
 
-To understand the SSPX, one must understand that they see themselves not as an aberration but as the resistance to an aberration. The "crisis of the Church" - Lefebvre's standard term for the post-conciliar situation - is, on their view, a Modernist crisis: the Modernism Pius X condemned has triumphed in many institutional areas. The SSPX exists to preserve, against this triumph, the Catholic faith in its integrity.
+To understand the SSPX, one must understand that they see themselves not as an aberration but as the resistance to an aberration.
+The "crisis of the Church" - Lefebvre's standard term for the post-conciliar situation - is, on their view, a Modernist crisis: the Modernism Pius X condemned has triumphed in many institutional areas.
+The SSPX exists to preserve, against this triumph, the Catholic faith in its integrity.
 
-This self-understanding does not require the SSPX to be right about every detail of their analysis. It requires only that there be substantive continuity between current trends and what Pius X identified as Modernism. Whether such continuity exists is a question of theological and historical judgment. What is undeniable is that the SSPX's self-understanding is shaped by reference to a real historical event - Pius X's condemnation of Modernism - and a real magisterial document, *Pascendi Dominici Gregis*, that has never been repudiated.
+This self-understanding does not require the SSPX to be right about every detail of their analysis.
+It requires only that there be substantive continuity between current trends and what Pius X identified as Modernism.
+Whether such continuity exists is a question of theological and historical judgment.
+What is undeniable is that the SSPX's self-understanding is shaped by reference to a real historical event - Pius X's condemnation of Modernism - and a real magisterial document, *Pascendi Dominici Gregis*, that has never been repudiated.
 
 ---
 
@@ -517,10 +593,13 @@ This self-understanding does not require the SSPX to be right about every detail
 
 ### The SSPX Position
 
-The Catholic Church since Vatican II has been in a state of grave crisis. This crisis is characterized by:
+The Catholic Church since Vatican II has been in a state of grave crisis.
+This crisis is characterized by:
 
 1. **A collapse in Catholic belief.** Polls consistently show majorities of self-identified Catholics rejecting fundamental Catholic doctrines (the Real Presence, the sinfulness of contraception, the necessity of sacramental confession, etc.).
-2. **A collapse in Catholic practice.** Mass attendance has declined dramatically. Vocations to the priesthood and religious life have collapsed. Sacramental practice (confession especially) has nearly disappeared in many places.
+2. **A collapse in Catholic practice.** Mass attendance has declined dramatically.
+   Vocations to the priesthood and religious life have collapsed.
+   Sacramental practice (confession especially) has nearly disappeared in many places.
 3. **A collapse in catechesis.** Generations of Catholics have been formed by catechetical materials that often present the faith poorly, ambiguously, or incorrectly.
 4. **A collapse in moral teaching.** Acceptance of contraception, divorce, sexual immorality, and abortion within self-identified Catholic populations approaches the levels of the general culture.
 5. **A widespread loss of Catholic identity.** Catholics increasingly understand themselves as "a religion among others" rather than as members of the one true Church.
@@ -536,7 +615,8 @@ The SSPX argues that this crisis is not coincidental with the Council and its af
 - The post-conciliar emphasis on dialogue with the modern world produced a Church increasingly accommodated to modernity rather than challenging it.
 - The collapse of catechetical clarity reflected and reinforced the doctrinal ambiguities of the Council documents.
 
-The SSPX is careful to note: they do not claim that everything good in the Church has disappeared, or that the Council caused the crisis simpliciter. They claim that the Council's ambiguities - exploited by Modernist tendencies - produced the conditions in which the crisis could deepen.
+The SSPX is careful to note: they do not claim that everything good in the Church has disappeared, or that the Council caused the crisis simpliciter.
+They claim that the Council's ambiguities - exploited by Modernist tendencies - produced the conditions in which the crisis could deepen.
 
 ### Supporting Catholic Acknowledgment
 
@@ -557,30 +637,52 @@ The crisis is acknowledged at the highest levels of the Church, even by figures 
 
 ### The Lefebvrian Conclusion
 
-The SSPX argues: if the crisis is real, and if it is connected to the Council's ambiguities and post-conciliar implementation, then the response cannot be merely to wait passively. The crisis requires active resistance to its causes - including the preservation of the traditional Mass, the traditional formation of priests, the traditional doctrinal positions. This is the SSPX's *raison d'être*: to be a place where the Catholic faith, in its pre-conciliar integrity, continues to be lived and transmitted while the broader Church works through its crisis.
+The SSPX argues: if the crisis is real, and if it is connected to the Council's ambiguities and post-conciliar implementation, then the response cannot be merely to wait passively.
+The crisis requires active resistance to its causes - including the preservation of the traditional Mass, the traditional formation of priests, the traditional doctrinal positions.
+This is the SSPX's *raison d'être*: to be a place where the Catholic faith, in its pre-conciliar integrity, continues to be lived and transmitted while the broader Church works through its crisis.
 
-Whether this self-understanding justifies the SSPX's institutional irregularity is the question of §10–§12. What is clear from this section is that the SSPX is not engaged in private innovation. Every position above is grounded in identifiable Catholic sources, taught by recognized Catholic authorities, and held in continuity with pre-conciliar Catholic teaching. Whether these positions can be reconciled with post-conciliar magisterium is the dispute; that they constitute a coherent expression of Catholic doctrine is not seriously disputable.
+Whether this self-understanding justifies the SSPX's institutional irregularity is the question of §10–§12.
+What is clear from this section is that the SSPX is not engaged in private innovation.
+Every position above is grounded in identifiable Catholic sources, taught by recognized Catholic authorities, and held in continuity with pre-conciliar Catholic teaching.
+Whether these positions can be reconciled with post-conciliar magisterium is the dispute; that they constitute a coherent expression of Catholic doctrine is not seriously disputable.
 
 ---
 
 ## A Synthesis: The SSPX Doctrinal System
 
-The ten positions above form a coherent doctrinal system. Their interconnections:
+The ten positions above form a coherent doctrinal system.
+Their interconnections:
 
-- **The Mass** (Position 1) and **the Priesthood** (Position 2) are mutually defining. The Mass is sacrifice; the priest is the offerer of sacrifice. Together they constitute the sacramental life of the Church.
-- **The Social Kingship of Christ** (Position 3) and the rejection of false **religious liberty** (Position 4) are two sides of the same coin. Christ reigns over individuals and societies; civil order properly acknowledges this.
-- **Ecumenism** (Position 5) and **the Church** (Position 8) flow from the Catholic claim to be the one true Church. Properly ordered ecumenism is the call of non-Catholics to enter the Church, not Catholic compromise with non-Catholic positions.
-- **The papacy** (Position 6) and **Tradition** (Position 7) are mutually supporting. The pope's authority operates within Tradition; Tradition is preserved through the papal office acting in continuity with prior teaching.
-- **Modernism** (Position 9) names the system that opposes this entire Catholic synthesis. The SSPX's positions, taken together, are precisely the doctrines Modernism would dissolve.
+- **The Mass** (Position 1) and **the Priesthood** (Position 2) are mutually defining.
+  The Mass is sacrifice; the priest is the offerer of sacrifice.
+  Together they constitute the sacramental life of the Church.
+- **The Social Kingship of Christ** (Position 3) and the rejection of false **religious liberty** (Position 4) are two sides of the same coin.
+  Christ reigns over individuals and societies; civil order properly acknowledges this.
+- **Ecumenism** (Position 5) and **the Church** (Position 8) flow from the Catholic claim to be the one true Church.
+  Properly ordered ecumenism is the call of non-Catholics to enter the Church, not Catholic compromise with non-Catholic positions.
+- **The papacy** (Position 6) and **Tradition** (Position 7) are mutually supporting.
+  The pope's authority operates within Tradition; Tradition is preserved through the papal office acting in continuity with prior teaching.
+- **Modernism** (Position 9) names the system that opposes this entire Catholic synthesis.
+  The SSPX's positions, taken together, are precisely the doctrines Modernism would dissolve.
 - **The crisis** (Position 10) is the historical situation requiring the SSPX's response - a situation produced, in their analysis, by the Modernist dissolution of Catholic doctrine within the post-conciliar Church.
 
 ### A Final Observation
 
-The SSPX is sometimes characterized as a movement of nostalgic Latinists who prefer Gregorian chant. This is a serious misreading. The Society is a doctrinal community holding identifiable positions for identifiable reasons. Their commitment to the Traditional Mass is not aesthetic but theological - it expresses the doctrine of the Mass they hold. Their criticism of post-conciliar developments is not pastoral but doctrinal - they argue that specific teachings contradict prior definitive teaching.
+The SSPX is sometimes characterized as a movement of nostalgic Latinists who prefer Gregorian chant.
+This is a serious misreading.
+The Society is a doctrinal community holding identifiable positions for identifiable reasons.
+Their commitment to the Traditional Mass is not aesthetic but theological - it expresses the doctrine of the Mass they hold.
+Their criticism of post-conciliar developments is not pastoral but doctrinal - they argue that specific teachings contradict prior definitive teaching.
 
-To engage the SSPX seriously requires engaging the positions outlined in this section seriously - not as preferences to be tolerated or rejected, but as theological claims with theological evidence. Some of these claims are clearly Catholic (the Mass, the priesthood, the unity of the Church). Some are at the heart of the contemporary doctrinal dispute (religious liberty, ecumenism, the Social Kingship). Some are matters of historical and prudential judgment (Modernism, the diagnosis of the crisis).
+To engage the SSPX seriously requires engaging the positions outlined in this section seriously - not as preferences to be tolerated or rejected, but as theological claims with theological evidence.
+Some of these claims are clearly Catholic (the Mass, the priesthood, the unity of the Church).
+Some are at the heart of the contemporary doctrinal dispute (religious liberty, ecumenism, the Social Kingship).
+Some are matters of historical and prudential judgment (Modernism, the diagnosis of the crisis).
 
-What unites them is that none of them are arbitrary. They are derived, argued, and supported. Whether they are fully correct is a question for §10–§12. That they constitute a serious Catholic theological position is not seriously disputable.
+What unites them is that none of them are arbitrary.
+They are derived, argued, and supported.
+Whether they are fully correct is a question for §10–§12.
+That they constitute a serious Catholic theological position is not seriously disputable.
 
 ---
 

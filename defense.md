@@ -1,237 +1,671 @@
 # The Case for the Society of Saint Pius X
 
-The Society of Saint Pius X is the largest community of traditional Catholic priests in the world. Archbishop Marcel Lefebvre founded it in 1970 to form priests and to keep the Roman Mass, the sacraments, and Catholic doctrine as they stood before the Second Vatican Council. Today it has more than 730 priests, five seminaries, and nearly eight hundred Mass centers around the world. For more than fifty years it has carried on this work outside the ordinary structures of the Church, in a dispute with Rome that has never been resolved.
+The Society of Saint Pius X is the largest community of traditional Catholic priests in the world.
+Archbishop Marcel Lefebvre founded it in 1970 to form priests and to keep the Roman Mass, the sacraments, and Catholic doctrine as they stood before the Second Vatican Council.
+Today it has more than 730 priests, five seminaries, and nearly eight hundred Mass centers around the world.
+For more than fifty years it has carried on this work outside the ordinary structures of the Church, in a dispute with Rome that has never been resolved.
 
-The matters in dispute are specific: the validity of the Society's sacraments, its position under canon law, the nature of its resistance to certain papal decisions, and the merit of its objections to the Second Vatican Council. This essay takes up each. On every one the case for the Society is strong, and the conclusion is straightforward. The SSPX is not in schism and not in revolt against the pope. It is a Catholic body that kept the faith and the Mass intact through a grave crisis in the Church, and it was right to do so.
+The matters in dispute are specific: the validity of the Society's sacraments, its position under canon law, the nature of its resistance to certain papal decisions, and the merit of its objections to the Second Vatican Council.
+This essay takes up each.
+On every one the case for the Society is strong, and the conclusion is straightforward.
+The SSPX is not in schism and not in revolt against the pope.
+It is a Catholic body that kept the faith and the Mass intact through a grave crisis in the Church, and it was right to do so.
 
 ## A precedent from the Church's own history
 
 The Society's defenders appeal to the Arian crisis of the fourth century, and the parallel is exact enough to be worth setting out first.
 
-After the Council of Nicaea defined the divinity of Christ in 325, the Arian heresy that denied it was not defeated. For several decades it spread through the hierarchy, until most of the world's bishops had either accepted it or signed compromise formulas to keep the peace. St. Jerome summarized those years in one sentence: "The whole world groaned, and was astonished to find itself Arian." St. Athanasius of Alexandria held to the Nicene faith and was driven from his diocese repeatedly for it. Around the year 357, Pope Liberius, worn down by imperial pressure and exile, subscribed to an ambiguous formula that fell short of the Nicene faith and agreed to the condemnation of Athanasius. The ancient testimony for that failure comes from Athanasius and Jerome themselves, the two men history vindicated.
+After the Council of Nicaea defined the divinity of Christ in 325, the Arian heresy that denied it was not defeated.
+For several decades it spread through the hierarchy, until most of the world's bishops had either accepted it or signed compromise formulas to keep the peace.
+St. Jerome summarized those years in one sentence: "The whole world groaned, and was astonished to find itself Arian."
+St. Athanasius of Alexandria held to the Nicene faith and was driven from his diocese repeatedly for it.
+Around the year 357, Pope Liberius, worn down by imperial pressure and exile, subscribed to an ambiguous formula that fell short of the Nicene faith and agreed to the condemnation of Athanasius.
+The ancient testimony for that failure comes from Athanasius and Jerome themselves, the two men history vindicated.
 
-Athanasius did not conclude that Liberius had ceased to be pope, and he did not start a separate church. He held the faith, refused the formulas, and outlasted the crisis. He is a canonized saint and a Doctor of the Church. The bishops who went along with the heresy to keep the peace are remembered, when they are remembered at all, as a warning.
+Athanasius did not conclude that Liberius had ceased to be pope, and he did not start a separate church.
+He held the faith, refused the formulas, and outlasted the crisis.
+He is a canonized saint and a Doctor of the Church.
+The bishops who went along with the heresy to keep the peace are remembered, when they are remembered at all, as a warning.
 
-Catholic theologians have always answered that Liberius never defined heresy. His failure was a personal act under coercion, not a solemn use of the teaching office, which is why it leaves papal infallibility intact. That distinction is the point. The Church's own history establishes three things the rest of this essay relies on. A validly reigning pope can fail gravely under pressure without ceasing to be pope. A Catholic can be condemned by churchmen, including a pope acting wrongly, and still be the one holding the faith. And resisting such a failure is not leaving the Church. It is what keeps the faith alive until the crisis passes.
+Catholic theologians have always answered that Liberius never defined heresy.
+His failure was a personal act under coercion, not a solemn use of the teaching office, which is why it leaves papal infallibility intact.
+That distinction is the point.
+The Church's own history establishes three things the rest of this essay relies on.
+A validly reigning pope can fail gravely under pressure without ceasing to be pope.
+A Catholic can be condemned by churchmen, including a pope acting wrongly, and still be the one holding the faith.
+And resisting such a failure is not leaving the Church.
+It is what keeps the faith alive until the crisis passes.
 
-John Henry Newman, who studied the Arian period all his life, drew the lesson in terms the Society could adopt without changing a word. In 1859 he wrote that during those decades "the body of Bishops failed in their confession of the faith," and that "there was a temporary suspense of the functions of the 'Ecclesia docens,'" the teaching Church; the tradition, he argued, was preserved in that interval more faithfully by the believing people than by their bishops. When he reprinted the essay he was careful to add that he meant no failure of the Church's infallibility, only that between Nicaea in 325 and Constantinople in 381 no authoritative voice settled the question while the storm ran its course. The qualification concedes nothing the Society needs. That is the Society's own claim about the present crisis: not that the Church has lost her authority, but that there are periods when the defense of the faith falls, for a time, to those without the ordinary mandate to lead it.
+John Henry Newman, who studied the Arian period all his life, drew the lesson in terms the Society could adopt without changing a word.
+In 1859 he wrote that during those decades "the body of Bishops failed in their confession of the faith," and that "there was a temporary suspense of the functions of the 'Ecclesia docens,'" the teaching Church; the tradition, he argued, was preserved in that interval more faithfully by the believing people than by their bishops.
+When he reprinted the essay he was careful to add that he meant no failure of the Church's infallibility, only that between Nicaea in 325 and Constantinople in 381 no authoritative voice settled the question while the storm ran its course.
+The qualification concedes nothing the Society needs.
+That is the Society's own claim about the present crisis: not that the Church has lost her authority, but that there are periods when the defense of the faith falls, for a time, to those without the ordinary mandate to lead it.
 
-This is the ground the SSPX stands on, and it is solid ground. Lefebvre returned to the example of Athanasius throughout his life, and the Society draws the parallel openly. The objection that the SSPX cannot compare itself to a canonized saint misses how the comparison works. The point is not the personal sanctity of anyone involved. The point is structural. The Church has been through this before, and when it happened, fidelity looked very much like what the SSPX is doing now.
+This is the ground the SSPX stands on, and it is solid ground.
+Lefebvre returned to the example of Athanasius throughout his life, and the Society draws the parallel openly.
+The objection that the SSPX cannot compare itself to a canonized saint misses how the comparison works.
+The point is not the personal sanctity of anyone involved.
+The point is structural.
+The Church has been through this before, and when it happened, fidelity looked very much like what the SSPX is doing now.
 
 ## A precedent closer to our own time
 
-The Arian parallel is the deepest one. There is also a more recent one, and it bears on the canonical question directly.
+The Arian parallel is the deepest one.
+There is also a more recent one, and it bears on the canonical question directly.
 
-In December 1939, Metropolitan Andrey Sheptytsky, head of the Ukrainian Greek Catholic Church, secretly consecrated Josyf Slipyj to succeed him; the secrecy was aimed at the Soviets, not at Rome. In 1945 the Soviets arrested Slipyj and sent him to the gulag, where he remained for eighteen years. Released in 1963 through the joint intercession of John XXIII and President Kennedy, he reached Rome that February, and Paul VI made him the first Major Archbishop of Lviv at the end of that year. By the mid-1970s Slipyj judged that the Ukrainian Greek Catholic Church, hunted to the edge of extinction under successive Soviet regimes, was in danger of losing its episcopate entirely. He had asked Rome for years to consecrate successors. Paul VI would not permit it, because doing so would damage *Ostpolitik*, the Vatican's policy of diplomatic accommodation with the communist East.
+In December 1939, Metropolitan Andrey Sheptytsky, head of the Ukrainian Greek Catholic Church, secretly consecrated Josyf Slipyj to succeed him; the secrecy was aimed at the Soviets, not at Rome.
+In 1945 the Soviets arrested Slipyj and sent him to the gulag, where he remained for eighteen years.
+Released in 1963 through the joint intercession of John XXIII and President Kennedy, he reached Rome that February, and Paul VI made him the first Major Archbishop of Lviv at the end of that year.
+By the mid-1970s Slipyj judged that the Ukrainian Greek Catholic Church, hunted to the edge of extinction under successive Soviet regimes, was in danger of losing its episcopate entirely.
+He had asked Rome for years to consecrate successors.
+Paul VI would not permit it, because doing so would damage *Ostpolitik*, the Vatican's policy of diplomatic accommodation with the communist East.
 
-On April 2, 1977, in Studite monastery chapels near Rome (the consecrations of Husar and Choma at Castel Gandolfo, that of Czmil at Marino), Slipyj consecrated three bishops without papal mandate, knowing the pope would not allow it: Lubomyr Husar, Ivan Choma, and Stefan Czmil. He did it for the reason Lefebvre would consecrate eleven years later, and would have recognized at once: to keep a hunted episcopal line from dying with him.
+On April 2, 1977, in Studite monastery chapels near Rome (the consecrations of Husar and Choma at Castel Gandolfo, that of Czmil at Marino), Slipyj consecrated three bishops without papal mandate, knowing the pope would not allow it: Lubomyr Husar, Ivan Choma, and Stefan Czmil.
+He did it for the reason Lefebvre would consecrate eleven years later, and would have recognized at once: to keep a hunted episcopal line from dying with him.
 
-Rome's response is the relevant fact. There was no excommunication, no public denunciation, no penal decree of any kind; Rome simply withheld recognition of the consecrations and said nothing. Slipyj died in 1984 a cardinal in good standing. In 1996, John Paul II formally recognized Husar's episcopal ordination and gave him a titular see. In January 2001 the Ukrainian synod elected Husar Major Archbishop of Lviv, John Paul II confirmed the election the next day, and weeks later the same pope created him a cardinal. Slipyj's own cause for canonization is open.
+Rome's response is the relevant fact.
+There was no excommunication, no public denunciation, no penal decree of any kind; Rome simply withheld recognition of the consecrations and said nothing.
+Slipyj died in 1984 a cardinal in good standing.
+In 1996, John Paul II formally recognized Husar's episcopal ordination and gave him a titular see.
+In January 2001 the Ukrainian synod elected Husar Major Archbishop of Lviv, John Paul II confirmed the election the next day, and weeks later the same pope created him a cardinal.
+Slipyj's own cause for canonization is open.
 
-The two cases share their load-bearing features. Both bishops acted from grave necessity to preserve an episcopal line. Both consecrated against the wishes of the reigning pope. Neither claimed jurisdiction for the new bishops. Neither set up a rival hierarchy. Both submitted the act, and themselves, to the judgment of God and of history. Rome's later treatment of Slipyj's successors says clearly that his consecrations were not schism. On the same principles, neither were Lefebvre's in 1988, nor will be the four consecrations announced for 2026.
+The two cases share their load-bearing features.
+Both bishops acted from grave necessity to preserve an episcopal line.
+Both consecrated against the wishes of the reigning pope.
+Neither claimed jurisdiction for the new bishops.
+Neither set up a rival hierarchy.
+Both submitted the act, and themselves, to the judgment of God and of history.
+Rome's later treatment of Slipyj's successors says clearly that his consecrations were not schism.
+On the same principles, neither were Lefebvre's in 1988, nor will be the four consecrations announced for 2026.
 
 ## The crisis the Society answered
 
-Every part of the Society's case rests on one claim: that the Catholic Church fell into a severe crisis after the Second Vatican Council (1962 to 1965). That claim is not an opinion. It is measurable, and the measurements are not in serious dispute.
+Every part of the Society's case rests on one claim: that the Catholic Church fell into a severe crisis after the Second Vatican Council (1962 to 1965).
+That claim is not an opinion.
+It is measurable, and the measurements are not in serious dispute.
 
-In the United States, Gallup found about 75 percent of Catholics attending church in any given week in 1955. By the middle of the 2010s the same Gallup measure averaged 39 percent, and Georgetown's CARA, which tracks the figure for the American Church, put weekly Mass attendance at about 24 percent on the eve of the pandemic and under 20 percent since. The number of priests fell from about 59,400 in 1965 to about 33,500 today, and the priests who remain are mostly old. Women in religious life fell from 178,740 in 1965 to about 33,000 (CARA), a collapse of more than four in five. In 2019 the Pew Research Center found that only 31 percent of self-identified Catholics believed that the bread and wine of the Eucharist become the Body and Blood of Christ. More than two-thirds of Catholics no longer believe the central thing the Mass exists to do.
+In the United States, Gallup found about 75 percent of Catholics attending church in any given week in 1955.
+By the middle of the 2010s the same Gallup measure averaged 39 percent, and Georgetown's CARA, which tracks the figure for the American Church, put weekly Mass attendance at about 24 percent on the eve of the pandemic and under 20 percent since.
+The number of priests fell from about 59,400 in 1965 to about 33,500 today, and the priests who remain are mostly old.
+Women in religious life fell from 178,740 in 1965 to about 33,000 (CARA), a collapse of more than four in five.
+In 2019 the Pew Research Center found that only 31 percent of self-identified Catholics believed that the bread and wine of the Eucharist become the Body and Blood of Christ.
+More than two-thirds of Catholics no longer believe the central thing the Mass exists to do.
 
-This is not a traditionalist talking point. Paul VI, who promulgated the post-conciliar reforms, said in 1972 that he had the sense that "from some fissure the smoke of Satan has entered the temple of God." Cardinal Joseph Ratzinger, the future Benedict XVI, wrote that the crisis in the Church was "to a large extent due to the disintegration of the liturgy."
+This is not a traditionalist talking point.
+Paul VI, who promulgated the post-conciliar reforms, said in 1972 that he had the sense that "from some fissure the smoke of Satan has entered the temple of God."
+Cardinal Joseph Ratzinger, the future Benedict XVI, wrote that the crisis in the Church was "to a large extent due to the disintegration of the liturgy."
 
-The Society's diagnosis is direct: the reforms carried out in the Council's name broke the transmission of the faith. The collapse followed the reforms, not the other way around, and it followed them wherever they went. A Catholic looking at that record is entitled to conclude that something went badly wrong, and that the people who said so at the time were not alarmists. They were right. The SSPX is the part of the Church that said so, kept saying so, and built what was needed to keep the faith intact while the institution worked through its crisis.
+The Society's diagnosis is direct: the reforms carried out in the Council's name broke the transmission of the faith.
+The collapse followed the reforms, not the other way around, and it followed them wherever they went.
+A Catholic looking at that record is entitled to conclude that something went badly wrong, and that the people who said so at the time were not alarmists.
+They were right.
+The SSPX is the part of the Church that said so, kept saying so, and built what was needed to keep the faith intact while the institution worked through its crisis.
 
 ## The Mass
 
-The most visible thing about the SSPX is that it celebrates the traditional Latin Mass, the Roman Mass as it stood before the 1969 reform. This is sometimes dismissed as an attachment to Latin and ceremony. It is nothing so thin. It rests on doctrine the whole Church holds.
+The most visible thing about the SSPX is that it celebrates the traditional Latin Mass, the Roman Mass as it stood before the 1969 reform.
+This is sometimes dismissed as an attachment to Latin and ceremony.
+It is nothing so thin.
+It rests on doctrine the whole Church holds.
 
-The Catholic Church teaches that the Mass is a sacrifice, the same sacrifice Christ offered on the Cross, made present again on the altar in an unbloody manner. It is not primarily a communal meal. The Council of Trent defined this and attached an anathema, the Church's strongest censure, to its denial. The wording, from Session XXII in 1562, is:
+The Catholic Church teaches that the Mass is a sacrifice, the same sacrifice Christ offered on the Cross, made present again on the altar in an unbloody manner.
+It is not primarily a communal meal.
+The Council of Trent defined this and attached an anathema, the Church's strongest censure, to its denial.
+The wording, from Session XXII in 1562, is:
 
 > "If anyone says that the sacrifice of the Mass is one only of praise and thanksgiving; or that it is a mere commemoration of the sacrifice consummated on the cross, but not a propitiatory one... let him be anathema."
 
-The principle that governs the dispute is old and undisputed: *lex orandi, lex credendi*, the way the Church prays shapes what the Church believes. Change the prayers, and over time you change the faith of the people who pray them. The 1969 revision changed the prayers extensively. The explicitly sacrificial prayers of the Offertory were removed, the priest was recast in much of the new language as a "presider," and the rite as a whole was made less direct about what it is. The doctrine was not formally denied. It was made harder to see. The figure of 31 percent belief in the Real Presence is what that looks like a generation later.
+The principle that governs the dispute is old and undisputed: *lex orandi, lex credendi*, the way the Church prays shapes what the Church believes.
+Change the prayers, and over time you change the faith of the people who pray them.
+The 1969 revision changed the prayers extensively.
+The explicitly sacrificial prayers of the Offertory were removed, the priest was recast in much of the new language as a "presider," and the rite as a whole was made less direct about what it is.
+The doctrine was not formally denied.
+It was made harder to see.
+The figure of 31 percent belief in the Real Presence is what that looks like a generation later.
 
-This was understood at the time, and not first of all by Lefebvre. In 1969, two months before the new Mass took effect, a critical study went to Paul VI signed by Cardinal Alfredo Ottaviani, the former head of the Holy Office, and Cardinal Antonio Bacci. It warned that the new rite "represents, both as a whole and in its details, a striking departure from the Catholic theology of the Mass as it was formulated in Session XXII of the Council of Trent." These were two of the most senior doctrinal authorities in Rome, and their verdict was unsparing: to abandon a liturgical tradition "which for four centuries was both the sign and pledge of unity of worship" was, they felt bound in conscience to proclaim, "an incalculable error." Sixty years later, the Pew figure on the Real Presence is the measure of how accurate the warning was.
+This was understood at the time, and not first of all by Lefebvre.
+In 1969, two months before the new Mass took effect, a critical study went to Paul VI signed by Cardinal Alfredo Ottaviani, the former head of the Holy Office, and Cardinal Antonio Bacci.
+It warned that the new rite "represents, both as a whole and in its details, a striking departure from the Catholic theology of the Mass as it was formulated in Session XXII of the Council of Trent."
+These were two of the most senior doctrinal authorities in Rome, and their verdict was unsparing: to abandon a liturgical tradition "which for four centuries was both the sign and pledge of unity of worship" was, they felt bound in conscience to proclaim, "an incalculable error."
+Sixty years later, the Pew figure on the Real Presence is the measure of how accurate the warning was.
 
-A more recent admission has come from the other side of the dispute. *Traditionis Custodes*, issued by Pope Francis in 2021 to restrict celebration of the older rite, states in its first article that the post-conciliar liturgical books "are the unique expression of the *lex orandi* of the Roman Rite." Read against the principle *lex orandi, lex credendi*, that is a remarkable claim. If one rite must be designated *unique*, then the two do not pray the same faith. The SSPX has been saying so since 1969. *Traditionis Custodes*, in the act of restricting the older rite, conceded the substance of the long-standing argument.
+A more recent admission has come from the other side of the dispute.
+*Traditionis Custodes*, issued by Pope Francis in 2021 to restrict celebration of the older rite, states in its first article that the post-conciliar liturgical books "are the unique expression of the *lex orandi* of the Roman Rite."
+Read against the principle *lex orandi, lex credendi*, that is a remarkable claim.
+If one rite must be designated *unique*, then the two do not pray the same faith.
+The SSPX has been saying so since 1969.
+*Traditionis Custodes*, in the act of restricting the older rite, conceded the substance of the long-standing argument.
 
-Rome had already conceded the older point. For years, Catholics attached to the traditional Mass were told it had been abolished. Inside the Vatican that claim was known to be false long before it was corrected. Cardinal Alfons Stickler, the Vatican's librarian and archivist and a canonist by training, testified publicly in 1995 that John Paul II had convened a commission of nine cardinals in 1986, Joseph Ratzinger and Stickler himself among them, to examine the question; that the cardinals answered that the Mass of Saint Pius V had never been suppressed; and that they agreed no bishop may forbid a priest from celebrating it. The finding was never published. Twenty-one years later, in 2007, Benedict XVI confirmed its substance in *Summorum Pontificum*: the old Missal had "never been juridically abrogated," that is, never abolished in law at all. He added that "what earlier generations held as sacred, remains sacred and great for us too." When the post-conciliar translations rendered the words of consecration as Christ's blood poured out "for all," the SSPX insisted that the Latin and the Gospels say "for many," and in 2006 Rome ordered the translation corrected.
+Rome had already conceded the older point.
+For years, Catholics attached to the traditional Mass were told it had been abolished.
+Inside the Vatican that claim was known to be false long before it was corrected.
+Cardinal Alfons Stickler, the Vatican's librarian and archivist and a canonist by training, testified publicly in 1995 that John Paul II had convened a commission of nine cardinals in 1986, Joseph Ratzinger and Stickler himself among them, to examine the question; that the cardinals answered that the Mass of Saint Pius V had never been suppressed; and that they agreed no bishop may forbid a priest from celebrating it.
+The finding was never published.
+Twenty-one years later, in 2007, Benedict XVI confirmed its substance in *Summorum Pontificum*: the old Missal had "never been juridically abrogated," that is, never abolished in law at all.
+He added that "what earlier generations held as sacred, remains sacred and great for us too."
+When the post-conciliar translations rendered the words of consecration as Christ's blood poured out "for all," the SSPX insisted that the Latin and the Gospels say "for many," and in 2006 Rome ordered the translation corrected.
 
-Lefebvre called the older rite "the Mass of all time," and the phrase was precise. It was never a concession and never a relic. It was the Mass of the Roman Church, the Mass of its canonized saints, and on Rome's own admission it was never lawfully taken away. Holding on to it is not rebellion. If there was a rupture, it was the attempt to replace it.
+Lefebvre called the older rite "the Mass of all time," and the phrase was precise.
+It was never a concession and never a relic.
+It was the Mass of the Roman Church, the Mass of its canonized saints, and on Rome's own admission it was never lawfully taken away.
+Holding on to it is not rebellion.
+If there was a rupture, it was the attempt to replace it.
 
 ## The doctrinal question
 
-Beneath the Mass lies a doctrinal question, and it is the real heart of the dispute. Benedict XVI said as much. In his 2009 letter to the world's bishops he wrote that the problems with the SSPX "are essentially doctrinal in nature." That matters, because it means Rome itself does not treat the Society as a discipline problem. It treats it as raising a real question of doctrine.
+Beneath the Mass lies a doctrinal question, and it is the real heart of the dispute.
+Benedict XVI said as much.
+In his 2009 letter to the world's bishops he wrote that the problems with the SSPX "are essentially doctrinal in nature."
+That matters, because it means Rome itself does not treat the Society as a discipline problem.
+It treats it as raising a real question of doctrine.
 
-The principle at issue is one no Catholic can deny: the Catholic faith cannot contradict itself. What the Church has solemnly and universally taught as true cannot later become false. If it could, it was never true, and the Church could never be trusted to teach anything.
+The principle at issue is one no Catholic can deny: the Catholic faith cannot contradict itself.
+What the Church has solemnly and universally taught as true cannot later become false.
+If it could, it was never true, and the Church could never be trusted to teach anything.
 
-The test for what belongs to that unchangeable body of teaching is ancient. St. Vincent of Lérins gave it in the fifth century: authentic Catholic doctrine is what has been held "everywhere, always, and by all." A teaching that meets that test, taught across the whole Church and down the centuries by the agreement of popes and councils, is part of the deposit of faith. It is settled, and it cannot be reversed.
+The test for what belongs to that unchangeable body of teaching is ancient.
+St. Vincent of Lérins gave it in the fifth century: authentic Catholic doctrine is what has been held "everywhere, always, and by all."
+A teaching that meets that test, taught across the whole Church and down the centuries by the agreement of popes and councils, is part of the deposit of faith.
+It is settled, and it cannot be reversed.
 
-Consider the concrete case. For well over a century before the Council, the popes taught, clearly and repeatedly, that civil society owes recognition to the true religion and that there is no right to spread religious error. Pius IX, in the Syllabus of Errors (1864), condemned the proposition that "every man is free to embrace and profess that religion which, guided by the light of reason, he shall consider true." Leo XIII taught that the state has real duties toward the true religion: in *Immortale Dei* (1885) that "it is a public crime to act as though there were no God," and in *Libertas* (1888) that justice forbids the state to "treat the various religions... alike, and to bestow upon them promiscuously equal rights and privileges." Pius XI instituted the Feast of Christ the King in 1925 to drive the same teaching home, writing in *Quas Primas* that "not only private individuals but also rulers and princes are bound to give public honor and obedience to Christ," and that society will receive "the great blessings of real liberty, well-ordered discipline, peace and harmony" only "when once men recognize, both in private and in public life, that Christ is King." This is teaching that meets the test of Vincent of Lérins. It is settled Catholic doctrine.
+Consider the concrete case.
+For well over a century before the Council, the popes taught, clearly and repeatedly, that civil society owes recognition to the true religion and that there is no right to spread religious error.
+Pius IX, in the Syllabus of Errors (1864), condemned the proposition that "every man is free to embrace and profess that religion which, guided by the light of reason, he shall consider true."
+Leo XIII taught that the state has real duties toward the true religion: in *Immortale Dei* (1885) that "it is a public crime to act as though there were no God," and in *Libertas* (1888) that justice forbids the state to "treat the various religions... alike, and to bestow upon them promiscuously equal rights and privileges."
+Pius XI instituted the Feast of Christ the King in 1925 to drive the same teaching home, writing in *Quas Primas* that "not only private individuals but also rulers and princes are bound to give public honor and obedience to Christ," and that society will receive "the great blessings of real liberty, well-ordered discipline, peace and harmony" only "when once men recognize, both in private and in public life, that Christ is King."
+This is teaching that meets the test of Vincent of Lérins.
+It is settled Catholic doctrine.
 
-The Council's declaration *Dignitatis Humanae* (1965) then taught that there is a right to religious freedom founded "in the very dignity of the human person," to be protected as a civil right. At the level of plain meaning, the two cannot both be true. And the Catholic faced with that conflict has only one defensible answer. The settled teaching of centuries holds. A single conciliar declaration, whatever its rank, cannot reverse what the Church has already taught everywhere, always, and by all. The SSPX holds the older teaching because it is the more binding teaching. That is not stubbornness, and it is the opposite of private judgment. It is the only position consistent with the claim that the Church does not contradict herself.
+The Council's declaration *Dignitatis Humanae* (1965) then taught that there is a right to religious freedom founded "in the very dignity of the human person," to be protected as a civil right.
+At the level of plain meaning, the two cannot both be true.
+And the Catholic faced with that conflict has only one defensible answer.
+The settled teaching of centuries holds.
+A single conciliar declaration, whatever its rank, cannot reverse what the Church has already taught everywhere, always, and by all.
+The SSPX holds the older teaching because it is the more binding teaching.
+That is not stubbornness, and it is the opposite of private judgment.
+It is the only position consistent with the claim that the Church does not contradict herself.
 
-The point goes deeper than the texts. Even if the words of *Dignitatis Humanae* can be squared with the older condemnations, the popes did not merely tolerate the Catholic state; they taught it as the ideal and bound rulers to the public worship of Christ. That ideal has not been restated in gentler terms so much as quietly dropped, from the Church's preaching and from the concordats she has renegotiated, as Italy and the Holy See did in 1984. Reconciling the texts would still leave the positive teaching abandoned in practice, which is why showing that the Council can be read in continuity is the beginning of an answer, not the end of it.
+The point goes deeper than the texts.
+Even if the words of *Dignitatis Humanae* can be squared with the older condemnations, the popes did not merely tolerate the Catholic state; they taught it as the ideal and bound rulers to the public worship of Christ.
+That ideal has not been restated in gentler terms so much as quietly dropped, from the Church's preaching and from the concordats she has renegotiated, as Italy and the Holy See did in 1984.
+Reconciling the texts would still leave the positive teaching abandoned in practice, which is why showing that the Council can be read in continuity is the beginning of an answer, not the end of it.
 
-The trajectory of the post-conciliar period has made the question harder to evade, not easier. In October 1986, John Paul II gathered the leaders of the world's religions at Assisi, where Christians and non-Christians joined in a common act of prayer at the pope's invitation. In February 2019, Pope Francis signed at Abu Dhabi a joint declaration with the Grand Imam of Al-Azhar that included the line: "the pluralism and the diversity of religions, colour, sex, race and language are willed by God in His wisdom, through which He created human beings." The reading of that text by which it could be reconciled with traditional Catholic teaching is narrow, and the SSPX is not alone in pressing the question. In June 2019, Cardinal Raymond Burke, Bishop Athanasius Schneider, and three other prelates published a *Declaration of Truths* affirming, against any reading of the Abu Dhabi text taken at face value, that "the religion born of faith in Jesus Christ" alone is positively willed by God, and that the others can be said only to be permitted by Him. The same line of objection runs from the SSPX through its mainstream-orthodox sympathizers. The doctrinal question is not at the margins.
+The trajectory of the post-conciliar period has made the question harder to evade, not easier.
+In October 1986, John Paul II gathered the leaders of the world's religions at Assisi, where Christians and non-Christians joined in a common act of prayer at the pope's invitation.
+In February 2019, Pope Francis signed at Abu Dhabi a joint declaration with the Grand Imam of Al-Azhar that included the line: "the pluralism and the diversity of religions, colour, sex, race and language are willed by God in His wisdom, through which He created human beings."
+The reading of that text by which it could be reconciled with traditional Catholic teaching is narrow, and the SSPX is not alone in pressing the question.
+In June 2019, Cardinal Raymond Burke, Bishop Athanasius Schneider, and three other prelates published a *Declaration of Truths* affirming, against any reading of the Abu Dhabi text taken at face value, that "the religion born of faith in Jesus Christ" alone is positively willed by God, and that the others can be said only to be permitted by Him.
+The same line of objection runs from the SSPX through its mainstream-orthodox sympathizers.
+The doctrinal question is not at the margins.
 
-Rome's own officials have come close to saying that the Society's questions are legitimate ones. In 2016, Archbishop Guido Pozzo, then the Vatican's chief negotiator with the SSPX as secretary of the Pontifical Commission *Ecclesia Dei*, told *La Croix* that the difficulties the Society raises about religious freedom, ecumenism, dialogue with non-Christian religions, and aspects of the liturgical reform "remain subject to discussion and clarification but do not constitute an obstacle to a canonical and juridical recognition of the SSPX." The Holy See's own negotiator stated on the record that the disputed points are open for discussion and are no bar to recognition. A body whose objections Rome itself classifies as discussable is not a body outside the faith.
+Rome's own officials have come close to saying that the Society's questions are legitimate ones.
+In 2016, Archbishop Guido Pozzo, then the Vatican's chief negotiator with the SSPX as secretary of the Pontifical Commission *Ecclesia Dei*, told *La Croix* that the difficulties the Society raises about religious freedom, ecumenism, dialogue with non-Christian religions, and aspects of the liturgical reform "remain subject to discussion and clarification but do not constitute an obstacle to a canonical and juridical recognition of the SSPX."
+The Holy See's own negotiator stated on the record that the disputed points are open for discussion and are no bar to recognition.
+A body whose objections Rome itself classifies as discussable is not a body outside the faith.
 
-The legal and philosophical name for what the SSPX is doing here is older than the dispute. The classical tradition calls it *equity*, or *epieikeia* in Aristotle's term: the disposition to act according to the mind of the legislator when the letter of the law no longer expresses it. Aquinas treats it in the *Summa* (II-II, q. 120). The 1983 Code of Canon Law itself closes, at Canon 1752, with the principle the entire canonical structure exists to express: "the salvation of souls, which must always be the supreme law in the Church." That phrase is not a slogan and not the SSPX's invention. It is the mind of the legislator, written into the last canon of the Code by John Paul II. The Society's appeal is to that mind, against the letter of a lesser law when the two come into conflict. That is not lawlessness. It is the operation of equity as the Catholic tradition has always understood it.
+The legal and philosophical name for what the SSPX is doing here is older than the dispute.
+The classical tradition calls it *equity*, or *epieikeia* in Aristotle's term: the disposition to act according to the mind of the legislator when the letter of the law no longer expresses it.
+Aquinas treats it in the *Summa* (II-II, q. 120).
+The 1983 Code of Canon Law itself closes, at Canon 1752, with the principle the entire canonical structure exists to express: "the salvation of souls, which must always be the supreme law in the Church."
+That phrase is not a slogan and not the SSPX's invention.
+It is the mind of the legislator, written into the last canon of the Code by John Paul II.
+The Society's appeal is to that mind, against the letter of a lesser law when the two come into conflict.
+That is not lawlessness.
+It is the operation of equity as the Catholic tradition has always understood it.
 
-This is also why the charge of "cafeteria Catholicism" is exactly backward. The cafeteria Catholic drops the hard doctrine for the easy one. The SSPX does the reverse. It holds the demanding older teaching when an easier formulation is on offer and would make life simpler. Whatever that is, it is not laxity, and it is not abandoning the Church. It is holding the Church to her word.
+This is also why the charge of "cafeteria Catholicism" is exactly backward.
+The cafeteria Catholic drops the hard doctrine for the easy one.
+The SSPX does the reverse.
+It holds the demanding older teaching when an easier formulation is on offer and would make life simpler.
+Whatever that is, it is not laxity, and it is not abandoning the Church.
+It is holding the Church to her word.
 
 ## The charge of schism
 
-The most common charge against the SSPX is schism. It is also the easiest to answer, because schism has a precise definition in the Church's own law, and the SSPX does not meet it.
+The most common charge against the SSPX is schism.
+It is also the easiest to answer, because schism has a precise definition in the Church's own law, and the SSPX does not meet it.
 
 Canon 751 of the Code of Canon Law:
 
 > "Schism is the refusal of submission to the Supreme Pontiff or of communion with the members of the Church subject to him."
 
-Schism is the rejection of the pope's authority as such, or the refusal of communion with the Catholics under him. It is not disobedience to a particular instruction, and it is not criticism of how a pope governs. Classical theology draws the line in the same place. St. Thomas Aquinas treats schism as a sin against the unity of the Church, distinct from disobedience. Refusing a specific command and denying that the authority exists at all are different acts, different in kind and not only in degree.
+Schism is the rejection of the pope's authority as such, or the refusal of communion with the Catholics under him.
+It is not disobedience to a particular instruction, and it is not criticism of how a pope governs.
+Classical theology draws the line in the same place.
+St. Thomas Aquinas treats schism as a sin against the unity of the Church, distinct from disobedience.
+Refusing a specific command and denying that the authority exists at all are different acts, different in kind and not only in degree.
 
-The SSPX does not deny the authority. It affirms that the pope is the pope. It recognized John Paul II, Benedict XVI, and Francis, and it recognizes Leo XIV now. It prays for the reigning pope by name at every Mass. It rejects sedevacantism, the claim that the See of Peter is empty, and has expelled clergy who held that view. It professes every doctrine the Catholic Church has defined. What it does is refuse particular directives it judges harmful to the faith, while affirming the authority that issued them. By the Church's own definition, that is not schism.
+The SSPX does not deny the authority.
+It affirms that the pope is the pope.
+It recognized John Paul II, Benedict XVI, and Francis, and it recognizes Leo XIV now.
+It prays for the reigning pope by name at every Mass.
+It rejects sedevacantism, the claim that the See of Peter is empty, and has expelled clergy who held that view.
+It professes every doctrine the Catholic Church has defined.
+What it does is refuse particular directives it judges harmful to the faith, while affirming the authority that issued them.
+By the Church's own definition, that is not schism.
 
-It is, instead, something the Church's own theologians have always recognized. St. Robert Bellarmine, a Doctor of the Church, wrote in his treatise on the papacy, *De Romano Pontifice* (Book II, Chapter 29):
+It is, instead, something the Church's own theologians have always recognized.
+St. Robert Bellarmine, a Doctor of the Church, wrote in his treatise on the papacy, *De Romano Pontifice* (Book II, Chapter 29):
 
 > "Just as it is licit to resist the Pontiff who attacks the body, so also is it licit to resist him who attacks souls or destroys the civil order or, above all, tries to destroy the Church. I say that it is licit to resist him by not doing what he orders and by impeding the execution of his will."
 
-Bellarmine then draws the limit, and the limit is exactly the SSPX's position: "It is not licit, however, to judge him, to punish him, or to depose him." Resist a harmful command; never declare the office vacant or move against the man who holds it. Cajetan and Suárez, among the greatest theologians of the post-Reformation Church, taught the same distinction.
+Bellarmine then draws the limit, and the limit is exactly the SSPX's position: "It is not licit, however, to judge him, to punish him, or to depose him."
+Resist a harmful command; never declare the office vacant or move against the man who holds it.
+Cajetan and Suárez, among the greatest theologians of the post-Reformation Church, taught the same distinction.
 
-The pattern is in Scripture itself. In the Letter to the Galatians, St. Paul records that he confronted St. Peter, the first pope, in public:
+The pattern is in Scripture itself.
+In the Letter to the Galatians, St. Paul records that he confronted St. Peter, the first pope, in public:
 
 > "But when Cephas came to Antioch I opposed him to his face, because he stood condemned." (Galatians 2:11)
 
-Paul never questioned Peter's office. He judged that Peter's conduct endangered the truth of the Gospel, and he resisted it openly, and the Holy Spirit saw fit to record the episode in Scripture without a word of disapproval. The SSPX calls its own posture filial resistance, the resistance of a son. The word is accurate. A son who corrects his father is still a son, and is acting as a son.
+Paul never questioned Peter's office.
+He judged that Peter's conduct endangered the truth of the Gospel, and he resisted it openly, and the Holy Spirit saw fit to record the episode in Scripture without a word of disapproval.
+The SSPX calls its own posture filial resistance, the resistance of a son.
+The word is accurate.
+A son who corrects his father is still a son, and is acting as a son.
 
-Rome has conceded this, in act and in word, across most of the Society's history. In July 1988, days after the consecrations, Cardinal Rosalio Castillo Lara, president of the Vatican commission responsible for the authentic interpretation of canon law, told *La Repubblica* that "the act of consecrating a bishop without a papal mandate is not in itself a schismatic act." In 1991 the Bishop of Honolulu declared six laypeople excommunicated as schismatics for attending an SSPX chapel and bringing in an SSPX bishop for confirmations. They appealed to Rome, and in June 1993 the Congregation for the Doctrine of the Faith under Cardinal Ratzinger annulled the decree, ruling that their actions, "though blameworthy on various accounts, are not sufficient to constitute the crime of schism." Asked to judge whether adherence to the Society amounts to schism, Rome's own doctrinal office answered that it does not. In 1994 Cardinal Edward Cassidy, president of the Pontifical Council for Promoting Christian Unity, wrote that "the situation of the members of that Society is an internal affair of the Catholic Church" and that the Society "is not another Church or Ecclesial Community." And Cardinal Darío Castrillón Hoyos, who as head of the Pontifical Commission *Ecclesia Dei* was the Vatican official responsible for the SSPX, said it directly in 2005: the separation created in 1988 was "not a formal schism." Across the 1990s, the 2000s, and the 2010s, Rome did not declare the SSPX schismatic, because by its own law it could not.
+Rome has conceded this, in act and in word, across most of the Society's history.
+In July 1988, days after the consecrations, Cardinal Rosalio Castillo Lara, president of the Vatican commission responsible for the authentic interpretation of canon law, told *La Repubblica* that "the act of consecrating a bishop without a papal mandate is not in itself a schismatic act."
+In 1991 the Bishop of Honolulu declared six laypeople excommunicated as schismatics for attending an SSPX chapel and bringing in an SSPX bishop for confirmations.
+They appealed to Rome, and in June 1993 the Congregation for the Doctrine of the Faith under Cardinal Ratzinger annulled the decree, ruling that their actions, "though blameworthy on various accounts, are not sufficient to constitute the crime of schism."
+Asked to judge whether adherence to the Society amounts to schism, Rome's own doctrinal office answered that it does not.
+In 1994 Cardinal Edward Cassidy, president of the Pontifical Council for Promoting Christian Unity, wrote that "the situation of the members of that Society is an internal affair of the Catholic Church" and that the Society "is not another Church or Ecclesial Community."
+And Cardinal Darío Castrillón Hoyos, who as head of the Pontifical Commission *Ecclesia Dei* was the Vatican official responsible for the SSPX, said it directly in 2005: the separation created in 1988 was "not a formal schism."
+Across the 1990s, the 2000s, and the 2010s, Rome did not declare the SSPX schismatic, because by its own law it could not.
 
-The canonical charge depends on a particular reading of recent law that is younger than is usually noticed. The requirement that every Latin-rite episcopal consecration carry a papal mandate is not an ancient law of the Church. For nearly nineteen centuries the Church appointed bishops in varied ways. St. Ambrose was consecrated bishop of Milan in 374 by the bishops of his province on popular acclamation, with imperial confirmation and no papal involvement. During the Arian crisis St. Eusebius of Samosata travelled the Roman East in the disguise of a military officer, ordaining priests for churches emptied by exile and persecution, and after his return from exile consecrated bishops to fill the vacant sees. The Investiture Controversy of 1075 to 1122 turned on the question of whether the emperor or the pope had primary say in episcopal appointments, and was settled by a concordat that explicitly preserved regional variation. As late as 1870 the pope freely appointed bishops almost nowhere outside the Papal States and the mission territories; the rest of the world's sees were filled by cathedral chapters, local elections, or royal nomination under concordats. The universal requirement that every Latin-rite consecration carry a papal mandate dates from the 1917 Code of Canon Law.
+The canonical charge depends on a particular reading of recent law that is younger than is usually noticed.
+The requirement that every Latin-rite episcopal consecration carry a papal mandate is not an ancient law of the Church.
+For nearly nineteen centuries the Church appointed bishops in varied ways.
+St. Ambrose was consecrated bishop of Milan in 374 by the bishops of his province on popular acclamation, with imperial confirmation and no papal involvement.
+During the Arian crisis St. Eusebius of Samosata travelled the Roman East in the disguise of a military officer, ordaining priests for churches emptied by exile and persecution, and after his return from exile consecrated bishops to fill the vacant sees.
+The Investiture Controversy of 1075 to 1122 turned on the question of whether the emperor or the pope had primary say in episcopal appointments, and was settled by a concordat that explicitly preserved regional variation.
+As late as 1870 the pope freely appointed bishops almost nowhere outside the Papal States and the mission territories; the rest of the world's sees were filled by cathedral chapters, local elections, or royal nomination under concordats.
+The universal requirement that every Latin-rite consecration carry a papal mandate dates from the 1917 Code of Canon Law.
 
-The penalty most often cited against the SSPX is younger still. The *latae sententiae* excommunication for unauthorized episcopal consecration was added to the Church's law in 1951, by a decree of the Holy Office, as the Communist government in China moved to sever the Church there from Rome. Seven years later the state-sponsored Chinese Patriotic Catholic Association began consecrating its own bishops in deliberate rejection of Roman authority, and Pius XII's *Ad Apostolorum Principis* (1958) applied the decree to those consecrations. The 1917 Code had imposed only suspension. The 1951 decree added the excommunication, and the 1983 Code carried it forward as Canon 1382 (renumbered 1387 in 2021). The penalty was forged in that confrontation, against a movement claiming full jurisdictional authority in defiance of the pope. It was not designed for a society that acknowledges the pope, prays for him by name, and consecrates auxiliary bishops with no claim to govern any diocese at all.
+The penalty most often cited against the SSPX is younger still.
+The *latae sententiae* excommunication for unauthorized episcopal consecration was added to the Church's law in 1951, by a decree of the Holy Office, as the Communist government in China moved to sever the Church there from Rome.
+Seven years later the state-sponsored Chinese Patriotic Catholic Association began consecrating its own bishops in deliberate rejection of Roman authority, and Pius XII's *Ad Apostolorum Principis* (1958) applied the decree to those consecrations.
+The 1917 Code had imposed only suspension.
+The 1951 decree added the excommunication, and the 1983 Code carried it forward as Canon 1382 (renumbered 1387 in 2021).
+The penalty was forged in that confrontation, against a movement claiming full jurisdictional authority in defiance of the pope.
+It was not designed for a society that acknowledges the pope, prays for him by name, and consecrates auxiliary bishops with no claim to govern any diocese at all.
 
-Two further facts about how the Church has classified and applied this penalty cut the same way. When the 1917 Code first gathered the Church's penal law into one place, it listed the consecration of a bishop without mandate not among the crimes against the faith and the unity of the Church, where schism, heresy, and apostasy stand, but among the crimes touching the administration of the sacraments, in the company of such things as a priest confirming without delegation. The Church's own codifiers did not treat an unauthorized consecration as an assault on her unity. They treated it as a disorder in the handling of a sacrament. And when Rome later applied the penalty to a genuinely extreme case, it still withheld the word schism. In 1976 Archbishop Pierre Martin Ngô Đình Thục consecrated bishops for the Palmar de Troya movement in Spain, a group whose leader would soon proclaim himself "pope" and found a rival line of antipopes, schism in the fullest sense the word has. The decree the Congregation for the Doctrine of the Faith issued against those consecrations on September 17, 1976 invoked only the canons on unlawful ordination and imposed only excommunication for the act. It did not use the word schism anywhere in its text. If the term was held back there, it can hardly be owed to a society that recognizes the pope and consecrates auxiliaries who claim no see.
+Two further facts about how the Church has classified and applied this penalty cut the same way.
+When the 1917 Code first gathered the Church's penal law into one place, it listed the consecration of a bishop without mandate not among the crimes against the faith and the unity of the Church, where schism, heresy, and apostasy stand, but among the crimes touching the administration of the sacraments, in the company of such things as a priest confirming without delegation.
+The Church's own codifiers did not treat an unauthorized consecration as an assault on her unity.
+They treated it as a disorder in the handling of a sacrament.
+And when Rome later applied the penalty to a genuinely extreme case, it still withheld the word schism.
+In 1976 Archbishop Pierre Martin Ngô Đình Thục consecrated bishops for the Palmar de Troya movement in Spain, a group whose leader would soon proclaim himself "pope" and found a rival line of antipopes, schism in the fullest sense the word has.
+The decree the Congregation for the Doctrine of the Faith issued against those consecrations on September 17, 1976 invoked only the canons on unlawful ordination and imposed only excommunication for the act.
+It did not use the word schism anywhere in its text.
+If the term was held back there, it can hardly be owed to a society that recognizes the pope and consecrates auxiliaries who claim no see.
 
-That distinction has deep roots in Catholic ecclesiology. The Church has always distinguished the *power of orders* from the *power of jurisdiction*. The first is the sacramental power conferred by consecration, by which a man becomes a bishop and can ordain, confirm, and consecrate. The second is the authority to govern a particular territory, derived from a papal mission. In the 1917 Code the two are explicitly separated (Canons 108 §3 and 109). Auxiliary bishops, titular bishops, bishops emeriti, and the bishops of suppressed sees have the power of orders without the power of jurisdiction, and there are hundreds of them in the Catholic Church at any given moment. The 1917 Code stated the principle in so many words: a titular bishop "can exercise no power in his diocese," of which he does not even take possession (Canon 348). That is the lived proof that the two powers come apart, written into the Church's own law. The SSPX consecrations follow this pattern exactly. They confer the power of orders only. They claim no diocese. They are not territorial. The SSPX's official communiqué of May 2026, announcing the names of the bishops-elect, states that the consecrations "do not proceed from any desire to claim a power of jurisdiction or to establish a parallel authority within the Church," and that "in no way do they constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction of the Vicar of Christ over the universal Church." That is not the structural shape of schism. It is the structural shape of a reserve held in trust against the future.
+That distinction has deep roots in Catholic ecclesiology.
+The Church has always distinguished the *power of orders* from the *power of jurisdiction*.
+The first is the sacramental power conferred by consecration, by which a man becomes a bishop and can ordain, confirm, and consecrate.
+The second is the authority to govern a particular territory, derived from a papal mission.
+In the 1917 Code the two are explicitly separated (Canons 108 §3 and 109).
+Auxiliary bishops, titular bishops, bishops emeriti, and the bishops of suppressed sees have the power of orders without the power of jurisdiction, and there are hundreds of them in the Catholic Church at any given moment.
+The 1917 Code stated the principle in so many words: a titular bishop "can exercise no power in his diocese," of which he does not even take possession (Canon 348).
+That is the lived proof that the two powers come apart, written into the Church's own law.
+The SSPX consecrations follow this pattern exactly.
+They confer the power of orders only.
+They claim no diocese.
+They are not territorial.
+The SSPX's official communiqué of May 2026, announcing the names of the bishops-elect, states that the consecrations "do not proceed from any desire to claim a power of jurisdiction or to establish a parallel authority within the Church," and that "in no way do they constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction of the Vicar of Christ over the universal Church."
+That is not the structural shape of schism.
+It is the structural shape of a reserve held in trust against the future.
 
 The point can be seen still more clearly in Rome's own treatment of the past four decades, set against its treatment of bodies whose situation actually is canonically irregular in the strong sense.
 
-In China, the Chinese Patriotic Catholic Association continues to consecrate its own bishops. The 2018 Provisional Agreement between Rome and Beijing, renewed in 2020, 2022, and 2024, gave the Chinese government a formal role in episcopal appointments. In 2022, the CPCA installed John Peng Weizhao as Auxiliary Bishop of Jiangxi without Vatican approval. In 2023, it unilaterally transferred Joseph Shen Bin from Haimen to Shanghai; Pope Francis retroactively approved the transfer that July "to heal the canonical irregularity." This is the body the 1951 decree was originally drafted to address. Rome no longer treats it as schismatic. It treats it as a dialogue partner.
+In China, the Chinese Patriotic Catholic Association continues to consecrate its own bishops.
+The 2018 Provisional Agreement between Rome and Beijing, renewed in 2020, 2022, and 2024, gave the Chinese government a formal role in episcopal appointments.
+In 2022, the CPCA installed John Peng Weizhao as Auxiliary Bishop of Jiangxi without Vatican approval.
+In 2023, it unilaterally transferred Joseph Shen Bin from Haimen to Shanghai; Pope Francis retroactively approved the transfer that July "to heal the canonical irregularity."
+This is the body the 1951 decree was originally drafted to address.
+Rome no longer treats it as schismatic.
+It treats it as a dialogue partner.
 
-In the Anglican Communion, Pope Leo XIV sent a public message in March 2026 to Sarah Mullally on her installation as Archbishop of Canterbury, addressing her as "Dear sister" and writing of the witness of a "reconciled, fraternal and united Christian community." In April 2026 the Catholic Bishop of Fresno, Joseph Brennan, attended the consecration of the Episcopalian Bishop of San Joaquin at St. James Episcopal Cathedral in Fresno, and footage of the rite shows him standing among the consecrating bishops during the laying-on of hands. The Anglican episcopate is the same one Leo XIII judged in 1896 to be invalid by reason of defect of intention and form.
+In the Anglican Communion, Pope Leo XIV sent a public message in March 2026 to Sarah Mullally on her installation as Archbishop of Canterbury, addressing her as "Dear sister" and writing of the witness of a "reconciled, fraternal and united Christian community."
+In April 2026 the Catholic Bishop of Fresno, Joseph Brennan, attended the consecration of the Episcopalian Bishop of San Joaquin at St. James Episcopal Cathedral in Fresno, and footage of the rite shows him standing among the consecrating bishops during the laying-on of hands.
+The Anglican episcopate is the same one Leo XIII judged in 1896 to be invalid by reason of defect of intention and form.
 
-In relation to the Orthodox churches, the Balamand Declaration of 1993, produced by the official Catholic-Orthodox theological dialogue and published by the Holy See's own ecumenism office, declares that the two communions "recognize each other as Sister Churches" and that apostolic succession and the priesthood "cannot be considered the exclusive property of one of our Churches." *The Bishop of Rome*, the 2024 study document of the Dicastery for Promoting Christian Unity published with the approval of Pope Francis, calls Vatican I's definitions on papal primacy a "significant obstacle" for other Christians and proposes a Catholic "re-reception," "re-interpretation," or even "rewording" of them. In 2001 John Paul II celebrated an ecumenical service in Yerevan with Catholicos Karekin II and spoke of "a real and intimate unity between the Catholic Church and the Church of Armenia."
+In relation to the Orthodox churches, the Balamand Declaration of 1993, produced by the official Catholic-Orthodox theological dialogue and published by the Holy See's own ecumenism office, declares that the two communions "recognize each other as Sister Churches" and that apostolic succession and the priesthood "cannot be considered the exclusive property of one of our Churches."
+*The Bishop of Rome*, the 2024 study document of the Dicastery for Promoting Christian Unity published with the approval of Pope Francis, calls Vatican I's definitions on papal primacy a "significant obstacle" for other Christians and proposes a Catholic "re-reception," "re-interpretation," or even "rewording" of them.
+In 2001 John Paul II celebrated an ecumenical service in Yerevan with Catholicos Karekin II and spoke of "a real and intimate unity between the Catholic Church and the Church of Armenia."
 
-The pattern is impossible to ignore. Rome treats the case for which "schism" was designed, the Chinese Patriotic Catholic Association, as a partner. It treats Anglican and Orthodox bodies, whose canonical situation has been judged irregular for centuries, as "sister Churches." And it proposes to apply the term *schism* to a society that claims less than any of them: that recognizes the pope, prays for him by name, consecrates only bishops who claim no jurisdiction, and disclaims any challenge to the pope's universal authority. If Rome's de facto practice over the past forty years is taken seriously, the term has lost its working content. The May 2026 warning from the Dicastery for the Doctrine of the Faith threatens to apply to the SSPX a category Rome has been retiring everywhere else.
+The pattern is impossible to ignore.
+Rome treats the case for which "schism" was designed, the Chinese Patriotic Catholic Association, as a partner.
+It treats Anglican and Orthodox bodies, whose canonical situation has been judged irregular for centuries, as "sister Churches."
+And it proposes to apply the term *schism* to a society that claims less than any of them: that recognizes the pope, prays for him by name, consecrates only bishops who claim no jurisdiction, and disclaims any challenge to the pope's universal authority.
+If Rome's de facto practice over the past forty years is taken seriously, the term has lost its working content.
+The May 2026 warning from the Dicastery for the Doctrine of the Faith threatens to apply to the SSPX a category Rome has been retiring everywhere else.
 
-The charge is not new in any case. It is word for word the charge made in 1988, and it rests on the same canonical question. The SSPX's answer is the same answer it gave then, and that answer has not weakened. To see why it holds, turn to 1988.
+The charge is not new in any case.
+It is word for word the charge made in 1988, and it rests on the same canonical question.
+The SSPX's answer is the same answer it gave then, and that answer has not weakened.
+To see why it holds, turn to 1988.
 
 ## What obedience is
 
-The defense the SSPX makes on its consecrations has a virtue-theoretic side worth setting out. Obedience is a virtue, not an absolute. St. Thomas Aquinas, in the *Summa Theologiae* (II-II, q. 104, a. 2), teaches that obedience, like every moral virtue, observes a mean. There is a defect of obedience, which is rebellion, and there is an excess: obeying whom one ought not, or in matters where one ought not. Aquinas himself compares that excess to superstition (II-II, q. 92), which is religion done past its measure and so no longer religion but its corruption. Obedience without limit is not piety. It is idolatry of authority.
+The defense the SSPX makes on its consecrations has a virtue-theoretic side worth setting out.
+Obedience is a virtue, not an absolute.
+St. Thomas Aquinas, in the *Summa Theologiae* (II-II, q. 104, a. 2), teaches that obedience, like every moral virtue, observes a mean.
+There is a defect of obedience, which is rebellion, and there is an excess: obeying whom one ought not, or in matters where one ought not.
+Aquinas himself compares that excess to superstition (II-II, q. 92), which is religion done past its measure and so no longer religion but its corruption.
+Obedience without limit is not piety.
+It is idolatry of authority.
 
-Catholic theology has spelled out the practical content of that mean. From Cardinal Juan de Torquemada in the fifteenth century (*Summa de Ecclesia*) through Cardinal Cajetan, Cardinal Bellarmine, and Francisco Suárez in the sixteenth and seventeenth, and into the standard twentieth-century dogmatic manuals of Ludwig Ott and Monsignor G. Van Noort, the same teaching recurs without contradiction: papal authority is bounded. It is bounded by the divine law it was given to defend, by the deposit of faith it was given to transmit, by the natural law, and by the purpose for which the office exists. Van Noort puts it plainly: "Possession of power is one thing; a rightful use of power quite another." Ott calls the divine law "an efficacious brake on arbitrariness" in papal acts. These are not fringe theologians. They are the spine of the perennial Catholic teaching on the papacy, and the doctrine they articulate is the doctrine the SSPX appeals to.
+Catholic theology has spelled out the practical content of that mean.
+From Cardinal Juan de Torquemada in the fifteenth century (*Summa de Ecclesia*) through Cardinal Cajetan, Cardinal Bellarmine, and Francisco Suárez in the sixteenth and seventeenth, and into the standard twentieth-century dogmatic manuals of Ludwig Ott and Monsignor G. Van Noort, the same teaching recurs without contradiction: papal authority is bounded.
+It is bounded by the divine law it was given to defend, by the deposit of faith it was given to transmit, by the natural law, and by the purpose for which the office exists.
+Van Noort puts it plainly: "Possession of power is one thing; a rightful use of power quite another."
+Ott calls the divine law "an efficacious brake on arbitrariness" in papal acts.
+These are not fringe theologians.
+They are the spine of the perennial Catholic teaching on the papacy, and the doctrine they articulate is the doctrine the SSPX appeals to.
 
-What the perennial teaching identifies as not bound by the duty of obedience can be put as a short list. There is no duty to obey a command that requires compromise on a Catholic principle of faith. There is no duty to obey a command that deprives the faithful of the ordinary means of holiness: the Mass, the sacraments, sound formation, an authentic Catholic upbringing for their children. There is no duty to obey a command that requires cooperation in an attack on the Church. Outside those three lines the duty of obedience binds in the ordinary way. Inside them it does not bind at all, and obeying anyway is not virtue but failure.
+What the perennial teaching identifies as not bound by the duty of obedience can be put as a short list.
+There is no duty to obey a command that requires compromise on a Catholic principle of faith.
+There is no duty to obey a command that deprives the faithful of the ordinary means of holiness: the Mass, the sacraments, sound formation, an authentic Catholic upbringing for their children.
+There is no duty to obey a command that requires cooperation in an attack on the Church.
+Outside those three lines the duty of obedience binds in the ordinary way.
+Inside them it does not bind at all, and obeying anyway is not virtue but failure.
 
-The SSPX maps its own posture explicitly to the second of these three lines. The Society's claim is not that any pope has commanded heresy. It is that the post-conciliar settlement, in its liturgical and ecumenical and pastoral practice, has deprived the ordinary faithful of the means of holiness the Church had given them, and that the Society's work is to keep those means available. Canon 213 of the present Code records the right of the faithful to those means in its own words: "The Christian faithful have the right to receive assistance from the sacred pastors out of the spiritual goods of the Church, especially the word of God and the sacraments." Canon 1752, the final canon of the entire Code, names the principle the whole canonical structure exists to serve: "the salvation of souls, which must always be the supreme law in the Church." The Society's argument is that what it does is at the service of that supreme law, and at the service of the right Canon 213 names. That is not disobedience. It is the perennial Catholic moral theology of obedience applied to the case at hand.
+The SSPX maps its own posture explicitly to the second of these three lines.
+The Society's claim is not that any pope has commanded heresy.
+It is that the post-conciliar settlement, in its liturgical and ecumenical and pastoral practice, has deprived the ordinary faithful of the means of holiness the Church had given them, and that the Society's work is to keep those means available.
+Canon 213 of the present Code records the right of the faithful to those means in its own words: "The Christian faithful have the right to receive assistance from the sacred pastors out of the spiritual goods of the Church, especially the word of God and the sacraments."
+Canon 1752, the final canon of the entire Code, names the principle the whole canonical structure exists to serve: "the salvation of souls, which must always be the supreme law in the Church."
+The Society's argument is that what it does is at the service of that supreme law, and at the service of the right Canon 213 names.
+That is not disobedience.
+It is the perennial Catholic moral theology of obedience applied to the case at hand.
 
 ## The 1988 consecrations
 
-By 1988 Lefebvre was 82 years old. Only a bishop can ordain priests, and the Society needed bishops if the priests Lefebvre had formed were to have anyone to ordain their successors. Without new bishops, the traditional priesthood would end with his generation, and with it the Mass and sacraments for the hundreds of thousands of Catholics who depended on the Society. This was not a remote risk. It was a matter of counting: one aging bishop, no successor in line, and when he died the ordinations would stop.
+By 1988 Lefebvre was 82 years old.
+Only a bishop can ordain priests, and the Society needed bishops if the priests Lefebvre had formed were to have anyone to ordain their successors.
+Without new bishops, the traditional priesthood would end with his generation, and with it the Mass and sacraments for the hundreds of thousands of Catholics who depended on the Society.
+This was not a remote risk.
+It was a matter of counting: one aging bishop, no successor in line, and when he died the ordinations would stop.
 
-A protocol of agreement with Rome was signed in May 1988. It broke down within days, over the terms for consecrating a bishop for the Society. Rome would consecrate one, but on a schedule and of a candidate that Rome alone controlled. Lefebvre had spent two decades watching how Rome's assurances to traditional Catholics actually played out, and he concluded that this one would not be honored and that the Society would be absorbed and dismantled. The years since have given no reason to think he misjudged it.
+A protocol of agreement with Rome was signed in May 1988.
+It broke down within days, over the terms for consecrating a bishop for the Society.
+Rome would consecrate one, but on a schedule and of a candidate that Rome alone controlled.
+Lefebvre had spent two decades watching how Rome's assurances to traditional Catholics actually played out, and he concluded that this one would not be honored and that the Society would be absorbed and dismantled.
+The years since have given no reason to think he misjudged it.
 
-The decision was not taken quickly. Lefebvre had spent a decade in unsuccessful negotiation already, including a strained audience with Paul VI at Castel Gandolfo in September 1976 and a further exchange with Cardinal Ratzinger in July 1987. In his consecration sermon, he named two events of 1986 as decisive for his judgment. The first was John Paul II's interreligious gathering at Assisi that October, at which the leaders of the world's religions, Christian and non-Christian, joined in a common act of prayer at the invitation of the pope. The second was the confirmation by Rome that year of the post-conciliar teaching on religious liberty against Lefebvre's submitted objections. Lefebvre took these together as confirmation that the doctrinal disagreement was no longer ambiguous, and that the patience of the previous decade had reached its end.
+The decision was not taken quickly.
+Lefebvre had spent a decade in unsuccessful negotiation already, including a strained audience with Paul VI at Castel Gandolfo in September 1976 and a further exchange with Cardinal Ratzinger in July 1987.
+In his consecration sermon, he named two events of 1986 as decisive for his judgment.
+The first was John Paul II's interreligious gathering at Assisi that October, at which the leaders of the world's religions, Christian and non-Christian, joined in a common act of prayer at the invitation of the pope.
+The second was the confirmation by Rome that year of the post-conciliar teaching on religious liberty against Lefebvre's submitted objections.
+Lefebvre took these together as confirmation that the doctrinal disagreement was no longer ambiguous, and that the patience of the previous decade had reached its end.
 
-What Rome's own inspectors found inside the Society in those final months also belongs in the record. In November 1987 John Paul II sent Cardinal Édouard Gagnon to the Society as Apostolic Visitor. Gagnon spent a month examining its seminaries, schools, and priories, and on December 8, 1987, closed the visitation by assisting at Lefebvre's pontifical Mass at Écône, the Mass of an archbishop then under suspension. His report went to the pope and was never published.
+What Rome's own inspectors found inside the Society in those final months also belongs in the record.
+In November 1987 John Paul II sent Cardinal Édouard Gagnon to the Society as Apostolic Visitor.
+Gagnon spent a month examining its seminaries, schools, and priories, and on December 8, 1987, closed the visitation by assisting at Lefebvre's pontifical Mass at Écône, the Mass of an archbishop then under suspension.
+His report went to the pope and was never published.
 
-On June 30, 1988, Lefebvre consecrated four bishops without the papal mandate that canon law ordinarily requires. He did not pretend the act was ordinary. He called it "Operation Survival," and said that signing the agreement he no longer trusted would have been "Operation Suicide" for the traditional movement. In the consecration sermon he stated the ground of the act directly: "we find ourselves in a case of necessity."
+On June 30, 1988, Lefebvre consecrated four bishops without the papal mandate that canon law ordinarily requires.
+He did not pretend the act was ordinary.
+He called it "Operation Survival," and said that signing the agreement he no longer trusted would have been "Operation Suicide" for the traditional movement.
+In the consecration sermon he stated the ground of the act directly: "we find ourselves in a case of necessity."
 
-That is not a phrase Lefebvre invented to excuse himself. It is a category written into the Church's own law. Canon 1323 of the Code of Canon Law lists those who incur no penalty for breaking a law, and among them:
+That is not a phrase Lefebvre invented to excuse himself.
+It is a category written into the Church's own law.
+Canon 1323 of the Code of Canon Law lists those who incur no penalty for breaking a law, and among them:
 
 > "...a person who acted... by reason of necessity or grave inconvenience, unless, however, the act is intrinsically evil or tends to be harmful to souls."
 
-The Church's own legislation exempts from penalty a person who acts out of necessity, with two conditions: the act must not be intrinsically evil, and it must not tend to be harmful to souls. Both conditions are plainly met. Consecrating a bishop is not intrinsically evil; it is a holy act the Church performs constantly. And the consecrations did not harm souls. They served souls, by keeping the Mass, confession, and the sacraments available to faithful who would otherwise have lost them. The exemption in Canon 1323 therefore applies, and the penalty does not. This is not a strained reading. It is the plain operation of the canon, and serious canonists have argued the point in print since 1988.
+The Church's own legislation exempts from penalty a person who acts out of necessity, with two conditions: the act must not be intrinsically evil, and it must not tend to be harmful to souls.
+Both conditions are plainly met.
+Consecrating a bishop is not intrinsically evil; it is a holy act the Church performs constantly.
+And the consecrations did not harm souls.
+They served souls, by keeping the Mass, confession, and the sacraments available to faithful who would otherwise have lost them.
+The exemption in Canon 1323 therefore applies, and the penalty does not.
+This is not a strained reading.
+It is the plain operation of the canon, and serious canonists have argued the point in print since 1988.
 
-Two principles of the Church's own penal law reinforce the reading. The first is that penalties are interpreted strictly. Canon 18 directs that laws establishing a penalty are subject to strict interpretation, which in practice means they are read narrowly and in favor of the accused, never stretched to cover a case the law does not plainly reach. The second is that the law builds in fallbacks even where strict necessity might be doubted. Canon 1323 exempts from penalty altogether the man who acts from necessity. Canon 1324 provides that even if he was mistaken about the necessity, and even if the mistake was his own fault, the penalty must be diminished rather than imposed in full; and the same canon adds, in its third paragraph, that in such a case "the offender is not bound by a *latae sententiae* penalty" at all. That provision deserves to be read twice. The excommunication alleged against the 1988 and 2026 consecrations is precisely a *latae sententiae* penalty, and the Code itself says that a man who even wrongly, even culpably, believed himself in a state of necessity does not incur one. Canon 1345 goes further still: where the offense was committed out of necessity or grave fear, the judge may refrain from inflicting any punishment if the person's reform can be better accomplished another way. At every level the Church's law is built to lean against punishing a man who acted, rightly or wrongly, to meet what he judged to be an emergency. That is the opposite of the open-and-shut excommunication the charge against Lefebvre assumes.
+Two principles of the Church's own penal law reinforce the reading.
+The first is that penalties are interpreted strictly.
+Canon 18 directs that laws establishing a penalty are subject to strict interpretation, which in practice means they are read narrowly and in favor of the accused, never stretched to cover a case the law does not plainly reach.
+The second is that the law builds in fallbacks even where strict necessity might be doubted.
+Canon 1323 exempts from penalty altogether the man who acts from necessity.
+Canon 1324 provides that even if he was mistaken about the necessity, and even if the mistake was his own fault, the penalty must be diminished rather than imposed in full; and the same canon adds, in its third paragraph, that in such a case "the offender is not bound by a *latae sententiae* penalty" at all.
+That provision deserves to be read twice.
+The excommunication alleged against the 1988 and 2026 consecrations is precisely a *latae sententiae* penalty, and the Code itself says that a man who even wrongly, even culpably, believed himself in a state of necessity does not incur one.
+Canon 1345 goes further still: where the offense was committed out of necessity or grave fear, the judge may refrain from inflicting any punishment if the person's reform can be better accomplished another way.
+At every level the Church's law is built to lean against punishing a man who acted, rightly or wrongly, to meet what he judged to be an emergency.
+That is the opposite of the open-and-shut excommunication the charge against Lefebvre assumes.
 
-Nor is the necessity defense special pleading worked up for the Society's benefit. Georg May, professor of canon law at the University of Mainz for more than three decades and not a member of the SSPX, set out the doctrine of ecclesiastical necessity in a study published in 1984, four years before the consecrations. A state of necessity exists in the Church, he wrote, "when the endurance, order or activity of the Church are threatened or harmed in a considerable manner," above all in "ecclesiastical teaching, the liturgy and discipline"; in such a state no *latae sententiae* penalty can be incurred by one who acts to meet it; and "if an organ does not carry out its necessary or indispensable functions, the other organs have the duty and the right to use the power they have in the Church."
+Nor is the necessity defense special pleading worked up for the Society's benefit.
+Georg May, professor of canon law at the University of Mainz for more than three decades and not a member of the SSPX, set out the doctrine of ecclesiastical necessity in a study published in 1984, four years before the consecrations.
+A state of necessity exists in the Church, he wrote, "when the endurance, order or activity of the Church are threatened or harmed in a considerable manner," above all in "ecclesiastical teaching, the liturgy and discipline"; in such a state no *latae sententiae* penalty can be incurred by one who acts to meet it; and "if an organ does not carry out its necessary or indispensable functions, the other organs have the duty and the right to use the power they have in the Church."
 
-The principle of necessity has a long pedigree in Catholic moral theology, and the SSPX's appeal to it is not a slogan but a worked-out application of the manualist tradition. The standard manuals grade necessity by its depth. Dominicus Prümmer's *Manuale Theologiae Moralis* distinguishes light, grave, and extreme necessity, in spiritual matters as well as bodily; his own example of grave spiritual necessity is the dying sinner who cannot get to confession. The classical authors add a further case beyond all of these, grave public or common necessity: the situation in which not individual souls but whole categories of the faithful are in spiritual peril at once. The Society's 1988 theological study of the consecrations, drawing on canonists and moralists such as Palazzini and Génicot, applied exactly this framework. The post-conciliar collapse, it argued, had placed millions of souls in grave spiritual necessity, by depriving them of the formation and the sacramental life by which the faith is kept, and the Church as a whole in public necessity, by the collapse of doctrinal and liturgical transmission already documented above. Canon 1323 supplies the canonical exemption. The manualist framework supplies the moral-theological diagnosis.
+The principle of necessity has a long pedigree in Catholic moral theology, and the SSPX's appeal to it is not a slogan but a worked-out application of the manualist tradition.
+The standard manuals grade necessity by its depth.
+Dominicus Prümmer's *Manuale Theologiae Moralis* distinguishes light, grave, and extreme necessity, in spiritual matters as well as bodily; his own example of grave spiritual necessity is the dying sinner who cannot get to confession.
+The classical authors add a further case beyond all of these, grave public or common necessity: the situation in which not individual souls but whole categories of the faithful are in spiritual peril at once.
+The Society's 1988 theological study of the consecrations, drawing on canonists and moralists such as Palazzini and Génicot, applied exactly this framework.
+The post-conciliar collapse, it argued, had placed millions of souls in grave spiritual necessity, by depriving them of the formation and the sacramental life by which the faith is kept, and the Church as a whole in public necessity, by the collapse of doctrinal and liturgical transmission already documented above.
+Canon 1323 supplies the canonical exemption.
+The manualist framework supplies the moral-theological diagnosis.
 
-The divine warrant for the principle is older than the manualists. Christ said to those who criticized him for healing on the Sabbath: "Which of you, having a son or an ox that has fallen into a well, will not immediately pull him out on a sabbath day?" (Luke 14:5). The law is not voided. The case of necessity is what the law was always meant to make room for. The same figure recurs throughout the Catholic moral tradition. It is the doctor on a plane and the off-duty police officer at the scene of a crime: duties of state that bind without warrant when the moment arrives. The priest's duty of state, as the manualists held, binds him to act for the salvation of souls when the ordinary means have failed. On this reading, the lengths to which the SSPX has gone to keep the Mass and the sacraments available are not the lengths of rebellion. They are the lengths of duty.
+The divine warrant for the principle is older than the manualists.
+Christ said to those who criticized him for healing on the Sabbath: "Which of you, having a son or an ox that has fallen into a well, will not immediately pull him out on a sabbath day?"
+(Luke 14:5).
+The law is not voided.
+The case of necessity is what the law was always meant to make room for.
+The same figure recurs throughout the Catholic moral tradition.
+It is the doctor on a plane and the off-duty police officer at the scene of a crime: duties of state that bind without warrant when the moment arrives.
+The priest's duty of state, as the manualists held, binds him to act for the salvation of souls when the ordinary means have failed.
+On this reading, the lengths to which the SSPX has gone to keep the Mass and the sacraments available are not the lengths of rebellion.
+They are the lengths of duty.
 
-Critics object that the doctrine of necessity, taken loosely, could justify anything. It could not, and the SSPX has been careful about the limit. The doctrine is governed in Catholic moral theology by what is called the principle of minimal means: the remedy must be no greater than the case requires. The SSPX consecrates auxiliary bishops, not a parallel territorial hierarchy. It does not consecrate every priest. It does not name an Archbishop of any see. It does not declare a See vacant. It does not claim jurisdiction. The SSPX's own May 2026 communiqué states explicitly that the consecrations "do not proceed from any desire to claim a power of jurisdiction or to establish a parallel authority within the Church." That is the structural difference between a state of necessity and a schism. Necessity preserves communion in attenuated form. Schism severs it. The SSPX has consistently chosen the first and consistently refused the second.
+Critics object that the doctrine of necessity, taken loosely, could justify anything.
+It could not, and the SSPX has been careful about the limit.
+The doctrine is governed in Catholic moral theology by what is called the principle of minimal means: the remedy must be no greater than the case requires.
+The SSPX consecrates auxiliary bishops, not a parallel territorial hierarchy.
+It does not consecrate every priest.
+It does not name an Archbishop of any see.
+It does not declare a See vacant.
+It does not claim jurisdiction.
+The SSPX's own May 2026 communiqué states explicitly that the consecrations "do not proceed from any desire to claim a power of jurisdiction or to establish a parallel authority within the Church."
+That is the structural difference between a state of necessity and a schism.
+Necessity preserves communion in attenuated form.
+Schism severs it.
+The SSPX has consistently chosen the first and consistently refused the second.
 
-The shape of the act confirms it. Lefebvre did not set up a rival pope. He did not declare the See of Rome vacant. He consecrated bishops for one purpose, stated openly and limited deliberately: to keep priests being ordained. Then he submitted the act, and himself, to the judgment of God and of history. A man building a schism does not act that way. A man preserving the priesthood does. The consecrations announced for 2026 rest on the identical reasoning. Two SSPX bishops remain, both near seventy, and the arithmetic of 1988 has returned exactly as before.
+The shape of the act confirms it.
+Lefebvre did not set up a rival pope.
+He did not declare the See of Rome vacant.
+He consecrated bishops for one purpose, stated openly and limited deliberately: to keep priests being ordained.
+Then he submitted the act, and himself, to the judgment of God and of history.
+A man building a schism does not act that way.
+A man preserving the priesthood does.
+The consecrations announced for 2026 rest on the identical reasoning.
+Two SSPX bishops remain, both near seventy, and the arithmetic of 1988 has returned exactly as before.
 
 ## Necessity does not mean the Church failed
 
-One objection goes deeper than the others, and it has to be met on its own ground. If the Society holds that the 1988 consecrations were necessary to keep the faith and the sacraments alive, then it seems to hold that the ordinary ministry of the Church had failed to supply them. And Christ promised that his Church would never fail. "The gates of hell shall not prevail against it" (Matthew 16:18). "I am with you always, to the end of the age" (Matthew 28:20). An argument that requires the Church to have failed, the objection runs, is an argument against the promise of Christ himself.
+One objection goes deeper than the others, and it has to be met on its own ground.
+If the Society holds that the 1988 consecrations were necessary to keep the faith and the sacraments alive, then it seems to hold that the ordinary ministry of the Church had failed to supply them.
+And Christ promised that his Church would never fail.
+"The gates of hell shall not prevail against it" (Matthew 16:18).
+"I am with you always, to the end of the age" (Matthew 28:20).
+An argument that requires the Church to have failed, the objection runs, is an argument against the promise of Christ himself.
 
-The objection trades on an ambiguity, and naming it dissolves most of the force. To say the ordinary ministry has "failed" can mean two very different things. It can mean that the ordinary ministry no longer confers grace, that its sacraments are empty and its priesthood a fiction. Or it can mean that the ordinary ministry, in a time of crisis, is failing to guard and hand on the integral faith, and is leaving souls exposed. The Society has never claimed the first. It affirms that the new rite is valid, that the ordinary sacraments are real, that grace is truly given through them. Its claim is the second: that the faith is being lost on a vast scale through what is taught, prayed, and tolerated, and that the means of keeping it whole are being taken away. That is a claim about danger and deprivation, not about the disappearance of grace. The promise of Christ answers the first charge. The Society only ever made the second.
+The objection trades on an ambiguity, and naming it dissolves most of the force.
+To say the ordinary ministry has "failed" can mean two very different things.
+It can mean that the ordinary ministry no longer confers grace, that its sacraments are empty and its priesthood a fiction.
+Or it can mean that the ordinary ministry, in a time of crisis, is failing to guard and hand on the integral faith, and is leaving souls exposed.
+The Society has never claimed the first.
+It affirms that the new rite is valid, that the ordinary sacraments are real, that grace is truly given through them.
+Its claim is the second: that the faith is being lost on a vast scale through what is taught, prayed, and tolerated, and that the means of keeping it whole are being taken away.
+That is a claim about danger and deprivation, not about the disappearance of grace.
+The promise of Christ answers the first charge.
+The Society only ever made the second.
 
-The promise has to be read for what it actually guarantees. It guarantees that the Church as a whole, and the faith she carries, will never be destroyed. It does not guarantee that every diocese in every generation is sound, that no pope will govern badly, that no rite will ever be impoverished. The Church has lived through ages when most of her bishops failed. The Arian century, set out at the beginning of this essay, was exactly such an age: the faith survived not because the ordinary ministry held everywhere, but because a remnant kept it while most of the hierarchy bent. Indefectibility means the building will not burn to the ground. It does not mean the building never catches fire. To point at the rooms not yet burning and conclude there is no fire is to mistake the promise for something it was never given to be.
+The promise has to be read for what it actually guarantees.
+It guarantees that the Church as a whole, and the faith she carries, will never be destroyed.
+It does not guarantee that every diocese in every generation is sound, that no pope will govern badly, that no rite will ever be impoverished.
+The Church has lived through ages when most of her bishops failed.
+The Arian century, set out at the beginning of this essay, was exactly such an age: the faith survived not because the ordinary ministry held everywhere, but because a remnant kept it while most of the hierarchy bent.
+Indefectibility means the building will not burn to the ground.
+It does not mean the building never catches fire.
+To point at the rooms not yet burning and conclude there is no fire is to mistake the promise for something it was never given to be.
 
-The First Vatican Council said as much of the papal office in the very act of defining its highest prerogative. Defining papal infallibility in 1870, *Pastor Aeternus* was careful to fix its limit:
+The First Vatican Council said as much of the papal office in the very act of defining its highest prerogative.
+Defining papal infallibility in 1870, *Pastor Aeternus* was careful to fix its limit:
 
 > "the Holy Spirit was promised to the successors of Peter not so that they might, by his revelation, make known some new doctrine, but that, by his assistance, they might religiously guard and faithfully expound the revelation or deposit of faith transmitted by the apostles."
 
-The promise to Peter is a promise to preserve what was handed down. It is not a guarantee that every act of papal government will be wise, or that every directive will serve souls. A Catholic who distinguishes the preservation of the deposit from the prudence of a particular decision is not denying the promise. He is reading it as the Church defined it.
+The promise to Peter is a promise to preserve what was handed down.
+It is not a guarantee that every act of papal government will be wise, or that every directive will serve souls.
+A Catholic who distinguishes the preservation of the deposit from the prudence of a particular decision is not denying the promise.
+He is reading it as the Church defined it.
 
-Then comes the point that turns the objection over. The Society's whole action presupposes the very promise it is accused of denying. Why consecrate bishops at all? To keep the apostolic succession unbroken, to keep priests being ordained, to keep the Mass and the sacraments and the faith available within the Church. A man does not labor to preserve a thing he believes is perishing for good. He preserves it because he is certain it will endure and must be carried through to the far side of the crisis. Lefebvre's act was a wager on the indefectibility of the Church, not against it. He was not building a refuge outside a dying Church. He was keeping a lamp lit inside a Church he was sure would outlast the dark.
+Then comes the point that turns the objection over.
+The Society's whole action presupposes the very promise it is accused of denying.
+Why consecrate bishops at all?
+To keep the apostolic succession unbroken, to keep priests being ordained, to keep the Mass and the sacraments and the faith available within the Church.
+A man does not labor to preserve a thing he believes is perishing for good.
+He preserves it because he is certain it will endure and must be carried through to the far side of the crisis.
+Lefebvre's act was a wager on the indefectibility of the Church, not against it.
+He was not building a refuge outside a dying Church.
+He was keeping a lamp lit inside a Church he was sure would outlast the dark.
 
-The Church's own law settles the matter, because she has written necessity into it herself. The same Code the objection appeals to contains Canon 844, which lets a dying Catholic who cannot reach a Catholic priest receive absolution and the anointing of the sick from an Orthodox priest. The Church made that provision with her own hand. She did not treat it as an admission that she had failed. She treated it as the ordinary law making room for the extraordinary case, which is precisely what the state of necessity in Canon 1323 does. A Church that builds necessity into her own legislation cannot consistently say that pleading necessity is a denial of her indefectibility. The exception is hers, and it confirms the rule rather than breaking it. So the objection ends up reversed. To plead a state of necessity is not to declare the Church a failure. It is to say that the Church cannot fail, that the faith she carries is worth preserving at any price, and that when the ordinary channels falter the duty to keep it whole falls to whoever is still able to bear it.
+The Church's own law settles the matter, because she has written necessity into it herself.
+The same Code the objection appeals to contains Canon 844, which lets a dying Catholic who cannot reach a Catholic priest receive absolution and the anointing of the sick from an Orthodox priest.
+The Church made that provision with her own hand.
+She did not treat it as an admission that she had failed.
+She treated it as the ordinary law making room for the extraordinary case, which is precisely what the state of necessity in Canon 1323 does.
+A Church that builds necessity into her own legislation cannot consistently say that pleading necessity is a denial of her indefectibility.
+The exception is hers, and it confirms the rule rather than breaking it.
+So the objection ends up reversed.
+To plead a state of necessity is not to declare the Church a failure.
+It is to say that the Church cannot fail, that the faith she carries is worth preserving at any price, and that when the ordinary channels falter the duty to keep it whole falls to whoever is still able to bear it.
 
 ## The sacraments
 
-For most Catholics the practical questions matter more than the canonical theory, and the answers are clear. They rest on Rome's own decisions, not on the Society's claims.
+For most Catholics the practical questions matter more than the canonical theory, and the answers are clear.
+They rest on Rome's own decisions, not on the Society's claims.
 
-An SSPX Mass is a valid Mass. This has never been seriously disputed by anyone, including Rome. A valid Mass requires a validly ordained priest, valid matter, the words of consecration, and the intention to do what the Church does. SSPX priests are validly ordained in an unbroken apostolic line. At an SSPX Mass, Christ becomes truly present, and the Eucharist received there is truly his Body and Blood.
+An SSPX Mass is a valid Mass.
+This has never been seriously disputed by anyone, including Rome.
+A valid Mass requires a validly ordained priest, valid matter, the words of consecration, and the intention to do what the Church does.
+SSPX priests are validly ordained in an unbroken apostolic line.
+At an SSPX Mass, Christ becomes truly present, and the Eucharist received there is truly his Body and Blood.
 
-Attending an SSPX Mass fulfills the Sunday obligation. Canon 1248 of the Code of Canon Law provides that "a person who assists at a Mass celebrated anywhere in a Catholic rite" satisfies the obligation. The traditional Latin Mass is a Catholic rite, never abrogated, as Benedict XVI confirmed, and since *Summorum Pontificum* canonical opinion has settled firmly on that conclusion.
+Attending an SSPX Mass fulfills the Sunday obligation.
+Canon 1248 of the Code of Canon Law provides that "a person who assists at a Mass celebrated anywhere in a Catholic rite" satisfies the obligation.
+The traditional Latin Mass is a Catholic rite, never abrogated, as Benedict XVI confirmed, and since *Summorum Pontificum* canonical opinion has settled firmly on that conclusion.
 
-Confessions at an SSPX chapel are valid. Pope Francis granted SSPX priests the faculty to absolve sins validly and licitly, first for the Jubilee Year in 2015 and then permanently in 2016, writing that he did so "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" (*Misericordia et Misera*, 2016). A confession made to an SSPX priest is valid, and the absolution is real.
+Confessions at an SSPX chapel are valid.
+Pope Francis granted SSPX priests the faculty to absolve sins validly and licitly, first for the Jubilee Year in 2015 and then permanently in 2016, writing that he did so "lest anyone ever be deprived of the sacramental sign of reconciliation through the Church's pardon" (*Misericordia et Misera*, 2016).
+A confession made to an SSPX priest is valid, and the absolution is real.
 
-Marriages at an SSPX chapel are valid, with one practical step. Since a 2017 letter issued at Pope Francis's direction by the Congregation for the Doctrine of the Faith, the local bishop is to grant SSPX priests the delegation needed to witness marriages. The Society arranges this routinely; the only advice is to confirm it with the chapel in advance.
+Marriages at an SSPX chapel are valid, with one practical step.
+Since a 2017 letter issued at Pope Francis's direction by the Congregation for the Doctrine of the Faith, the local bishop is to grant SSPX priests the delegation needed to witness marriages.
+The Society arranges this routinely; the only advice is to confirm it with the chapel in advance.
 
-Baptism, confirmation, and the anointing of the sick administered by SSPX clergy are valid as well. The practical conclusion is plain. A Catholic who turns to the SSPX is not cut off from grace, not deprived of the sacraments, and not in any spiritual danger from the act of going there. Rome's own decisions establish this, and they are not ambiguous.
+Baptism, confirmation, and the anointing of the sick administered by SSPX clergy are valid as well.
+The practical conclusion is plain.
+A Catholic who turns to the SSPX is not cut off from grace, not deprived of the sacraments, and not in any spiritual danger from the act of going there.
+Rome's own decisions establish this, and they are not ambiguous.
 
 ## What Rome has done
 
 Across nearly four decades, the record of Rome's own actions runs steadily in the Society's favor.
 
-In 1988 the document *Ecclesia Dei* called the consecrations a "schismatic act" and described the SSPX's idea of Tradition as "incomplete and contradictory." That was the high point of the charges against the Society, and almost everything since has walked them back.
+In 1988 the document *Ecclesia Dei* called the consecrations a "schismatic act" and described the SSPX's idea of Tradition as "incomplete and contradictory."
+That was the high point of the charges against the Society, and almost everything since has walked them back.
 
-In 1993, Cardinal Ratzinger's Congregation for the Doctrine of the Faith annulled the excommunications the Bishop of Honolulu had imposed on faithful for adhering to the Society, ruling their actions "not sufficient to constitute the crime of schism." In 2007, *Summorum Pontificum* confirmed that the older Mass had never been juridically abrogated, vindicating the Society's central claim about the liturgy. In 2009, Rome lifted the excommunications of the four bishops, and the letter Benedict XVI wrote to the world's bishops to explain that decision repays reading in full. He called the remission a "discreet gesture of mercy towards four Bishops ordained validly but not legitimately." He asked, of a community then counting 491 priests and 215 seminarians: "Can we simply exclude them, as representatives of a radical fringe, from our pursuit of reconciliation and unity?" He observed that "at times one gets the impression that our society needs to have at least one group to which no tolerance may be shown; which one can easily attack and hate." And he stated that the problems remaining between the SSPX and a normal canonical status were "essentially doctrinal in nature." In plain terms, Rome was no longer treating the Society as a body to be punished, but as one raising a question to be answered. Francis went further still. He received Bishop Fellay in audience in April 2016, the first meeting between a pope and a Superior General of the Society in over a decade, and told *La Croix* the following month that the Society's faithful "are Catholics on the way to full communion." In 2016 he made the SSPX's confession faculties permanent. In 2017 he provided the framework for its marriages. Step by step, Rome confirmed the Society's liturgy, lifted its penalties, and secured its sacraments.
+In 1993, Cardinal Ratzinger's Congregation for the Doctrine of the Faith annulled the excommunications the Bishop of Honolulu had imposed on faithful for adhering to the Society, ruling their actions "not sufficient to constitute the crime of schism."
+In 2007, *Summorum Pontificum* confirmed that the older Mass had never been juridically abrogated, vindicating the Society's central claim about the liturgy.
+In 2009, Rome lifted the excommunications of the four bishops, and the letter Benedict XVI wrote to the world's bishops to explain that decision repays reading in full.
+He called the remission a "discreet gesture of mercy towards four Bishops ordained validly but not legitimately."
+He asked, of a community then counting 491 priests and 215 seminarians: "Can we simply exclude them, as representatives of a radical fringe, from our pursuit of reconciliation and unity?"
+He observed that "at times one gets the impression that our society needs to have at least one group to which no tolerance may be shown; which one can easily attack and hate."
+And he stated that the problems remaining between the SSPX and a normal canonical status were "essentially doctrinal in nature."
+In plain terms, Rome was no longer treating the Society as a body to be punished, but as one raising a question to be answered.
+Francis went further still.
+He received Bishop Fellay in audience in April 2016, the first meeting between a pope and a Superior General of the Society in over a decade, and told *La Croix* the following month that the Society's faithful "are Catholics on the way to full communion."
+In 2016 he made the SSPX's confession faculties permanent.
+In 2017 he provided the framework for its marriages.
+Step by step, Rome confirmed the Society's liturgy, lifted its penalties, and secured its sacraments.
 
-This is not the trajectory of a Church expelling a schism. It is the trajectory of a Church slowly conceding that the Society had been right about the things that mattered most.
+This is not the trajectory of a Church expelling a schism.
+It is the trajectory of a Church slowly conceding that the Society had been right about the things that mattered most.
 
-The May 2026 warning from the Dicastery for the Doctrine of the Faith, that the planned consecrations would be "a schismatic act," does not break that pattern. It repeats 1988. The SSPX's answer is the answer it has given for forty years, the answer Rome's own later conduct kept confirming: the consecrations are an act of necessity to preserve the priesthood, not a refusal of the pope. The question Rome itself has named as doctrinal will not be settled by a canonical threat. It will be settled when Rome takes up the doctrine, and on that question the Society has been waiting, and holding its ground, the whole time.
+The May 2026 warning from the Dicastery for the Doctrine of the Faith, that the planned consecrations would be "a schismatic act," does not break that pattern.
+It repeats 1988.
+The SSPX's answer is the answer it has given for forty years, the answer Rome's own later conduct kept confirming: the consecrations are an act of necessity to preserve the priesthood, not a refusal of the pope.
+The question Rome itself has named as doctrinal will not be settled by a canonical threat.
+It will be settled when Rome takes up the doctrine, and on that question the Society has been waiting, and holding its ground, the whole time.
 
 ## The question of fruits
 
-Christ gave a test for exactly this kind of question: "By their fruits you shall know them" (Matthew 7:16). Applied to the SSPX, the test returns a clear result.
+Christ gave a test for exactly this kind of question: "By their fruits you shall know them" (Matthew 7:16).
+Applied to the SSPX, the test returns a clear result.
 
-While diocesan seminaries emptied, the Society's seminaries kept filling. It has grown to 733 priests serving nearly 800 Mass centers worldwide, with 264 men in formation in its five seminaries. Its chapels are full of young families, large families, and children who can actually explain what they believe. After 2021, when access to the traditional Mass within the dioceses was sharply restricted, the Society grew again, because in many places it had become the one place that Mass could still be found. The communities Rome formed from the Society's ranks show the same vitality: the Priestly Fraternity of St. Peter, founded in 1988, today counts nearly four hundred priests whose average age is thirty-nine.
+While diocesan seminaries emptied, the Society's seminaries kept filling.
+It has grown to 733 priests serving nearly 800 Mass centers worldwide, with 264 men in formation in its five seminaries.
+Its chapels are full of young families, large families, and children who can actually explain what they believe.
+After 2021, when access to the traditional Mass within the dioceses was sharply restricted, the Society grew again, because in many places it had become the one place that Mass could still be found.
+The communities Rome formed from the Society's ranks show the same vitality: the Priestly Fraternity of St. Peter, founded in 1988, today counts nearly four hundred priests whose average age is thirty-nine.
 
-A movement built on pride and error does not bear fruit like that. It withers. What the SSPX has produced instead, for more than fifty years and now into a third generation, is the ordinary substance of Catholic life: vocations, stable marriages, formed and believing children, full churches. Our Lord said that is how the matter is known. By that measure the verdict is not close.
+A movement built on pride and error does not bear fruit like that.
+It withers.
+What the SSPX has produced instead, for more than fifty years and now into a third generation, is the ordinary substance of Catholic life: vocations, stable marriages, formed and believing children, full churches.
+Our Lord said that is how the matter is known.
+By that measure the verdict is not close.
 
 ## Why clarity converts
 
-There is a reason the collapse and the Society's growth point the same way, and it is worth stating plainly. The faith is handed on by being taught with conviction. People come to believe what the Church proclaims without hesitation, and they quietly stop believing what she seems unsure of. A Church that softens her hard teachings, blurs her worship, and qualifies her claims about Christ and his Church does not become more appealing to the modern world. She becomes easier to ignore. The figures in this essay are what that looks like a generation on: not a Church that taught the hard things and was rejected, but a Church that stopped teaching them and was abandoned anyway.
+There is a reason the collapse and the Society's growth point the same way, and it is worth stating plainly.
+The faith is handed on by being taught with conviction.
+People come to believe what the Church proclaims without hesitation, and they quietly stop believing what she seems unsure of.
+A Church that softens her hard teachings, blurs her worship, and qualifies her claims about Christ and his Church does not become more appealing to the modern world.
+She becomes easier to ignore.
+The figures in this essay are what that looks like a generation on: not a Church that taught the hard things and was rejected, but a Church that stopped teaching them and was abandoned anyway.
 
-The Society bet the other way. It kept the old Mass, the old catechism, and the old clarity about who Christ is and what he asks, and it preached them without apology. The result is not a museum but a living thing: full churches, large families, young men at the altar. People want the truth, and they can tell when the one charged with handing it on no longer sounds sure of it. A Church confident in her own faith is the one that converts; a hesitant one converts no one, least of all herself. Whatever else the Society has gotten right or wrong, it has kept that confidence, and that, more than any argument from canon law, is why its case deserves a hearing.
+The Society bet the other way.
+It kept the old Mass, the old catechism, and the old clarity about who Christ is and what he asks, and it preached them without apology.
+The result is not a museum but a living thing: full churches, large families, young men at the altar.
+People want the truth, and they can tell when the one charged with handing it on no longer sounds sure of it.
+A Church confident in her own faith is the one that converts; a hesitant one converts no one, least of all herself.
+Whatever else the Society has gotten right or wrong, it has kept that confidence, and that, more than any argument from canon law, is why its case deserves a hearing.
 
 ## Conclusion
 
-The question of the Society of Saint Pius X is a genuinely complicated one. It sits at the meeting point of canon law, sacramental theology, the authority of councils, and fifty years of tangled history, and anyone who says it can be settled in a sentence has not understood it. But complexity is not the same as uncertainty. The deeper the evidence is examined, the clearer the case becomes, and what it shows is consistent. The Society celebrates a Mass that Rome admits was never abolished. It holds doctrines the Church taught for centuries and has never repealed. It recognizes the pope, prays for him by name, and rejects every claim that the office is vacant. It resists particular commands on the perennial authority of Torquemada, Cajetan, Bellarmine, Suárez, Ott, and Van Noort, and on the example of St. Paul. Its sacraments are valid, its confessions licit by the pope's own grant, its Masses sufficient for the Sunday obligation. Its founding act stands on a provision of the Church's own law, on the category of necessity that the Catholic moral tradition worked out in detail centuries before, and on the precedent of Cardinal Slipyj in 1977, which Rome itself treated with silence and later vindication. And over forty years Rome has lifted its penalties, confirmed its liturgy, secured its sacraments, and conceded that the real dispute is doctrinal.
+The question of the Society of Saint Pius X is a genuinely complicated one.
+It sits at the meeting point of canon law, sacramental theology, the authority of councils, and fifty years of tangled history, and anyone who says it can be settled in a sentence has not understood it.
+But complexity is not the same as uncertainty.
+The deeper the evidence is examined, the clearer the case becomes, and what it shows is consistent.
+The Society celebrates a Mass that Rome admits was never abolished.
+It holds doctrines the Church taught for centuries and has never repealed.
+It recognizes the pope, prays for him by name, and rejects every claim that the office is vacant.
+It resists particular commands on the perennial authority of Torquemada, Cajetan, Bellarmine, Suárez, Ott, and Van Noort, and on the example of St. Paul.
+Its sacraments are valid, its confessions licit by the pope's own grant, its Masses sufficient for the Sunday obligation.
+Its founding act stands on a provision of the Church's own law, on the category of necessity that the Catholic moral tradition worked out in detail centuries before, and on the precedent of Cardinal Slipyj in 1977, which Rome itself treated with silence and later vindication.
+And over forty years Rome has lifted its penalties, confirmed its liturgy, secured its sacraments, and conceded that the real dispute is doctrinal.
 
-Set against all of that, the three words usually attached to the Society do not hold. It is not excommunicated; the penalties were lifted in 2009. It is not in schism; Rome's own doctrinal congregation refused in 1993 to treat adherence to it as the crime of schism, the Vatican official responsible for it said so plainly in 2005, and the Church's own definition of schism does not fit it. It is not in revolt against the pope; it refuses certain of his commands while affirming his office, which is precisely what the Church's own saints and theologians have always said a Catholic may do when the faith is at stake.
+Set against all of that, the three words usually attached to the Society do not hold.
+It is not excommunicated; the penalties were lifted in 2009.
+It is not in schism; Rome's own doctrinal congregation refused in 1993 to treat adherence to it as the crime of schism, the Vatican official responsible for it said so plainly in 2005, and the Church's own definition of schism does not fit it.
+It is not in revolt against the pope; it refuses certain of his commands while affirming his office, which is precisely what the Church's own saints and theologians have always said a Catholic may do when the faith is at stake.
 
-What is true is that the Society's canonical situation remains unresolved. That is a real wound. But it is a wound the SSPX did not inflict, and one it has never been willing to heal on dishonest terms. It is the wound of a Church in crisis, and the Society has carried it rather than betray what it was founded to keep.
+What is true is that the Society's canonical situation remains unresolved.
+That is a real wound.
+But it is a wound the SSPX did not inflict, and one it has never been willing to heal on dishonest terms.
+It is the wound of a Church in crisis, and the Society has carried it rather than betray what it was founded to keep.
 
-Lefebvre put the Society's whole intention into one sentence, preached at Écône in 1976: "We are of the religion of all time; we are of the Catholic religion." On the evidence, that is exactly what the Society is. It kept the faith and the Mass through a crisis that cost the rest of the Church most of its practice and much of its belief. It was right to do so, and one day the Church is likely to say so plainly.
+Lefebvre put the Society's whole intention into one sentence, preached at Écône in 1976: "We are of the religion of all time; we are of the Catholic religion."
+On the evidence, that is exactly what the Society is.
+It kept the faith and the Mass through a crisis that cost the rest of the Church most of its practice and much of its belief.
+It was right to do so, and one day the Church is likely to say so plainly.
 
 *Last updated: June 2026.*

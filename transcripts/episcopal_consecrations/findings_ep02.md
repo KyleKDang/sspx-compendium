@@ -13,7 +13,8 @@ source_file: ep02.md
 
 ## Summary
 
-A long-form interview with Bishop Bernard Fellay — the most senior living SSPX bishop and the man who governed the Society for twenty-four years through every major Roman negotiation of the post-1988 era — on the doctrinal-canonical structure of the SSPX's stance, the discernment that produced the 1988 consecrations, the analogies the Society uses to explain its position, and the framing of the current 2026 consecrations as a continuation of the same logic. The episode is unusually rich: it contains (a) Fellay's eyewitness accounts of the 1987 Lefebvre–Ratzinger exchange and the 1976 Lefebvre–Paul VI exchange, (b) a major canonical claim about the **historical novelty of the excommunication penalty** for unauthorized episcopal consecration (introduced 1951, not present in the 1917 Code) — which is largely verified and which §7 currently lacks, (c) a battery of state-of-necessity analogies (Hurricane Katrina, fire/firemen, danger-of-death sacraments, tree/sap, Alzheimer's parents, the child commanded to steal), (d) Fellay's eyewitness recollection of his first meeting with Pope Francis ("You are Catholic. I do not condemn you"), and (e) the "operation survival / operation suicide" framing in Lefebvre's own voice.
+A long-form interview with Bishop Bernard Fellay — the most senior living SSPX bishop and the man who governed the Society for twenty-four years through every major Roman negotiation of the post-1988 era — on the doctrinal-canonical structure of the SSPX's stance, the discernment that produced the 1988 consecrations, the analogies the Society uses to explain its position, and the framing of the current 2026 consecrations as a continuation of the same logic.
+The episode is unusually rich: it contains (a) Fellay's eyewitness accounts of the 1987 Lefebvre–Ratzinger exchange and the 1976 Lefebvre–Paul VI exchange, (b) a major canonical claim about the **historical novelty of the excommunication penalty** for unauthorized episcopal consecration (introduced 1951, not present in the 1917 Code) — which is largely verified and which §7 currently lacks, (c) a battery of state-of-necessity analogies (Hurricane Katrina, fire/firemen, danger-of-death sacraments, tree/sap, Alzheimer's parents, the child commanded to steal), (d) Fellay's eyewitness recollection of his first meeting with Pope Francis ("You are Catholic. I do not condemn you"), and (e) the "operation survival / operation suicide" framing in Lefebvre's own voice.
 
 This is much more directly load-bearing material than ep01.
 
@@ -29,14 +30,19 @@ Fellay's claim (paraphrased):
 > "Even in the old canon law, the penalty foreseen in the case of a bishop making bishops without the approval of Rome is not excommunication. It's only a suspension — a suspense for an abuse of power… The idea of making a schism, which means establishing a parallel church, comes with the Chinese [Patriotic Catholic Association] in the fifties. So you really wonder why they did put the excommunication in the new Code of Canon Law."
 
 **Verification (web-checked 2026-05-29):**
-- **1917 CIC Canon 2370** prescribed *suspension only* (suspended *ipso iure*, reserved to the Apostolic See) for episcopal consecration without papal mandate. Excommunication was *not* the prescribed penalty.
-- **Holy Office Decree of August 9, 1951** introduced the *latae sententiae* excommunication, reserved *specialissimo modo* to the Apostolic See, for those who confer or receive episcopal consecration without papal mandate. This was the first appearance of excommunication as the penalty.
+- **1917 CIC Canon 2370** prescribed *suspension only* (suspended *ipso iure*, reserved to the Apostolic See) for episcopal consecration without papal mandate.
+  Excommunication was *not* the prescribed penalty.
+- **Holy Office Decree of August 9, 1951** introduced the *latae sententiae* excommunication, reserved *specialissimo modo* to the Apostolic See, for those who confer or receive episcopal consecration without papal mandate.
+  This was the first appearance of excommunication as the penalty.
 - ***Ad Apostolorum Principis*** (Pius XII, June 29, 1958) reaffirmed and applied this penalty in the explicit context of the Chinese Patriotic Catholic Association, which was then forcing unauthorized consecrations on the Chinese clergy.
-- **1983 CIC Canon 1382** carried the *latae sententiae* excommunication forward into the new Code. Renumbered Canon **1387** by Francis's *Pascite Gregem Dei* (2021).
+- **1983 CIC Canon 1382** carried the *latae sententiae* excommunication forward into the new Code.
+  Renumbered Canon **1387** by Francis's *Pascite Gregem Dei* (2021).
 
-**Net:** Fellay is correct in substance — pre-1951 the penalty was suspension, not excommunication; the change is mid-20th century; the canonical context was the Chinese situation under Pius XII. The only refinement is that the specific date is **August 9, 1951** (Holy Office decree) rather than "Ad Apostolorum Principis" (1958), which reinforced it.
+**Net:** Fellay is correct in substance — pre-1951 the penalty was suspension, not excommunication; the change is mid-20th century; the canonical context was the Chinese situation under Pius XII.
+The only refinement is that the specific date is **August 9, 1951** (Holy Office decree) rather than "Ad Apostolorum Principis" (1958), which reinforced it.
 
-**Value:** §7 currently treats Canon 1382/1387 without giving its history. This canonical-history argument is genuinely load-bearing for the SSPX case: if pre-1951 canon law treated unauthorized episcopal consecration as merely an abuse of power (suspension) and not as schismatic, then the modern characterization of the 1988 consecrations as inherently "schismatic" is itself a historically contingent reading. §7 should incorporate this.
+**Value:** §7 currently treats Canon 1382/1387 without giving its history.
+This canonical-history argument is genuinely load-bearing for the SSPX case: if pre-1951 canon law treated unauthorized episcopal consecration as merely an abuse of power (suspension) and not as schismatic, then the modern characterization of the 1988 consecrations as inherently "schismatic" is itself a historically contingent reading. §7 should incorporate this.
 
 Sources for the §7 footnote/citation:
 - [1917 CIC Canon 2370 — restorethe54.com PDF of the Pio-Benedictine Code](https://cdn.restorethe54.com/media/pdf/1917-code-of-canon-law-english.pdf)
@@ -52,9 +58,13 @@ Sources for the §7 footnote/citation:
 Fellay's account:
 > "The Archbishop told the Pope, saying: 'The Church before you was speaking of religious liberty as giving a clear teaching, and you give another one on this same matter. So whom do we have to obey?' … And Pope Paul VI answered: 'We are not here to do theology.' In other words, he just did not enter into the matter."
 
-**Caveat:** Fellay was *not* present at this exchange (he was 18 in 1976 and not yet in the Society). He is recounting Lefebvre's own account. The exchange occurred during the September 11, 1976 audience between Lefebvre and Paul VI. **VERIFY** against the Tissier de Mallerais biography and against Lefebvre's own published account of that audience.
+**Caveat:** Fellay was *not* present at this exchange (he was 18 in 1976 and not yet in the Society).
+He is recounting Lefebvre's own account.
+The exchange occurred during the September 11, 1976 audience between Lefebvre and Paul VI.
+**VERIFY** against the Tissier de Mallerais biography and against Lefebvre's own published account of that audience.
 
-**Value:** if verifiable, this is one of the cleanest summaries of the SSPX's foundational dilemma — *which* teaching of the Church am I obliged to follow when the recent teaching contradicts the long-standing teaching? Belongs in §5 Part II (*Dignitatis Humanae*) and §10 Part I (The Core Claim).
+**Value:** if verifiable, this is one of the cleanest summaries of the SSPX's foundational dilemma — *which* teaching of the Church am I obliged to follow when the recent teaching contradicts the long-standing teaching?
+Belongs in §5 Part II (*Dignitatis Humanae*) and §10 Part I (The Core Claim).
 
 ---
 
@@ -66,11 +76,13 @@ Fellay's account (he was Lefebvre's secretary at this period and was likely pres
 **Verification (web-checked 2026-05-29):**
 - The July 14, 1987 meeting is documented in multiple sources (Rorate Caeli's published Lefebvre recollection; Tissier de Mallerais biography; FSSPX.news "Operation Survival" historical series).
 - The substantive disagreement — Ratzinger arguing for the legitimacy of *Dignitatis Humanae*'s development of religious liberty against Lefebvre's 1,500-years-of-Catholic-state argument — is widely attested.
-- The specific verbatim "It was wrong. It was wrong" / "We will never be able to work together" wording does **not** appear in this exact form in the publicly accessible accounts I checked. Fellay may be presenting a faithful but informal recollection of substance rather than a verbatim transcript.
+- The specific verbatim "It was wrong. It was wrong" / "We will never be able to work together" wording does **not** appear in this exact form in the publicly accessible accounts I checked.
+  Fellay may be presenting a faithful but informal recollection of substance rather than a verbatim transcript.
 
 **Recommendation:** if used, attribute as "Fellay's recollection of the exchange" rather than as a verbatim quote, and indicate where additional verification (e.g., the Tissier biography) would be helpful.
 
-**Value:** this is the most consequential single doctrinal encounter in modern Catholic traditionalism — the moment two Catholic theologians of opposite formation determined that they could not be reconciled at the level of principles. If Fellay's recollection is substantially accurate, it belongs in §5 (*Dignitatis Humanae*), §10 (the impasse paragraph), and possibly §3 (Lefebvre profile).
+**Value:** this is the most consequential single doctrinal encounter in modern Catholic traditionalism — the moment two Catholic theologians of opposite formation determined that they could not be reconciled at the level of principles.
+If Fellay's recollection is substantially accurate, it belongs in §5 (*Dignitatis Humanae*), §10 (the impasse paragraph), and possibly §3 (Lefebvre profile).
 
 ---
 
@@ -79,7 +91,8 @@ Fellay's account (he was Lefebvre's secretary at this period and was likely pres
 Fellay reports that Rome formally accepted dubia (formal canonical questions submitted to the CDF) from Lefebvre on the *Dignitatis Humanae* text:
 > "Rome did recognize that the religious liberty of Vatican II is a new thing — is something new. They insisted to say it is in continuity, but it is something new."
 
-**Verification needed:** the date Rome responded (Fellay tentatively places it in late 1987 or early 1988), the text of Rome's response, and the precise concession ("something new… in continuity"). This is a major SSPX point — that Rome itself acknowledged *Dignitatis Humanae* as a development from prior teaching — and warrants careful sourcing if added.
+**Verification needed:** the date Rome responded (Fellay tentatively places it in late 1987 or early 1988), the text of Rome's response, and the precise concession ("something new… in continuity").
+This is a major SSPX point — that Rome itself acknowledged *Dignitatis Humanae* as a development from prior teaching — and warrants careful sourcing if added.
 
 **Value:** §5's treatment of *Dignitatis Humanae* would be substantially strengthened by documenting that Rome's own dubia response conceded the novelty point.
 
@@ -87,7 +100,8 @@ Fellay reports that Rome formally accepted dubia (formal canonical questions sub
 
 ### §10 Case For — HIGH PRIORITY (analogy material)
 
-This episode provides multiple SSPX-native analogies that the §10 Part IV (State of Necessity) section currently lacks. All of these are deployed by Fellay in service of the SSPX's case and are exactly the kind of "native analogies" that [[feedback_analogy_sourcing]] specifically tells us to prefer.
+This episode provides multiple SSPX-native analogies that the §10 Part IV (State of Necessity) section currently lacks.
+All of these are deployed by Fellay in service of the SSPX's case and are exactly the kind of "native analogies" that [[feedback_analogy_sourcing]] specifically tells us to prefer.
 
 **ANALOGY — Hurricane Katrina / fire-without-firemen / sacraments-in-danger-of-death.** (~34:49–37:20)
 
@@ -100,7 +114,10 @@ Fellay's chain (paraphrase, lightly tidied):
 >
 > "That's the purpose of the Church, and we are at the same level here with the ordination of bishops."
 
-**Value:** this is the cleanest natural-law-style argument for the SSPX's invocation of necessity. The danger-of-death-non-Catholic-priest example is canonically real (Canon 844 §2 of the 1983 CIC, drawing on a long pre-conciliar tradition) and the parallel to unauthorized episcopal consecration is exactly the argument the SSPX makes. Currently §10 Part IV gives the *canonical foundation* (Canon 1323 §4) and the *classical theological foundation* but does not give the *intuitive analogical case*. This belongs in §10 Part IV between "The Canonical Foundation" and "Lefebvre's Application."
+**Value:** this is the cleanest natural-law-style argument for the SSPX's invocation of necessity.
+The danger-of-death-non-Catholic-priest example is canonically real (Canon 844 §2 of the 1983 CIC, drawing on a long pre-conciliar tradition) and the parallel to unauthorized episcopal consecration is exactly the argument the SSPX makes.
+Currently §10 Part IV gives the *canonical foundation* (Canon 1323 §4) and the *classical theological foundation* but does not give the *intuitive analogical case*.
+This belongs in §10 Part IV between "The Canonical Foundation" and "Lefebvre's Application."
 
 ---
 
@@ -109,7 +126,8 @@ Fellay's chain (paraphrase, lightly tidied):
 Fellay deploying this in response to the objection "the SSPX disobeys the pope":
 > "Children receive the order from their father to steal — to make a theft. They will say no to their father. It does not mean that they do not recognize that he is their father. They still recognize the fatherhood. They still recognize the authority of the father. But on this precise point, they say no. And that's about our situation. We fundamentally are members of the Church. We fundamentally accept all the principles of the Church. And one of them, which is important, is: there is an authority, and the highest authority is the pope."
 
-**Value:** this is the single best one-paragraph rebuttal to the "you disobey the pope, therefore you reject papal authority" objection. Belongs in §10 Part VIII (Objections) and in §12 (Point-by-point debate).
+**Value:** this is the single best one-paragraph rebuttal to the "you disobey the pope, therefore you reject papal authority" objection.
+Belongs in §10 Part VIII (Objections) and in §12 (Point-by-point debate).
 
 ---
 
@@ -117,7 +135,8 @@ Fellay deploying this in response to the objection "the SSPX disobeys the pope":
 
 > "It's like a tree. As long as the branches are still on that tree, they will receive from the sap. If you get away from the tree, you no longer receive it."
 
-Fellay uses this to explain why the SSPX *insists* on remaining juridically inside the Catholic Church even when its dealings with Rome are painful. Compact and useful for §1 (Self-Understanding) or §10 (the parallel-church objection).
+Fellay uses this to explain why the SSPX *insists* on remaining juridically inside the Catholic Church even when its dealings with Rome are painful.
+Compact and useful for §1 (Self-Understanding) or §10 (the parallel-church objection).
 
 ---
 
@@ -126,7 +145,10 @@ Fellay uses this to explain why the SSPX *insists* on remaining juridically insi
 Fellay's response to "How should faithful Catholics view Rome?":
 > "It is another image which I like a lot. If your father, if your mother, is losing their mind, if they become Alzheimer's, if they no longer recognize you — do you go away? No. You take even more care of your parents when they are in such a situation. And I may say that's difficult to combine both. You're not going to say what they say under Alzheimer's is fine. No, you don't say that. But you say: I'm not going away nevertheless… You have this combination of two elements which can be heroic."
 
-**Value:** this is the single best analogy for "how should an ordinary lay Catholic *feel* about the present situation of Rome?" It captures the SSPX's combination of (a) refusal to deny the problem, (b) refusal to leave, and (c) intensified rather than diminished filial devotion. Belongs in §15 (Forming Your Stance) — specifically in any section guiding the lay reader's posture toward Rome. May also belong in §1 (Self-Understanding) as a vivid summary of the SSPX's stance.
+**Value:** this is the single best analogy for "how should an ordinary lay Catholic *feel* about the present situation of Rome?"
+It captures the SSPX's combination of (a) refusal to deny the problem, (b) refusal to leave, and (c) intensified rather than diminished filial devotion.
+Belongs in §15 (Forming Your Stance) — specifically in any section guiding the lay reader's posture toward Rome.
+May also belong in §1 (Self-Understanding) as a vivid summary of the SSPX's stance.
 
 ---
 
@@ -135,22 +157,27 @@ Fellay's response to "How should faithful Catholics view Rome?":
 Lefebvre's own characterization, in Fellay's recollection:
 > "[The Archbishop] called the consecration of bishops 'Operation Survival.' And he said, if we would have gone with Rome, it would have been 'Operation Suicide.' He realized — they want our death."
 
-**Verification:** this framing is widely attested in SSPX literature and was the title of FSSPX.news's own 2018 thirty-year retrospective on the 1988 consecrations. The phrase is genuinely Lefebvre's.
+**Verification:** this framing is widely attested in SSPX literature and was the title of FSSPX.news's own 2018 thirty-year retrospective on the 1988 consecrations.
+The phrase is genuinely Lefebvre's.
 
-**Value:** §10 currently treats the 1988 consecrations in measured canonical terms. The "Operation Survival" framing is Lefebvre's own *internal* characterization of why he acted — which deserves a place in §10 Part IV (state of necessity) and §2 (timeline) for the 1988 entry.
+**Value:** §10 currently treats the 1988 consecrations in measured canonical terms.
+The "Operation Survival" framing is Lefebvre's own *internal* characterization of why he acted — which deserves a place in §10 Part IV (state of necessity) and §2 (timeline) for the 1988 entry.
 
 ---
 
 **FRAMING — The two "signs from God" Lefebvre asked for and received.** (~22:33–28:06)
 
-Per Fellay, Lefebvre prayed each night before the Blessed Sacrament during the year before the consecrations, asking for signs to confirm the will of God. He received two:
+Per Fellay, Lefebvre prayed each night before the Blessed Sacrament during the year before the consecrations, asking for signs to confirm the will of God.
+He received two:
 
 1. **Assisi (October 27, 1986)** — the inter-religious prayer event hosted by John Paul II, which Lefebvre identified as a doctrinal break with the prior magisterium on religious indifferentism.
 2. **The dubia response (1987 or early 1988)** — Rome's formal acknowledgment that *Dignitatis Humanae*'s teaching on religious liberty was "something new."
 
 Lefebvre named these two signs explicitly in his **June 30, 1988 consecration sermon**.
 
-**Value:** this is the personal discernment narrative that lies behind the 1988 act. It humanizes the consecrations and frames them as the result of deliberate prayer and discernment rather than an act of pique. Belongs in §3 (Lefebvre profile, expanding the existing "Episcopal consecrations (1988)" pointer) and §2 (timeline, the 1988 entry).
+**Value:** this is the personal discernment narrative that lies behind the 1988 act.
+It humanizes the consecrations and frames them as the result of deliberate prayer and discernment rather than an act of pique.
+Belongs in §3 (Lefebvre profile, expanding the existing "Episcopal consecrations (1988)" pointer) and §2 (timeline, the 1988 entry).
 
 ---
 
@@ -164,7 +191,8 @@ Fellay's articulation of the SSPX's epistemological position:
 Applied to religious liberty:
 > "The fact that during a century the ordinary magisterium of the Church has always taught the same — it comes to something infallible. Let's say at least it is a possessed teaching which is so close to infallibility… and suddenly with this declaration of Vatican II you jeopardize this pacific possession of a truth taught by the Church."
 
-**Value:** §5's treatment of the hermeneutic-of-continuity question is good but could be strengthened by adding the SSPX's specific *magisterial-weight* argument: that the universal ordinary magisterium of a century or more carries an infallibility weight that a Conciliar Declaration cannot overturn. This is the SSPX's theological reply to "but it's a *Council*, you must submit."
+**Value:** §5's treatment of the hermeneutic-of-continuity question is good but could be strengthened by adding the SSPX's specific *magisterial-weight* argument: that the universal ordinary magisterium of a century or more carries an infallibility weight that a Conciliar Declaration cannot overturn.
+This is the SSPX's theological reply to "but it's a *Council*, you must submit."
 
 ---
 
@@ -175,7 +203,8 @@ Applied to religious liberty:
 Fellay:
 > "You know when Pope Francis was elected, I was certain we are going to be excommunicated. And I really already reflected in my head: how do I prepare the priests, the faithful, to what's going to happen? And my first meeting with Pope Francis, he tells me: 'You are Catholic. I do not condemn you.'"
 
-**Value:** this exchange — if Fellay's recollection is accurate — represents a Roman pontiff's *personal* affirmation that the SSPX is Catholic, even before the 2016/2017 sacramental normalizations. §3's Fellay profile and §8 (Papal Documents) currently treat Francis's actions toward the SSPX without including this personal statement. The date of the meeting would need to be confirmed — most likely the April 1, 2016 audience or a subsequent meeting, but the transcript does not specify.
+**Value:** this exchange — if Fellay's recollection is accurate — represents a Roman pontiff's *personal* affirmation that the SSPX is Catholic, even before the 2016/2017 sacramental normalizations. §3's Fellay profile and §8 (Papal Documents) currently treat Francis's actions toward the SSPX without including this personal statement.
+The date of the meeting would need to be confirmed — most likely the April 1, 2016 audience or a subsequent meeting, but the transcript does not specify.
 
 ---
 
@@ -190,7 +219,8 @@ The SSPX position framed as the *narrow middle* between:
 - the abyss of (in Fellay's view) accepting post-conciliar teaching that the SSPX considers irreconcilable with prior magisterium, and
 - the abyss of sedevacantism / "Resistance" rejection of Rome altogether.
 
-**Value:** §15 (Forming Your Stance) currently structures the reader's decision but does not have this specific compact framing. The two-abysses image fits naturally in §15 as the SSPX's own self-presentation of its decision.
+**Value:** §15 (Forming Your Stance) currently structures the reader's decision but does not have this specific compact framing.
+The two-abysses image fits naturally in §15 as the SSPX's own self-presentation of its decision.
 
 ---
 
@@ -203,7 +233,8 @@ Fellay:
 >
 > "Because precisely, you must have the intention to establish something outside of the established church. And that I may say is the difference between the Resistance, the sedevacantists, and us. We still do recognize — we're accused of being a contradiction, in contradiction of that — we do recognize these genuine authorities in the Church. It's a principle. It really belongs to the way our Lord has established His Church."
 
-**Value:** this is a sharp, specifically canonical version of the §10 Part VIII parallel-church response — sharper than the one I added in the ep01 pass. The combination of (a) the historical canon law point (pre-1951 the penalty was suspension only) and (b) the intent-required-for-schism point gives a stronger version of the SSPX's case. §10 Part VIII and §12 (the schism debate) both benefit.
+**Value:** this is a sharp, specifically canonical version of the §10 Part VIII parallel-church response — sharper than the one I added in the ep01 pass.
+The combination of (a) the historical canon law point (pre-1951 the penalty was suspension only) and (b) the intent-required-for-schism point gives a stronger version of the SSPX's case. §10 Part VIII and §12 (the schism debate) both benefit.
 
 ---
 
@@ -211,18 +242,25 @@ Fellay:
 
 **Pope Benedict's "council of the media" / SSPX counter.** (~1:03:30–1:05:14)
 
-Benedict's February 14, 2013 address to the Roman clergy distinguished the "Council of the Fathers" (the real Council) from the "Council of the media" (which Benedict said was responsible for much of the post-conciliar disorder). Fellay's reply:
+Benedict's February 14, 2013 address to the Roman clergy distinguished the "Council of the Fathers" (the real Council) from the "Council of the media" (which Benedict said was responsible for much of the post-conciliar disorder).
+Fellay's reply:
 > "Who wrote the text? It was not the media. Who has the keys, who is teaching in the Church how we have to understand the Council? Isn't it the pope? Isn't it the Roman Curia? Isn't it the bishops? They are in charge. How can you put all the burden on the media?"
 
-**Value:** modest — it's a polemical SSPX rejoinder to a Benedict speech. Could go in §5 (Hermeneutics) as part of the discussion of post-conciliar reception, but it is more debate-style than analytical. Defer unless §12 needs it.
+**Value:** modest — it's a polemical SSPX rejoinder to a Benedict speech.
+Could go in §5 (Hermeneutics) as part of the discussion of post-conciliar reception, but it is more debate-style than analytical.
+Defer unless §12 needs it.
 
 **Garrigou-Lagrange 1950 prediction on the gifts of the Holy Ghost.** (~1:08:39)
 
-Fellay attributes to Garrigou-Lagrange (1950) a prediction that "there will be a time, there will be so much confusion, the only way to get through is through the gifts of the Holy Ghost." **Unverified.** This may be a real Garrigou prediction or it may be SSPX oral tradition. Do not propagate without verification against Garrigou's published works.
+Fellay attributes to Garrigou-Lagrange (1950) a prediction that "there will be a time, there will be so much confusion, the only way to get through is through the gifts of the Holy Ghost."
+**Unverified.** This may be a real Garrigou prediction or it may be SSPX oral tradition.
+Do not propagate without verification against Garrigou's published works.
 
 **The Lefebvre 1982 Albano note.** (~21:53)
 
-Fellay reports a Lefebvre note from 1982 (six years before the consecrations) in which Lefebvre wrote that "maybe one day we will have to consecrate bishops." **Verify** against the Tissier biography. If verified, belongs in §2 (1980s timeline) and §3 (Lefebvre profile) as evidence of how long Lefebvre deliberated.
+Fellay reports a Lefebvre note from 1982 (six years before the consecrations) in which Lefebvre wrote that "maybe one day we will have to consecrate bishops."
+**Verify** against the Tissier biography.
+If verified, belongs in §2 (1980s timeline) and §3 (Lefebvre profile) as evidence of how long Lefebvre deliberated.
 
 ---
 
@@ -243,12 +281,15 @@ No outright conflicts; this episode mostly *adds* material rather than contradic
 
 ## Print-verification flags
 
-1. **The Lefebvre–Paul VI 1976 exchange ("we are not here to do theology")** — verify against Tissier de Mallerais biography (English ed. 2004), chapter on the 1976 suspension and the September 11 audience. Almost certainly a real exchange but I have only Fellay's secondhand recollection.
-2. **The Lefebvre–Ratzinger July 14, 1987 exchange — verbatim wording** — the meeting is verified historically but the specific "It was wrong. It was wrong." / "We will never be able to work together" formulations were not located verbatim in publicly accessible sources. Verify against the Tissier biography and the Lefebvre archives.
+1. **The Lefebvre–Paul VI 1976 exchange ("we are not here to do theology")** — verify against Tissier de Mallerais biography (English ed. 2004), chapter on the 1976 suspension and the September 11 audience.
+   Almost certainly a real exchange but I have only Fellay's secondhand recollection.
+2. **The Lefebvre–Ratzinger July 14, 1987 exchange — verbatim wording** — the meeting is verified historically but the specific "It was wrong. It was wrong." / "We will never be able to work together" formulations were not located verbatim in publicly accessible sources.
+   Verify against the Tissier biography and the Lefebvre archives.
 3. **Rome's 1987/88 dubia response on religious liberty** — verify date, addressee, and the precise "something new in continuity" wording attributed by Fellay.
 4. **The Lefebvre 1982 Albano note** — verify against Tissier biography.
 5. **Garrigou-Lagrange 1950 prediction on the gifts of the Holy Ghost** — unverified; may not be a real Garrigou citation.
-6. **Fellay's first meeting with Pope Francis ("You are Catholic. I do not condemn you")** — verify the meeting date (probably 2014 audience or the April 1, 2016 meeting). The "Catholic / I do not condemn you" line is widely cited in SSPX sources but should be matched to its specific occasion.
+6. **Fellay's first meeting with Pope Francis ("You are Catholic. I do not condemn you")** — verify the meeting date (probably 2014 audience or the April 1, 2016 meeting).
+   The "Catholic / I do not condemn you" line is widely cited in SSPX sources but should be matched to its specific occasion.
 
 ---
 
@@ -256,13 +297,20 @@ No outright conflicts; this episode mostly *adds* material rather than contradic
 
 If approved, apply in this order:
 
-1. **§7 Canon Law — HIGH PRIORITY.** Add a subsection (or substantive paragraph) on the **history of the excommunication penalty** for unauthorized episcopal consecration. The narrative: 1917 CIC Canon 2370 → suspension only; 1951 Holy Office Decree → excommunication added; 1958 *Ad Apostolorum Principis* → reinforced in the Chinese context; 1983 CIC Canon 1382 (renumbered 1387 by *Pascite Gregem Dei* 2021) → carried into the current Code. This is a load-bearing argument for the SSPX's position that the 1988 act was not "schismatic" in the pre-1951 canonical sense, and §7 should not be without it.
+1. **§7 Canon Law — HIGH PRIORITY.** Add a subsection (or substantive paragraph) on the **history of the excommunication penalty** for unauthorized episcopal consecration.
+   The narrative: 1917 CIC Canon 2370 → suspension only; 1951 Holy Office Decree → excommunication added; 1958 *Ad Apostolorum Principis* → reinforced in the Chinese context; 1983 CIC Canon 1382 (renumbered 1387 by *Pascite Gregem Dei* 2021) → carried into the current Code.
+   This is a load-bearing argument for the SSPX's position that the 1988 act was not "schismatic" in the pre-1951 canonical sense, and §7 should not be without it.
 
-2. **§5 Vatican II — *Dignitatis Humanae* section.** Add the Lefebvre–Ratzinger July 14, 1987 exchange as documented illustration of the doctrinal impasse. Attribute Fellay's specific verbatim as "Fellay's recollection" until print-verified. Add the universal-ordinary-magisterium argument as the SSPX's reply to "but it's a Conciliar Declaration."
+2. **§5 Vatican II — *Dignitatis Humanae* section.** Add the Lefebvre–Ratzinger July 14, 1987 exchange as documented illustration of the doctrinal impasse.
+   Attribute Fellay's specific verbatim as "Fellay's recollection" until print-verified.
+   Add the universal-ordinary-magisterium argument as the SSPX's reply to "but it's a Conciliar Declaration."
 
-3. **§10 Case For — Part IV (State of Necessity).** Add the Hurricane Katrina / fire / danger-of-death-non-Catholic-priest analogy chain between the "Canonical Foundation" and "Lefebvre's Application" subsections. Add "Operation Survival vs. Operation Suicide" as the SSPX's *internal* characterization. Add the canonical-history point from item 1 as the SSPX's response to the "schismatic act" charge in Part VIII / VI.
+3. **§10 Case For — Part IV (State of Necessity).** Add the Hurricane Katrina / fire / danger-of-death-non-Catholic-priest analogy chain between the "Canonical Foundation" and "Lefebvre's Application" subsections.
+   Add "Operation Survival vs. Operation Suicide" as the SSPX's *internal* characterization.
+   Add the canonical-history point from item 1 as the SSPX's response to the "schismatic act" charge in Part VIII / VI.
 
-4. **§10 Case For — Part VIII (Objections) + §12 (Debate).** Add the child-of-a-father-commanded-to-theft analogy as the SSPX's response to "the SSPX disobeys the pope." Add the intent-required-for-schism argument to the parallel-church objection.
+4. **§10 Case For — Part VIII (Objections) + §12 (Debate).** Add the child-of-a-father-commanded-to-theft analogy as the SSPX's response to "the SSPX disobeys the pope."
+   Add the intent-required-for-schism argument to the parallel-church objection.
 
 5. **§15 Forming Your Stance.** Add the Alzheimer's-parents analogy and the two-abysses framing.
 
@@ -278,13 +326,17 @@ If approved, apply in this order:
 
 ## My honest take
 
-This episode is substantially more useful for the compendium than ep01. Ep01 was biographical color and the founding framing; this episode is the *theological and canonical structure of the SSPX's case*, delivered by the man who governed the Society for a quarter-century and who personally witnessed most of the events he describes.
+This episode is substantially more useful for the compendium than ep01.
+Ep01 was biographical color and the founding framing; this episode is the *theological and canonical structure of the SSPX's case*, delivered by the man who governed the Society for a quarter-century and who personally witnessed most of the events he describes.
 
 The highest-value items, ranked:
 
-1. **The canonical history of the excommunication penalty** (1917 → 1951 → 1958 → 1983). This is a clean, verifiable, load-bearing argument that §7 currently lacks and the SSPX consistently makes. *Apply this even if nothing else.*
+1. **The canonical history of the excommunication penalty** (1917 → 1951 → 1958 → 1983).
+   This is a clean, verifiable, load-bearing argument that §7 currently lacks and the SSPX consistently makes.
+   *Apply this even if nothing else.*
 
-2. **The state-of-necessity analogy chain** (Katrina, fire, danger-of-death-non-Catholic-priest). The intuitive case the §10 currently lacks.
+2. **The state-of-necessity analogy chain** (Katrina, fire, danger-of-death-non-Catholic-priest).
+   The intuitive case the §10 currently lacks.
 
 3. **The Alzheimer's-parents analogy.** The single best lay-Catholic framing I have seen anywhere for how to relate to Rome in the present crisis.
 
