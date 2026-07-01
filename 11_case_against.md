@@ -30,7 +30,7 @@ The Catholic faith is not transmitted by ideas alone but by the visible communio
 
 The Second Vatican Council was a legitimate ecumenical council of the Catholic Church.
 Its documents, whatever their pastoral or dogmatic weight, were promulgated by the Roman Pontiff in union with the bishops of the universal Church, the highest organ of teaching authority short of solemn definition.
-They are owed religious submission of will and intellect (*religiosum voluntatis et intellectus obsequium*) per Canon 752 of the Code of Canon Law and the consistent teaching of the Church on the Magisterium.
+They are owed religious submission of intellect and will (*religiosum ... intellectus et voluntatis obsequium*) per Canon 752 of the Code of Canon Law and the consistent teaching of the Church on the Magisterium.
 
 A Catholic who finds himself in apparent disagreement with a Council teaching has, properly, three options:
 
@@ -90,7 +90,8 @@ To disobey that command, no matter how strong the disobedient party's reasons ap
 The SSPX appeals to Bellarmine, Cajetan, and Suárez to justify its resistance.
 This appeal is selective.
 
-Bellarmine, Cajetan, and Suárez, like the entire pre-Vatican-I tradition they represent, wrote *before* the dogmatic definition of papal primacy at Vatican I. Their reflections on resistance were developed in a theological context where the precise scope of papal jurisdiction was not yet defined.
+Bellarmine, Cajetan, and Suárez, like the entire pre-Vatican-I tradition they represent, wrote *before* the dogmatic definition of papal primacy at Vatican I.
+Their reflections on resistance were developed in a theological context where the precise scope of papal jurisdiction was not yet defined.
 After 1870, the framework changes.
 
 More importantly, none of these theologians authorized the kind of action Lefebvre took.
@@ -113,14 +114,15 @@ The first is resistance; the second is institution-building, which requires auth
 
 ### The Limits of the State of Necessity
 
-The state of necessity (Canon 1323 §4) is a real canonical principle, but its application is constrained.
+The state of necessity (Canon 1323, 4°) is a real canonical principle, but its application is constrained.
 
 First, "necessity" in canon law means *strict* necessity: a situation in which no other course of action is available.
 In 1988, this condition was not met.
-Rome had offered, in the May 5 Protocol, to consecrate a bishop for the SSPX.
+In the May 5, 1988 Protocol, Rome had committed in writing to consecrate a bishop for the Society, a member of the SSPX chosen on Lefebvre's own presentation of candidates, and to regularize the Society as a canonical structure of its own.
 Lefebvre signed the agreement.
-He then retracted his signature within 24 hours, not because Rome had reneged, but because he did not trust Rome to follow through.
-This is not strict necessity; it is preemptive action based on suspicion.
+He repudiated it the next day, not because Rome had reneged, but because he was not satisfied that Rome would deliver the bishop on his timetable.
+The means of securing episcopal succession was thus already on the table, in a signed document, when Lefebvre chose instead to consecrate four bishops unilaterally.
+This is not strict necessity; it is preemptive action based on suspicion of a future Roman default that had not yet occurred.
 
 Second, the necessity must be such that the act in question is the *only* available means of preventing the harm.
 In 1988, even if Lefebvre had not consecrated bishops, the priests he had already ordained would have continued ministering for decades.
@@ -174,11 +176,10 @@ All of this has happened *within* full Catholic communion: without episcopal con
 This is the empirical refutation of the SSPX's central practical claim: that without the 1988 consecrations, traditional Catholicism would have died out.
 It did not die out.
 It survived in canonical communion.
-The SSPX's institutional response was not necessary because the alternative was demonstrated to be possible.
 
 ### The FSSP and the Vindication
 
-The FSSP today has hundreds of priests, multiple seminaries, parishes across the world, and vocations comparable to or exceeding those of the SSPX.
+The FSSP today has close to four hundred priests (387 as of November 2025, with an average age of thirty-nine), multiple seminaries, parishes across the world, and vocations comparable to or exceeding those of the SSPX.
 Its priests celebrate exclusively the Traditional Mass.
 Its formation is doctrinally serious.
 Its families are observant.
@@ -197,7 +198,8 @@ The FSSP accepts Vatican II while maintaining the traditional liturgy and format
 If the SSPX's distinctive contribution is not preserving tradition (which the FSSP has demonstrated can be done in canonical communion) but maintaining a particular theological posture toward Vatican II, then the question becomes: is that theological posture itself worth the cost of the canonical irregularity?
 Is the rejection of specific Council teachings, at the level of institutional self-definition, so important that it justifies forty years of irregular ministry, the formation of generations of Catholics in suspicion toward the visible Church, and the public scandal of an irregular structure within Catholicism?
 
-The mainstream Catholic critic answers: no. The traditional liturgy and formation could be preserved through canonical communities.
+The mainstream Catholic critic answers: no.
+The traditional liturgy and formation could be preserved through canonical communities.
 The theological dispute over Vatican II can be pursued through scholarly and ecclesial dialogue without requiring institutional separation.
 The SSPX's specific choice to make its theological posture the basis of an irregular institution was not necessary for the preservation of tradition.
 It was a choice, and it was the wrong choice.
@@ -220,7 +222,8 @@ Three things make one a member of the Catholic Church: baptism, profession of th
 
 The SSPX claims the first two: their members are baptized and profess what they take to be the true faith.
 The question of the third, submission to legitimate authority, is precisely what the SSPX's institutional structure compromises.
-The Society's bishops were consecrated against the explicit will of the Pope, who possesses the supreme jurisdiction defined at Vatican I. Its priests minister without the canonical mission that comes from communion with the diocesan bishop.
+The Society's bishops were consecrated against the explicit will of the Pope, who possesses the supreme jurisdiction defined at Vatican I.
+Its priests minister without the canonical mission that comes from communion with the diocesan bishop.
 Its faithful are formed in a posture of treating the visible Catholic hierarchy as suspect on grounds that the SSPX itself has decided.
 
 This is not a small canonical detail.
@@ -233,6 +236,7 @@ The SSPX argues it has not withdrawn: it recognizes the Pope as Pope, prays for 
 But communion with the Pope is not merely a matter of recognition.
 It is also a matter of submission to his jurisdiction, especially in matters of the discipline and government of the Church.
 When the Pope explicitly prohibits an act and the act is performed anyway, communion with the Pope is *materially* broken in that act, however much it is *formally* affirmed in word.
+The competent Roman authority has said as much: assessing the consecrations planned for July 2026, the Dicastery for the Doctrine of the Faith declared on May 13, 2026 that to consecrate bishops against the express prohibition of the Pope is "a schismatic act," one that of itself severs the bond of communion whatever recognition of the Pope accompanies it in word.
 
 ### The Problem of Cherry-Picking the Magisterium
 
@@ -426,11 +430,17 @@ The sacramental faculties have been normalized, addressing the practical pastora
 *Summorum Pontificum* freed the Traditional Mass, addressing the central liturgical concern.
 
 Rome has done what Rome can do.
-What Rome cannot do is regularize a Society that, as a matter of identity, refuses to accept the legitimate teaching of an ecumenical council.
-To do so would be to undermine the council itself, the principle of magisterial authority, and the visible unity of the Church.
+What it cannot do, as the 2012 refusal already showed, is regularize a Society that, as a matter of identity, refuses to receive the teaching of an ecumenical council.
 
 The barrier to regularization is therefore not on Rome's side.
-It is on the SSPX's. As long as the Society defines itself by opposition to specific Council teachings, it cannot be regularized, not because Rome refuses but because the SSPX has made regularization incompatible with its self-understanding.
+It is on the SSPX's.
+As long as the Society defines itself by opposition to specific Council teachings, it cannot be regularized, not because Rome refuses but because the SSPX has made regularization incompatible with its self-understanding.
+
+The events of 2026 confirm this reading.
+On February 2, 2026, at Flavigny, Fr. Pagliarani announced that the Society would consecrate four new bishops on July 1, 2026, at Écône, again without a pontifical mandate: the first such consecrations since 1988, undertaken while the Society remains in an unresolved canonical situation and after Rome had extended, over nearly two decades, the very accommodations described above.
+On May 13, 2026, the Dicastery for the Doctrine of the Faith, through its prefect Cardinal Víctor Manuel Fernández, publicly declared the planned consecrations "a schismatic act" carrying *latae sententiae* excommunication ("of a sentence already passed," that is, incurred automatically by the act itself).
+For the mainstream critic this is the pattern's confirmation, not its exception: presented with the choice between regularization on the Church's terms and the perpetuation of its own reserve hierarchy, the Society chose, once again, to replicate the act of 1988 rather than to close the breach.
+The SSPX's May 26, 2026 General House communiqué answered with disclaimers that the new bishops claim no jurisdiction and in no way deny the pope's supreme power; but for the critic a disclaimer of jurisdiction does not cure a positive act reserved to papal authority and performed against an explicit prohibition, and the willingness to repeat that act after so many concessions shows precisely where the obstacle lies.
 
 If the SSPX truly sought reunion with Rome, the path would be open: acceptance of Vatican II as authentic Church teaching, while continuing to engage its specific passages theologically within the legitimate framework of Catholic scholarship and ecclesial dialogue.
 Many serious theologians do exactly this.
@@ -460,14 +470,16 @@ Taken together, the arguments converge on a serious critique:
 - **The formation argument** establishes that the SSPX has produced not only spiritual fruit but spiritual harm: a culture of suspicion, sectarianism, and grievance that is a serious pastoral problem.
 - **The solidarity argument** establishes that the SSPX has, by its institutional self-isolation, largely absented itself from the great Catholic struggles of our age, weakening rather than strengthening the Catholic witness against the modern world.
 - **The dispute argument** establishes that even the genuine theological concerns of the SSPX could have been pursued through legitimate Catholic channels rather than through institutional irregularity.
-- **The 2012 argument** establishes that the barrier to regularization is on the SSPX's side, not Rome's. Rome has done what it can. The SSPX has chosen its institutional identity over the path to reconciliation.
+- **The 2012 argument** establishes that the barrier to regularization is on the SSPX's side, not Rome's.
+  Rome has done what it can.
+  The SSPX has chosen its institutional identity over the path to reconciliation, a choice reaffirmed in 2026 when, rather than close the breach, the Society announced four new episcopal consecrations without papal mandate, which the Dicastery for the Doctrine of the Faith declared a schismatic act.
 
 The cumulative case is therefore not a desperate condemnation but a serious Catholic critique.
 The SSPX is not a heretical sect.
 Its members are not damned.
 Its sacraments are valid.
 But its institutional response to the post-conciliar situation has been wrong: disproportionate, counterproductive, and ultimately incompatible with the Catholic Church's visible unity.
-It has produced real spiritual fruit at the cost of real spiritual harm, preserved tradition while fragmenting the Church, and resisted error by separating from the visible Catholic Church under Peter.
+It has produced real spiritual fruit, but at the cost of real spiritual harm; it has preserved much of the tradition, yet at the price of the Church's visible unity; and it has resisted error by the very act of standing apart from the visible Catholic Church under Peter.
 
 ### The Critic's Personal Note
 
@@ -505,7 +517,7 @@ Those responses are taken up in §12.
 | Formation | SSPX produces sectarian patterns alongside spiritual fruit | Williamson phenomenon; pastoral observations |
 | Solidarity | SSPX has largely absented itself from real Catholic struggles | Institutional isolation; reduced engagement with pro-life, religious liberty struggles |
 | Dispute | Legitimate channels exist for theological dispute | Cardinal Müller, scholarly theologians, canonical traditional communities |
-| 2012 | Barrier to regularization is on SSPX side | Doctrinal Preamble negotiations; Rome's accommodations vs. SSPX refusals |
+| 2012 and after | Barrier to regularization is on SSPX side | Doctrinal Preamble negotiations; Rome's accommodations vs. SSPX refusals; Feb 2, 2026 consecration announcement and the DDF's May 13, 2026 "schismatic act" declaration |
 
 ---
 
