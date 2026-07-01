@@ -23,9 +23,7 @@ Here we let the SSPX speak.
 
 The Catholic Church possesses a deposit of faith, handed down from the apostles, transmitted through Scripture and Tradition, taught universally by the ordinary Magisterium, and defined by Councils and popes across two thousand years.
 This deposit is unchanging in substance, though it can be more deeply understood and more clearly articulated over time.
-It cannot contradict itself.
-It cannot be reversed by subsequent teaching.
-It is the rule against which everything proposed for Catholic belief must be measured.
+Because it cannot contradict itself, it cannot be reversed by subsequent teaching, and it remains the rule against which everything proposed for Catholic belief must be measured.
 
 In the years following the Second Vatican Council (1962–1965), specific developments occurred within the Catholic Church that appear, on careful examination, to contradict prior definitive Catholic teaching.
 The clearest cases, though not the only ones, are:
@@ -40,8 +38,7 @@ The prior definitive teaching prevails, both because it is definitive (and there
 
 The Society of Saint Pius X exists to hold to the prior definitive teaching where there is apparent contradiction, to preserve the traditional liturgical, doctrinal, and pastoral patrimony of the Catholic Church, and to provide the sacraments and Catholic formation to those who recognize the gravity of the present situation.
 
-This is the core claim.
-Everything else follows.
+This is the core claim, and everything else follows from it.
 
 ---
 
@@ -79,9 +76,7 @@ This is taught:
 - By **the Syllabus of Errors** (1864), condemning the proposition that "in the present day it is no longer expedient that the Catholic religion should be held as the only religion of the State."
 - By the consistent teaching of the Catholic catechisms, theology manuals, and seminary formation from Trent through Pius XII.
 
-This is taught everywhere, always, by all.
-It meets the Vincentian Canon.
-It is part of the deposit of faith.
+This is taught everywhere, always, and by all; it meets the Vincentian Canon and is part of the deposit of faith.
 
 The doctrine follows from premises the Church holds as certain: that Christ is King by right over all creation, not only over private hearts, and that the state, as a moral agent established by God, is bound by the divine law it did not author.
 It was on this basis that Leo XIII called it "a public crime to act as though there were no God" (*Immortale Dei*, 1885).
@@ -272,7 +267,7 @@ Two of His own examples in this dispute frame the distinction:
 
 The argument is structural rather than incidental.
 Christ is not setting aside the Sabbath; He is showing that *the very purpose for which the Sabbath was given* (the right ordering of life toward God) requires, in an emergency, the suspension of its ordinary observance.
-This is the same logic the SSPX invokes for the consecrations: the law exists to serve the salvation of souls, and where its observance would frustrate that end, the law must yield.
+This is the same logic the SSPX invokes for the consecrations, now with a dominical warrant behind it: the emergency does not wait on the letter.
 
 ### Charity and the Duty of State
 
@@ -361,7 +356,7 @@ The state-of-necessity argument proceeds as follows:
 
 This argument is not frivolous.
 The pseudonymous canonists Hirpinus and Causidicus defended it in detailed studies [→ §13 Source Library], and in July 1988 Cardinal Rosalio Castillo Lara, then president of the Pontifical Commission for the Authentic Interpretation of the Code of Canon Law, told *La Repubblica* that consecrating a bishop without papal mandate is "not in itself a schismatic act" (he later disputed the use made of his words, but the canonical observation stands).
-The 2009 lifting of the excommunications, without any retraction by the SSPX of its claim that the consecrations were justified, can be read as Rome's quiet concession that the canonical situation was more complicated than *Ecclesia Dei* had suggested.
+The 2009 lifting of the excommunications, granted at the SSPX bishops' request but without any retraction by the SSPX of its claim that the consecrations were justified, can be read as Rome's quiet concession that the canonical situation was more complicated than *Ecclesia Dei* had suggested.
 
 A natural objection presents itself at exactly this point.
 The whole argument rests on Lefebvre's own judgment that an emergency existed and that Rome could not be trusted to provide for it.
@@ -385,7 +380,7 @@ The framing is sharp, and intended to be: it captures Lefebvre's judgment that t
 Lefebvre articulated the necessity argument directly in the consecration sermon itself.
 Speaking at Écône on June 30, 1988, immediately before laying hands on Williamson, Tissier de Mallerais, de Galarreta, and Fellay, he addressed the assembled faithful, who had broken into spontaneous applause, by reframing their reaction as a theological recognition rather than an emotional outburst:
 
-> "Thus we find ourselves in a case of necessity. We have done all we could, trying to help Rome to understand that they had to come back…
+> "Thus, we find ourselves in a case of necessity. We have done all we could, trying to help Rome to understand that they had to come back…
 >
 > Your applause a while ago was, I think, not a purely temporal manifestation; it was rather a spiritual manifestation, expressing your joy to have at last Catholic bishops and priests who are dedicated to the salvation of your souls, to giving to your souls the life of Our Lord Jesus Christ through good doctrine, through the sacraments, through the faith, through the Holy Sacrifice of the Mass…
 >
@@ -463,10 +458,7 @@ The SSPX position is grounded in classical Catholic theology, specifically in th
 
 > "If the pope gives an order contrary to right customs, one need not obey him; if he attempts to do something manifestly opposed to justice and the common good, it will be licit to resist him."
 
-These are not marginal voices.
-Bellarmine is a Doctor of the Church.
-Cajetan was the most distinguished Thomist of his era.
-Suárez was perhaps the greatest scholastic theologian of the post-Tridentine period.
+These are not marginal voices: Bellarmine is a Doctor of the Church, Cajetan was the most distinguished Thomist of his era, and Suárez was perhaps the greatest scholastic theologian of the post-Tridentine period.
 All three teach explicitly that resistance to a wayward pope is, in limit cases, not only permissible but obligatory.
 
 The SSPX is not claiming any of the popes have been heretics in the strict technical sense.
@@ -621,7 +613,7 @@ The canonical distinction between *schism* and *disobedience* is itself load-bea
 Schism in the canonical sense is "the refusal of submission to the Supreme Pontiff or of communion with the members of the Church subject to him" (1983 CIC Canon 751, carrying forward 1917 CIC Canon 1325 §2); the canonists gloss this as a systematic and habitual refusal of dependence, a withdrawal from the dependent relation itself.
 Transient disobedience to a particular command, even sinful disobedience, is structurally a different category.
 The little child who refuses to clean his room is disobedient; the teenage runaway who declares "who are you to tell me what to do" and leaves the household is in a structurally different position.
-The SSPX's posture is the former kind, not the latter: it has consistently and explicitly affirmed the Roman Pontiff's authority to give jurisdiction, prayed for him at every Mass, and stated through its leadership in 2026 that the newly consecrated bishops are to lay their episcopate before the pope and receive his judgment on it once the crisis ends.
+The SSPX's posture is the former kind, not the latter: it has consistently and explicitly affirmed the Roman Pontiff's authority to give jurisdiction, prayed for him at every Mass, and stated through its leadership in 2026 that the consecrations "do not proceed from any desire to claim a power of jurisdiction" and "in no way" constitute "a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the Roman Pontiff (General House communiqué, May 26, 2026).
 
 A further structural observation sharpens the point.
 The same Rome that prepares (per the DDF's May 13, 2026 statement) to charge the SSPX with schism for consecrating bishops who explicitly do *not* claim jurisdiction over any faithful is, at the same time, treating three other communities as partners rather than as schismatics, even though each holds or claims episcopal authority outside the jurisdiction of Rome in a way that meets the pre-1988 canonical criteria for schism far more clearly than anything the SSPX has done.
@@ -685,7 +677,7 @@ Slipyj's cause for canonization is open in Rome.
 Jaroslav Pelikan, in *Confessor Between East and West: A Portrait of Ukrainian Cardinal Josyf Slipyj* (Eerdmans, 1990), records Slipyj's anguished judgment that the Roman Curia was causing him and the Ukrainian Catholic Church more trouble than the Soviet atheists had.
 
 *The SSPX as the fourth case.* The Society's posture is structurally closest to Slipyj's, and the gap from the CPA and Palmar de Troya cases is correspondingly wide.
-Like Slipyj, the SSPX (a) is responding to a perceived existential threat to the preservation of an integral Catholic patrimony (in Slipyj's case the Ukrainian Greek Catholic Church; in the SSPX's case the Roman Catholic priesthood of immemorial tradition), (b) consecrates auxiliary bishops, not territorial bishops, (c) explicitly disclaims the conferral of jurisdiction on the consecrated bishops, (d) frames the consecrated bishops as a reserve hierarchy to be laid down before the pope at the crisis's end, (e) has engaged in years of patient and respectful petition to Rome before acting (Slipyj's 1969 petition to be elevated patriarch; the SSPX's doctrinal dialogue with Rome since 2009 and its petition for a meeting with Leo XIV), and (f) maintains a deliberately *minimal* episcopate: four consecrations in 1988, no replacements through 2026 (Tissier de Mallerais died October 8, 2024; Williamson was expelled in 2012 and died January 29, 2025), four to be added July 1, 2026, well below the apostolate's actual operational need [→ §1 Overview for SSPX scale].
+Like Slipyj, the SSPX (a) is responding to a perceived existential threat to the preservation of an integral Catholic patrimony (in Slipyj's case the Ukrainian Greek Catholic Church; in the SSPX's case the Roman Catholic priesthood of immemorial tradition), (b) consecrates auxiliary bishops, not territorial bishops, (c) explicitly disclaims the conferral of jurisdiction on the consecrated bishops, (d) frames the consecrated bishops as a reserve hierarchy that claims no jurisdiction and affirms the pope's supreme power to give it (the May 26, 2026 communiqué's disclaimers), (e) has engaged in years of patient and respectful petition to Rome before acting (Slipyj's 1969 petition to be elevated patriarch; the SSPX's doctrinal dialogue with Rome since 2009 and its petition for a meeting with Leo XIV), and (f) maintains a deliberately *minimal* episcopate: four consecrations in 1988, no replacements through 2026 (Tissier de Mallerais died October 8, 2024; Williamson was expelled in 2012 and died January 29, 2025), four to be added July 1, 2026, well below the apostolate's actual operational need [→ §1 Overview for SSPX scale].
 The structural conclusion: if Slipyj's 1977 consecrations did not constitute schism (and Rome's subsequent practice, culminating in Husar's 2001 cardinalate and the open canonization cause, has positively vindicated his judgment), then the SSPX's 2026 consecrations, which mirror Slipyj's act in every load-bearing structural respect while adding nothing the SSPX does not believe is required by the salvation of souls, likewise do not constitute schism.
 
 The further structural marker: the SSPX is asking through normal channels even in an extraordinary circumstance.
@@ -779,7 +771,7 @@ A specific objection circulated in 2026 (by Fr. Bressier in the FSSP's *Claves* 
 The premise rests on the *Lumen Gentium* §21 reformulation [→ §5 Part I].
 On the perennial reading, the charge proves too much: the entire class of *auxiliary bishops* in large dioceses (New York, Chicago, Los Angeles), the entire class of *titular bishops* who hold the title of a former Catholic see now under non-Christian governance with no diocese to govern (1917 CIC Canon 348 stated explicitly that titular bishops "exercise no power in their dioceses, nor do they take possession of them"), and, since the 1983 Code, the entire class of *bishops emeritus* required by Canon 401 §1 to submit a resignation at age 75, would all on the §21 reading be "denatured" bishops.
 The objection refutes itself: the SSPX bishops are canonically in the position of auxiliary bishops, validly consecrated and exercising the power of orders without claiming jurisdiction over any see, which is the position the Catholic Church has accommodated in good standing throughout her history.
-The Society's formal language is explicit on the point: the May 26, 2026 General House communiqué states that the consecrations "do not proceed from any desire to claim a power of jurisdiction" and "in no way do they constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the Roman Pontiff.
+The Society's formal language is explicit on the point: as the May 26, 2026 General House communiqué states (quoted in full in the schism section above), the consecrations claim no power of jurisdiction and in no way challenge the pope's supreme, full, and immediate jurisdiction.
 
 The point can be sharpened with a historical-canonical observation.
 The category "unauthorized episcopal consecration = schismatic act" is not a feature of Catholic canon law for most of the Church's history.
@@ -797,9 +789,8 @@ The same logic governs the SSPX's response to the post-conciliar crisis.
 The Society consecrates the *minimum* number of bishops necessary to ensure continued ordinations; it does not consecrate every priest.
 It maintains an auxiliary episcopate; it does not establish a territorial one.
 It does not assert jurisdiction over any diocese; it does not claim canonical mission from any local Ordinary; it does not declare any See to be vacant.
-Fr. Sherry (District Superior of Great Britain, in the SSPX's *The Episcopal Consecrations* podcast series, ep.
-4, 2026) has been explicit about the internal check: were Fr. Pagliarani to announce tomorrow that every priest in the Society would be consecrated bishop, or that the Society would name an Archbishop of Westminster in rivalry to the Roman appointee, both would be, on the Society's own internal criteria, illegitimate, because both would exceed the minimum the necessity requires.
-The four bishops to be consecrated July 1, 2026 are to be told at their consecration, on Pagliarani's express instruction, that once the crisis ends they will lay down their episcopacy before the pope and he will do with it what he wills.
+Fr. Sherry (District Superior of Great Britain, in the SSPX's *The Episcopal Consecrations* podcast series, episode 4, 2026) has been explicit about the internal check: were Fr. Pagliarani to announce tomorrow that every priest in the Society would be consecrated bishop, or that the Society would name an Archbishop of Westminster in rivalry to the Roman appointee, both would be, on the Society's own internal criteria, illegitimate, because both would exceed the minimum the necessity requires.
+The four bishops to be consecrated July 1, 2026 are auxiliaries who claim no jurisdiction: as the General House communiqué of May 26, 2026 states (quoted in full in the schism section above), the consecrations claim no power of jurisdiction and in no way challenge the pope's supreme, full, and immediate jurisdiction.
 This is the *opposite* posture of the body the 1951 decree was designed to address: not the *severing* of communion with Rome but its *preservation in attenuated form*, awaiting the restoration of ordinary governance.
 
 ---
