@@ -48,8 +48,8 @@ Pius XII's *Mystici Corporis* taught that the Church is a visible society govern
 - Rome has never declared the SSPX as a body to be in schism; through the 2009 remission, the doctrinal discussions, and the sacramental grants it has treated the Society as a Catholic body in an irregular situation.
 
 **The evidence for "schism in some sense":**
-- *Ecclesia Dei*'s original characterization as "schismatic act."
-- The 2021 *Traditionis Custodes* framework, while not directly addressing the SSPX, characterizes communities that "reject not only the liturgical reform, but of the Vatican Council II itself" as instrumentalizing the liturgy against Catholic unity.
+- *Ecclesia Dei* (1988) characterized the consecrations as a "schismatic act," precisely because the disobedience "implies in practice the rejection of the Roman primacy" (§3).
+- The 2021 *Traditionis Custodes* framework, while not directly addressing the SSPX, warns against an instrumental use of the older Missal "characterized by a rejection not only of the liturgical reform, but of the Vatican Council II itself."
 - The visible communion argument: communion is not merely verbal but involves submission to legitimate authority in the discipline and government of the Church (per Vatican I's *Pastor Aeternus*).
 - The problem of duration: a posture maintained over forty years, across multiple generations of bishops, that involves persistent acts contrary to papal will, is no longer a momentary act of resistance but a settled institutional condition.
 - The May 13, 2026 statement of the Dicastery for the Doctrine of the Faith (DDF, formerly the Congregation for the Doctrine of the Faith), under Cardinal Víctor Manuel Fernández, which called the SSPX's planned July 2026 episcopal consecrations "a schismatic act" carrying *latae sententiae* ("of a sentence already passed") excommunication, the most explicit Roman use of the term against an SSPX act since 1988.
@@ -64,8 +64,7 @@ The critic must say "Rome should call the SSPX schismatic even though Rome does 
 This is a coherent position, but it has not been the position Rome held with respect to the Society's existing status.
 
 That settled picture is now under fresh strain.
-On May 13, 2026 the Dicastery for the Doctrine of the Faith warned that the consecrations the SSPX had announced for July 1, 2026 would be "a schismatic act" incurring *latae sententiae* excommunication, the most pointed Roman use of the term since 1988.
-This does not retroactively make the Society's prior status schismatic, and the SSPX has answered that the new consecrations claim no power of jurisdiction and in no way deny the papal primacy (General House communiqué, May 26, 2026), proceeding only from what it called "the objective state of grave necessity in which souls find themselves" (February 2, 2026 announcement).
+The DDF's May 13, 2026 warning that the announced July 1 consecrations would be "a schismatic act" does not retroactively make the Society's prior status schismatic, and the SSPX has answered that the new consecrations claim no power of jurisdiction and in no way deny the papal primacy (General House communiqué, May 26, 2026), proceeding only from what it called "the objective state of grave necessity in which souls find themselves" (February 2, 2026 announcement).
 But it reopens, in sharp and immediate form, the very question this debate examines.
 
 The proper characterization, by the criteria Rome has applied to the Society's existing status, remains **canonical irregularity** rather than schism.
@@ -111,11 +110,11 @@ Their subsequent fruitful preservation of tradition within canonical regularity 
 **Assessment:** This question is **genuinely contested**; neither side has clearly the stronger argument.
 
 The SSPX has a serious canonical case.
-Canon 1323, 4° is real; Bellarmine and Suárez are real theological authorities; Lefebvre's subjective good faith is genuine.
+Canon 1323, 4° is real canon law; Bellarmine and Suárez are major theological authorities; Lefebvre's subjective good faith is not in doubt.
 The state-of-necessity defense is not frivolous.
 
 The mainstream critic has equally serious counter-arguments.
-"Strict necessity" is genuinely demanding; the Protocol genuinely offered an alternative; the FSSP genuinely demonstrated that tradition could survive without the consecrations.
+"Strict necessity" is a demanding standard; the Protocol did offer a real alternative; and the FSSP showed that tradition could survive without the consecrations.
 
 The 2009 lifting of excommunications is the strongest empirical evidence in the SSPX's favor: Rome itself walked back the most severe canonical characterization of the act.
 But Rome did not declare the consecrations canonically justified; it lifted the penalty as a pastoral gesture toward reconciliation.
@@ -153,10 +152,10 @@ This is development, not contradiction, and it has been taught as continuous by 
 **The evidence for genuine contradiction:**
 - The prior teaching that civil society owes public worship and recognition to Christ is explicit and repeated across more than a century, in *Quas Primas* (1925), *Immortale Dei* (1885), *Libertas* (1888), the Syllabus (props. 77 and 78), and *Vehementer Nos* (1906), quoted above.
   This is not one document but a sustained body of papal teaching on the duties of the state [→ §6 Doctrinal Positions].
-- The practical record shows abandonment, not mere reformulation: the disappearance of the confessional-state ideal from magisterial rhetoric, the 1984 revision of the Italian Concordat ending Catholicism's status as the state religion, the 1986 Assisi interreligious gathering, and the 2019 Abu Dhabi declaration that "the pluralism and the diversity of religions... are willed by God" (later glossed by Pope Francis as God's permissive will).
+- The practical record shows abandonment, not mere reformulation: the disappearance of the confessional-state ideal from magisterial rhetoric, the 1984 Villa Madama revision of the Italian Concordat, whose Additional Protocol declared that "the principle of the Catholic religion as the sole religion of the Italian State, originally referred to by the Lateran Pacts, shall be considered to be no longer in force," the 1986 Assisi interreligious gathering, and the 2019 Abu Dhabi declaration that "the pluralism and the diversity of religions... are willed by God" (later glossed by Pope Francis as God's permissive will).
   Whatever *Dignitatis Humanae* §1 preserves on paper, the operative teaching no longer treats the Catholic confessional state as the ideal.
 - The "leaves untouched" clause cuts against the practice as much as for it: if the traditional doctrine on the duties of societies is genuinely untouched, the state's duty to recognize Christ remains in force, yet no post-conciliar document affirms or applies it.
-- The documented doctrinal exchanges of 1976 and 1987 reached an explicit impasse on this precise point, whether the prior teaching on the duties of the state could be set aside, with the Roman side declining to defend the older doctrine as still binding [→ §5 Vatican II].
+- The documented doctrinal exchanges of 1976 and 1987 reached an explicit impasse on this precise point, whether the prior teaching on the duties of the state could be set aside: the CDF's *Response to the Dubia Presented by Mgr. Lefebvre* (1987) defended *Dignitatis Humanae* as continuous with prior teaching but did not reaffirm the confessional-state doctrine as still binding, and in the 1976 exchange, by Lefebvre's account, Cardinal Ratzinger met the objection that religious liberty is incompatible with *Quanta Cura* by replying, "we are no longer in the times of *Quanta Cura*" [→ §5 Vatican II].
 - Side-by-side reading of the relevant texts: Pius IX explicitly condemns the proposition that man is "free to embrace and profess that religion which, guided by the light of reason, he shall consider true."
   *Dignitatis Humanae* §2 affirms a right to religious freedom "whether privately or publicly, whether alone or in association with others."
   These read in their plain sense are saying opposite things.
@@ -166,7 +165,7 @@ This is development, not contradiction, and it has been taught as continuous by 
 - The 2007 CDF *Responses on the Doctrine of the Church* addressed *Lumen Gentium*'s "subsists in" but did not address the religious liberty question.
   No magisterial document since 1965 has produced a sustained, detailed reconciliation of *Dignitatis Humanae* with the Syllabus and *Libertas*.
 - The "continuity resolution" is asserted far more often than it is worked out: even its most substantial attempt, Brian Harrison's *Religious Liberty and Contraception* (1988), has gone largely unengaged by mainstream theologians, leaving the apparent contradiction effectively unanswered.
-- Cardinal Avery Dulles, though defending the change as authentic doctrinal development, conceded that the difference between the nineteenth-century popes and *Dignitatis Humanae* lies "in the means" each envisages, an admission that the discontinuity at that level is real.
+- Cardinal Avery Dulles, though defending the change as authentic doctrinal development, conceded that "the main difference between the doctrine of the nineteenth-century popes and that of *DH* is in the means that each envisages," and that "a measure of discontinuity may therefore be expected in successive responses to novel situations" (*First Things*, "Religious Freedom: Innovation and Development," 2001), an admission that the discontinuity at that level is real.
 
 **The evidence for genuine continuity:**
 - *Dignitatis Humanae* §1's "leaves untouched" clause (quoted above) is an explicit textual anchor for continuity, placed at the head of the document by the Council itself.
@@ -190,7 +189,7 @@ The mainstream's best move, the thesis/hypothesis distinction, concedes that the
 Against this stands the mainstream's strongest reply: the Magisterium remains the proper interpreter of its own continuity, and it is not for a private society to declare the question closed.
 
 The two sides therefore argue at different levels: the SSPX at the level of texts and prior teaching, the mainstream at the level of authority, and each is largely right on its own level.
-**The textual question favors the SSPX; the institutional question of who adjudicates favors the mainstream.** This remains one of the most genuinely contested doctrinal questions, and the one that will require honest magisterial engagement before regularization is possible.
+**On the text and the prior teaching, the SSPX has the stronger argument; on the institutional question of who adjudicates continuity, the mainstream does.** This remains one of the most genuinely contested doctrinal questions, and the one that will require honest magisterial engagement before regularization is possible.
 
 ---
 
@@ -210,12 +209,13 @@ The SSPX accepts the hermeneutic of continuity; they deny that it can be success
 Benedict XVI himself, while asserting continuity at the level of principle, never produced detailed textual reconciliations of the most contested passages, suggesting even he found the reconciliation harder than the principle.
 
 **Evidence the hermeneutic works:**
-- Many of the specific concerns about Vatican II have been addressed by subsequent magisterial clarification (e.g., the 2007 CDF clarification on "subsists in").
-- The hermeneutic is a legitimate principle of Catholic theological method.
-- The Council itself states (in multiple places) that its teaching is in continuity with prior Tradition.
+- The hermeneutic is not merely Benedict XVI's later gloss: the Council itself directed that its texts be read in continuity with prior Tradition, and the *Nota Explicativa Praevia* (Preliminary Explanatory Note) appended to *Lumen Gentium* by order of Paul VI in 1964 was precisely such an authoritative interpretive act, clarifying that episcopal collegiality in no way diminishes the Pope's primacy and full, supreme power.
+  A once-contested Council teaching was reconciled with prior doctrine by a binding magisterial reading, not by assertion.
+- Several specific concerns have likewise been met by subsequent authoritative clarification: the 2007 CDF *Responses* fixed the sense of *Lumen Gentium*'s "subsists in" against the reading that the Church of Christ is only partially identical with the Catholic Church.
+- The hermeneutic is a legitimate and traditional principle of Catholic theological method: a later magisterial act is read in light of the prior deposit, and the Magisterium, not the individual theologian, judges whether a given reading achieves continuity.
 
 **Evidence the hermeneutic does not adequately address everything:**
-- Benedict XVI's 2005 Address asserts continuity but does not produce sustained textual reconciliations of the most contested passages.
+- Benedict XVI's 2005 Address asserts continuity at the level of principle but does not itself produce sustained textual reconciliations of the most contested passages (notably religious liberty), and no comparably authoritative act (such as the *Nota Praevia* did for collegiality) has been issued for them.
 - The 2009–2011 Doctrinal Discussions between Rome and the SSPX, conducted under Benedict XVI's hermeneutic framework, did not produce agreement; both sides reported that genuine differences remained.
 - Specific textual tensions (Pius IX vs. *Dignitatis Humanae*) have not been resolved in nearly sixty years.
 - Different schools of mainstream Catholic theology continue to disagree about how to interpret the most contested Vatican II passages.
@@ -228,7 +228,8 @@ Where reconciliation is genuinely difficult, the principle becomes more an exhor
 
 The SSPX has a legitimate point that the hermeneutic of continuity has been used as a kind of magic word, invoked to assert continuity without demonstrating it.
 The mainstream has a legitimate point that the principle is correct and the proper Catholic response to apparent contradictions is to seek continuity rather than to declare contradiction.
-Mainstream theology has more work to do at the level of specific texts; the SSPX has a point that the work has not been done as fully as defenders sometimes claim.
+Neither side wins outright: the mainstream is right about the principle, the SSPX is right that its application to the hardest passages remains unfinished.
+That is why the honest verdict here is partial on both sides, and why the substantive disputes the hermeneutic was meant to settle (above all religious liberty, Debate 3) remain open.
 
 ---
 
@@ -254,7 +255,7 @@ The traditional Mass remains available (within the post-*Traditionis Custodes* f
 - The role of Protestant observers in the Consilium is documented; whether their influence was decisive is contested, but their presence shaped the orientation of the work.
 - The 1970 *pro multis* translation controversy was eventually resolved in favor of the SSPX critique (Benedict's 2006 directive, implemented in 2011).
 - Cardinal Ratzinger himself wrote that he "was dismayed by the prohibition of the old missal, since nothing of the sort had ever happened in the entire history of the liturgy." <!-- TODO print-source: Ratzinger, *Milestones: Memoirs 1927–1977* (Ignatius Press, 1998), p. 148 -->
-- The 31% Real Presence figure is real and represents a catastrophic loss of Catholic Eucharistic belief.
+- The 31% figure is from the 2019 Pew Research Center survey, in which only 31 percent of U.S. Catholics affirmed that the bread and wine become the body and blood of Christ through transubstantiation, a striking measure of eroded Eucharistic belief.
 - The crisis in liturgical reverence (communion in the hand, casual dress, liturgical experimentation, loss of sacred music) is widely acknowledged at the highest levels of the Church.
 
 **Evidence against the strongest form of the critique:**
@@ -352,9 +353,7 @@ This is not making themselves an alternative magisterium; it is recognizing that
 **Assessment:** The mainstream critic has the stronger argument on this point, with qualifications.
 
 The SSPX, in practice, functions as a *de facto* alternative interpretive authority for its faithful.
-SSPX faithful learn how to interpret Vatican II from the SSPX, not from the broader Catholic magisterial conversation.
-They develop their understanding of which Council teachings are problematic from SSPX sources.
-They form their judgment about Rome from SSPX sources.
+SSPX faithful learn how to interpret Vatican II, which Council teachings to regard as problematic, and how to judge Rome largely from SSPX sources rather than from the broader Catholic magisterial conversation.
 This is institutional formation in a specific magisterial perspective that is not the perspective of the broader Catholic Church.
 
 The defender's response, that the SSPX merely holds to prior teaching, does not fully address the critic's point.
@@ -363,7 +362,6 @@ The defender's response, that the SSPX merely holds to prior teaching, does not 
 The qualification: this is true of many Catholic communities to varying degrees.
 Religious orders, theological schools, and bishops' conferences all develop characteristic interpretive perspectives.
 The question is whether the SSPX does this in a way that is qualitatively different from legitimate ecclesial pluralism, and in its institutionalized formation of the faithful in a single magisterial perspective it does, enough to make this a genuine ecclesiological problem.
-**The critic has the better argument on this question.**
 
 ---
 
@@ -392,19 +390,18 @@ The fruit is not evidence that the SSPX's irregular status was necessary; it is 
 - Individual SSPX faithful frequently demonstrate exemplary Catholic charity, observance, and witness.
 
 **Evidence for accompanying harm:**
-- The Williamson phenomenon (Holocaust denial, conspiracy theories) was structurally possible within the SSPX in ways that would have been difficult in a fully canonical community.
+- The Williamson phenomenon (Holocaust denial, conspiracy theories) was structurally possible within the SSPX in ways that would have been difficult in a fully canonical community; the Society did expel Williamson in October 2012, but that he rose to and long held the episcopate within it is the point the critic presses.
 - Pastoral observations from priests who have ministered to ex-SSPX Catholics document significant patterns of sectarian disposition, suspicion of legitimate authority, and difficulty integrating with the broader Catholic community.
 - The FSSP and similar communities produce comparable spiritual fruit without these accompanying patterns, suggesting the SSPX-specific formation has costs that traditional formation per se does not.
 - SSPX-adjacent media and online communities frequently exhibit problematic patterns (anti-Vatican-II conspiracism, sympathy for politically problematic movements, hostility to legitimate Catholic ecumenical and interreligious work) that are not present in mainstream traditional Catholic culture.
 
-**Assessment:** Both fruit and harm are real.
-The question is how to weigh them.
+**Assessment:** Both fruit and harm are real, and how to weigh the lived fruit against the accompanying harm remains a genuine matter of judgment.
+But on the inference the debate actually turns on, whether the fruit vindicates the SSPX's institutional choices, the mainstream has the better of it: the fruit shows that seriously lived traditional Catholicism bears fruit, not that the Society's irregular status was necessary to produce it.
 
 The SSPX has produced fruit that is genuine and demonstrable.
 Anyone who has visited a flourishing SSPX chapel, attended an SSPX school, or encountered SSPX families recognizes the spiritual seriousness of much SSPX life.
-This is real.
 
-The SSPX has also produced harm that is genuine and demonstrable.
+The SSPX has also produced harm that is real and documentable.
 The sectarian patterns described in §11 are not invented.
 They are documented in pastoral experience, observable in SSPX-adjacent culture, and structurally connected to the Society's irregular status and its self-definition by opposition.
 
@@ -483,6 +480,7 @@ The barrier to regularization is on the SSPX's side.
 - The Doctrinal Preamble (first presented September 14, 2011; revised through 2012) did require explicit acceptance of Vatican II.
 - This acceptance was understood by the SSPX bishops as incompatible with their mission to resist specific Council teachings.
 - Rome has not, in subsequent years, offered terms that would allow the SSPX to maintain its specific theological positions on Vatican II while being canonically regular.
+- On the SSPX's account, the terms hardened during the 2012 talks themselves: after Fellay submitted a declaration in April 2012, the CDF's June 13, 2012 evaluation reintroduced, in substance, the doctrinal propositions of the September 2011 Preamble, which he judged he could not sign (Fellay, *Cor Unum* account).
 
 **Evidence regularization is blocked by SSPX terms:**
 - Rome has done what Rome can do: lifted excommunications, granted sacramental faculties, made *Summorum Pontificum*, freed the Traditional Mass.
@@ -528,7 +526,7 @@ Where do the debates leave us?
 
 ### Where the question is genuinely open:
 - The canonical defensibility of the 1988 consecrations (state of necessity defense is defensible but not decisive).
-- The reconciliation of *Dignitatis Humanae* with prior teaching on religious liberty: the conciliar text can be read in continuity, though the prior teaching that civil society owes public worship to Christ has in practice lapsed, a point the SSPX presses and the mainstream has not fully answered.
+- The reconciliation of *Dignitatis Humanae* with prior teaching on religious liberty: the SSPX has the stronger textual point, since the plain sense of the conciliar text and the Syllabus remain in real tension and the continuity resolution is asserted more than it is worked out, and the prior teaching that civil society owes public worship to Christ has in practice lapsed, a point the SSPX presses and the mainstream has not fully answered; the mainstream's decisive advantage is on authority, not the text, as the proper interpreter of its own continuity.
 - The pastoral question of whether individual Catholics should attend the SSPX (depends entirely on specific circumstances).
 - The future of regularization (the 2026 consecrations and the DDF's response have hardened the impasse, but its longer-term resolution depends on factors not yet visible).
 
@@ -553,14 +551,14 @@ The next section, §15, offers a framework for putting them together into a cohe
 |---|---|---|---|
 | 1 | Is the SSPX in schism? | SSPX (as to present status) | High for the present; the 2026 DDF warning on the planned consecrations reopens it |
 | 2 | Were the 1988 consecrations canonically defensible? | Open | Genuinely contested |
-| 3 | Does *Dignitatis Humanae* contradict prior teaching on religious liberty? | Mainstream on the text and authority; SSPX on the lapse of prior teaching | Honest split; genuinely contested |
+| 3 | Does *Dignitatis Humanae* contradict prior teaching on religious liberty? | SSPX on the text and prior teaching; mainstream on authority (who adjudicates) | Honest split; genuinely contested |
 | 4 | Does hermeneutic of continuity work? | Both partial | Principle right; application incomplete |
 | 5 | Is the SSPX's liturgical critique correct? | SSPX | High: vindicated by Benedict XVI |
 | 6 | Does the SSPX undermine visible unity? | Both partial | SSPX adds a problem, mainstream has bigger ones |
 | 7 | Is the SSPX an alternative magisterium? | Mainstream | Moderate: practically true |
 | 8 | Does the SSPX produce net positive fruit? | Both | Real fruit, real harm; depends on weighing |
 | 9 | Should Catholics attend the SSPX? | Depends | Prudential, not categorical |
-| 10 | Will/should the SSPX be regularized? | Open | Barrier is on SSPX side, but understandable; 2026 consecrations hardened the impasse |
+| 10 | Will/should the SSPX be regularized? | Mainstream on who blocks it; open on whether it happens | Barrier is on the SSPX side, but understandable; 2026 consecrations hardened the impasse |
 
 ---
 
