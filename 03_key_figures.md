@@ -2,7 +2,7 @@
 
 ## The SSPX Compendium
 
-> **How to use this section.** This section profiles every major figure in the SSPX story - founders, the four 1988 bishops, current SSPX leadership, and the Roman counterparts who shaped the dialogue. Each profile covers biography, theological positions, key writings or statements, and legacy. Cross-references to other sections are noted in brackets. Read §2 (Timeline) first for the chronological context that makes these profiles intelligible.
+> **How to use this section.** This section profiles every major figure in the SSPX story - founders, the four 1988 bishops, the four bishops consecrated in 2026, current SSPX leadership, and the Roman counterparts who shaped the dialogue. Each profile covers biography, theological positions, key writings or statements, and legacy. Cross-references to other sections are noted in brackets. Read §2 (Timeline) first for the chronological context that makes these profiles intelligible.
 
 ---
 
@@ -246,6 +246,7 @@ The two great normalizations of Francis's pontificate - the permanent confession
 **Current role:** Fellay remains an active bishop within the SSPX as Superior General Emeritus.
 He continues to celebrate Mass, give conferences, and write.
 His position within the Society is respected, though his association with the failed 2012 negotiations remains a source of tension with more hardline members.
+On July 1, 2026, he served as co-consecrator, assisting Bishop de Galarreta, at the consecration of the Society's four new bishops at Écône.
 
 ---
 
@@ -338,7 +339,7 @@ Second, the SSPX's genuine repudiation of antisemitism and Holocaust denial - a 
 
 ### Bishop Alfonso de Galarreta (b. 1957)
 
-**Role:** One of the four bishops consecrated at Écône on June 30, 1988; currently First Assistant General of the SSPX; principal consecrator of the 2019 bishops.
+**Role:** One of the four bishops consecrated at Écône on June 30, 1988; currently First Assistant General of the SSPX; principal consecrator of the four bishops consecrated at Écône on July 1, 2026.
 
 **Born:** January 14, 1957, Torrelavega, Spain.
 **Consecrated:** June 30, 1988, Écône.
@@ -353,9 +354,9 @@ Spanish-born, he has spent much of his ministry in Latin America and has served 
 He is currently the First Assistant General of the SSPX - the second-highest office in the Society after the Superior General.
 In this role he is deeply involved in governance, formation, and the ongoing dialogue with Rome.
 
-**The 2026 announced consecrations.** Following the October 2024 death of Bishop Tissier de Mallerais, de Galarreta and Fellay are the only two SSPX bishops remaining from the original four.
+**The 2026 consecrations.** Following the October 2024 death of Bishop Tissier de Mallerais, de Galarreta and Fellay were the only two SSPX bishops remaining from the original four.
 With both nearing seventy, the Society announced on February 2, 2026, its decision to consecrate four new bishops on July 1, 2026, without papal mandate.
-De Galarreta is expected to be one of the consecrators.
+On July 1, 2026, de Galarreta served as principal consecrator of the four new bishops at Écône, with Fellay assisting as co-consecrator: the same role Lefebvre had performed for him thirty-eight years earlier, and the act that placed him at the center of the renewed canonical dispute with Rome [→ §7 Canon Law].
 
 **Theological posture:** De Galarreta is considered a steady, reliable voice within the SSPX - neither as conciliatory as Fellay in the 2012 negotiations nor as combative as Williamson.
 He opposes agreement with Rome under current conditions but maintains a tone of dialogue rather than confrontation.
@@ -396,6 +397,7 @@ His Italian nationality and formation at Flavigny and La Reja gave him credibili
 **Leadership style:** Pagliarani is known for a more intellectually measured approach than his predecessor - more likely to engage theological questions carefully than to negotiate institutionally.
 Under his leadership through 2025, the SSPX maintained dialogue with Rome without rushing toward any agreement, focusing intensely on formation and internal consolidation.
 In February 2026, he announced the Society's decision to proceed with episcopal consecrations on July 1, 2026, citing a state of necessity in the wake of Bishop Tissier de Mallerais's death and the advancing age of the two remaining SSPX bishops.
+He carried the decision through to its completion: he answered Pope Leo XIV's personal plea of June 29 with a filial but unmoved letter ("Far be it from us to separate ourselves from the Roman Church. We desire, on the contrary, to serve her by means that are extraordinary"), presided over the decision at Écône on July 1, and preached the consecration homily: "No one can choose between faith and the church... We want the faith of the church in order to remain in the church, and we want the church within the faith."
 
 **Theological posture:**
 
@@ -442,23 +444,52 @@ District superiors serve renewable six-year terms; current names can be confirme
 
 ### The SSPX Episcopal College
 
-The SSPX's entire episcopal college, from 1988 through May 2026, consists of the four bishops consecrated by Archbishop Lefebvre at Écône on June 30, 1988 (with Bishop António de Castro Mayer as co-consecrator).
-**No further bishops have been consecrated for the SSPX in the intervening years.** The Society announced on February 2, 2026, that it would consecrate **four new bishops on July 1, 2026**, without papal mandate - the first new SSPX consecrations since 1988.
+From 1988 through June 2026, the SSPX's entire episcopal college consisted of the four bishops consecrated by Archbishop Lefebvre at Écône on June 30, 1988 (with Bishop António de Castro Mayer as co-consecrator).
+**No further bishops were consecrated in the intervening thirty-eight years.** On July 1, 2026, Bishop de Galarreta, assisted by Bishop Fellay, consecrated four new bishops at Écône without papal mandate - the first new SSPX consecrations since 1988 [→ §2 Timeline; §7 Canon Law].
 
 
-| Bishop                       | Nationality | Year consecrated | Consecrator | Status (as of May 2026)                           |
-| ---------------------------- | ----------- | ---------------- | ----------- | ------------------------------------------------- |
-| Bernard Fellay               | Swiss       | 1988             | Lefebvre    | Living; former Superior General (1994–2018)       |
-| Bernard Tissier de Mallerais | French      | 1988             | Lefebvre    | Died October 8, 2024                              |
-| Richard Williamson           | British     | 1988             | Lefebvre    | Expelled from SSPX in 2012; died January 29, 2025 |
-| Alfonso de Galarreta         | Spanish     | 1988             | Lefebvre    | Living; First Assistant General                   |
+| Bishop                       | Nationality | Year consecrated | Principal consecrator | Status (as of July 2026)                          |
+| ---------------------------- | ----------- | ---------------- | --------------------- | ------------------------------------------------- |
+| Bernard Fellay               | Swiss       | 1988             | Lefebvre              | Living; former Superior General (1994–2018)       |
+| Bernard Tissier de Mallerais | French      | 1988             | Lefebvre              | Died October 8, 2024                              |
+| Richard Williamson           | British     | 1988             | Lefebvre              | Expelled from SSPX in 2012; died January 29, 2025 |
+| Alfonso de Galarreta         | Spanish     | 1988             | Lefebvre              | Living; First Assistant General                   |
+| Pascal Schreiber             | Swiss       | 2026             | de Galarreta          | Rector of the Zaitzkofen seminary at consecration |
+| Michael Goldade              | American    | 2026             | de Galarreta          | Rector of the Dillwyn seminary at consecration    |
+| Michel Poinsinet de Sivry    | French      | 2026             | de Galarreta          | Benelux District Superior at consecration         |
+| Marc Hanappier               | French      | 2026             | de Galarreta          | Professor at the Dillwyn seminary at consecration |
 
 
 **Outside the SSPX.** After his 2012 expulsion, Bishop Williamson - operating in the so-called "Resistance," not the SSPX - performed several episcopal consecrations of his own, notably that of Fr. Jean-Michel Faure in 2015.
 Faure had already left the SSPX before his consecration.
 These men are not SSPX bishops, and the Resistance is a separate phenomenon from the Society.
 
-*See [→ §2 Timeline, 2026 section] for the announced July 2026 consecrations.*
+---
+
+### The Four Bishops Consecrated July 1, 2026
+
+The decision was announced on February 2, 2026, the names on May 26, 2026; the four were consecrated at Écône on July 1, 2026 "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction" (General House statement).
+Biographical details follow the General House communiqué of May 26, 2026, cross-checked against catholic-hierarchy.org.
+On Rome's stated reading of Canon 1387, all four (with their consecrators) incurred *latae sententiae* excommunication by the act; on the Society's Canon 1323 reading, no penalty was incurred; no declaratory decree has been issued as of this writing [→ §7 Canon Law].
+
+**Bishop Pascal Schreiber (b. 1972).** Swiss, born July 31, 1972 in Brugg, from a family of five children originating in the canton of Aargau.
+He entered the Society's seminary at Zaitzkofen in 1992, continued at Écône, and was ordained priest at Écône in 1998.
+After five years of ministry in Germany and French-speaking Switzerland he directed the Society's schools at Mels and then Wil, served the Swiss District house at Rickenbach as bursar and then as Swiss District Superior, and from August 15, 2020 was rector of the Sacred Heart of Jesus Seminary at Zaitzkofen, with more than fifty seminarians and brothers from sixteen countries.
+The oldest of the four; fluent in German and French.
+
+**Bishop Michael Goldade (b. 1980).** American, born in Williston, North Dakota and raised in St. Marys, Kansas, in a family of ten children, three of whom became Sisters of the Society.
+<!-- TODO: birth data conflict - catholic-hierarchy.org gives February 28, 1980 (age 46 at consecration); the Society's May 26, 2026 communiqué says "aged 45." Re-verify when catholic-hierarchy completes its entry. -->
+He entered the Winona seminary at eighteen and was ordained priest in 2004.
+He served the priory at Armada, Michigan, directed the retreat house at Ridgefield, and was prior of Kansas City from 2014; from 2023 he was rector of Saint Thomas Aquinas Seminary in Dillwyn, Virginia, with nearly one hundred seminarians.
+
+**Bishop Michel Poinsinet de Sivry (b. 1984).** French, born April 10, 1984, from a family of seven children.
+Formed at Flavigny and Écône, he was ordained priest at Écône (the Society's biography gives 2008; catholic-hierarchy.org records June 27, 2009).
+He taught at the Society's school at Montréal in the Aude, directed the Saint Louis primary school in Paris for five years while assisting the apostolate at Saint-Nicolas-du-Chardonnet, then directed the Saint Jean-Baptiste de La Salle secondary school near Arras; from 2022 he was Superior of the Benelux District.
+
+**Bishop Marc Hanappier (b. 1990).** French, born February 7, 1990, from a family of ten children: one brother is a priest of the Society, another a Capuchin of Morgon, and a sister is a Dominican teaching sister of Saint-Pré.
+Formed at Flavigny and Écône, he was ordained priest in 2013.
+He taught at the Society's schools near Bitche and Châteauroux, then, after a year in Scotland perfecting his English, joined the faculty of Saint Thomas Aquinas Seminary in Dillwyn, Virginia in 2020, teaching principally metaphysics and dogmatic theology.
+The youngest of the four.
 
 ---
 
@@ -618,14 +649,12 @@ What is clear is that Francis never brought the SSPX to full canonical regulariz
 Leo XIV is the first American pope and a member of the Order of Saint Augustine.
 His theological formation and his early papal statements suggest a figure oriented toward continuity with his immediate predecessors while bringing his own distinctive pastoral sensibility.
 
-His specific approach to the SSPX question has not been fully articulated as of the date of this document.
-Early indications suggest:
+The SSPX consecrations of July 1, 2026 forced his hand earlier than any other question of his pontificate, and his response defined a distinctive style: personal appeal before canonical action.
+Speaking to journalists at Castel Gandolfo on June 16, 2026, he said of the Society: "We have invited them, and I am still considering making another appeal, to say: 'Do not do this. Let us try to live communion in the Church.' But it is their choice"; he added that "if they make those choices, I am sorry. But we must move forward."
+On June 29 he wrote personally to Fr. Pagliarani, in a letter published by the Holy See the next day: it acknowledged the Society's "devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition," pleaded "with all my heart: please turn back!", warned that "the schismatic act you are about to undertake would deprive them [the faithful] of the licit and, in some cases, even valid reception of the Sacraments," and called the tearing of Christ's seamless garment "a sin of extreme gravity."
+The Society proceeded anyway, and as of this writing his formal canonical response to the accomplished consecrations is pending; he has not reversed the practical accommodations made by Francis, and the future of *Traditionis Custodes* remains an open question with direct implications for the SSPX.
 
-- Continued openness to dialogue.
-- No reversal of the practical accommodations made by Francis.
-- Attention to the situation of Catholics affected by *Traditionis Custodes* - whether he will modify or reverse that document remains an open question with direct implications for the SSPX.
-
-<!-- TODO: revisit this entry as the Leo XIV pontificate develops, particularly after any decision on the planned July 1, 2026 SSPX consecrations and on the future of *Traditionis Custodes*. -->
+<!-- TODO: revisit this entry when Rome's formal response to the July 1, 2026 consecrations issues (declaratory decree, commission, or continued silence), and after any decision on the future of *Traditionis Custodes*. -->
 
 ---
 
@@ -639,16 +668,17 @@ Early indications suggest:
 | Bernard Fellay                  | Superior General            | 1994–2018    | Conciliatory                          | 2000 pilgrimage; 2009 normalization; 2012 near-agreement           |
 | Bernard Tissier de Mallerais    | Theologian-bishop           | 1988–2024    | Hardline                              | Lefebvre biography; rigorous theological opposition to V2          |
 | Richard Williamson              | Bishop (expelled; deceased) | 1988–2012    | Extreme resistance                    | Holocaust controversy; "Resistance" movement                       |
-| Alfonso de Galarreta            | First Assistant General     | 1988–present | Firm, measured                        | Current governance; expected consecrator for July 2026             |
-| Davide Pagliarani               | Superior General            | 2018–present | Firm dialogue                         | New generation leadership; announced July 2026 consecrations       |
+| Alfonso de Galarreta            | First Assistant General     | 1988–present | Firm, measured                        | Current governance; principal consecrator, July 1, 2026            |
+| Davide Pagliarani               | Superior General            | 2018–present | Firm dialogue                         | New generation leadership; decided and carried out the 2026 consecrations |
+| Schreiber, Goldade, Poinsinet de Sivry, Hanappier | SSPX auxiliary bishops | 2026–present | Formed entirely within the SSPX | First SSPX bishops consecrated since 1988 (July 1, 2026, "without jurisdiction") |
 | Joseph Ratzinger / Benedict XVI | CDF Prefect → Pope          | 1981–2013    | Most sympathetic Roman figure         | *Summorum Pontificum*; lifted excommunications; "no formal schism" |
 | Castrillón Hoyos                | Ecclesia Dei                | 2000–2009    | Pastoral outreach                     | "Not in formal schism" statement; personal rapport with Fellay     |
 | Gerhard Müller                  | CDF Prefect                 | 2012–2017    | Theologically demanding               | 2012 negotiations; marriage faculties letter                       |
 | John Paul II                    | Pope                        | 1978–2005    | Firm condemnation + pastoral outreach | *Ecclesia Dei*; Campos reconciliation                              |
 | Francis                         | Pope                        | 2013–2025    | Paradoxical                           | Confession/marriage faculties; *Traditionis Custodes*              |
-| Leo XIV                         | Pope                        | 2025–present | Not yet defined                       | First American pope; faces July 2026 SSPX consecrations decision   |
+| Leo XIV                         | Pope                        | 2025–present | Personal appeal before canonical action | First American pope; June 29, 2026 letter ("please turn back!"); formal response to the consecrations pending |
 
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
