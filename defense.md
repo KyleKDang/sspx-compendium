@@ -348,7 +348,6 @@ On July 1, 2026, before more than sixteen thousand of the faithful at Écône, e
 The booklet given to the faithful stated that the consecrations "absolutely exclude any attempt to usurp the jurisdiction of the Sovereign Pontiff."
 The Society's statement that same day described the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and added that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
 Men do not swear obedience to an authority they are renouncing, and they do not publish their regret at acting without a permission they consider meaningless.
-Every gesture of the day was the gesture of a body that intends to remain in the Church, and said so.
 
 The charge is not new in any case.
 It is word for word the charge made in 1988, and it rests on the same canonical question.

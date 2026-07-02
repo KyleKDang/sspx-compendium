@@ -258,10 +258,7 @@ The SSPX argues it has not withdrawn: it recognizes the Pope as Pope, prays for 
 But communion with the Pope is not merely a matter of recognition.
 It is also a matter of submission to his jurisdiction, especially in matters of the discipline and government of the Church.
 When the Pope explicitly prohibits an act and the act is performed anyway, communion with the Pope is *materially* broken in that act, however much it is *formally* affirmed in word.
-The competent authorities have said as much of the 2026 consecrations, at every level.
-The Dicastery for the Doctrine of the Faith stated on May 13, 2026 that the act would constitute "a schismatic act," in the words of *Ecclesia Dei* §3.
-Pope Leo XIV, writing personally to the Superior General on June 29, called it "the schismatic act you are about to undertake" and the tearing of Christ's seamless garment "a sin of extreme gravity."
-And when the act was performed on July 1, the Secretary of State, Cardinal Parolin, called it "an act that is schismatic in itself."
+The competent authorities have said as much of the 2026 consecrations, at every level: the Dicastery for the Doctrine of the Faith on May 13, in the words of *Ecclesia Dei* §3; Pope Leo XIV personally on June 29; and the Secretary of State, Cardinal Parolin, of the accomplished act on July 1 (the documents and their language are set out in Part VIII below).
 For the critic, the material breach could not be more clearly marked: communion professed in word was broken in act, against the explicit, written, personal prohibition of the reigning pope.
 
 ### The Problem of Cherry-Picking the Magisterium

@@ -6,3 +6,4 @@
 .idea/
 .claude/settings.local.json
 CLAUDE.md
+.playwright-mcp/
