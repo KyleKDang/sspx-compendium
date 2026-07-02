@@ -147,6 +147,28 @@ The bishops who broke from the SSPX over the consecrations and formed the FSSP (
 They simply judged that the consecrations were not justified.
 Their judgment has been substantially vindicated by the subsequent history: the FSSP and similar communities have preserved traditional Catholicism within full canonical communion, demonstrating that the SSPX's institutional response was not necessary.
 
+### The State of Necessity in 2026
+
+The July 1, 2026 consecrations put the necessity defense to a second test, and for the critic the defense fares worse the second time, not better.
+
+In 1988 the Society could at least point to a founder in his eighties and a negotiation that had just collapsed.
+In 2026 the Society had two functioning bishops, aged sixty-eight and sixty-nine; a succession question of the kind every diocese and religious community faces without breaking communion; and a Rome that had, over the preceding two decades, lifted the excommunications, freed the Mass, granted the confession faculty, and built the marriage framework.
+The claimed emergency was not the imminent extinction of the traditional priesthood; it was the eventual mortality of two men who could be expected to ordain and confirm for years to come, a fact the Society could have carried into negotiation rather than around it.
+
+Cardinal Fernández offered precisely that negotiation: a specifically theological dialogue path, proposed in February 2026, on the condition that the consecrations be suspended, not canceled.
+The Society refused the condition.
+Pope Leo XIV then did what no pope had done in the Society's history: he wrote personally to the Superior General, published the letter, acknowledged the Society's devotion and zeal, and pleaded "with all my heart: please turn back!", invoking "the authority received from Christ" to ask the Society "to desist."
+The Society's answer came within a day, and the consecrations proceeded on schedule.
+Whatever the state of necessity meant in 1988, in 2026 it meant this: an emergency so pressing that it could not pause for a papal plea, yet so orderly that it had been announced five months in advance, with a dedicated website and livestreams in seven languages.
+An emergency one can schedule, the critic submits, is not the necessity of Canon 1323.
+
+The deeper objection was stated in June 2026 by Roberto de Mattei, a historian of unimpeachably traditionalist sympathies: "Who has the authority to verify the existence of such a state and to determine its beginning and end? It is evident that this assessment cannot be left to the judgment of the Society of Saint Pius X itself."
+If it could, he continued, any bishop who judged the Church to be in grave crisis "could feel authorized... to consecrate other bishops without a pontifical mandate."
+This is the critic's unilateralism objection restated, against the 2026 act, by a friend of tradition; and the Society's own words at Écône confirmed its force.
+Fr. Pagliarani declared at the ceremony that "any penalties or censures imposed for this act have no value whatsoever."
+That sentence claims more than exemption from a penalty; it claims the authority to judge, in the Society's own cause, the validity of the Church's penal acts against it.
+A subject who reserves to himself the final word on whether the Church's law binds him has, in the sense that matters, placed himself outside the law's reach.
+
 ---
 
 ## Part III: The Argument From the FSSP and the Alternative Path
@@ -236,7 +258,11 @@ The SSPX argues it has not withdrawn: it recognizes the Pope as Pope, prays for 
 But communion with the Pope is not merely a matter of recognition.
 It is also a matter of submission to his jurisdiction, especially in matters of the discipline and government of the Church.
 When the Pope explicitly prohibits an act and the act is performed anyway, communion with the Pope is *materially* broken in that act, however much it is *formally* affirmed in word.
-The competent Roman authority has said as much: assessing the consecrations planned for July 2026, the Dicastery for the Doctrine of the Faith declared on May 13, 2026 that to consecrate bishops against the express prohibition of the Pope is "a schismatic act," one that of itself severs the bond of communion whatever recognition of the Pope accompanies it in word.
+The competent authorities have said as much of the 2026 consecrations, at every level.
+The Dicastery for the Doctrine of the Faith stated on May 13, 2026 that the act would constitute "a schismatic act," in the words of *Ecclesia Dei* §3.
+Pope Leo XIV, writing personally to the Superior General on June 29, called it "the schismatic act you are about to undertake" and the tearing of Christ's seamless garment "a sin of extreme gravity."
+And when the act was performed on July 1, the Secretary of State, Cardinal Parolin, called it "an act that is schismatic in itself."
+For the critic, the material breach could not be more clearly marked: communion professed in word was broken in act, against the explicit, written, personal prohibition of the reigning pope.
 
 ### The Problem of Cherry-Picking the Magisterium
 
@@ -437,10 +463,15 @@ It is on the SSPX's.
 As long as the Society defines itself by opposition to specific Council teachings, it cannot be regularized, not because Rome refuses but because the SSPX has made regularization incompatible with its self-understanding.
 
 The events of 2026 confirm this reading.
-On February 2, 2026, at Flavigny, Fr. Pagliarani announced that the Society would consecrate four new bishops on July 1, 2026, at Écône, again without a pontifical mandate: the first such consecrations since 1988, undertaken while the Society remains in an unresolved canonical situation and after Rome had extended, over nearly two decades, the very accommodations described above.
-On May 13, 2026, the Dicastery for the Doctrine of the Faith, through its prefect Cardinal Víctor Manuel Fernández, publicly declared the planned consecrations "a schismatic act" carrying *latae sententiae* excommunication ("of a sentence already passed," that is, incurred automatically by the act itself).
-For the mainstream critic this is the pattern's confirmation, not its exception: presented with the choice between regularization on the Church's terms and the perpetuation of its own reserve hierarchy, the Society chose, once again, to replicate the act of 1988 rather than to close the breach.
-The SSPX's May 26, 2026 General House communiqué answered with disclaimers that the new bishops claim no jurisdiction and in no way deny the pope's supreme power; but for the critic a disclaimer of jurisdiction does not cure a positive act reserved to papal authority and performed against an explicit prohibition, and the willingness to repeat that act after so many concessions shows precisely where the obstacle lies.
+On February 2, 2026, at Flavigny, Fr. Pagliarani announced that the Society would consecrate four new bishops on July 1, 2026, at Écône, again without a pontifical mandate: the first such consecrations since 1988, undertaken while the Society remained in an unresolved canonical situation and after Rome had extended, over nearly two decades, the very accommodations described above.
+On May 13, 2026, the Dicastery for the Doctrine of the Faith, through its prefect Cardinal Víctor Manuel Fernández, publicly characterized the planned act, in the words of *Ecclesia Dei* §3, as "a schismatic act" entailing the excommunication established under Church law.
+On June 29, Pope Leo XIV took a step without precedent in the Society's history: he wrote personally and publicly to Fr. Pagliarani, acknowledged the Society's "devotion to liturgical life" and "desire for fidelity to Tradition," warned that "the schismatic act you are about to undertake would deprive them [the faithful] of the licit and, in some cases, even valid reception of the Sacraments," called the tearing of Christ's seamless garment "a sin of extreme gravity," and concluded: "I feel it is my duty, through the authority received from Christ, to ask you to desist from your intended act."
+This was not a dicasterial warning or a canonical formality; it was a personal plea from the Successor of Peter, published for the whole Church to read.
+The Society answered the next day that it would proceed, and on July 1 the consecrations were performed.
+For the mainstream critic this is the pattern's confirmation, not its exception: presented with the choice between the reigning pope's personal, explicit request and the perpetuation of its own reserve hierarchy, the Society chose its own judgment over the pope's, within twenty-four hours of his plea.
+The Society's disclaimers (that the new bishops claim no jurisdiction and in no way deny the pope's supreme power) do not cure the act: a disclaimer of jurisdiction does not neutralize a positive act reserved to papal authority and performed against an explicit prohibition.
+Nor does the oath of fidelity to the pope sworn by the four during the ceremony help the Society's case; for the critic it sharpens it, since the men swearing to be "forever faithful and obedient" to the pope were at that moment carrying out the very act he had, days before, most solemnly and personally asked them to abandon.
+The willingness to repeat the act of 1988 after so many concessions, and now against so direct a plea, shows precisely where the obstacle lies.
 
 If the SSPX truly sought reunion with Rome, the path would be open: acceptance of Vatican II as authentic Church teaching, while continuing to engage its specific passages theologically within the legitimate framework of Catholic scholarship and ecclesial dialogue.
 Many serious theologians do exactly this.
@@ -472,7 +503,7 @@ Taken together, the arguments converge on a serious critique:
 - **The dispute argument** establishes that even the genuine theological concerns of the SSPX could have been pursued through legitimate Catholic channels rather than through institutional irregularity.
 - **The 2012 argument** establishes that the barrier to regularization is on the SSPX's side, not Rome's.
   Rome has done what it can.
-  The SSPX has chosen its institutional identity over the path to reconciliation, a choice reaffirmed in 2026 when, rather than close the breach, the Society announced four new episcopal consecrations without papal mandate, which the Dicastery for the Doctrine of the Faith declared a schismatic act.
+  The SSPX has chosen its institutional identity over the path to reconciliation, a choice consummated on July 1, 2026, when, against the personal written plea of Pope Leo XIV, the Society consecrated four new bishops without papal mandate.
 
 The cumulative case is therefore not a desperate condemnation but a serious Catholic critique.
 The SSPX is not a heretical sect.
@@ -517,8 +548,8 @@ Those responses are taken up in §12.
 | Formation | SSPX produces sectarian patterns alongside spiritual fruit | Williamson phenomenon; pastoral observations |
 | Solidarity | SSPX has largely absented itself from real Catholic struggles | Institutional isolation; reduced engagement with pro-life, religious liberty struggles |
 | Dispute | Legitimate channels exist for theological dispute | Cardinal Müller, scholarly theologians, canonical traditional communities |
-| 2012 and after | Barrier to regularization is on SSPX side | Doctrinal Preamble negotiations; Rome's accommodations vs. SSPX refusals; Feb 2, 2026 consecration announcement and the DDF's May 13, 2026 "schismatic act" declaration |
+| 2012 and after | Barrier to regularization is on SSPX side | Doctrinal Preamble negotiations; Rome's accommodations vs. SSPX refusals; Leo XIV's June 29, 2026 plea rejected and the consecrations performed July 1, 2026 |
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
