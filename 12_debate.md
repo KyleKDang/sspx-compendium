@@ -272,7 +272,7 @@ The traditional Mass remains available (within the post-*Traditionis Custodes* f
 - The reform's principles are conciliar in origin, not an imposition of the Consilium alone: *Sacrosanctum Concilium* (1963), approved by the Council Fathers, itself called for the revision of the rites, a wider use of the vernacular, and a "noble simplicity" in the liturgy (§34).
 - The Roman Canon (EP I) is the same in both rites.
 - The new Mass has expanded the lectionary, increased the prefaces, and added genuine elements of liturgical richness.
-- Many serious traditional Catholics, including the FSSP, ICKSP, and Cardinal Sarah, engage the new Mass without the SSPX's distinctive critical posture.
+- Many serious traditional Catholics, including the FSSP and the ICKSP, engage the new Mass without the SSPX's distinctive critical posture.
 - The decline in Catholic belief began before the new Mass took effect; it cannot be attributed solely or primarily to the reform.
 - Reverent celebration of the new Mass is possible and increasingly common; the "reform of the reform" addresses many SSPX concerns within the new rite.
 
