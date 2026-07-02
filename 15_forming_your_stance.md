@@ -188,7 +188,7 @@ It depends partly on your Level 1 conclusions but is not determined by them.
 A methodological note before proceeding.
 Most disagreement about the SSPX at this level is *not* disagreement about the principles of the state of necessity.
 The classical doctrine - that human ecclesiastical law admits of exceptions where its observance would frustrate the common good and salvation of souls - is uncontroversial in the Catholic moral tradition (see §10 Part IV; §7 Canon 1323 §4).
-The disagreement is over the *facts*: whether the situation of the post-conciliar Church is in fact a state of grave general necessity sufficient to justify the act of 1988 (and the announced act of 2026).
+The disagreement is over the *facts*: whether the situation of the post-conciliar Church is in fact a state of grave general necessity sufficient to justify the act of 1988 (and the act of July 1, 2026).
 Fr. Paul Robinson's framing of this division is exact: "If we're going to disagree, we're going to disagree on whether or not there is a state of necessity, not on the principles that apply when there is a state of necessity."
 The work of Level 2 is therefore not theoretical but evidentiary.
 The questions below ask you to weigh the facts as you find them.
@@ -422,30 +422,31 @@ You should do the same.
 ### Be willing to revise.
 
 The questions surrounding the SSPX have evolved over more than forty years.
-Rome's position has shifted from "schismatic act" (1988) through "no formal schism" (Benedict XVI, 2009) to permanent confession faculties (2016) and the *Traditionis Custodes* paradox (2021) - and, in May 2026, to a renewed DDF warning that the planned July 2026 episcopal consecrations would themselves constitute a schismatic act.
-The SSPX has expelled Bishop Williamson (2012), lost Bishop Tissier de Mallerais to death (2024), elected Fr. Pagliarani as Superior General (2018), and announced the first new SSPX episcopal consecrations since 1988.
+Rome's position has shifted from "schismatic act" (1988) through "no formal schism" (Benedict XVI, 2009) to permanent confession faculties (2016) and the *Traditionis Custodes* paradox (2021) - and, in 2026, to a renewed "schismatic act" warning from the DDF and from Pope Leo XIV personally, directed at the episcopal consecrations the Society carried out at Écône on July 1, 2026.
+The SSPX has expelled Bishop Williamson (2012), lost Bishop Tissier de Mallerais to death (2024), elected Fr. Pagliarani as Superior General (2018), and consecrated the first new SSPX bishops since 1988.
 The situation in 2026 is different from the situation in 1988, and it will be different again in 2030.
 
 A stance held rigidly is a stance that fails as the situation changes.
 Hold your position as a working judgment, ready to revise as new evidence and developments emerge.
 The compendium itself is meant to be a living document - you can and should update it as the situation evolves.
 
-### Watch for the upcoming consecrations.
+### The consecrations have occurred: what to watch now.
 
-Your original purpose in commissioning this compendium was to form a stance on the upcoming SSPX episcopal consecrations.
-The framework above gives you the tools to evaluate them when they occur.
+Your original purpose in commissioning this compendium was to form a stance on the SSPX episcopal consecrations.
+They took place at Écône on July 1, 2026: four bishops consecrated by Bishop de Galarreta with Bishop Fellay assisting, against Pope Leo XIV's personal written plea to desist, with the Society disclaiming all jurisdiction and swearing fidelity to the pope within the rite itself [→ §2 Timeline; §7 Canon Law].
+The framework above gives you the tools to evaluate the act; what remains open is Rome's response, and the questions to watch are these:
 
-The questions to watch:
+- Will Rome formally declare the excommunications of the six bishops, as it did within a day in 1988, or leave the *latae sententiae* question undeclared?
+  As of this writing no decree has issued, and Cardinal Parolin has said he does not know "the timing or the manner in which this excommunication will be imposed."
+  Whether Rome declares, and how quickly, will be highly diagnostic of Leo XIV's policy.
+- Will the Francis-era confession and marriage faculties be maintained, restricted, or revoked?
+  This is the question with the most direct consequences for SSPX faithful.
+- Will a reconciliation structure emerge, such as the *Ecclesia Dei*-style commission Cardinal Müller proposed on June 29, and will the doctrinal discussion the Society's June 24 Profession of Faith invites ever take place?
+- Will the SSPX treat the consecrations as a platform for continued dialogue (as Pagliarani's filial reply to Leo XIV frames them) or as a step toward institutional self-sufficiency (as its critics read them)?
+  The Society's conduct over the next several years will show which reading was right.
 
-- Will Rome respond with new excommunications, or will the silent acceptance of post-2009 SSPX consecrations continue?
-  This will be highly diagnostic of where the canonical situation actually stands.
-- Will Leo XIV initiate new regularization discussions?
-  His pontificate is new; his approach to the SSPX is still developing.
-- Will the SSPX use the consecrations as an occasion to signal continued openness to dialogue, or as a moment of institutional consolidation outside canonical structures?
-- Will the consecrations occur in regions where the SSPX is growing post-*Traditionis Custodes* (a sign of expansion) or where it is shrinking (a sign of consolidation)?
-
-The consecrations themselves - under current Roman practice - will likely not produce new canonical events of the magnitude of 1988.
-But they will reveal something about the trajectory of the SSPX's relationship with Rome, and you should pay attention.
+The 1988 precedent suggests that the meaning of July 1, 2026 will not be fixed by the act itself but by the decade that follows it: 1988 looked like a definitive rupture and was followed by remission, faculties, and dialogue.
+Whether 2026 follows the same arc is the live question, and you should pay attention.
 
 ### Hold Rome with filial love - even in the crisis.
 
@@ -580,4 +581,4 @@ Amen.*
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
