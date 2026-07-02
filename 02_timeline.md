@@ -693,7 +693,7 @@ The specific contours of the SSPX's canonical future will depend substantially o
 
 ---
 
-### 2026 - Announced Episcopal Consecrations and the Renewed Dispute with Rome
+### 2026 - The Episcopal Consecrations and the Renewed Dispute with Rome
 
 **February 2, 2026.** At the ceremony of the taking of the cassock at the Saint-Curé d'Ars Seminary in Flavigny, France, Superior General Fr. Davide Pagliarani publicly announces that the SSPX will consecrate **four new bishops on July 1, 2026**, without papal mandate.
 These would be the first SSPX-consecrated bishops since 1988.
@@ -706,20 +706,56 @@ It also notes that Pagliarani had twice written to the pope, in August and Novem
 Fernández proposes a specifically theological dialogue, with suspension of the consecration decision as a prior condition.
 By letter of February 18, made public the next day, Pagliarani declines those terms; the consecrations stay on the calendar.
 
-**May 13, 2026.** The DDF releases a public statement reiterating that the planned consecrations would constitute "a schismatic act" carrying automatic (*latae sententiae*) excommunication, and warning that formal adherence to schism is itself gravely sanctioned.
+**May 13, 2026.** The DDF releases a four-sentence public statement over Cardinal Fernández's name.
+Citing no canon by number, it grounds itself in the 1988 documents: the announced ordinations "do not have the requisite papal mandate"; the act "will constitute 'a schismatic act' (John Paul II, *Ecclesia Dei*, no. 3)"; and "formal adherence to the schism constitutes a grave offence against God and entails the excommunication established under Church law" (*Ecclesia Dei* §5c, with the Pontifical Council for Legislative Texts' Explanatory Note of August 24, 1996).
 This is the most severe public characterization of an SSPX action by Rome since the 1988 *Ecclesia Dei* declaration.
+The Society answers within days: a canonical analysis by Fr. Jean-Michel Gleize (May 15) argues that Canon 1323, 4° and 7° and Canon 1324 §3 exclude any *latae sententiae* penalty, and a declaration of Catholic faith is addressed to the pope.
 
 **May 26, 2026.** The General House announces the names of the four bishops-elect: **Fr. Pascal Schreiber** (Swiss, rector of the Zaitzkofen seminary), **Fr. Michael Goldade** (American, rector of the Dillwyn seminary), **Fr. Michel Poinsinet de Sivry** (French, superior of the Benelux district), and **Fr. Marc Hanappier** (French, professor at Dillwyn).
 The communiqué insists that the consecrations "do not proceed from any desire to claim a power of jurisdiction" and "in no way... constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the pope.
 
-**Status as of June 2026:** The consecrations remain scheduled for July 1; the SSPX has not retracted; no excommunications have been issued because the consecrations have not yet occurred.
-The relationship with Rome is in its most acute crisis since 1988.
+**June 16, 2026.** Responding to journalists outside Villa Barberini at Castel Gandolfo, Pope Leo XIV speaks about the SSPX in public for the first time: "We have invited them, and I am still considering making another appeal, to say: 'Do not do this. Let us try to live communion in the Church.' But it is their choice."
+He adds that the Society's members "refuse to accept certain fundamental elements of the Church, beginning with various points of the Second Vatican Council," and concludes: "And if they make those choices, I am sorry. But we must move forward."
 
-**Key questions for evaluating these consecrations:**
-- Will the SSPX proceed with the July 1 consecrations as announced, or will a last-minute resolution emerge?
-- If the consecrations occur, will Rome issue formal excommunications and a renewed "schismatic act" declaration as in 1988, or treat the act as an extension of the existing irregularity?
-- How will Leo XIV personally respond, given that the DDF statement was issued in his pontificate but does not bear his signature?
-- Do the consecrations close the door on regularization, or do they paradoxically force the underlying doctrinal questions back onto the table?
+**June 24, 2026.** On the eve of the June 26–27 consistory, the SSPX General Council publishes an open letter to Pope Leo XIV and the cardinals, accompanied by a lengthy Profession of Catholic Faith: "We hope that one day this doctrinal text may serve as a basis for an honest discussion with the Holy See."
+
+**June 29–30, 2026.** Pope Leo XIV writes personally to Fr. Pagliarani.
+The letter, dated June 29 (the Solemnity of Saints Peter and Paul) and published by the Holy See on June 30, acknowledges "the devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition" found in the Society, then pleads: "I plead with you and ask you with all my heart: please turn back!"
+It warns that "the schismatic act you are about to undertake would deprive them [the faithful] of the licit and, in some cases, even valid reception of the Sacraments," states that "to tear the seamless garment of Christ is a sin of extreme gravity," and closes: "I feel it is my duty, through the authority received from Christ, to ask you to desist from your intended act."
+Pagliarani replies the same day the letter is published, in a letter dated Écône, June 30: "Far be it from us to separate ourselves from the Roman Church. We desire, on the contrary, to serve her by means that are extraordinary, as one would assist a mother in distress who requires particular help, even if such help is not understood by everyone."
+He presses the Society's standing argument: "in 1988 the Society was already declared schismatic, for reasons and in circumstances entirely analogous to those of today. Yet, after so many years, we are speaking together as a father and his son. Your Holiness is paternally urging me to avoid a schism which, theoretically, has already taken place. Does not Your very attitude... constitute proof that the Society is neither schismatic nor hostile to the Church?"
+The consecrations are not postponed.
+
+**July 1, 2026 - The consecrations take place.** On the feast of the Most Precious Blood, in a great marquee erected in the meadow beside the Écône seminary, Bishop Alfonso de Galarreta, assisted by Bishop Bernard Fellay as co-consecrator, consecrates the four bishops-elect according to the 1962 Roman Pontifical: **Pascal Schreiber, Michael Goldade, Michel Poinsinet de Sivry, and Marc Hanappier**.
+Organizers count some 16,600 adults in attendance, with roughly 1,300 priests and religious; the ceremony of about five hours is livestreamed with commentary in seven languages.
+At the point where the apostolic mandate would be read, an assisting priest answers the *Habetis mandatum apostolicum?* with a declaration modeled on Lefebvre's 1988 reply, appealing to "the Catholic and Roman Church, always faithful to the holy traditions received from the Apostles" and to "entirely exceptional circumstances."
+Each bishop-elect swears the traditional oath of fidelity to the pope, promising to "forever be faithful and obedient" to him.
+Fr. Pagliarani preaches the homily: "No one can choose between faith and the church... We want the faith of the church in order to remain in the church, and we want the church within the faith."
+He also states that the Society considers "that any penalties or censures imposed for this act have no value whatsoever."
+The General House statement issued the same day describes the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and adds that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
+
+**July 1, 2026 - Rome's initial response.** Unlike 1988, when the Congregation for Bishops issued its declaratory decree of excommunication on July 1, the day after the consecrations, the Holy See issues no decree on the day of the act: the Press Office bulletin for July 1 contains no SSPX item.
+Cardinal Pietro Parolin, Secretary of State, tells journalists of his "deep sorrow," calls the consecrations "an act that is schismatic in itself" which incurs "very specific sanctions" ("fundamentally, excommunication"), but adds: "I do not know the timing or the manner in which this excommunication will be imposed."
+Cardinal Fernández comments the same day: "They didn't consider useful the dialogue we've proposed. But we hope in future, thanks to the action of the Holy Spirit, it'll be possible. I'm sure, but we'll need time."
+The Francis-era confession and marriage faculties remain in force; no Roman act has touched them.
+
+**Status as of July 1, 2026 (date of this update):** The canonical collision described above is now a collision over an accomplished fact.
+On Rome's stated reading, the six bishops involved incurred *latae sententiae* excommunication at the moment of the consecrations; on the Society's reading, Canons 1323 and 1324 mean no penalty was incurred at all.
+No declaratory decree has yet been issued.
+
+**Key questions going forward:**
+- Will Rome formally declare the excommunications of the six bishops, as it did within a day in 1988, or leave the *latae sententiae* penalty undeclared?
+- Will the 2015–2017 confession and marriage faculties be maintained, restricted, or revoked?
+- Does Leo XIV's "we must move forward" remark signal a policy of *de facto* tolerance, a hardening, or something new - such as the *Ecclesia Dei*-style commission Cardinal Müller proposed on June 29 for those who wish "to return to full communion with the pope"?
+- Do the consecrations close the door on regularization for a generation, or do they force the underlying doctrinal questions back onto the table, as the Society's open letter of June 24 intends?
+
+**Primary sources:**
+- Letter of Leo XIV to Fr. Pagliarani (June 29, 2026): [Vatican.va](https://www.vatican.va/content/leo-xiv/en/letters/2026/documents/20260629-lettera-fraternita-sanpiox.html)
+- Statement of Cardinal Fernández (May 13, 2026): [Press.vatican.va](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/05/13/260513d.html)
+- Consecrations announcement (February 2, 2026): [FSSPX.news](https://fsspx.news/en/news/general-house-fsspx-announces-future-consecrations-57009)
+- Names of the bishops-elect (May 26, 2026): [FSSPX.news](https://fsspx.news/en/news/general-house-announces-names-future-bishops-59319)
+- Pagliarani's reply to Leo XIV (June 30, 2026): [FSSPX.news](https://fsspx.news/en/news/letter-superior-general-response-his-holiness-pope-leo-xiv-59914)
+- General House statement following the consecrations (July 1, 2026): [FSSPX.news](https://fsspx.news/en/news/general-house-statement-following-episcopal-consecrations-59913)
 
 [→ §7 Canon Law; → §8 Papal Documents; → §12 Point-by-Point Debate]
 
@@ -754,8 +790,11 @@ All Vatican documents are available at Vatican.va; SSPX documents at SSPX.org or
 | *Traditionis Custodes* | Jul 16, 2021 | Francis | Restricts TLM; does not affect SSPX |
 | *Responsa ad Dubia* | Dec 4, 2021 | CDW | Further TLM restrictions |
 | Consecrations announcement | Feb 2, 2026 | SSPX General House | Four bishops to be consecrated July 1, 2026 |
-| DDF statement | May 13, 2026 | DDF (Cardinal Fernández) | Warns of "a schismatic act" and excommunication |
+| DDF statement | May 13, 2026 | DDF (Cardinal Fernández) | Calls the announced act "a schismatic act" per *Ecclesia Dei* §3 |
+| Letter to Fr. Pagliarani | Jun 29, 2026 | Leo XIV | Personal plea to "turn back"; "a sin of extreme gravity" |
+| Reply to Leo XIV | Jun 30, 2026 | Fr. Pagliarani | "Far be it from us to separate ourselves from the Roman Church" |
+| General House statement | Jul 1, 2026 | SSPX General House | Four auxiliary bishops consecrated "without jurisdiction" |
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
