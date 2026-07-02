@@ -555,7 +555,7 @@ As restrictions on the Traditional Mass tighten within the regular Church, the S
 - **2024:** Reports of ongoing dialogue between the SSPX and the Dicastery for the Doctrine of the Faith (which absorbed the Pontifical Commission *Ecclesia Dei* in 2019).
   No agreement announced.
 - **No SSPX episcopal consecrations occurred during the Francis pontificate.** The Society consecrated no new bishops between 1988 and 2026, so the question of fresh canonical penalties for unauthorized consecration did not arise during these years.
-  (The next consecrations - four bishops - were announced February 2, 2026 and scheduled for July 1, 2026, under Leo XIV rather than Francis.)
+  (The next consecrations - four bishops - were announced February 2, 2026 and carried out July 1, 2026, under Leo XIV rather than Francis; see Part V below.)
 
 ---
 
@@ -581,7 +581,76 @@ Its work continues within the DDF.
 
 ---
 
-## Part V: Synthesis - What the Documents Show
+## Part V: The Documents of the 2026 Crisis
+
+The consecrations of July 1, 2026 produced the first new Roman documents directly addressed to the SSPX since the Francis-era grants.
+Two are of permanent significance: the DDF statement of May 13 and Pope Leo XIV's letter of June 29.
+
+---
+
+### Statement of Cardinal Víctor Manuel Fernández, Prefect of the DDF - May 13, 2026
+
+**Occasion:** The SSPX's February 2, 2026 announcement of episcopal consecrations without papal mandate, and the failure of the February 12 meeting at which Cardinal Fernández had proposed a theological dialogue conditioned on suspending the decision.
+
+**Form:** A four-sentence statement released through the Holy See Press Office over the Prefect's name: not a decree, not a formal declaration, and not a new juridical act.
+
+**Complete text:**
+
+> "With regard to the Priestly Fraternity of Saint Pius X, we reiterate what has already been communicated.
+> The episcopal ordinations announced by the Priestly Fraternity of Saint Pius X do not have the requisite papal mandate.
+> This act will constitute 'a schismatic act' (John Paul II, *Ecclesia Dei*, no. 3) and 'formal adherence to the schism constitutes a grave offence against God and entails the excommunication established under Church law' (ibid., 5c; cf. Pontifical Council for Legislative Texts, Explanatory Note, 24 August 1996).
+> The Holy Father continues in his prayers to ask the Holy Spirit to enlighten those responsible for the Priestly Fraternity of Saint Pius X so that they may reconsider the extremely grave decision they have taken."
+>
+> - Statement of the Prefect of the Dicastery for the Doctrine of the Faith (May 13, 2026)
+
+**Analysis:** The statement's canonical economy is deliberate.
+It cites no canon by number, does not use the phrase *latae sententiae*, and creates no new penalty; everything it says, it says by quoting *Ecclesia Dei* (1988).
+The first quotation ("a schismatic act," §3) characterizes the act itself; the second (§5c, with the 1996 Explanatory Note of the Pontifical Council for Legislative Texts) concerns *formal adherence* to schism, the category applicable to persons beyond the six bishops directly involved.
+The statement is thus a restatement of the 1988 framework applied prospectively to 2026, and it carries the same interpretive questions the 1988 framework carried: whether the act is schismatic *as such*, and whether the automatic penalty is blocked by the exempting circumstances of Canons 1323–1324 [→ §7 Canon Law].
+Press accounts summarizing the statement as declaring "*latae sententiae* excommunication" were paraphrasing; the phrase is not in the text.
+
+---
+
+### Letter of Pope Leo XIV to Fr. Davide Pagliarani - June 29, 2026
+
+**Occasion:** The imminence of the July 1 consecrations, after the Society's June 24 open letter to the pope and cardinals.
+Dated the Solemnity of Saints Peter and Paul and published by the Holy See the following day, June 30.
+
+**Form:** A brief personal letter, published on Vatican.va: the first letter a reigning pope has ever addressed publicly to an SSPX Superior General.
+
+**Key quotations:**
+
+> "With a paternal heart, and aware of the responsibility entrusted to me by the Lord as the Successor of the Apostle Peter, I address you and, through you, the bishops, priests, seminarians and faithful connected to the Priestly Fraternity of Saint Pius X."
+>
+> - *Letter to the Reverend Father Davide Pagliarani* (June 29, 2026)
+
+> "The Church recognizes the devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition that characterize many people and communities connected to your Fraternity."
+>
+> - *Letter to the Reverend Father Davide Pagliarani* (June 29, 2026)
+
+> "In this spirit, and filled with Christian affection, I plead with you and ask you with all my heart: please turn back! I urge you to consider carefully the spiritual good of the faithful, because the schismatic act you are about to undertake would deprive them of the licit and, in some cases, even valid reception of the Sacraments, which they love and seek for their sanctification."
+>
+> - *Letter to the Reverend Father Davide Pagliarani* (June 29, 2026)
+
+> "I pray for you, because to tear the seamless garment of Christ is a sin of extreme gravity. May the Lord enlighten your consciences and awaken your hearts. With a sorrowful yet hopeful heart, I feel it is my duty, through the authority received from Christ, to ask you to desist from your intended act. I entrust these intentions to the Immaculate Heart of Mary, Mother of Good Counsel."
+>
+> - *Letter to the Reverend Father Davide Pagliarani* (June 29, 2026)
+
+**Analysis:** The letter is pastorally maximal and canonically minimal.
+It contains no canon number, no mention of excommunication, and no penalty; its operative verbs are *plead*, *urge*, and *ask*.
+At the same time it removes an ambiguity that mattered in 1988: where Lefebvre's defenders could argue about the form and directness of John Paul II's prohibition, Leo XIV's prohibition is personal, written, public, and grounded explicitly in "the authority received from Christ."
+The sacramental warning is carefully graded: the act "would deprive them of the *licit* and, in some cases, even *valid* reception of the Sacraments," a formulation that concedes the general validity of SSPX sacraments while pointing at the jurisdiction-dependent cases (confession and marriage) [→ §9 Sacramental Questions].
+The letter's acknowledgment of the Society's "desire for fidelity to Tradition" is also the warmest papal description of the SSPX in an official document since the 1988 rupture.
+
+**The sequel:** Fr. Pagliarani replied in a letter dated Écône, June 30 ("Far be it from us to separate ourselves from the Roman Church. We desire, on the contrary, to serve her by means that are extraordinary"), and the consecrations proceeded on July 1.
+The General House statement of that day described the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction."
+As of the date of this document, the Holy See has issued no declaratory decree in response: the Press Office bulletin of July 1 contained no SSPX item, and Cardinal Parolin, while calling the consecrations "an act that is schismatic in itself," said he did not know "the timing or the manner in which this excommunication will be imposed."
+The 1988 parallel is exact up to this point and then diverges: John Paul II's *Ecclesia Dei* and the Congregation for Bishops' declaratory decree followed the 1988 consecrations within two days.
+Whatever document eventually answers July 1, 2026 will define the next era of this dispute, as *Ecclesia Dei* defined the last.
+
+---
+
+## Part VI: Synthesis - What the Documents Show
 
 ### A Pattern in Roman Documents
 
@@ -597,18 +666,19 @@ Tracing the documents from 1988 to the present reveals a consistent pattern:
 - **2009–2012 - Near-regularization.** Doctrinal Discussions, then collapse of the proposed agreement.
 - **2015–2017 - Practical sacramental normalization under Francis.** Confessions and marriages validated.
 - **2021 - Reversal on the Traditional Mass (but not on the SSPX).** *Traditionis Custodes* restricts the TLM but leaves SSPX ministry untouched.
-- **2021–present - Tolerance combined with restriction.** Rome neither regularizes the SSPX nor declares them schismatic; it neither formalizes their ministry nor suppresses it - until the February 2026 consecration announcement draws the DDF's May 13, 2026 warning.
+- **2021–2025 - Tolerance combined with restriction.** Rome neither regularizes the SSPX nor declares them schismatic; it neither formalizes their ministry nor suppresses it.
+- **2026 - The consecrations crisis.** The February 2 announcement draws the DDF's May 13 "schismatic act" statement and Leo XIV's June 29 personal plea; the consecrations proceed July 1; Rome's formal canonical response is pending as of this writing.
 
 ### What the Pattern Implies
 
 The trajectory of Roman documents over four decades suggests several conclusions:
 
 - **The schism question appeared resolved in the SSPX's favor - until the 2026 consecrations.** No major Roman document between 2009 and early 2026 called the SSPX schismatic, and canonical practice treated the situation as irregular but not separated.
-  The Dicastery for the Doctrine of the Faith's May 13, 2026 statement - characterizing the planned July 1, 2026 consecrations as "a schismatic act" - has reopened the question in connection with the new consecrations, though it is directed at the prospective act rather than retroactively reclassifying the Society's existing status.
+  The DDF's May 13, 2026 statement and Leo XIV's June 29 letter - both characterizing the July 1, 2026 consecrations as "a schismatic act" - have reopened the question, though both are directed at the act rather than retroactively reclassifying the Society's existing status, and no post-consecration document has yet issued.
 - **The canonical situation has been progressively normalized at the sacramental level.** Confessions, marriages, and (de facto) Sunday attendance have been validated.
 - **The doctrinal question remains unresolved.** Benedict XVI's 2009 letter identifies this as the substantive issue, and no subsequent document has addressed it definitively.
 - **The 1988 consecrations were treated as a closed disciplinary matter - until 2026.** The Society consecrated no new bishops between 1988 and 2026, and the penalties from 1988 were remitted in 2009; for nearly four decades the live canonical question of unauthorized consecration lay dormant.
-  It was reopened only by the four consecrations announced February 2, 2026 (scheduled for July 1, 2026), to which the Dicastery for the Doctrine of the Faith responded on May 13, 2026 by calling the planned act "a schismatic act" carrying *latae sententiae* excommunication under Canon 1382 (now 1387).
+  It was reopened by the four consecrations announced February 2, 2026 and performed July 1, 2026, which the DDF's May 13 statement characterized in advance as "a schismatic act" in the words of *Ecclesia Dei* §3; the underlying penalty is that of Canon 1382 (renumbered 1387 in 2021), contested by the Society's Canon 1323 defense [→ §7 Canon Law].
 - **The Traditional Mass has been treated separately from the SSPX itself.** *Summorum Pontificum* expanded it; *Traditionis Custodes* restricted it - but neither document directly addressed the SSPX.
   This separation suggests Rome views the two issues - liturgical preference and the SSPX's canonical status - as distinct.
 
@@ -617,7 +687,8 @@ The trajectory of Roman documents over four decades suggests several conclusions
 - **Whether the SSPX is right about Vatican II.** No document addresses the substantive theological dispute.
 - **Whether and when regularization will occur.** Multiple opportunities (1988, 2012) have been missed; the path forward is uncertain.
 - **Whether the SSPX's continued existence as an irregular structure is sustainable.** The current arrangement is unprecedented and inherently unstable.
-- **What Rome's approach will be under Leo XIV.** The first concrete signal - the Dicastery for the Doctrine of the Faith's May 13, 2026 statement on the planned consecrations - points toward confrontation rather than continuity of the post-2009 modus vivendi, but how the situation develops after July 1, 2026 remains to be seen.
+- **What Rome's formal response to July 1, 2026 will be.** The pre-consecration documents (the May 13 statement, the June 29 letter) warned of schism and pleaded for reversal; the post-consecration record so far consists of remarks (Parolin's "deep sorrow"; Fernández's "we'll need time") rather than documents.
+  Whether Rome issues a declaratory decree as in 1988, erects a Müller-style reconciliation commission, or lets the *latae sententiae* question stand undeclared is the open question on which the next chapter of this documentary history depends.
 
 ---
 
@@ -639,7 +710,9 @@ The trajectory of Roman documents over four decades suggests several conclusions
 | Letter to bishops on *Traditionis Custodes* | July 16, 2021 | Francis | Rationale: TLM used to reject Vatican II |
 | *Responsa ad Dubia* | December 18, 2021 | CDW | Tightens TLM restrictions |
 | Various Francis-era pastoral provisions | 2017–2024 | Various | Continued practical normalization |
+| DDF statement on the announced consecrations | May 13, 2026 | Cardinal Fernández (DDF) | "A schismatic act" per *Ecclesia Dei* §3; no new juridical act |
+| Letter to Fr. Pagliarani | June 29, 2026 | Leo XIV | Personal plea to "turn back"; "a sin of extreme gravity"; no penalty pronounced |
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
