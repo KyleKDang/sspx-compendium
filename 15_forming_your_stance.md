@@ -441,7 +441,7 @@ The framework above gives you the tools to evaluate the act; what remains open i
   Whether Rome declares, and how quickly, will be highly diagnostic of Leo XIV's policy.
 - Will the Francis-era confession and marriage faculties be maintained, restricted, or revoked?
   This is the question with the most direct consequences for SSPX faithful.
-- Will a reconciliation structure emerge, such as the *Ecclesia Dei*-style commission Cardinal Müller proposed on June 29, and will the doctrinal discussion the Society's June 24 Profession of Faith invites ever take place?
+- Will a reconciliation structure emerge, such as the *Ecclesia Dei*-style commission Cardinal Müller proposed at the June 26–27 consistory, and will the doctrinal discussion the Society's June 24 Profession of Faith invites ever take place?
 - Will the SSPX treat the consecrations as a platform for continued dialogue (as Pagliarani's filial reply to Leo XIV frames them) or as a step toward institutional self-sufficiency (as its critics read them)?
   The Society's conduct over the next several years will show which reading was right.
 

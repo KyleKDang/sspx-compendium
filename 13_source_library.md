@@ -356,7 +356,7 @@ All available at Vatican.va in English and Latin.
 ---
 
 ### Pope Leo XIV - Letter to Fr. Davide Pagliarani (June 29, 2026)
-- **What it is:** A brief personal letter, dated the Solemnity of Saints Peter and Paul and published by the Holy See on June 30, 2026: the first letter a reigning pope has ever addressed publicly to an SSPX Superior General.
+- **What it is:** A brief personal letter, dated the Solemnity of Saints Peter and Paul and published by the Holy See on June 30, 2026: the first public papal letter to an SSPX Superior General since Paul VI's letters to Archbishop Lefebvre in 1975 and 1976.
 - **Why it matters:** The papal document of the 2026 crisis.
   Pastorally maximal and canonically minimal: it acknowledges the Society's "devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition," pleads "with all my heart: please turn back!", warns that "the schismatic act you are about to undertake would deprive them of the licit and, in some cases, even valid reception of the Sacraments," and calls the tearing of Christ's seamless garment "a sin of extreme gravity"; it cites no canon and pronounces no penalty [→ §8 Part V].
 - **Link:** [Vatican.va](https://www.vatican.va/content/leo-xiv/en/letters/2026/documents/20260629-lettera-fraternita-sanpiox.html)

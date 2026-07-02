@@ -344,7 +344,7 @@ If Rome's de facto practice over the past forty years is taken seriously, the te
 The May 2026 warning from the Dicastery for the Doctrine of the Faith threatened to apply to the SSPX a category Rome has been retiring everywhere else.
 
 The consecrations have now taken place, and the manner of their performance is itself evidence in the case.
-On July 1, 2026, before more than sixteen thousand of the faithful at Écône, each of the four bishops-elect swore the traditional oath of fidelity to the pope, promising to be "forever faithful and obedient" to him, inside the very rite the charge of schism is supposed to condemn.
+On July 1, 2026, before more than sixteen thousand of the faithful at Écône, each of the four bishops-elect swore the traditional oath of fidelity to the pope, promising to "forever be faithful and obedient" to him, inside the very rite the charge of schism is supposed to condemn.
 The booklet given to the faithful stated that the consecrations "absolutely exclude any attempt to usurp the jurisdiction of the Sovereign Pontiff."
 The Society's statement that same day described the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and added that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
 Men do not swear obedience to an authority they are renouncing, and they do not publish their regret at acting without a permission they consider meaningless.
@@ -627,7 +627,7 @@ When the consecrations took place, Rome did not repeat even 1988.
 In 1988 the declaratory decree of excommunication came the day after the act.
 On July 1, 2026 the Holy See published nothing, and its Secretary of State, while calling the act schismatic, told journalists: "I do not know the timing or the manner in which this excommunication will be imposed."
 Cardinal Fernández said the same day that dialogue remains possible: "we'll need time."
-Cardinal Müller, the Church's former chief doctrinal officer, had proposed two days earlier a commission on the model of *Ecclesia Dei* to restore full communion.
+Cardinal Müller, the Church's former chief doctrinal officer, had proposed at the consistory the week before a commission on the model of *Ecclesia Dei* to restore full communion.
 None of this is the treatment of a sect being expelled.
 It is the treatment of a Catholic body whose dispute with Rome, as Rome itself keeps conceding, is doctrinal, and will be settled when Rome takes up the doctrine.
 On that question the Society has been waiting, and holding its ground, the whole time.
@@ -641,7 +641,7 @@ While diocesan seminaries emptied, the Society's seminaries kept filling.
 It has grown to 733 priests serving nearly 800 Mass centers worldwide, with 264 men in formation in its five seminaries.
 Its chapels are full of young families, large families, and children who can actually explain what they believe.
 After 2021, when access to the traditional Mass within the dioceses was sharply restricted, the Society grew again, because in many places it had become the one place that Mass could still be found.
-When the Society consecrated its four new bishops at Écône in July 2026, organizers counted some 16,600 adults in the seminary meadow, drawn from seventy countries, along with about 1,300 priests and religious.
+When the Society consecrated its four new bishops at Écône in July 2026, organizers counted some 16,600 adults in the seminary meadow, drawn from nearly seventy countries, among them about 1,300 priests and religious.
 The communities Rome formed from the Society's ranks show the same vitality: the Priestly Fraternity of St. Peter, founded in 1988, today counts nearly four hundred priests whose average age is thirty-nine.
 
 A movement built on pride and error does not bear fruit like that.

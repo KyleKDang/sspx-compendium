@@ -110,7 +110,7 @@ These grants do not regularize the Society's institutional status, but they form
 
 **February–July 2026: Renewed dispute and the consecrations.** On February 2, 2026, at the seminary in Flavigny, France, Superior General Fr. Davide Pagliarani announced that the SSPX would consecrate four new bishops on July 1, 2026, without papal mandate, to ensure the Society's episcopal succession: the two living SSPX bishops, Bernard Fellay and Alfonso de Galarreta, were nearing seventy.
 On February 12, Pagliarani met with Cardinal Víctor Manuel Fernández, Prefect of the Dicastery for the Doctrine of the Faith (DDF, the Vatican office formerly known as the Congregation for the Doctrine of the Faith).
-Fernández offered "a specifically theological path of dialogue," on the prior condition that the Society "suspend" its decision; the SSPX declined.
+Fernández offered "a specifically theological dialogue path," on the prior condition that the Society "suspend" its decision; the SSPX declined.
 On May 13, 2026, the DDF released a public statement that the planned consecrations would constitute "a schismatic act," in the words of *Ecclesia Dei* §3.
 On June 29, Pope Leo XIV wrote personally to Pagliarani, pleading "with all my heart: please turn back!" and calling the impending act "a sin of extreme gravity"; Pagliarani replied in filial but unmoved terms, and on July 1 the consecrations were carried out at Écône: the four new bishops were consecrated by de Galarreta, assisted by Fellay, "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction."
 Cardinal Parolin called the act "schismatic in itself"; the Holy See issued no decree on the day of the act.

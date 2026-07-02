@@ -547,7 +547,7 @@ The 1988 act, on Rome's own subsequent behavior, was apparently not as schismati
 **June–July 2026:** Even at the moment of sharpest confrontation, the pattern holds in ways the defender finds telling.
 Leo XIV's letter of June 29, for all its severity, opens by recognizing "the devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition" in the Society; it pleads rather than decrees; and it invokes no canon and pronounces no penalty.
 When the consecrations took place on July 1, Rome did not repeat 1988: where the Congregation for Bishops had issued its declaratory decree of excommunication the day after the 1988 consecrations, the Holy See issued nothing on the day of the 2026 act, and Cardinal Parolin said he did not know "the timing or the manner in which this excommunication will be imposed."
-Cardinal Fernández spoke the same day of dialogue resuming in the future ("we hope in future... it'll be possible. I'm sure, but we'll need time"), and Cardinal Müller had proposed, two days before, an *Ecclesia Dei*-style commission for reconciliation.
+Cardinal Fernández spoke the same day of dialogue resuming in the future ("we hope in future... it'll be possible. I'm sure, but we'll need time"), and Cardinal Müller had proposed, at the consistory the week before, an *Ecclesia Dei*-style commission for reconciliation.
 The defender does not claim Rome has accepted the consecrations; it plainly has not.
 The claim is narrower: even now, Roman conduct treats the Society as a Catholic body to be reconciled rather than a sect to be expelled, which is the trajectory the previous four decades traced.
 

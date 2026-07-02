@@ -727,11 +727,11 @@ He presses the Society's standing argument: "in 1988 the Society was already dec
 The consecrations are not postponed.
 
 **July 1, 2026 - The consecrations take place.** On the feast of the Most Precious Blood, in a great marquee erected in the meadow beside the Écône seminary, Bishop Alfonso de Galarreta, assisted by Bishop Bernard Fellay as co-consecrator, consecrates the four bishops-elect according to the 1962 Roman Pontifical: **Pascal Schreiber, Michael Goldade, Michel Poinsinet de Sivry, and Marc Hanappier**.
-Organizers count some 16,600 adults in attendance, with roughly 1,300 priests and religious; the ceremony of about five hours is livestreamed with commentary in seven languages.
+Organizers count some 16,600 adults in attendance, among them roughly 1,300 priests and religious; the ceremony of about five hours is livestreamed with commentary in six languages.
 At the point where the apostolic mandate would be read, an assisting priest answers the *Habetis mandatum apostolicum?* with a declaration modeled on Lefebvre's 1988 reply, appealing to "the Catholic and Roman Church, always faithful to the holy traditions received from the Apostles" and to "entirely exceptional circumstances."
 Each bishop-elect swears the traditional oath of fidelity to the pope, promising to "forever be faithful and obedient" to him.
-Fr. Pagliarani preaches the homily: "No one can choose between faith and the church... We want the faith of the church in order to remain in the church, and we want the church within the faith."
-He also states: "We consider that any penalties or censures imposed for this act have no value whatsoever."
+Fr. Pagliarani preaches the homily: "No one can choose between faith and the church... We want the faith of the church in order to remain in the church, and we want the church within the faith, even if those opposed to us refuse to understand this."
+A declaration at the ceremony states: "We consider that any penalties or censures imposed for this act have no value whatsoever."
 The General House statement issued the same day describes the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and adds that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
 
 **July 1, 2026 - Rome's initial response.** Unlike 1988, when the Congregation for Bishops issued its declaratory decree of excommunication on July 1, the day after the consecrations, the Holy See issues no decree on the day of the act: the Press Office bulletin for July 1 contains no SSPX item.
@@ -746,7 +746,7 @@ No declaratory decree has yet been issued.
 **Key questions going forward:**
 - Will Rome formally declare the excommunications of the six bishops, as it did within a day in 1988, or leave the *latae sententiae* penalty undeclared?
 - Will the 2015–2017 confession and marriage faculties be maintained, restricted, or revoked?
-- Does Leo XIV's "we must move forward" remark signal a policy of *de facto* tolerance, a hardening, or something new - such as the *Ecclesia Dei*-style commission Cardinal Müller proposed on June 29 for those who wish "to return to full communion with the pope"?
+- Does Leo XIV's "we must move forward" remark signal a policy of *de facto* tolerance, a hardening, or something new - such as the *Ecclesia Dei*-style commission Cardinal Müller proposed at the June 26–27 consistory for those who wish "to return to full communion with the pope"?
 - Do the consecrations close the door on regularization for a generation, or do they force the underlying doctrinal questions back onto the table, as the Society's open letter of June 24 intends?
 
 **Primary sources:**

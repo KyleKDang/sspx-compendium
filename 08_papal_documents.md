@@ -616,7 +616,7 @@ Press accounts summarizing the statement as declaring "*latae sententiae* excomm
 **Occasion:** The imminence of the July 1 consecrations, after the Society's June 24 open letter to the pope and cardinals.
 Dated the Solemnity of Saints Peter and Paul and published by the Holy See the following day, June 30.
 
-**Form:** A brief personal letter, published on Vatican.va: the first letter a reigning pope has ever addressed publicly to an SSPX Superior General.
+**Form:** A brief personal letter, published on Vatican.va: the first public papal letter to an SSPX Superior General since Paul VI's letters to Archbishop Lefebvre in 1975 and 1976.
 
 **Key quotations:**
 
