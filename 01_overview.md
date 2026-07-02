@@ -12,8 +12,8 @@ It exists to form and sanctify priests according to the standards of the pre-con
 The Society holds the doctrinal positions of pre–Vatican II Catholicism, objects to specific documents and developments of the Second Vatican Council (1962–1965), and operates outside the ordinary canonical structures of the Catholic Church following the episcopal consecrations of 1988, which were carried out without papal mandate.
 Its priests are validly ordained and its Masses are valid; the 1988 excommunications were lifted in 2009; its confession and marriage faculties were normalized by Pope Francis (2015–2017).
 Through the past two decades Rome has not treated the Society as in formal schism.
-In May 2026, however, with the SSPX preparing to consecrate four further bishops on July 1 without papal mandate, the Dicastery for the Doctrine of the Faith publicly warned that those consecrations would constitute "a schismatic act" incurring automatic excommunication.
-The Society, invoking what it calls a state of necessity, has declined to retract.
+On July 1, 2026, however, the Society consecrated four further bishops at Écône without papal mandate, invoking what it calls a state of necessity, after the Dicastery for the Doctrine of the Faith had warned that the act would constitute "a schismatic act" and Pope Leo XIV had personally pleaded with the Society to desist.
+Rome's officials called the accomplished act schismatic; its formal canonical response is pending as of this writing.
 The SSPX is, in short, the most significant anomaly in the post-conciliar Catholic Church: a community of more than seven hundred priests, several hundred thousand faithful, and a complete institutional life, situated in a canonical space that has no precise precedent in modern Catholic history.
 
 ---
@@ -76,9 +76,9 @@ The current SSPX recognizes Leo XIV as pope.
 The SSPX prays for the pope at every Mass.
 This recognition of papal authority, combined with resistance to specific exercises of it, is the distinctive and canonically significant feature of the SSPX's stance. [→ §6 Position on the Papacy; §7 Canon Law]
 
-**In a state of necessity.** The SSPX's canonical justification for its irregular acts (founding without diocesan approval after 1975, ordaining priests against Vatican wishes, consecrating bishops in 1988, and now preparing to consecrate further bishops in 2026) is the principle of the "state of necessity" (*status necessitatis*) recognized in Canon 1323, 4° of the Code of Canon Law.
+**In a state of necessity.** The SSPX's canonical justification for its irregular acts (founding without diocesan approval after 1975, ordaining priests against Vatican wishes, consecrating bishops in 1988 and again in 2026) is the principle of the "state of necessity" (*status necessitatis*) recognized in Canon 1323, 4° of the Code of Canon Law.
 When the Church is in grave danger, and when legitimate authority either fails to address that danger or actively contributes to it, a minister may act outside ordinary canonical structures to preserve the faith.
-Lefebvre invoked this principle explicitly in 1988; the SSPX has maintained it ever since; and Superior General Fr. Davide Pagliarani invoked it again in February 2026 in announcing the planned consecrations. [→ §7 Canon Law]
+Lefebvre invoked this principle explicitly in 1988; the SSPX has maintained it ever since; and Superior General Fr. Davide Pagliarani invoked it again for the consecrations of July 1, 2026. [→ §7 Canon Law]
 
 **A sign of contradiction.** The SSPX is aware that its existence is itself a theological statement: that a Catholic community can survive, grow, and thrive by holding the pre-conciliar faith in its integrity.
 The steady growth of the SSPX (vocations, schools, families, converts) is presented by its defenders as evidence that the traditional faith retains its power to attract and form genuine Catholics.
@@ -108,20 +108,20 @@ Cardinal Darío Castrillón Hoyos, then president of the Pontifical Commission *
 In 2017 the Vatican established a framework by which SSPX marriages can be celebrated validly with proper delegation.
 These grants do not regularize the Society's institutional status, but they formally recognize the validity of its sacramental ministry. [→ §8 Papal Documents; §9 Sacramental Questions]
 
-**February–May 2026: Renewed dispute.** On February 2, 2026, at the seminary in Flavigny, France, Superior General Fr. Davide Pagliarani announced that the SSPX would consecrate four new bishops on July 1, 2026, without papal mandate, to ensure the Society's episcopal succession: the two living SSPX bishops, Bernard Fellay and Alfonso de Galarreta, are nearing seventy.
+**February–July 2026: Renewed dispute and the consecrations.** On February 2, 2026, at the seminary in Flavigny, France, Superior General Fr. Davide Pagliarani announced that the SSPX would consecrate four new bishops on July 1, 2026, without papal mandate, to ensure the Society's episcopal succession: the two living SSPX bishops, Bernard Fellay and Alfonso de Galarreta, were nearing seventy.
 On February 12, Pagliarani met with Cardinal Víctor Manuel Fernández, Prefect of the Dicastery for the Doctrine of the Faith (DDF, the Vatican office formerly known as the Congregation for the Doctrine of the Faith).
 Fernández offered "a specifically theological path of dialogue," on the prior condition that the Society "suspend" its decision; the SSPX declined.
-On May 13, 2026, the DDF released a public statement reiterating that the planned consecrations would constitute "a schismatic act" carrying automatic excommunication.
-The SSPX, again invoking the state of necessity, has not retracted.
+On May 13, 2026, the DDF released a public statement that the planned consecrations would constitute "a schismatic act," in the words of *Ecclesia Dei* §3.
+On June 29, Pope Leo XIV wrote personally to Pagliarani, pleading "with all my heart: please turn back!" and calling the impending act "a sin of extreme gravity"; Pagliarani replied in filial but unmoved terms, and on July 1 the consecrations were carried out at Écône: the four new bishops were consecrated by de Galarreta, assisted by Fellay, "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction."
+Cardinal Parolin called the act "schismatic in itself"; the Holy See issued no decree on the day of the act.
 
-**Current position (as of May 2026):** No SSPX cleric is excommunicated.
-The Society is not formally declared schismatic.
-Its sacraments are valid; its confessions and marriages are licit under the 2016 and 2017 grants.
-The relationship with Rome is, however, in its most acute crisis since 1988.
-The outcome of the planned July 1 consecrations, both the act itself and Rome's response, will determine whether the canonical status quo of the past two decades holds or is overturned.
+**Current position (as of July 1, 2026):** On Rome's stated reading, the six bishops who performed and received the consecrations incurred automatic excommunication; on the Society's Canon 1323 reading, no penalty was incurred; no declaratory decree has been issued.
+The Society as a body is not formally declared schismatic.
+Its sacraments are valid; its confessions and marriages remain licit under the 2016 and 2017 grants, which no Roman act has touched.
+The relationship with Rome is in its most acute crisis since 1988, and Rome's formal response will determine whether the canonical status quo of the past two decades holds or is overturned.
 
-**In plain terms:** Through May 2026, Rome treats the SSPX as canonically irregular rather than schismatic: operating outside the ordinary canonical structures of the Church, in a way that must be resolved but which does not, as of the current state of dialogue, deprive the faithful of valid sacraments or cut them off from the Catholic Church.
-After July 1, that situation may change.
+**In plain terms:** Through the eve of the 2026 consecrations, Rome treated the SSPX as canonically irregular rather than schismatic: operating outside the ordinary canonical structures of the Church, in a way that must be resolved but which does not deprive the faithful of valid sacraments or cut them off from the Catholic Church.
+Whether that treatment survives July 1 is the question now pending.
 
 ---
 
@@ -150,10 +150,9 @@ The remainder of this section describes the resources by which these six works a
 
 ### Clergy
 - **733 priests** worldwide, making the Society one of the larger priestly bodies in the Catholic world and by far the largest among traditionalist societies.
-- **Two living bishops:** Bishop Bernard Fellay (consecrated 1988) and Bishop Alfonso de Galarreta (consecrated 1988).
-  Bishop Bernard Tissier de Mallerais died on October 8, 2024.
-  Bishop Richard Williamson was expelled from the Society in 2012 and died January 29, 2025.
-  No bishop has been consecrated for the SSPX since 1988; the four new bishops planned for July 1, 2026 would be the first.
+- **Six living bishops:** Bishop Bernard Fellay and Bishop Alfonso de Galarreta (both consecrated 1988), and the four consecrated at Écône on July 1, 2026: Bishops Pascal Schreiber, Michael Goldade, Michel Poinsinet de Sivry, and Marc Hanappier, who serve as auxiliaries of the Society "without jurisdiction."
+  Bishop Bernard Tissier de Mallerais died on October 8, 2024; Bishop Richard Williamson was expelled from the Society in 2012 and died January 29, 2025.
+  The 2026 consecrations were the first since 1988; their canonical consequences are contested [→ §7 Canon Law].
 - **264 seminarians** in five international seminaries.
 - The Superior General is **Fr. Davide Pagliarani**, an Italian priest of the Society (a priest, not a bishop), elected on July 11, 2018, for a twelve-year term, succeeding Bishop Bernard Fellay.
 
@@ -266,9 +265,9 @@ This is beyond serious dispute. [→ §7 Canon Law; §9 Sacramental Questions]
 
 **2.
 Is the SSPX schismatic?**
-Through May 2026, Rome has not declared the Society in formal schism.
-The DDF has, however, warned that the planned July 1, 2026 episcopal consecrations would constitute "a schismatic act" carrying automatic excommunication.
-The status going into July is therefore unsettled in a way it has not been since 1988. [→ §7 Canon Law; §8 Papal Documents]
+Rome has never declared the Society as a body in formal schism.
+The DDF, Pope Leo XIV, and Cardinal Parolin characterized the July 1, 2026 episcopal consecrations themselves as "a schismatic act"; the Society answered that the act claims no jurisdiction and denies no papal authority.
+Rome's formal response to the accomplished act is pending, and the status is unsettled in a way it has not been since 1988. [→ §7 Canon Law; §8 Papal Documents]
 
 **3.
 Is the SSPX canonically regular?**
@@ -281,9 +280,9 @@ It involves genuine theological complexity and is not resolved by pointing to th
 
 **5.
 Was the 1988 episcopal consecration justified?**
-This is the central canonical question, and it returns with full force in 2026.
+This is the central canonical question, and the consecrations of July 1, 2026 have posed it a second time.
 The SSPX answers yes, invoking the state of necessity.
-Rome's 1988 position was no. Whether that earlier answer is the same answer Rome will give in 2026 is the open question. [→ §7 Canon Law; §8 Papal Documents; §10–§12 The Debate]
+Rome's answer in 1988 was no, and its officials gave the same answer in advance of the 2026 act; whether Rome's formal response to the accomplished act will repeat 1988 remains open. [→ §7 Canon Law; §8 Papal Documents; §10–§12 The Debate]
 
 **6.
 Should a Catholic attend the SSPX?**
@@ -294,7 +293,7 @@ It depends on what is available, what the individual's spiritual needs are, and 
 Will the SSPX be regularized?**
 Unknown.
 Multiple attempts (the 1988 Protocol, the 2012 doctrinal preamble negotiations) have come close and failed.
-The pontificate of Leo XIV had revived the possibility of dialogue; the July 2026 consecrations may instead set regularization back.
+The July 1, 2026 consecrations have set regularization back, though the first post-consecration signals (Cardinal Müller's proposal of an *Ecclesia Dei*-style commission, Cardinal Fernández's "we'll need time") leave the door ajar.
 The underlying theological dispute about Vatican II has not been resolved. [→ §2 Timeline; §12 Point-by-Point Debate]
 
 ---
@@ -364,7 +363,7 @@ Brief definitions for the terms most essential to reading §1:
 | Traditional Latin Mass (TLM) | The 1962 Roman Missal as codified by John XXIII; the Mass of the Roman Rite as celebrated before the 1969 reform; also called the Tridentine Mass, the Extraordinary Form, or the *Usus Antiquior* ("older usage") |
 | Novus Ordo Missae | The new Order of Mass promulgated by Paul VI in 1969; the Ordinary Form of the Roman Rite as celebrated in the vast majority of Catholic churches today |
 | Canonical irregularity | Operating outside the ordinary canonical structures of the Church without being under formal censure or penalty |
-| Schism | The refusal of submission to the pope or of communion with the members of the Church subject to him (Canon 751); a charge Rome does not currently apply to the SSPX, though it has warned of it in relation to the July 2026 consecrations |
+| Schism | The refusal of submission to the pope or of communion with the members of the Church subject to him (Canon 751); a charge Rome has not applied to the Society as a body, though its officials characterized the July 1, 2026 consecrations as "a schismatic act" |
 | State of necessity | The canonical principle (Canon 1323, 4°) allowing departure from ordinary canonical rules when grave necessity requires it; the SSPX's primary canonical justification |
 | *Latae sententiae* | Latin for "of a sentence already passed": a canonical penalty incurred automatically by the act itself, without requiring a judicial declaration |
 | *Pia unio* | Latin for "pious union": a form of voluntary association of clergy or faithful recognized by canon law; the SSPX's original 1970 canonical form |
@@ -378,4 +377,4 @@ Brief definitions for the terms most essential to reading §1:
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
