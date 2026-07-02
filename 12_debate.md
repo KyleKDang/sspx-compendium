@@ -46,15 +46,17 @@ Pius XII's *Mystici Corporis* taught that the Church is a visible society govern
 - The 2015–2017 sacramental grants: Rome would not grant valid sacramental faculties to a schismatic body in the way it did.
 - Canon 751's strict definition: the refusal of submission to the Pope, which the SSPX has not done formally.
 - Rome has never declared the SSPX as a body to be in schism; through the 2009 remission, the doctrinal discussions, and the sacramental grants it has treated the Society as a Catholic body in an irregular situation.
+- The form of the July 1, 2026 act itself: the four were consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction"; each swore the traditional oath of fidelity to the pope within the rite; the Society published its regret at acting "without the authorization of the Holy Father"; and Pagliarani's June 30 reply to Leo XIV protested, "Far be it from us to separate ourselves from the Roman Church."
 
 **The evidence for "schism in some sense":**
 - *Ecclesia Dei* (1988) characterized the consecrations as a "schismatic act," precisely because the disobedience "implies in practice the rejection of the Roman primacy" (§3).
 - The 2021 *Traditionis Custodes* framework, while not directly addressing the SSPX, warns against an instrumental use of the older Missal "characterized by a rejection not only of the liturgical reform, but of the Vatican Council II itself."
 - The visible communion argument: communion is not merely verbal but involves submission to legitimate authority in the discipline and government of the Church (per Vatican I's *Pastor Aeternus*).
 - The problem of duration: a posture maintained over forty years, across multiple generations of bishops, that involves persistent acts contrary to papal will, is no longer a momentary act of resistance but a settled institutional condition.
-- The May 13, 2026 statement of the Dicastery for the Doctrine of the Faith (DDF, formerly the Congregation for the Doctrine of the Faith), under Cardinal Víctor Manuel Fernández, which called the SSPX's planned July 2026 episcopal consecrations "a schismatic act" carrying *latae sententiae* ("of a sentence already passed") excommunication, the most explicit Roman use of the term against an SSPX act since 1988.
+- The May 13, 2026 statement of the Dicastery for the Doctrine of the Faith (DDF, formerly the Congregation for the Doctrine of the Faith), under Cardinal Víctor Manuel Fernández, which stated that the SSPX's then-planned July 2026 episcopal consecrations "will constitute 'a schismatic act'" in the words of *Ecclesia Dei* §3, entailing the excommunication established under Church law: the most explicit Roman use of the term against an SSPX act since 1988.
+- Pope Leo XIV's personal letter of June 29, 2026, which called the impending consecrations "the schismatic act you are about to undertake" and "a sin of extreme gravity"; and Cardinal Parolin's characterization of the accomplished act, on July 1, as "an act that is schismatic in itself."
 
-**Assessment:** The SSPX has the stronger argument as to its present status, though the planned 2026 consecrations reopen the question.
+**Assessment:** The SSPX has the stronger argument as to its present status, though the July 1, 2026 consecrations have reopened the question.
 
 As to the Society's existing status, Roman usage has not called the SSPX schismatic.
 The curial official then charged with the question said as much, and Rome's subsequent conduct (lifting the excommunications, granting sacramental faculties) is consistent with that position and inconsistent with treating the SSPX as schismatic.
@@ -63,12 +65,14 @@ The critic's argument has force at the conceptual level (communion does require 
 The critic must say "Rome should call the SSPX schismatic even though Rome does not."
 This is a coherent position, but it has not been the position Rome held with respect to the Society's existing status.
 
-That settled picture is now under fresh strain.
-The DDF's May 13, 2026 warning that the announced July 1 consecrations would be "a schismatic act" does not retroactively make the Society's prior status schismatic, and the SSPX has answered that the new consecrations claim no power of jurisdiction and in no way deny the papal primacy (General House communiqué, May 26, 2026), proceeding only from what it called "the objective state of grave necessity in which souls find themselves" (February 2, 2026 announcement).
-But it reopens, in sharp and immediate form, the very question this debate examines.
+That settled picture is now under the sharpest strain of its history.
+On July 1, 2026, the consecrations were carried out against Pope Leo XIV's personal written plea of June 29 ("please turn back!"; "I feel it is my duty, through the authority received from Christ, to ask you to desist from your intended act").
+The Society answered with every anti-schismatic gesture its position allows: the four were consecrated as auxiliaries "without jurisdiction," each swore the oath of fidelity to the pope within the rite, the General House published its regret at acting without papal authorization, and Pagliarani's reply to the pope pressed the Society's standing dialectical point: "Your Holiness is paternally urging me to avoid a schism which, theoretically, has already taken place. Does not Your very attitude... constitute proof that the Society is neither schismatic nor hostile to the Church?"
+Rome's first response was double-edged: Cardinal Parolin called the act "schismatic in itself," yet the Holy See issued no declaratory decree on the day of the act (in 1988 the decree came the day after), and Parolin said he did not know "the timing or the manner in which this excommunication will be imposed."
 
-The proper characterization, by the criteria Rome has applied to the Society's existing status, remains **canonical irregularity** rather than schism.
-Whether the July 2026 consecrations will change that, and whether a pattern sustained indefinitely and now extended by a second unauthorized round of consecrations eventually becomes a kind of *de facto* schism even if not *de jure*, is the question the 2026 warning has made newly concrete.
+The proper characterization, by the criteria Rome has applied to the Society's existing status, remains **canonical irregularity** rather than schism, but the question is now live in a way it has not been since 1988.
+Whether Rome's response to the accomplished consecrations changes the characterization, and whether a pattern sustained indefinitely and now extended by a second unauthorized round of consecrations eventually becomes a kind of *de facto* schism even if not *de jure*, is the question the events of July 2026 have made concrete.
+The verdict above is therefore dated in a precise sense: it describes the criteria Rome has applied through July 1, 2026, and Rome's next formal act (a declaratory decree, a declaration of schism, a Müller-style reconciliation commission, or continued silence) will either confirm those criteria or replace them.
 
 ---
 
@@ -120,6 +124,11 @@ The 2009 lifting of excommunications is the strongest empirical evidence in the 
 But Rome did not declare the consecrations canonically justified; it lifted the penalty as a pastoral gesture toward reconciliation.
 
 The canonical case for the 1988 consecrations is therefore *defensible* but not *unambiguously correct*, and this is one of the questions where the compendium cannot give you a confident answer, because the relevant Catholic authorities themselves have not given one.
+
+The question has now been asked a second time, and the July 1, 2026 consecrations change the fact pattern in both directions without resolving it.
+The 2026 case is *harder* for the SSPX on the obedience side: there was no collapsed Protocol to point to, but there was a personal, public, written papal plea to desist, invoking "the authority received from Christ," answered within a day; and an emergency announced five months in advance, with livestreams in seven languages, sits awkwardly beside the claim that it could not wait for the dialogue Rome had offered.
+It is *easier* for the SSPX on the provision side: in 1988 Rome had at least committed in writing to consecrate a bishop for the Society, while in 2026 Rome offered no bishop, no structure, and no provision for episcopal succession at all, only a dialogue conditioned on suspending the act; and thirty-eight years of subsequent Roman conduct (the 2009 remission, the faculties, the absence of any demand for retraction) stand as evidence of how Rome itself came to weigh the 1988 precedent.
+The canonical commentary of 2026 divided along exactly the 1988 lines [→ §7 Part IV], and the same verdict holds: genuinely contested, with serious arguments and serious weaknesses on both sides.
 
 ---
 
@@ -500,8 +509,10 @@ Accepting those teachings as legitimate Magisterium would not be a technicality;
 The barrier, in short, is not Rome's failure to offer reasonable terms but the SSPX's choice to make its specific theological positions essential to its institutional identity in a way that no other Catholic community has done.
 
 The 2026 consecrations sharpen the impasse.
-By announcing on February 2, 2026 a second round of episcopal consecrations without papal mandate, scheduled for July 1, 2026, the Society moved to secure its independent future rather than await terms from Rome, and the DDF responded on May 13, 2026 by warning that the act would be schismatic.
-Whether one reads this as the SSPX foreclosing regularization or as Rome withholding the doctrinal acknowledgment the Society seeks, it confirms that, as of mid-2026, the two sides remain roughly where the 2012 talks left them, now with a further canonical breach in prospect.
+By announcing on February 2, 2026 a second round of episcopal consecrations without papal mandate, and then carrying them out on July 1 against Pope Leo XIV's personal plea to desist, the Society moved to secure its independent future rather than await terms from Rome.
+Whether one reads this as the SSPX foreclosing regularization or as Rome withholding both the doctrinal acknowledgment and the episcopal provision the Society sought, it confirms that the two sides remain roughly where the 2012 talks left them, now with the further canonical breach accomplished.
+Yet the first signals after the act pointed toward eventual re-engagement rather than expulsion: Cardinal Müller proposed an *Ecclesia Dei*-style commission "to enable those who have embraced this schismatic position to return to full communion with the pope," and Cardinal Fernández said the day of the consecrations that dialogue remains possible: "we'll need time."
+The Society's own June 24 open letter, with its accompanying Profession of Catholic Faith, expressed the hope that the doctrinal text "may serve as a basis for an honest discussion with the Holy See."
 
 Whether this choice was wise, whether it would have been better for the SSPX to accept regularization in 2012 and pursue its theological concerns within full communion, is the deepest pastoral and prudential question raised by the entire SSPX situation.
 It is the question on which §15 will focus.
@@ -513,7 +524,7 @@ It is the question on which §15 will focus.
 Where do the debates leave us?
 
 ### Where the SSPX has the stronger argument:
-- The schism question (SSPX is not in formal schism by the criteria Rome has applied to its existing status, though the planned 2026 consecrations have reopened the question).
+- The schism question (SSPX is not in formal schism by the criteria Rome has applied to its existing status, though the July 1, 2026 consecrations have reopened the question and Rome's formal response is pending).
 - The liturgical critique of the Novus Ordo (substantively vindicated by Benedict XVI on key points).
 - The reality and gravity of the post-conciliar crisis.
 - The validity of their sacraments and the canonical exemptions for their faithful.
@@ -528,12 +539,13 @@ Where do the debates leave us?
 - The canonical defensibility of the 1988 consecrations (state of necessity defense is defensible but not decisive).
 - The reconciliation of *Dignitatis Humanae* with prior teaching on religious liberty: the SSPX has the stronger textual point, since the plain sense of the conciliar text and the Syllabus remain in real tension and the continuity resolution is asserted more than it is worked out, and the prior teaching that civil society owes public worship to Christ has in practice lapsed, a point the SSPX presses and the mainstream has not fully answered; the mainstream's decisive advantage is on authority, not the text, as the proper interpreter of its own continuity.
 - The pastoral question of whether individual Catholics should attend the SSPX (depends entirely on specific circumstances).
-- The future of regularization (the 2026 consecrations and the DDF's response have hardened the impasse, but its longer-term resolution depends on factors not yet visible).
+- The future of regularization (the July 1, 2026 consecrations have hardened the impasse, but the first post-consecration signals, Müller's proposed commission and Fernández's "we'll need time," leave its longer-term resolution open).
+- Whether the six bishops of July 1, 2026 are in fact excommunicated (Rome's stated reading says yes, automatically; the Society's Canon 1323–1324 defense says no penalty was incurred; no declaratory decree has issued) [→ §7 Part IV].
 
 ### What is established beyond serious dispute:
 - SSPX sacraments are valid.
-- SSPX is not currently in formal schism (the DDF has warned that the consecrations planned for July 2026 would constitute a schismatic act).
-- The SSPX bishops are no longer excommunicated.
+- No declaration of schism against the Society as a body exists (the DDF, Pope Leo XIV, and Cardinal Parolin have characterized the July 1, 2026 consecrations themselves as "a schismatic act"; Rome's formal response to the accomplished act is pending).
+- The 1988 excommunications were lifted in 2009 and have never been reimposed; whether the six bishops involved in the July 1, 2026 consecrations incurred new automatic excommunications is contested and, as of this writing, undeclared.
 - The Traditional Latin Mass was never juridically abrogated.
 - The post-conciliar period has included a real crisis in Catholic life.
 - The SSPX has produced real spiritual fruit.
@@ -549,8 +561,8 @@ The next section, §15, offers a framework for putting them together into a cohe
 
 | Debate | Question | Winner | Confidence |
 |---|---|---|---|
-| 1 | Is the SSPX in schism? | SSPX (as to present status) | High for the present; the 2026 DDF warning on the planned consecrations reopens it |
-| 2 | Were the 1988 consecrations canonically defensible? | Open | Genuinely contested |
+| 1 | Is the SSPX in schism? | SSPX (as to present status) | High for the present; the July 1, 2026 consecrations reopen it, and Rome's formal response is pending |
+| 2 | Were the 1988 consecrations canonically defensible? | Open | Genuinely contested; the July 1, 2026 consecrations pose the same question a second time, harder for the SSPX on obedience, easier on Rome's non-provision |
 | 3 | Does *Dignitatis Humanae* contradict prior teaching on religious liberty? | SSPX on the text and prior teaching; mainstream on authority (who adjudicates) | Honest split; genuinely contested |
 | 4 | Does hermeneutic of continuity work? | Both partial | Principle right; application incomplete |
 | 5 | Is the SSPX's liturgical critique correct? | SSPX | High: vindicated by Benedict XVI |
@@ -558,8 +570,8 @@ The next section, §15, offers a framework for putting them together into a cohe
 | 7 | Is the SSPX an alternative magisterium? | Mainstream | Moderate: practically true |
 | 8 | Does the SSPX produce net positive fruit? | Both | Real fruit, real harm; depends on weighing |
 | 9 | Should Catholics attend the SSPX? | Depends | Prudential, not categorical |
-| 10 | Will/should the SSPX be regularized? | Mainstream on who blocks it; open on whether it happens | Barrier is on the SSPX side, but understandable; 2026 consecrations hardened the impasse |
+| 10 | Will/should the SSPX be regularized? | Mainstream on who blocks it; open on whether it happens | Barrier is on the SSPX side, but understandable; the July 1, 2026 consecrations hardened the impasse, though post-act signals point to eventual re-engagement |
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
