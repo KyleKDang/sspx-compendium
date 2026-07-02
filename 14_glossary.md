@@ -109,7 +109,8 @@ More authoritative than a Declaration but less than a Constitution.
 A canonical censure that excludes the person from participation in the sacramental life of the Church and from the exercise of ecclesiastical offices and ministries.
 The most severe of the three canonical censures.
 In the SSPX context: the four 1988 bishops incurred *latae sententiae* excommunication upon the act of consecration; Lefebvre had been suspended *a divinis* (a lesser penalty) since 1976.
-All excommunications of the four living bishops were lifted by Benedict XVI in 2009. [→ §7 Canon Law; §8 Papal Documents]
+All excommunications of the four living bishops were lifted by Benedict XVI in 2009.
+Whether the six bishops involved in the consecrations of July 1, 2026 incurred new automatic excommunications is contested (Rome's stated reading says yes; the Society's Canon 1323 defense says no) and undeclared as of this writing. [→ §7 Canon Law; §8 Papal Documents]
 
 ---
 
@@ -213,7 +214,8 @@ The 2012 negotiations proposed regularizing the SSPX as a personal prelature - a
 Per Canon 751: "the withdrawal of submission to the Supreme Pontiff or from communion with the members of the Church subject to him."
 Schism is distinct from heresy (denial of defined doctrine) and apostasy (complete repudiation of the faith).
 Its key elements are *active withdrawal* and *denial of authority*, not merely disobedience.
-The current Roman position is that the SSPX is not in formal schism; Cardinal Castrillón Hoyos and Benedict XVI have both stated this explicitly. [→ §7 Canon Law; §12 Debate 1]
+Rome's settled position through the 2026 crisis was that the SSPX is not in formal schism; Cardinal Castrillón Hoyos and Benedict XVI both stated this explicitly.
+The DDF, Pope Leo XIV, and Cardinal Parolin characterized the July 1, 2026 consecrations themselves as "a schismatic act"; no declaration of schism against the Society as a body has issued. [→ §7 Canon Law; §12 Debate 1]
 
 ---
 
@@ -650,4 +652,4 @@ Not an organized institution; considerably smaller than the SSPX; not representa
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
