@@ -78,7 +78,7 @@ Neither claimed jurisdiction for the new bishops.
 Neither set up a rival hierarchy.
 Both submitted the act, and themselves, to the judgment of God and of history.
 Rome's later treatment of Slipyj's successors says clearly that his consecrations were not schism.
-On the same principles, neither were Lefebvre's in 1988, nor will be the four consecrations announced for 2026.
+On the same principles, neither were Lefebvre's in 1988, nor the four performed at Écône on July 1, 2026.
 
 ## The crisis the Society answered
 
@@ -87,7 +87,7 @@ That claim is not an opinion.
 It is measurable, and the measurements are not in serious dispute.
 
 In the United States, Gallup found about 75 percent of Catholics attending church in any given week in 1955.
-By the middle of the 2010s the same Gallup measure averaged 39 percent, and Georgetown's CARA, which tracks the figure for the American Church, put weekly Mass attendance at about 24 percent on the eve of the pandemic and under 20 percent since.
+By the middle of the 2010s the same Gallup measure averaged 39 percent, and Georgetown's CARA, which tracks the figure for the American Church, put weekly Mass attendance at about 24 percent on the eve of the pandemic, roughly where it has settled since.
 The number of priests fell from about 59,400 in 1965 to about 33,500 today, and the priests who remain are mostly old.
 Women in religious life fell from 178,740 in 1965 to about 33,000 (CARA), a collapse of more than four in five.
 In 2019 the Pew Research Center found that only 31 percent of self-identified Catholics believed that the bread and wine of the Eucharist become the Body and Blood of Christ.
@@ -341,7 +341,14 @@ Rome treats the case for which "schism" was designed, the Chinese Patriotic Cath
 It treats Anglican and Orthodox bodies, whose canonical situation has been judged irregular for centuries, as "sister Churches."
 And it proposes to apply the term *schism* to a society that claims less than any of them: that recognizes the pope, prays for him by name, consecrates only bishops who claim no jurisdiction, and disclaims any challenge to the pope's universal authority.
 If Rome's de facto practice over the past forty years is taken seriously, the term has lost its working content.
-The May 2026 warning from the Dicastery for the Doctrine of the Faith threatens to apply to the SSPX a category Rome has been retiring everywhere else.
+The May 2026 warning from the Dicastery for the Doctrine of the Faith threatened to apply to the SSPX a category Rome has been retiring everywhere else.
+
+The consecrations have now taken place, and the manner of their performance is itself evidence in the case.
+On July 1, 2026, before more than sixteen thousand of the faithful at Écône, each of the four bishops-elect swore the traditional oath of fidelity to the pope, promising to be "forever faithful and obedient" to him, inside the very rite the charge of schism is supposed to condemn.
+The booklet given to the faithful stated that the consecrations "absolutely exclude any attempt to usurp the jurisdiction of the Sovereign Pontiff."
+The Society's statement that same day described the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and added that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
+Men do not swear obedience to an authority they are renouncing, and they do not publish their regret at acting without a permission they consider meaningless.
+Every gesture of the day was the gesture of a body that intends to remain in the Church, and said so.
 
 The charge is not new in any case.
 It is word for word the charge made in 1988, and it rests on the same canonical question.
@@ -427,6 +434,7 @@ They served souls, by keeping the Mass, confession, and the sacraments available
 The exemption in Canon 1323 therefore applies, and the penalty does not.
 This is not a strained reading.
 It is the plain operation of the canon, and serious canonists have argued the point in print since 1988.
+They argued it again in 2026: Fr. Jaime Mercant Simó, a canonist and Thomist of the Diocese of Majorca with no tie to the Society, wrote that the consecrations "would entail neither the crime nor the sin of schism," and the American canonist Marc Balestrieri observed that canonical schism requires the withdrawal of submission itself, not disobedience to a command, and that the Code's own exemptions stand ready behind the necessity claim.
 
 Two principles of the Church's own penal law reinforce the reading.
 The first is that penalties are interpreted strictly.
@@ -485,8 +493,14 @@ He consecrated bishops for one purpose, stated openly and limited deliberately: 
 Then he submitted the act, and himself, to the judgment of God and of history.
 A man building a schism does not act that way.
 A man preserving the priesthood does.
-The consecrations announced for 2026 rest on the identical reasoning.
-Two SSPX bishops remain, both near seventy, and the arithmetic of 1988 has returned exactly as before.
+
+The consecrations of July 1, 2026 rested on the identical reasoning, and in one respect the case was stronger the second time.
+Two SSPX bishops remained, both near seventy, and the arithmetic of 1988 had returned exactly as before.
+The Society asked first: its Superior General wrote twice to Pope Leo XIV in 2025, requesting an audience and setting out the need to provide for the episcopal ministry, and received no substantive answer.
+When Rome finally engaged, in February 2026, what it offered was a theological dialogue on the condition that the consecrations be suspended; at no point did it offer what it had at least put on the table in 1988, a bishop.
+In 1988 there was a signed protocol promising episcopal succession, and the argument has always been over whether Lefebvre was right to distrust it.
+In 2026 there was no protocol, no promised bishop, and no provision of any kind: only a request to stand down, addressed to a society whose entire episcopate consisted of two men near seventy.
+That is what the failure of the ordinary channel looks like, and providing against it is what the law's category of necessity exists to protect.
 
 ## Necessity does not mean the Church failed
 
@@ -600,11 +614,24 @@ Step by step, Rome confirmed the Society's liturgy, lifted its penalties, and se
 This is not the trajectory of a Church expelling a schism.
 It is the trajectory of a Church slowly conceding that the Society had been right about the things that mattered most.
 
-The May 2026 warning from the Dicastery for the Doctrine of the Faith, that the planned consecrations would be "a schismatic act," does not break that pattern.
-It repeats 1988.
-The SSPX's answer is the answer it has given for forty years, the answer Rome's own later conduct kept confirming: the consecrations are an act of necessity to preserve the priesthood, not a refusal of the pope.
-The question Rome itself has named as doctrinal will not be settled by a canonical threat.
-It will be settled when Rome takes up the doctrine, and on that question the Society has been waiting, and holding its ground, the whole time.
+The events of 2026 do not break that pattern.
+They repeat 1988, and in some ways they soften it.
+The Dicastery for the Doctrine of the Faith warned in May that the consecrations would be "a schismatic act": the same words as 1988, quoted from the 1988 document itself, with no new decree behind them.
+Pope Leo XIV then wrote personally to the Superior General on June 29, and his letter repays careful reading.
+It opens by recognizing "the devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition" in the Society: the warmest official papal description of the SSPX since the dispute began.
+It pleads, "with all my heart: please turn back!", and it asks; it cites no canon and pronounces no penalty.
+The Superior General's reply, published the next day, answered in the only register the Society has ever used with Rome, that of a son: "Far be it from us to separate ourselves from the Roman Church. We desire, on the contrary, to serve her by means that are extraordinary, as one would assist a mother in distress."
+And it asked the question on which the whole charge turns: if the Society has been in schism since 1988, as was declared then in the same words, why has Rome spent thirty-eight years lifting its penalties, granting its faculties, and now writing to it as a father to a son?
+"Does not Your very attitude... constitute proof that the Society is neither schismatic nor hostile to the Church?"
+
+When the consecrations took place, Rome did not repeat even 1988.
+In 1988 the declaratory decree of excommunication came the day after the act.
+On July 1, 2026 the Holy See published nothing, and its Secretary of State, while calling the act schismatic, told journalists: "I do not know the timing or the manner in which this excommunication will be imposed."
+Cardinal Fernández said the same day that dialogue remains possible: "we'll need time."
+Cardinal Müller, the Church's former chief doctrinal officer, had proposed two days earlier a commission on the model of *Ecclesia Dei* to restore full communion.
+None of this is the treatment of a sect being expelled.
+It is the treatment of a Catholic body whose dispute with Rome, as Rome itself keeps conceding, is doctrinal, and will be settled when Rome takes up the doctrine.
+On that question the Society has been waiting, and holding its ground, the whole time.
 
 ## The question of fruits
 
@@ -615,6 +642,7 @@ While diocesan seminaries emptied, the Society's seminaries kept filling.
 It has grown to 733 priests serving nearly 800 Mass centers worldwide, with 264 men in formation in its five seminaries.
 Its chapels are full of young families, large families, and children who can actually explain what they believe.
 After 2021, when access to the traditional Mass within the dioceses was sharply restricted, the Society grew again, because in many places it had become the one place that Mass could still be found.
+When the Society consecrated its four new bishops at Écône in July 2026, organizers counted some 16,600 adults in the seminary meadow, drawn from seventy countries, along with about 1,300 priests and religious.
 The communities Rome formed from the Society's ranks show the same vitality: the Priestly Fraternity of St. Peter, founded in 1988, today counts nearly four hundred priests whose average age is thirty-nine.
 
 A movement built on pride and error does not bear fruit like that.
@@ -654,8 +682,9 @@ Its founding act stands on a provision of the Church's own law, on the category 
 And over forty years Rome has lifted its penalties, confirmed its liturgy, secured its sacraments, and conceded that the real dispute is doctrinal.
 
 Set against all of that, the three words usually attached to the Society do not hold.
-It is not excommunicated; the penalties were lifted in 2009.
-It is not in schism; Rome's own doctrinal congregation refused in 1993 to treat adherence to it as the crime of schism, the Vatican official responsible for it said so plainly in 2005, and the Church's own definition of schism does not fit it.
+It is not excommunicated.
+The penalties of 1988 were lifted in 2009, and the excommunication claimed for the 2026 consecrations has never been declared and fails on the Church's own law: Canon 1323 exempts from all penalty the man who acts from necessity, and Canon 1324 bars any automatic penalty even where the necessity was misjudged.
+It is not in schism; Rome's own doctrinal congregation refused in 1993 to treat adherence to it as the crime of schism, the Vatican official responsible for it said so plainly in 2005, and the Church's own definition of schism does not fit a body whose new bishops swore fidelity to the pope inside the rite of their consecration.
 It is not in revolt against the pope; it refuses certain of his commands while affirming his office, which is precisely what the Church's own saints and theologians have always said a Catholic may do when the faith is at stake.
 
 What is true is that the Society's canonical situation remains unresolved.
@@ -668,4 +697,4 @@ On the evidence, that is exactly what the Society is.
 It kept the faith and the Mass through a crisis that cost the rest of the Church most of its practice and much of its belief.
 It was right to do so, and one day the Church is likely to say so plainly.
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
