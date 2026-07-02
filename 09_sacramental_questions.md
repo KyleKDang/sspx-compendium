@@ -592,19 +592,30 @@ The explicit statement in *Misericordia et Misera* - "lest anyone ever be depriv
 - In emergencies (danger of death), do not hesitate.
   The sacrament is real.
 
+### The July 1, 2026 consecrations and the sacramental questions
+
+The episcopal consecrations performed at Écône on July 1, 2026 without papal mandate [→ §2 Timeline; §7 Canon Law] change none of the answers above as of this writing, but they place several of them under review, and honesty requires saying which:
+
+- **The Francis-era faculties stand.** The permanent confession faculty (*Misericordia et Misera*, 2016) and the 2017 marriage delegation framework remain in force; no Roman act has revoked or restricted them.
+  Whether Rome will maintain them in its formal response to the consecrations is the single most consequential open question for SSPX faithful.
+- **The penalty question touches the six bishops only.** On Rome's stated reading, the two consecrating and four consecrated bishops incurred automatic excommunication; the Society disputes this on the basis of Canon 1323 [→ §7 Part IV].
+  Either way, the penalty does not extend to SSPX priests or to the faithful: the 1996 Explanatory Note of the Pontifical Council for Legislative Texts, cited by the DDF itself in its May 13, 2026 statement, restricts the excommunication for schism to those who *formally adhere* to it, and canonists across the 2026 debate agree that attendance at SSPX chapels does not constitute formal adherence.
+- **Pope Leo XIV's June 29, 2026 letter framed the stakes sacramentally.** He warned that the act "would deprive them [the faithful] of the licit and, in some cases, even valid reception of the Sacraments": a formulation that concedes general validity while pointing at the jurisdiction-dependent cases, confession and marriage, where the current liceity and (in the marriage case) validity rest on grants Rome could withdraw.
+- **Confirmations and ordinations by the four new bishops** are valid but illicit, exactly as episcopal acts by the 1988 bishops were between 1988 and 2009.
+
 ### A final word
 
-The sacramental situation of the SSPX is, as of 2026, more normalized than at any prior point in the Society's history.
+The sacramental situation of the SSPX entered July 2026 more normalized than at any prior point in the Society's history.
 Confessions are formally valid and licit.
 Marriages are addressed by a papal framework.
 Masses are celebrations of a rite the Church has confirmed was never abrogated.
-The bishops are no longer excommunicated.
+The excommunications of 1988 were lifted in 2009, and whether the consecrations of July 1, 2026 have created new ones is contested and undeclared [→ §7 Canon Law].
 The faithful who seek the traditional sacraments at SSPX chapels are not, in any formal sense, outside the Catholic Church.
 
-What remains is the institutional irregularity - the lack of canonical mission that prevents the Society from being fully integrated into the Church's structures.
+What remains is the institutional irregularity - the lack of canonical mission that prevents the Society from being fully integrated into the Church's structures - now joined by the unresolved canonical aftermath of the 2026 consecrations.
 This irregularity matters, and honest Catholics should acknowledge it.
 But it does not deprive them of the sacraments.
-And at the level of the individual Catholic's access to grace, to absolution, to the sacrifice of the Mass, and to the other means God has provided - the sacramental question has been answered in their favor.
+And at the level of the individual Catholic's access to grace, to absolution, to the sacrifice of the Mass, and to the other means God has provided - the sacramental question has, so far, been answered in their favor.
 
 ---
 
@@ -636,4 +647,4 @@ And at the level of the individual Catholic's access to grace, to absolution, to
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
