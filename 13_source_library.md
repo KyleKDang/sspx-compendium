@@ -347,6 +347,22 @@ All available at Vatican.va in English and Latin.
 
 ---
 
+### DDF - Statement of Cardinal Víctor Manuel Fernández on the Announced Consecrations (May 13, 2026)
+- **What it is:** A four-sentence statement released through the Holy See Press Office; not a decree or formal declaration.
+- **Why it matters:** Rome's principal pre-consecration document on the 2026 crisis.
+  Its canonical economy is deliberate: it cites no canon by number and never uses the phrase *latae sententiae*; everything it says, it says by quoting *Ecclesia Dei* §3 ("a schismatic act") and §5c (excommunication for "formal adherence to the schism"), with the Pontifical Council for Legislative Texts' Explanatory Note of August 24, 1996 [→ §8 Part V for the full text and analysis].
+- **Link:** [Press.vatican.va](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/05/13/260513d.html)
+
+---
+
+### Pope Leo XIV - Letter to Fr. Davide Pagliarani (June 29, 2026)
+- **What it is:** A brief personal letter, dated the Solemnity of Saints Peter and Paul and published by the Holy See on June 30, 2026: the first letter a reigning pope has ever addressed publicly to an SSPX Superior General.
+- **Why it matters:** The papal document of the 2026 crisis.
+  Pastorally maximal and canonically minimal: it acknowledges the Society's "devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition," pleads "with all my heart: please turn back!", warns that "the schismatic act you are about to undertake would deprive them of the licit and, in some cases, even valid reception of the Sacraments," and calls the tearing of Christ's seamless garment "a sin of extreme gravity"; it cites no canon and pronounces no penalty [→ §8 Part V].
+- **Link:** [Vatican.va](https://www.vatican.va/content/leo-xiv/en/letters/2026/documents/20260629-lettera-fraternita-sanpiox.html)
+
+---
+
 ### CDF - *Dominus Iesus* (2000)
 **Declaration on the Unicity and Salvific Universality of Jesus Christ and the Church**
 - **Why it matters:** Reaffirmed that the Catholic Church is the one Church of Christ; important context for the *Lumen Gentium* §8 debate.
@@ -458,6 +474,20 @@ All available at Vatican.va in English and Latin.
 - **Where to find it:** [SSPX Asia archive (Jan.
   2000)](https://www.sspxasia.com/Documents/SiSiNoNo/2000_January/The_1988_Consecrations.htm); [Isidore.co Angelus mirror](https://isidore.co/misc/Res%20pro%20Deo/Pope%20St.%20Pius%20X%20&%E2%81%84or%20SSPX/The%20Angelus/HTMLs/1923.html).
   Additional canonical-study installments are mirrored under the same SSPX Asia directory by month (March, July, September 2000).
+
+---
+
+### SSPX - The 2026 Episcopal Consecrations Dossier (February–July 2026)
+- **What it is:** The Society's official documentary record of the July 1, 2026 consecrations, indexed at FSSPX.news as the "Episcopal Consecrations: Updated Dossier" and on the dedicated site econe2026.ch.
+  The key items:
+  - **February 2, 2026** - announcement of the decision: "the objective state of grave necessity in which souls find themselves requires such a decision" ([FSSPX.news](https://fsspx.news/en/news/general-house-fsspx-announces-future-consecrations-57009)).
+  - **February 18–19, 2026** - Pagliarani's letter declining Cardinal Fernández's dialogue-with-suspension offer ("the hand extended to open the dialogue is unfortunately accompanied by another hand already poised to impose sanctions"), and the theological study "Order and Jurisdiction: The Futility of the Schism Accusation" ([FSSPX.news letter](https://fsspx.news/en/news/letter-father-pagliarani-cardinal-fernandez-57309); [study](https://fsspx.org/en/news/order-and-jurisdiction-futility-schism-accusation-57305)).
+  - **May 15, 2026** - Fr. Jean-Michel Gleize's canonical analysis of the DDF statement, the Society's fullest published argument from Canons 1323, 4° and 7° and 1324 §3 ([FSSPX.news](https://fsspx.news/en/news/regarding-recent-statement-cardinal-fernandez-may-13-2026-59127)).
+  - **May 26, 2026** - communiqué naming the four bishops-elect, with official biographies and the jurisdiction disclaimers ([FSSPX.news](https://fsspx.news/en/news/general-house-announces-names-future-bishops-59319)).
+  - **June 24, 2026** - open letter to Pope Leo XIV and the cardinals with an accompanying Profession of Catholic Faith ([FSSPX.news](https://fsspx.news/en/news/open-letter-his-holiness-pope-leo-xiv-and-cardinals-holy-church-59815)).
+  - **June 30, 2026** - Pagliarani's reply to Leo XIV's letter: "Far be it from us to separate ourselves from the Roman Church" ([FSSPX.news](https://fsspx.news/en/news/letter-superior-general-response-his-holiness-pope-leo-xiv-59914)).
+  - **July 1, 2026** - General House statement following the consecrations: the four consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction" ([FSSPX.news](https://fsspx.news/en/news/general-house-statement-following-episcopal-consecrations-59913)).
+- **Why it matters:** The primary-source record of the Society's case for the 2026 consecrations and of the form the act actually took; the counterpart to the Roman documents in Category III [→ §2 Timeline; §7 Part IV; §8 Part V].
 
 ---
 
@@ -692,7 +722,7 @@ All available at Vatican.va in English and Latin.
 ---
 
 ### SSPX - *The Episcopal Consecrations* podcast series (2026)
-- **What it is:** A nine-episode interview series produced by the SSPX in the weeks before the planned July 1, 2026 consecrations at Écône.
+- **What it is:** A nine-episode interview series produced by the SSPX in the weeks before the July 1, 2026 consecrations at Écône.
   Episode 1 features Fr. Robert Brucciani - the Society's current Bursar General - on the life of Archbishop Lefebvre from birth through the founding of the SSPX.
   Subsequent episodes treat the Council, the 1976 Mass at Lille, the suspension *a divinis*, the 1988 consecrations, and the 2026 decision to consecrate four new bishops.
 - **Why it matters:** The most authoritative recent SSPX presentation of the rationale for the 2026 consecrations, delivered by current Society leadership in extended unscripted form.
@@ -748,4 +778,4 @@ For anyone approaching this topic for the first time and seeking the minimum ess
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
