@@ -166,7 +166,7 @@ They are not Part II's decisive canons on the consecration question; they are th
 The right is the *faithful's* right, not the pastors' grant.
 The Code obliges sacred pastors to provide the means of salvation - the word of God authentically preached and the sacraments validly and licitly administered - to those baptized into the Church.
 Where ordinary structures fail to provide these means (the SSPX's structural claim about the post-conciliar parish in many places), the question whether the faithful are entitled to seek them elsewhere is anchored in the canonical right Canon 213 names.
-The classical state-of-necessity framework discussed below (Canon 1323 §4; supplied jurisdiction, Canon 144) is the legal mechanism by which that right is preserved when the ordinary means fail.
+The classical state-of-necessity framework discussed below (Canon 1323, 4°; supplied jurisdiction, Canon 144) is the legal mechanism by which that right is preserved when the ordinary means fail.
 
 **Canon 1752** - the closing canon of the entire 1983 Code:
 
@@ -241,8 +241,7 @@ The dispute reached its crisis in the **Investiture Controversy (1075–1122)** 
 The Concordat separated the *spiritualia* (the ring and crozier, conferred by the church) from the *regalia* (the temporal goods of the see, conferred by the emperor by the touch of the scepter); emperors retained influence through fealty oaths and selection participation, but no longer invested bishops as such.
 Even after Worms, however, episcopal appointments continued to be made primarily at the local level, with the pope frequently informed only after the fact.
 
-The first modern centralization came with Pope Benedict XIV's apostolic constitution ***In postremo*** (October 10, 1756, §17), which reserved Latin Rite episcopal consecration to the Roman Pontiff or to a bishop delegated by him.
-*In postremo* is the first true papal centralization of episcopal consecration as such - but it was not universally received and was widely overridden by concordats and treaties between the Holy See and the European monarchies throughout the 18th and 19th centuries.
+Even into the nineteenth century, free papal appointment remained the exception rather than the rule: as late as 1870 most of the world's sees were filled by cathedral chapters, local elections, or royal nomination under concordats, with papal confirmation following the local choice.
 
 The first *universal* requirement of a papal mandate for Latin Rite episcopal consecration came only with the **1917 Code of Canon Law** (the *Codex Iuris Canonici*), drafted under the leadership of **Cardinal Pietro Gasparri** (1852–1934), whom St. Pius X appointed to lead the codification commission by the motu proprio ***Arduum sane munus*** (March 19, 1904) and promulgated by Benedict XV via the apostolic constitution *Providentissima Mater Ecclesia* (May 27, 1917 - Pentecost; effective May 19, 1918 - Pentecost).
 Gasparri's own canonical writings make explicit that this reservation applied only to the Latin Rite.
@@ -252,11 +251,11 @@ The structural point is sharp: the Catholic Church functioned for nearly ninetee
 That discipline, in its modern form, is roughly a century old in the Latin Rite and barely thirty years old in comprehensive Eastern codification.
 Consecration without papal mandate was the *ordinary* mode of episcopal succession for most of Catholic history, and the saints of the church (Ambrose, Eusebius of Samosata) were themselves consecrated without it.
 The act, considered apart from its concrete context and intent, has therefore never been *intrinsically* schismatic.
-The 1917 / 1951 / 1958 / 1983 framework is the proper *legal* setting against which the SSPX consecrations are evaluated; but the framework itself is a positive disciplinary law of the Church, not a divine-law constant, and like any positive disciplinary law it admits of exceptions for grave necessity [→ Canon 1323 §4 below].
+The 1917 / 1951 / 1958 / 1983 framework is the proper *legal* setting against which the SSPX consecrations are evaluated; but the framework itself is a positive disciplinary law of the Church, not a divine-law constant, and like any positive disciplinary law it admits of exceptions for grave necessity [→ Canon 1323, 4° below].
 
 **Historical note on the penalty.** The *latae sententiae* excommunication for unauthorized episcopal consecration is a relatively recent development in Catholic canon law.
 Under the **1917 Code (Canon 2370)**, the penalty for a bishop who consecrated another bishop without papal mandate - and for the bishop who received the consecration - was **suspension only** (suspended *ipso iure*, reserved to the Apostolic See).
-Excommunication did not enter the penalty for this offense until the **Holy Office Decree of August 9, 1951**, which introduced the *latae sententiae* excommunication reserved *specialissimo modo* to the Apostolic See.
+Excommunication did not enter the penalty for this offense until the **Holy Office Decree of April 9, 1951**, which introduced the *latae sententiae* excommunication reserved *specialissimo modo* to the Apostolic See.
 The change responded to a specific historical crisis: the People's Republic of China had begun coercing Chinese bishops into consecrating men chosen by the state without reference to Rome, producing what would become the Chinese Patriotic Catholic Association.
 Pius XII reinforced the 1951 decree in the encyclical [***Ad Apostolorum Principis***](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html) (June 29, 1958), addressed explicitly to the situation of the Chinese hierarchy.
 The 1983 Code carried the *latae sententiae* excommunication forward as Canon 1382 (renumbered 1387 in 2021).
@@ -264,13 +263,13 @@ The 1983 Code carried the *latae sententiae* excommunication forward as Canon 13
 This history is canonically significant for two reasons.
 First, it shows that the category "unauthorized episcopal consecration = schismatic act incurring excommunication" is not an unchanging feature of Catholic law but a specific mid-twentieth-century development conditioned by a specific external crisis.
 For nearly two millennia before 1951, the same canonical offense incurred only suspension.
-Second, it grounds the SSPX's argument that the 1988 consecrations - and the announced 2026 consecrations - are not analogous to the Chinese case the 1951 decree was designed to address.
-The Chinese Patriotic Catholic Association was created to subordinate the Catholic hierarchy in China to a hostile state and to sever its communion with Rome; the SSPX bishops were and will be consecrated, on the Society's own account, to preserve rather than to subordinate the traditional Roman priesthood and explicitly without any intention of establishing a parallel hierarchy. [→ §10 The schism charge; §7 Canon 751 above]
+Second, it grounds the SSPX's argument that the 1988 consecrations - and the 2026 consecrations - are not analogous to the Chinese case the 1951 decree was designed to address.
+The Chinese Patriotic Catholic Association was created to subordinate the Catholic hierarchy in China to a hostile state and to sever its communion with Rome; the SSPX bishops were consecrated, in 1988 and again on July 1, 2026, on the Society's own account, to preserve rather than to subordinate the traditional Roman priesthood and explicitly without any intention of establishing a parallel hierarchy. [→ §10 The schism charge; §7 Canon 751 above]
 
 **Canonical categorization in the 1917 Code.** A second canonical datum reinforces the first.
 The 1917 codifiers - Cardinal Pietro Gasparri, working under St. Pius X and Benedict XV - placed the crime of consecrating a bishop without papal mandate (Canon 2370) under the heading **"Crimes against the Administration of Sacraments"**, *not* under "Crimes against the Unity of the Church" (where schism, heresy, and apostasy are codified at Canons 1325 and following).
 The placement is itself probative of the pre-1951 Church's mind on the act: an unauthorized episcopal consecration was treated as a disorder in the administration of a sacrament - structurally parallel to, e.g., a priest illicitly confirming without delegation, which also fell under the same sacramental-administration category - not as an attack on the unity of the Church.
-This categorization is now standardly noted by Bishop Athanasius Schneider and by the SSPX itself in 2026 statements defending the announced consecrations.
+This categorization is now standardly noted by Bishop Athanasius Schneider and by the SSPX itself in its 2026 statements defending the consecrations.
 
 **The perennial order/jurisdiction distinction.** The historical penalty change and the canonical categorization both presuppose a more fundamental Catholic teaching: the Church possesses two distinct hierarchies, the *hierarchy of orders* (conferred by sacramental ordination) and the *hierarchy of jurisdiction* (conferred only by direct papal grant, called *canonical mission*).
 This distinction was codified at 1917 CIC Canons 108–109:
@@ -297,7 +296,7 @@ And in ***Ad Apostolorum Principis*** (June 29, 1958) - the same encyclical that
 Pius XII's framework - codified at Canons 108–109, anchored in *Mystici Corporis* - has two structural features the 2026 dispute turns on.
 First, the act of sacramental consecration confers the *power of orders* and only the power of orders; the Roman Pontiff alone grants jurisdiction, by direct papal grant.
 Second, even where bishops are unlawfully consecrated, the sacramental act remains valid; what fails is the conferral of jurisdiction, which the Roman Pontiff has not given.
-The SSPX position rests on this perennial framework: the announced 2026 consecrations confer the power of orders alone, claim no jurisdiction (the bishops will function as auxiliaries, without ordinary office), and therefore do not usurp the prerogative the Pius XII and 1917-CIC framework reserves to the Roman Pontiff.
+The SSPX position rests on this perennial framework: the 2026 consecrations confer the power of orders alone and claim no jurisdiction (the four were consecrated, per the General House statement of July 1, 2026, "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction"), and therefore do not usurp the prerogative the Pius XII and 1917-CIC framework reserves to the Roman Pontiff.
 The opposing position rests on the *Lumen Gentium* §21 reformulation [→ §5 Part I, "*Lumen Gentium* §21 and the Conflation of Order and Jurisdiction"], on which episcopal consecration itself confers a share in the office of governing - and on which a consecration without papal mandate is therefore, *intrinsically*, an attempt to confer what only the pope can give.
 
 A further datum bears on the same question.
@@ -305,9 +304,10 @@ The 1983 Code dropped Canon 109's "canonical mission" clause - the textual marke
 The 1917-to-1983 codification change is itself probative of the pivot in the underlying ecclesiology.
 
 The order/jurisdiction distinction was also load-bearing for the *interpretation* the standard canonical authorities gave to the 1951 Decree itself.
-**Fr. Eduardo F. Regatillo, SJ** (1882–1975) - one of the pre-eminent canonists of the mid-twentieth century, whose *Institutiones Iuris Canonici* (Santander: Sal Terrae, 1956) was a standard reference manual - argued in volume 2, p. 600, that the 1951 Decree's *latae sententiae* excommunication was intended to cover only consecrations involving the conferral of jurisdiction: "The decree appears to cover only those who are consecrated as residential bishops, for this is the actual case which the Holy See intends to condemn."
+<!-- TODO (print-source): the Regatillo quotation below circulates almost entirely in polemical secondary literature (largely sedevacantist compilations) and has not been verified against the printed manual. Check Regatillo, *Institutiones Iuris Canonici*, 5th ed. (Santander: Sal Terrae, 1956), vol. 2, p. 600, before treating the wording (or the attribution) as firm. -->
+**Fr. Eduardo F. Regatillo, SJ** (1882–1975) - one of the pre-eminent canonists of the mid-twentieth century, whose *Institutiones Iuris Canonici* (Santander: Sal Terrae, 1956) was a standard reference manual - is reported to have argued in volume 2, p. 600, that the 1951 Decree's *latae sententiae* excommunication was intended to cover only consecrations involving the conferral of jurisdiction: "The decree appears to cover only those who are consecrated as residential bishops, for this is the actual case which the Holy See intends to condemn."
 On Regatillo's reading, unauthorized consecration of a *titular* or *auxiliary* bishop - one to whom no jurisdiction is given - was probably not intended to incur the new excommunication, leaving the baseline 1917 CIC Canon 2370 *suspension* penalty in force.
-This contemporary canonical reading, by a Jesuit canonist writing five years after the 1951 Decree against the lived backdrop of its Chinese-CCPA target, is itself an argument that the canonical machinery now invoked against the SSPX consecrations was not designed for, and on its original authoritative interpretation did not reach, the auxiliary-bishop case the SSPX has consistently maintained - both in 1988 and in the announced 2026 consecrations.
+This contemporary canonical reading, by a Jesuit canonist writing five years after the 1951 Decree against the lived backdrop of its Chinese-CCPA target, is itself an argument that the canonical machinery now invoked against the SSPX consecrations was not designed for, and on its original authoritative interpretation did not reach, the auxiliary-bishop case the SSPX has consistently maintained - both in 1988 and in the 2026 consecrations.
 
 Cardinal St. Robert Bellarmine, addressing the same question three centuries before the Council, articulated the perennial position in stronger terms:
 
@@ -339,7 +339,7 @@ The way the same Roman canonical machinery is now being applied to the CPA situa
 The structural observation, for canonical purposes, is the following.
 The 1951 Decree and the 1958 encyclical built the *latae sententiae*-excommunication-for-unauthorized-episcopal-consecration machinery specifically to deter the formation of a state-coerced national hierarchy in formal independence from Rome.
 By 2023, that machinery is not being applied to the unilateral CPA episcopal appointments the 1951/1958 apparatus was designed to deter - those appointments are instead retroactively *ratified* by the Holy See, even when the Vatican itself acknowledges Beijing's unilateral conduct as a breach of the 2018 Agreement.
-Meanwhile, the same machinery is being prepared (per the DDF statement of May 13, 2026) for application against the SSPX, where the consecrating bishops explicitly do *not* claim to give the consecrated bishops jurisdiction over any faithful at all and where the Society has publicly committed (Fr. Pagliarani, February 2026) that the four new bishops will lay down their episcopate before the Pope once the crisis ends.
+Meanwhile, the same machinery has been invoked (the DDF statement of May 13, 2026) against the SSPX, whose consecrating bishops explicitly did *not* claim to give the consecrated bishops jurisdiction over any faithful at all: the four were consecrated on July 1, 2026 "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction" (General House statement, July 1, 2026), after the General House had declared (May 26, 2026) that the consecrations "in no way... constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the Roman Pontiff.
 
 The asymmetry is the SSPX's argument [→ §10 Part VIII] that the canonical penalty is no longer being administered according to the principles the 1951–1958 framework articulates, and that the 2026 charge against the SSPX cannot be coherently grounded in the same canonical machinery the Roman authorities are simultaneously declining to apply to the CPA situation.
 The DDF's 2026 schism charge, on the SSPX's reading, is therefore a doctrinal claim about the conflation of order and jurisdiction (the *Lumen Gentium* §21 reading [→ §5 Part I]) rather than a faithful application of the 1951–1958 canonical penalty regime, which the lived Roman practice of the past eight years has substantially abandoned.
@@ -387,7 +387,7 @@ It must be quoted in full.
 > 7° thought, through no personal fault, that some one of the circumstances existed which are mentioned in nn. 4 or 5."
 
 (The 2021 revision of Book VI did not change the substance of Canon 1323; the only material edit is the cross-reference at 6°, where the pre-2021 reference to *can. 1325* was updated to *can. 1326 § 1 n. 4* to reflect the renumbering within Book VI.
-The 1988 Lefebvre defense was made under the pre-2021 text; the current text on which the announced 2026 consecrations would be tested is the version above.)
+The 1988 Lefebvre defense was made under the pre-2021 text; the current text on which the 2026 consecrations are tested is the version above.)
 
 **The critical clause is 1323, 4°.** It exempts from canonical penalty anyone who acted *out of necessity* - the famous "state of necessity" (*status necessitatis*) - unless the act is intrinsically evil or tends to harm souls.
 
@@ -423,13 +423,21 @@ The lifting of the excommunications in 2009 can be read as Rome quietly concedin
 
 ---
 
-### Canon 1324 - Mitigation of Penalty
+### Canon 1324 - Mitigation of Penalty, and the §3 Bar on *Latae Sententiae* Penalties
 
-**Canon 1324 §1, 8°** is also relevant.
-It states that a penalty must be *tempered* (not eliminated, but reduced) when the offender is "one who erroneously, but culpably, thought that some one of the circumstances existed which are mentioned in can. 1323 nn. 4 or 5."
+**Canon 1324 §1, 8°** provides that the penalty for an offense must be *tempered* (diminished, or replaced with a penance) when the offender is one who "erroneously, but culpably, thought that some one of the circumstances existed which are mentioned in can. 1323 nn. 4 or 5."
 
-This canon provides a fallback defense: even if Lefebvre was *wrong* that a strict state of necessity existed, and even if his error was *culpable* (i.e., negligently formed rather than blamelessly held - Canon 1323 7° already covers the blameless case with full exemption), the penalty must still be mitigated rather than imposed in full.
-This argument is sometimes invoked when the strict Canon 1323 defense is challenged.
+**Canon 1324 §3** then adds the provision most directly relevant to the excommunication question: in the circumstances of §1, the offender "is not bound by a *latae sententiae* penalty."
+
+Read together with Canon 1323, the structure is a graduated bar against the *automatic* penalty:
+- If the state of necessity really existed (Canon 1323, 4°), no penalty at all is incurred.
+- If the actor blamelessly *believed* it existed (Canon 1323, 7°), no penalty at all is incurred.
+- If the actor *culpably erred* in believing it existed (Canon 1324 §1, 8°), the penalty must be diminished, and by §3 no *latae sententiae* penalty binds; any penalty would have to be imposed by a formal act of authority.
+
+This is the fallback defense: even if Lefebvre in 1988, or the Society in 2026, was *wrong* about the necessity, and even if the error was negligently formed, the *automatic* excommunication of Canon 1382/1387 would on this reading still not have been incurred; only an imposed (*ferendae sententiae*) penalty could reach the act.
+The counter-reading, pressed by canonists who hold that the excommunications were incurred, is that the "necessity" claimed must at least be a circumstance of the kind the law envisions.
+A necessity consisting in a disputed theological judgment about the state of the post-conciliar Church, they argue, is not a Canon 1323 circumstance at all, and an error about what *counts as* necessity (an error of law about the exemption itself) is not the same as an erroneous belief that a qualifying circumstance existed.
+This is where the canonical argument actually joins: not over what Canons 1323–1324 say, but over whether a contested ecclesial judgment can constitute the "necessity" they mean, and over who is competent to decide that question.
 
 ---
 
@@ -438,8 +446,8 @@ This argument is sometimes invoked when the strict Canon 1323 defense is challen
 A third anchor in the same canonical complex.
 Canon 1345 of CIC 1983 authorizes the judge - where the offender had only an imperfect use of reason, acted under necessity, fear, passion, or a disturbed mental state, and where reform appears achievable otherwise - to refrain from imposing any punishment, unless justice or the repair of scandal positively requires it.
 
-Three canons (1323, 1324, 1345) thus form a graduated structure: 1323 exempts from the penalty altogether where strict necessity is met; 1324 mitigates the penalty where the offender in good faith believed himself within 1323; 1345 leaves the judge discretion to omit penalty even outside the strict exemption.
-The SSPX's case rests primarily on 1323 §4; 1324 and 1345 are the canonical fallbacks if a court were to find that the strict 1323 conditions were not perfectly met.
+Three canons (1323, 1324, 1345) thus form a graduated structure: 1323 exempts from the penalty altogether where the necessity (or the blameless belief in it) is established; 1324 diminishes the penalty, and bars any *latae sententiae* penalty, where the offender culpably erred about the necessity; 1345 leaves the judge discretion to omit punishment even outside the strict exemption.
+The SSPX's case rests primarily on 1323, 4°; 1324 and 1345 are the canonical fallbacks if a court were to find that the strict 1323 conditions were not perfectly met.
 
 ---
 
@@ -655,36 +663,37 @@ Morally, opinions vary depending on one's overall judgment of the SSPX situation
 
 ### Question 9: What is the SSPX's actual canonical status, then?
 
-**Answer:** Canonically irregular but not under penalty.
-Not in formal schism.
-Lacking canonical mission.
-Possessing valid orders and sacraments.
+**Answer:** Canonically irregular; lacking canonical mission; possessing valid orders and sacraments.
+Through June 2026, not under penalty and not in formal schism.
+Since July 1, 2026, the penal status of the Society's six bishops is the contested question.
 
-The technical term used by Rome is "*canonical irregularity*" or "*irregular canonical status*."
+The technical term used by Rome for the Society's standing situation is "*canonical irregularity*" or "*irregular canonical status*."
 There is no precise traditional category for this; the SSPX situation is genuinely unprecedented in modern Church history.
 
 Concretely:
-- They are not excommunicated (since 2009).
-- They are not declared schismatic by current Roman usage.
+- The 1988 excommunications were lifted in 2009; from 2009 through June 2026 no SSPX cleric was under canonical penalty.
+- On Rome's stated reading, the two consecrating and four consecrated bishops of July 1, 2026 incurred *latae sententiae* excommunication by the act itself; on the Society's reading (Canons 1323–1324), no penalty was incurred.
+  As of this writing no declaratory decree has been issued, and the penalty question does not touch SSPX priests or faithful in either reading [→ Part IV below].
+- The Society as a body is not declared schismatic; the DDF's May 13, 2026 statement characterized the consecrations as "a schismatic act" in the words of *Ecclesia Dei* §3, the same language used and then progressively retired after 1988.
 - They have no canonical mission to exercise public ministry.
 - They are not a recognized religious institute, prelature, or any other canonical structure.
 - Their sacraments are valid.
 - Some of their sacramental ministry has been positively normalized (confessions, marriages); some has not (Masses, ordinations).
+  The 2016 and 2017 grants remain in force as of this writing.
 - They exist in a state that is neither fully regular nor formally separated.
 
 This is the canonical reality.
-It is unprecedented and unstable.
-It is also, in some sense, deliberately preserved - by both the SSPX (which has not pressed for regularization on terms it considers unacceptable) and Rome (which has not declared them schismatic but has not regularized them either).
+It is unprecedented and unstable, and the July 2026 consecrations have made it more unstable in both directions: the Society has renewed the act that produced the 1988 penalties, and Rome has, so far, not renewed the 1988 response.
 
 ---
 
-## Part IV: The Canonical Question of the Episcopal Consecrations Going Forward
+## Part IV: The Canonical Question of the 2026 Episcopal Consecrations
 
-This section addresses the question most directly relevant to the upcoming consecrations and to your stance-formation goal.
+This section addresses the question most directly relevant to the consecrations performed at Écône on July 1, 2026, and to your stance-formation goal.
 
 ---
 
-### What canonical principles apply to the announced 2026 consecrations?
+### What canonical principles apply to the 2026 consecrations?
 
 **The 1988 framework still applies in principle:** Canon 1382 (renumbered as Canon 1387 by Pope Francis's 2021 motu proprio *Pascite gregem Dei*) attaches *latae sententiae* excommunication to the unauthorized consecration of a bishop.
 The penalty has not been repealed.
@@ -694,45 +703,59 @@ In principle, each new episcopal consecration without papal mandate triggers the
 The 2009 lifting of excommunications addressed the four 1988 bishops specifically; in the years that followed, the question of new SSPX consecrations remained dormant.
 (Bishop Richard Williamson, after his 2012 expulsion from the SSPX, performed consecrations of his own in the so-called "Resistance" - but these were not SSPX acts and are not relevant to the Society's canonical situation.)
 
-**February–May 2026: the question revives.** On February 2, 2026, Superior General Fr. Davide Pagliarani publicly announced that the SSPX would consecrate **four new bishops on July 1, 2026**, without papal mandate.
+**February–June 2026: the question revives.** On February 2, 2026, Superior General Fr. Davide Pagliarani publicly announced that the SSPX would consecrate **four new bishops on July 1, 2026**, without papal mandate.
 His stated rationale was the state of necessity: with only two living SSPX bishops (Fellay and de Galarreta), both near seventy, the Society's ability to provide confirmations, priestly ordinations, and episcopal succession was at risk.
 
-On May 13, 2026, the Dicastery for the Doctrine of the Faith (DDF), under Cardinal Víctor Manuel Fernández, issued a public statement reiterating that the planned consecrations would constitute "a schismatic act" carrying *latae sententiae* excommunication.
-This is the most severe public canonical characterization of a planned SSPX action since *Ecclesia Dei* in 1988.
+On May 13, 2026, the Dicastery for the Doctrine of the Faith (DDF), under Cardinal Víctor Manuel Fernández, issued a four-sentence public statement.
+Its canonical content is worth stating precisely, because it is narrower than most press accounts suggested.
+The statement cites no canon by number and does not itself use the phrase *latae sententiae*; it observes that the announced ordinations "do not have the requisite papal mandate," states that the act "will constitute 'a schismatic act' (John Paul II, *Ecclesia Dei*, no. 3)," and quotes *Ecclesia Dei* §5c, with the Pontifical Council for Legislative Texts' Explanatory Note of August 24, 1996, that "formal adherence to the schism constitutes a grave offence against God and entails the excommunication established under Church law."
+It is, formally, a restatement of the 1988 framework rather than a new juridical act; but it is also the most severe public canonical characterization of an SSPX action since *Ecclesia Dei* itself.
 
-**What this means.** Two competing canonical readings are now in tension:
+On June 29, 2026, Pope Leo XIV personally entered the canonical record: his letter to Fr. Pagliarani (published June 30) called the impending act "the schismatic act you are about to undertake," warned that it "would deprive them [the faithful] of the licit and, in some cases, even valid reception of the Sacraments," and stated: "I feel it is my duty, through the authority received from Christ, to ask you to desist from your intended act."
+This matters canonically as well as pastorally: whatever room existed in 1988 to argue about how directly John Paul II had personally and formally prohibited the act, in 2026 the prohibition is explicit, public, personal, and papal.
+
+**July 1, 2026: the act.** The consecrations took place at Écône as announced: Bishop de Galarreta, assisted by Bishop Fellay, consecrated Frs. Schreiber, Goldade, Poinsinet de Sivry, and Hanappier "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction" (General House statement, July 1, 2026).
+Each bishop-elect swore the traditional oath of fidelity to the pope during the rite; at the point where the apostolic mandate would be read, a declaration modeled on Lefebvre's 1988 reply invoked "entirely exceptional circumstances" instead.
+The two canonical readings that had been in tension before the act now collide over an accomplished fact:
 
 **1.
-The Roman reading (DDF, May 2026).** Canon 1382/1387 is in force; the announced consecrations, performed without papal mandate, would incur automatic excommunication; the act would constitute schism - that is, "the refusal of submission to the Supreme Pontiff" (Canon 751).
-On this reading, Rome's two decades of patience are not a tacit endorsement of further consecrations; they reflect that no such consecrations were attempted.
+The Roman reading.** Canon 1387 (the renumbered 1382) is in force; the consecrations, performed without papal mandate and against the pope's explicit written prohibition, incurred *latae sententiae* excommunication for the two consecrating and the four consecrated bishops at the moment of the act; and the act constitutes schism - "the refusal of submission to the Supreme Pontiff" (Canon 751) - as *Ecclesia Dei* §3 characterized the identical act in 1988.
+Cardinal Parolin stated the position on the day itself: the consecrations are "an act that is schismatic in itself" incurring "very specific sanctions," "fundamentally, excommunication."
+On this reading, Rome's two decades of patience were not a tacit endorsement of further consecrations; they reflected that no such consecrations were attempted.
 
 **2.
-The SSPX reading.** Canon 1323 §4 exempts from penalty those who act under "grave necessity."
-The Society judges the present moment - two aging bishops carrying a worldwide apostolate, a doctrinal dispute still unresolved - to constitute exactly such necessity.
-The act, on this reading, is canonically protected by the same principle that protected the 1988 consecrations.
+The SSPX reading.** Canon 1323, 4° exempts from penalty those who act by reason of necessity; Canon 1323, 7° extends the exemption to those who blamelessly believe the necessity present; and Canon 1324 §3 bars any *latae sententiae* penalty even where the belief was culpably erroneous.
+The Society judges the situation - two aging bishops carrying a worldwide apostolate, a doctrinal dispute still unresolved, no Roman provision offered for its episcopal succession - to constitute exactly the necessity the law envisions, and it stated its conclusion at the ceremony itself: "any penalties or censures imposed for this act have no value whatsoever" (Fr. Pagliarani, July 1, 2026).
+The act, on this reading, is canonically protected by the same principles the Society has invoked since 1988, set out in detail in its May 15, 2026 canonical analysis (Fr. Jean-Michel Gleize).
 
-These are the two readings now in direct collision.
-Unlike 1988, where the dispute played out over months following the act, in 2026 the canonical confrontation is occurring before the act itself.
+**Who, exactly, is affected on the Roman reading?** The penalty of Canon 1387 reaches only those who perform and receive the consecration: the two consecrators and the four consecrated.
+It does not touch SSPX priests, religious, or laity, none of whom committed the act - exactly as in 1988.
+Beyond the six, the operative category is the one the DDF statement quoted from *Ecclesia Dei* §5c: "formal adherence to the schism."
+The Pontifical Council for Legislative Texts' Explanatory Note of August 24, 1996 requires for such adherence a real interior decision for the schism together with its external manifestation; canonists commenting in 2026 (Msgr. William King: "excommunication requires conscious adherence to the denial of the pope's authority"; Fr. Pierpaolo Dal Corso, noting the 1996 clarification that the schism excommunication "does not automatically apply to those who attend SSPX celebrations") agree that the faithful who attend SSPX chapels do not incur it by attendance.
+Whether SSPX *clergy*, by continuing their ministry within the Society after July 1, could be judged to adhere formally is a live question the 1996 criteria leave open.
 
-**For your stance-formation:** The canonical question that lay dormant from 2009 to 2025 - "What happens if the SSPX consecrates new bishops without papal mandate?" - is now live.
-The answer Rome has signaled (schismatic act, automatic excommunication) is not new in substance; it is the same answer given in 1988.
-The novel question is whether, after the act, Rome will follow through with formal declarations or whether (as in much of the post-2009 period) a *de facto* tolerance will eventually reassert itself.
+**The 2026 canonical debate.** The commentary published around the consecrations divides along the same line as 1988, and it is worth recording who argues what:
 
----
+*For non-incurrence of the penalty.* Fr. Jaime Mercant Simó, a canonist and Thomist of the Diocese of Majorca with no SSPX membership, argued in February 2026 that the consecrations "would entail neither the crime nor the sin of schism," because a "perfect schism" requires both a schismatic intention and the intent to erect, with the new bishops, a jurisdiction parallel to the Church's hierarchy, and neither is present.
+An anonymous English canonist (writing as "the Canon of Shaftesbury," Rorate Caeli, May 6, 2026; republished by the Society) argued a "triple failure" in the threatened sanction: the state of necessity, the absence of schismatic intent, and the strict interpretation penal law requires (Canon 18) all cut against it, and re-imposing the very penalty Benedict XVI lifted in 2009 "is to suggest that the 2009 lifting was itself mistaken; a position no Vatican official has formally adopted."
+The American canonist Marc Balestrieri, interviewed in May 2026, noted that the imputability the penalty presumes is a *rebuttable* presumption; that Canon 1323, 7° and Canon 1324 stand ready behind the necessity claim; and that canonical schism requires the withdrawal of *submission*, not mere disobedience: "That is a high bar."
+He also recalled Cardinal Castillo Lara's observation that consecrating a bishop without mandate is "not in itself a schismatic act," and Benedict XVI's own 2009 phrasing that unauthorized episcopal ordination raises "the danger of a schism" - language that presupposes the act is not schism *simpliciter*.
 
-### Could the situation still be resolved before July 1?
+*For incurrence.* The most substantive published rebuttal of the necessity defense came not from Rome but from the traditionalist historian Roberto de Mattei (June 24, 2026), and it targets the defense at its hinge: "Who has the authority to verify the existence of such a state and to determine its beginning and end? It is evident that this assessment cannot be left to the judgment of the Society of Saint Pius X itself."
+If the necessity principle were admitted on the Society's terms, he argues, "any bishop who judged the Church to be passing through a grave crisis could feel authorized... to consecrate other bishops without a pontifical mandate."
+The canonist Cathy Caridi likewise treated 2026 as a rerun of 1988: both consecrator and consecrated "incur excommunication *latae sententiae*," and the Vatican's advance warning tracks John Paul II's 1988 warning to Lefebvre almost exactly.
+This is the Roman position as well, stated by the DDF on May 13 and by Cardinal Parolin on July 1.
 
-As of the date of this document (May 20, 2026), three scenarios remain possible:
+**What Rome has and has not done.** As of the date of this update (July 1, 2026), Rome has issued no declaratory decree.
+The contrast with 1988 is exact and instructive: the Congregation for Bishops issued its decree declaring the excommunications on July 1, 1988, the day after the act; on July 1, 2026, the day of the act, the Holy See Press Office bulletin contained no SSPX item, and Cardinal Parolin said: "I do not know the timing or the manner in which this excommunication will be imposed."
+A *latae sententiae* penalty does not depend on declaration to bind, so the absence of a decree settles nothing about the penalty itself.
+But declaration is what gives the penalty public juridical effect, and the choice of whether, when, and how to declare is now the live indicator of Leo XIV's policy.
+Cardinal Müller has proposed (June 29, 2026) an *Ecclesia Dei*-style commission "to enable those who have embraced this schismatic position to return to full communion with the pope"; Cardinal Fernández said on July 1 that dialogue remains possible "but we'll need time."
+The Francis-era confession and marriage faculties remain in force; no Roman act has touched them.
 
-1. **The consecrations proceed and Rome formally responds.** A new *Ecclesia Dei*-style declaration, naming the bishops involved as excommunicated *latae sententiae*, would be the natural canonical sequel.
-   This would constitute the most severe Roman action against the SSPX since 1988.
-
-2. **The consecrations proceed and Rome's response is muted.** Despite the DDF's May 13 statement, Rome could in practice avoid formal declarations - leaving the canonical question ambiguous, as it has been since 2009.
-
-3. **A last-minute resolution.** Pagliarani postpones the consecrations in exchange for substantive theological dialogue with Rome on the post-conciliar dispute.
-   As of mid-May 2026, the SSPX has declined this offer, but the possibility cannot be excluded.
-
-As of the date of this document, none of these scenarios can be confidently predicted.
+**For your stance-formation:** The canonical question that lay dormant from 2009 to 2025 - "What happens if the SSPX consecrates new bishops without papal mandate?" - has now been answered by events, and the answer is a repetition of 1988 on both sides: the same act, the same necessity defense, the same "schismatic act" characterization, and (so far) an even slower Roman follow-through than in 1988.
+Whether the six bishops are *really* excommunicated turns on exactly one question: whether the situation of the Church constitutes the necessity of Canon 1323, or at least grounded a belief in it of the kind Canons 1323, 7° and 1324 §3 protect - and on who is competent to judge that.
+The law's text is not in dispute; its application is.
 
 ---
 
@@ -746,11 +769,14 @@ Their confessions really absolve sin.
 Their priests are really priests offering real Sacrifice.
 The faithful are not deprived of the means of grace.
 
-**If the SSPX is not in formal schism** - and the current Roman position is that they are not - then the SSPX faithful are not separated from the Catholic Church.
+**If the SSPX is not in formal schism** - and through June 2026 the settled Roman position was that it is not, a position now under strain from the DDF's characterization of the July 1 act as schismatic - then the SSPX faithful are not separated from the Catholic Church.
 They are in irregular communion, but communion nonetheless.
 The Catholic insurance against schism - the loss of unity with Christ's Body - does not apply.
+Note the precise shape of the 2026 development: Rome's officials have called the *act* schismatic, in the very words of *Ecclesia Dei* §3; no organ of the Holy See has declared the Society as a body, or its faithful, to be in schism.
+That is also exactly where matters stood in July 1988, and the subsequent history (the 1993 Hawaii ruling, Castrillón Hoyos in 2005, the 2009 remission) walked the characterization back rather than confirming it.
 
 **If Canon 1323 may exempt the consecrations from penalty** - a serious argument, not a frivolous one - then the most basic charge against the SSPX (that they are excommunicated rebels) is at minimum disputable on canonical grounds.
+This holds for 2026 as it held for 1988: the *latae sententiae* mechanism binds automatically only if no exempting circumstance applies, and whether one applies is precisely what is disputed.
 
 **But:**
 
@@ -764,8 +790,8 @@ The Church's structure as Christ instituted it includes hierarchical communion w
 The canonical evidence underdetermines a final judgment.
 It establishes:
 - Valid sacraments.
-- No present excommunication.
-- No formal schism.
+- No declared excommunication; whether the six bishops of July 1, 2026 incurred the automatic penalty is the contested live question.
+- No declaration of schism against the Society as a body.
 - Genuine canonical irregularity.
 - Serious but contested arguments on both sides.
 
@@ -790,11 +816,11 @@ It does not tell you what to do with that.
 | 1313 §1 | Application of more favorable law | Relevant to 2021 revision of Book VI |
 | 1321 §1 | Requirement of grave imputability | Defense against penalty |
 | 1322–1330 | General principles of penalties | Framework for interpreting 1382 |
-| 1323 §4 | State of necessity exemption | Central SSPX defense for 1988 |
-| 1324 | Mitigation of penalty | Fallback defense if 1323 strictly fails |
+| 1323, 4° | State of necessity exemption | Central SSPX defense for 1988 and 2026 |
+| 1324 | Mitigation of penalty; §3 bars *latae sententiae* penalties on erroneous necessity | Fallback defense if 1323 strictly fails |
 | 1331 | Effects of excommunication | Defined penalties on the four bishops, 1988–2009 |
-| 1382 (now 1387) | Unauthorized episcopal consecration | The canon directly triggered by 1988 |
+| 1382 (now 1387) | Unauthorized episcopal consecration | The canon directly engaged by 1988 and by July 1, 2026 |
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: July 2026.*
