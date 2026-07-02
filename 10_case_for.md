@@ -330,7 +330,7 @@ The exception confirms rather than undermines the rule.
 
 **The application to 1988 and to 2026.** The SSPX argues, by analogy, that the situation of the post-conciliar Church amounts to an ecclesiastical emergency: the structures normally charged with forming traditional priests and conferring traditional sacraments are not, in the Society's reading, performing that function.
 Lefebvre's act of consecrating four bishops without papal mandate was the ecclesiastical equivalent of a bystander stopping a fire while the brigade was absent: not a usurpation of the Apostolic See but an act required by the salvation of souls.
-The same logic applies, the SSPX maintains, to the announced 2026 consecrations: when the air for the lungs (Fellay's image) ceases to be supplied through the ordinary channels, those who can breathe must breathe.
+The same logic applied, the SSPX maintains, to the 2026 consecrations: when the air for the lungs (Fellay's image) ceases to be supplied through the ordinary channels, those who can breathe must breathe.
 
 ### Lefebvre's Application
 
@@ -390,7 +390,7 @@ Speaking at Écône on June 30, 1988, immediately before laying hands on William
 
 The sermon-text formulation matters.
 Lefebvre did not pitch the act as a defiance of authority but as a *recognition of a case of necessity*, using exactly the manualist category that Fr. Paul Robinson (an SSPX priest and author of *The Realist Guide to Religion and Science*) would later draw out in the Society's 2026 exposition of the consecrations.
-The same vocabulary recurs in the SSPX's 2026 case for the planned July 1 consecrations.
+The same vocabulary ran through the SSPX's 2026 case for the July 1 consecrations, up to the rite itself: the declaration read at the point of the apostolic mandate invoked "entirely exceptional circumstances" as the ground of the act.
 
 ### The Continuing Application
 
@@ -405,6 +405,33 @@ If anything, the post-conciliar crisis has deepened in many respects:
 Under these conditions, the SSPX argues, the original justification continues to apply.
 Episcopal consecrations are continued because the state of necessity continues.
 The Society maintains its irregular position because the conditions producing that irregularity (the post-conciliar crisis, Rome's continued attachment to disputed Council teachings) have not been resolved.
+
+### The 2026 Act as the Necessity Case in Action
+
+On July 1, 2026, the Society acted on this reasoning for the second time in its history, and the shape of the act is itself part of the defender's case.
+
+The Society asked first, and asked repeatedly.
+Fr. Pagliarani wrote twice to Pope Leo XIV in 2025, requesting an audience and setting out the need to provide for the episcopal ministry, without receiving a substantive response.
+The February 2, 2026 announcement rested the decision on "the objective state of grave necessity in which souls find themselves."
+When Cardinal Fernández offered, at their February 12 meeting, "a specifically theological dialogue path" on the prior condition that the consecrations be suspended, Pagliarani declined in terms that named the difficulty: "the hand extended to open the dialogue is unfortunately accompanied by another hand already poised to impose sanctions."
+The point the defender presses is what was *not* offered: at no point in 2026, on any published account, did Rome offer the Society a bishop, a canonical structure, or any provision for its episcopal succession.
+In 1988 Rome had at least put a bishop on the table; in 2026 the choice presented was dialogue without provision, or the act.
+For a Society whose two bishops were nearing seventy, the defender argues, that is precisely the failure of the ordinary channel that the law's category of necessity exists to cover.
+
+The act itself was then performed in a form that testified against schismatic intent at every point where a schismatic act would have asserted itself.
+Each of the four bishops-elect swore, within the rite, the traditional oath of fidelity to the pope, promising to "forever be faithful and obedient" to him.
+The General House statement of the same day describes the four as consecrated "to serve as auxiliary bishops of the Society of Saint Pius X, without jurisdiction," and adds that the Society "sincerely regrets that, owing to exceptional circumstances, these consecrations had to be conferred without the authorization of the Holy Father."
+A booklet distributed to the faithful at Écône stated that the consecrations "absolutely exclude any attempt to usurp the jurisdiction of the Sovereign Pontiff."
+None of these are the gestures of a body severing communion; they are exactly the gestures the Society's canonical defense predicts.
+
+The exchange of letters that preceded the act supplied the defender's sharpest new argument.
+To Leo XIV's plea of June 29 ("please turn back!... to tear the seamless garment of Christ is a sin of extreme gravity"), Pagliarani answered in a letter dated the following day, in explicitly filial terms: "Far be it from us to separate ourselves from the Roman Church. We desire, on the contrary, to serve her by means that are extraordinary, as one would assist a mother in distress who requires particular help, even if such help is not understood by everyone."
+And he turned the history back on the charge: "in 1988 the Society was already declared schismatic, for reasons and in circumstances entirely analogous to those of today. Yet, after so many years, we are speaking together as a father and his son. Your Holiness is paternally urging me to avoid a schism which, theoretically, has already taken place. Does not Your very attitude... constitute proof that the Society is neither schismatic nor hostile to the Church?"
+The argument is dialectically serious: if the 1988 "schismatic act" had really effected a schism, the subsequent thirty-eight years (the 2009 remission, the doctrinal discussions, the sacramental faculties, and now a personal papal letter pleading with an interlocutor addressed as a son) would be unintelligible.
+Rome's own conduct since 1988, the defender concludes, has treated the first consecrations as something other than schism consummated; the 2026 consecrations, performed with the same architecture and more explicit disclaimers, ask to be read the same way.
+
+The Society did not stand alone in this reading.
+Canonists without SSPX affiliation publicly defended the applicability of Canons 1323–1324 and the absence of canonical schism in 2026: Fr. Jaime Mercant Simó of the Diocese of Majorca ("neither the crime nor the sin of schism"), an anonymous English canonist writing in May 2026, and the American canonist Marc Balestrieri. [→ §7 Part IV for the 2026 canonical debate in detail]
 
 ### The Liturgical State of Necessity
 
@@ -517,6 +544,13 @@ Rome positively confers what for decades had been disputed.
 Rome's stated position softens steadily across this period (*Summorum Pontificum* in 2007, the 2009 remission of the excommunications, the 2016 confession faculty, the 2017 marriage delegation framework), and none of these acts is conditioned on the SSPX retracting or repenting of the 1988 consecrations.
 The 1988 act, on Rome's own subsequent behavior, was apparently not as schismatic as the 1988 documents had suggested.
 
+**June–July 2026:** Even at the moment of sharpest confrontation, the pattern holds in ways the defender finds telling.
+Leo XIV's letter of June 29, for all its severity, opens by recognizing "the devotion to liturgical life, commitment to priestly formation, apostolic zeal and desire for fidelity to Tradition" in the Society; it pleads rather than decrees; and it invokes no canon and pronounces no penalty.
+When the consecrations took place on July 1, Rome did not repeat 1988: where the Congregation for Bishops had issued its declaratory decree of excommunication the day after the 1988 consecrations, the Holy See issued nothing on the day of the 2026 act, and Cardinal Parolin said he did not know "the timing or the manner in which this excommunication will be imposed."
+Cardinal Fernández spoke the same day of dialogue resuming in the future ("we hope in future... it'll be possible. I'm sure, but we'll need time"), and Cardinal Müller had proposed, two days before, an *Ecclesia Dei*-style commission for reconciliation.
+The defender does not claim Rome has accepted the consecrations; it plainly has not.
+The claim is narrower: even now, Roman conduct treats the Society as a Catholic body to be reconciled rather than a sect to be expelled, which is the trajectory the previous four decades traced.
+
 This is not a story of an embattled rebel group versus a steady Roman authority.
 It is a story of Rome itself, over four decades, progressively normalizing the situation of the SSPX: vindicating the SSPX's liturgical claims, abandoning the schism language, lifting the penalties, granting the faculties.
 
@@ -605,7 +639,7 @@ On appeal, the Congregation for the Doctrine of the Faith under Cardinal Ratzing
 The following year, Cardinal Edward Cassidy, president of the Pontifical Council for Promoting Christian Unity, declined to treat the SSPX as an ecumenical matter at all, writing (May 3, 1994) that the situation of the Society is an "internal affair of the Catholic Church."
 Rome's own dicasteries, asked directly, treated adherence to the SSPX as something other than schism.
 
-The 2026 revival of the schism charge (most prominently in Cardinal Víctor Manuel Fernández's May 13, 2026 DDF statement and Cardinal Gerhard Müller's 2026 *Communio* interview) turns on the *Lumen Gentium* §21 reading on which episcopal consecration *intrinsically* confers a share in the office of governing the Church.
+The 2026 revival of the schism charge (in Cardinal Víctor Manuel Fernández's May 13, 2026 DDF statement, in Cardinal Gerhard Müller's 2026 *Communio* interview, and at the highest level in Pope Leo XIV's June 29, 2026 letter, which called the impending consecrations "the schismatic act you are about to undertake") turns on the *Lumen Gentium* §21 reading on which episcopal consecration *intrinsically* confers a share in the office of governing the Church.
 On that reading, consecrating bishops without papal mandate is, *as such*, an attempt to confer what only the pope can give, and is therefore intrinsically schismatic.
 The SSPX's structural response rests on the perennial canonical distinction the §21 reading collapses: the Church possesses *two* distinct hierarchies, orders and jurisdiction, and only the conferral of *jurisdiction* (which the SSPX has never claimed for its bishops) would constitute the schismatic act. [→ §5 Part I, "*Lumen Gentium* §21 and the Conflation of Order and Jurisdiction"; §7 Canon Law, the perennial order/jurisdiction distinction.]
 
@@ -634,8 +668,8 @@ John Paul II's September 26, 2001 ecumenical-celebration address in Yerevan ackn
 The Dicastery for Promoting Christian Unity's 2024 study document *The Bishop of Rome* explicitly proposes "re-reception" of Vatican I in light of Vatican II, frames the *Pastor Aeternus* definitions as a "significant obstacle" for ecumenism, and recommends reframing Roman primacy "not so much as a universal power in a universal Church as an authority in service to the communion between the Churches." [→ §5 Part III.]
 
 The structural inversion is the SSPX's point.
-The Society's planned July 1, 2026 consecrations claim *less* than what Rome already ratifies in the CPA case, recognizes in the Anglican case, and codifies in the Orthodox case.
-The four new bishops are to be consecrated as auxiliaries, and no jurisdiction is claimed: the General House's communiqué of May 26, 2026 states that the consecrations "do not proceed from any desire to claim a power of jurisdiction" and "in no way do they constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the Roman Pontiff.
+The Society's July 1, 2026 consecrations claimed *less* than what Rome already ratifies in the CPA case, recognizes in the Anglican case, and codifies in the Orthodox case.
+The four new bishops were consecrated as auxiliaries "without jurisdiction" (General House statement, July 1, 2026): the General House's communiqué of May 26, 2026 had already stated that the consecrations "do not proceed from any desire to claim a power of jurisdiction" and "in no way do they constitute a denial of, refusal of, or challenge to the supreme, full, and immediate power of jurisdiction" of the Roman Pontiff.
 The charge that the SSPX consecrations are *intrinsically* schismatic therefore cannot be wielded coherently while the three categories above are simultaneously treated as ecumenical partners.
 Either schism in the pre-1988 sense still has operative content, in which case the CPA, Anglican, and Orthodox cases are the urgent ones; or it does not, in which case the 2026 charge against the SSPX is reaching for a category Rome itself has effectively abandoned in its lived practice.
 The Society's answer to Cardinal Fernández's May 13, 2026 DDF statement therefore rests not on a denial of the term *schism* but on the observation that Rome's own current practice has emptied the term of its 1951 canonical content.
@@ -657,7 +691,7 @@ Two years later, after Paul VI's death on August 6, 1978, Domínguez would decla
 The act was schismatic in fact: a parallel hierarchy, severance of communion, eventual antipapal claim.
 The Vatican response: ***Decree concerning certain unlawful priestly and episcopal ordinations*** of September 17, 1976, issued by the Congregation for the Doctrine of the Faith under Cardinal Franjo Šeper with a special mandate from Pope Paul VI.
 **The CDF decree invokes 1917 CIC Canons 2370 and 2373 only; it does not use the word "schism."** It treats Thục's act as the misuse of episcopal orders the 1917 / 1951 canonical apparatus was specifically designed to penalize, not as a schismatic act in itself.
-The structural significance of this for the SSPX argument is direct: if even Thục's consecrations, embedded in a sect that would two years later elect its own pope and consecrate scores of further bishops, were not formally characterized as schism by the CDF's own juridical response, then the 2026 charge against the SSPX, whose architecture *explicitly preserves communion* (auxiliary bishops only; no jurisdiction claimed; an episcopate its leadership says is to be laid down before the pope at the crisis's end), cannot rest on the act of consecration in itself.
+The structural significance of this for the SSPX argument is direct: if even Thục's consecrations, embedded in a sect that would two years later elect its own pope and consecrate scores of further bishops, were not formally characterized as schism by the CDF's own juridical response, then the 2026 charge against the SSPX, whose architecture *explicitly preserves communion* (auxiliary bishops only; no jurisdiction claimed; an oath of fidelity to the pope sworn by each bishop within the consecration rite itself), cannot rest on the act of consecration in itself.
 
 *Cardinal Josyf Slipyj (1977).* The most directly analogous historical precedent is Cardinal **Josyf Slipyj**, Major Archbishop of the Ukrainian Greek Catholic Church and an authoritative confessor-of-the-faith figure of his era.
 The biographical arc is essential.
@@ -677,7 +711,7 @@ Slipyj's cause for canonization is open in Rome.
 Jaroslav Pelikan, in *Confessor Between East and West: A Portrait of Ukrainian Cardinal Josyf Slipyj* (Eerdmans, 1990), records Slipyj's anguished judgment that the Roman Curia was causing him and the Ukrainian Catholic Church more trouble than the Soviet atheists had.
 
 *The SSPX as the fourth case.* The Society's posture is structurally closest to Slipyj's, and the gap from the CPA and Palmar de Troya cases is correspondingly wide.
-Like Slipyj, the SSPX (a) is responding to a perceived existential threat to the preservation of an integral Catholic patrimony (in Slipyj's case the Ukrainian Greek Catholic Church; in the SSPX's case the Roman Catholic priesthood of immemorial tradition), (b) consecrates auxiliary bishops, not territorial bishops, (c) explicitly disclaims the conferral of jurisdiction on the consecrated bishops, (d) frames the consecrated bishops as a reserve hierarchy that claims no jurisdiction and affirms the pope's supreme power to give it (the May 26, 2026 communiqué's disclaimers), (e) has engaged in years of patient and respectful petition to Rome before acting (Slipyj's 1969 petition to be elevated patriarch; the SSPX's doctrinal dialogue with Rome since 2009 and its petition for a meeting with Leo XIV), and (f) maintains a deliberately *minimal* episcopate: four consecrations in 1988, no replacements through 2026 (Tissier de Mallerais died October 8, 2024; Williamson was expelled in 2012 and died January 29, 2025), four to be added July 1, 2026, well below the apostolate's actual operational need [→ §1 Overview for SSPX scale].
+Like Slipyj, the SSPX (a) is responding to a perceived existential threat to the preservation of an integral Catholic patrimony (in Slipyj's case the Ukrainian Greek Catholic Church; in the SSPX's case the Roman Catholic priesthood of immemorial tradition), (b) consecrates auxiliary bishops, not territorial bishops, (c) explicitly disclaims the conferral of jurisdiction on the consecrated bishops, (d) frames the consecrated bishops as a reserve hierarchy that claims no jurisdiction and affirms the pope's supreme power to give it (the May 26, 2026 communiqué's disclaimers), (e) has engaged in years of patient and respectful petition to Rome before acting (Slipyj's 1969 petition to be elevated patriarch; the SSPX's doctrinal dialogue with Rome since 2009 and its petition for a meeting with Leo XIV), and (f) maintains a deliberately *minimal* episcopate: four consecrations in 1988, no replacements through 2026 (Tissier de Mallerais died October 8, 2024; Williamson was expelled in 2012 and died January 29, 2025), four added July 1, 2026, well below the apostolate's actual operational need [→ §1 Overview for SSPX scale].
 The structural conclusion: if Slipyj's 1977 consecrations did not constitute schism (and Rome's subsequent practice, culminating in Husar's 2001 cardinalate and the open canonization cause, has positively vindicated his judgment), then the SSPX's 2026 consecrations, which mirror Slipyj's act in every load-bearing structural respect while adding nothing the SSPX does not believe is required by the salvation of souls, likewise do not constitute schism.
 
 The further structural marker: the SSPX is asking through normal channels even in an extraordinary circumstance.
@@ -728,7 +762,7 @@ The Society identifies three concrete categories of command which, on the perenn
 The SSPX locates its corporate posture squarely in category (2).
 The Society does not deny the pope's office, the legitimacy of his jurisdiction, or his authority in principle.
 It refuses to comply with the structural arrangement that would deprive the faithful, in large parts of the world, of the ordinary means of holiness to which Canon 213 entitles them.
-The 1988 consecrations and the announced 2026 consecrations are the minimum institutional action required to ensure those means remain available: not an act of resistance to legitimate authority but an act of fidelity to what authority itself, on the perennial Catholic understanding, exists to provide.
+The 1988 consecrations and the 2026 consecrations are the minimum institutional action required to ensure those means remain available: not an act of resistance to legitimate authority but an act of fidelity to what authority itself, on the perennial Catholic understanding, exists to provide.
 
 ### "The SSPX puts its own judgment above the Church's."
 
@@ -790,7 +824,7 @@ The Society consecrates the *minimum* number of bishops necessary to ensure cont
 It maintains an auxiliary episcopate; it does not establish a territorial one.
 It does not assert jurisdiction over any diocese; it does not claim canonical mission from any local Ordinary; it does not declare any See to be vacant.
 Fr. Sherry (District Superior of Great Britain, in the SSPX's *The Episcopal Consecrations* podcast series, episode 4, 2026) has been explicit about the internal check: were Fr. Pagliarani to announce tomorrow that every priest in the Society would be consecrated bishop, or that the Society would name an Archbishop of Westminster in rivalry to the Roman appointee, both would be, on the Society's own internal criteria, illegitimate, because both would exceed the minimum the necessity requires.
-The four bishops to be consecrated July 1, 2026 are auxiliaries who claim no jurisdiction: as the General House communiqué of May 26, 2026 states (quoted in full in the schism section above), the consecrations claim no power of jurisdiction and in no way challenge the pope's supreme, full, and immediate jurisdiction.
+The four bishops consecrated July 1, 2026 are auxiliaries who claim no jurisdiction: as the General House communiqué of May 26, 2026 states (quoted in full in the schism section above), the consecrations claim no power of jurisdiction and in no way challenge the pope's supreme, full, and immediate jurisdiction, and the July 1 statement describes the four simply as "auxiliary bishops of the Society of Saint Pius X, without jurisdiction."
 This is the *opposite* posture of the body the 1951 decree was designed to address: not the *severing* of communion with Rome but its *preservation in attenuated form*, awaiting the restoration of ordinary governance.
 
 ---
@@ -850,4 +884,4 @@ That is for §11.
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
