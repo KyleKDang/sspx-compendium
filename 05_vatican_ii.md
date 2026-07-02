@@ -510,7 +510,7 @@ On the authority of Orthodox bishops over Orthodox faithful - the load-bearing p
 [Vatican.va - Christian Unity dicastery archive](https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-lingua-inglese.html)
 
 The §29 formulation is the Catholic-side concession that Orthodox bishops, by ordination alone and without papal mandate or canonical mission from Rome, hold a "duty before God" - that is, an authority from God - over Orthodox faithful in territories that overlap Catholic dioceses.
-The 2026 SSPX argument [→ §10 Part VIII] is that this is precisely the concession the SSPX needs only a fraction of: the Society does not claim that its four bishops to be consecrated July 1, 2026 hold jurisdiction over any faithful at all; it claims only the orders, on the perennial division of order from jurisdiction that *Lumen Gentium* §21 reopened [→ §5 Part I; §7].
+The 2026 SSPX argument [→ §10 Part VIII] is that this is precisely the concession the SSPX needs only a fraction of: the Society does not claim that the four bishops it consecrated on July 1, 2026 hold jurisdiction over any faithful at all; it claims only the orders, on the perennial division of order from jurisdiction that *Lumen Gentium* §21 reopened [→ §5 Part I; §7].
 
 **John Paul II, *Ut Unum Sint* (May 25, 1995).** The encyclical devoted to ecumenism.
 On the framework of "Sister Churches" - adopting verbatim a 1971 address of Paul VI to Patriarch Athenagoras:
